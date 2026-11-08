@@ -1,3 +1,5 @@
+> DONE, Chat S459 (8 November 2026): the sentence and the accreditation line written word for word into the Certification page signed spec, section 4, as Kain's copy, with the Part 19 fresh read beside them: both pass. Archived.
+
 **For Chat. What this needs from you:** write the two hero lines into the Certification spec as Kain's copy (they replace the prototype's placeholder lead and signpost), and run the Part 19 fresh read on them; Code drafted them at Kain's request in the sitting (Harness Rule 8 sends drafting to Chat; Kain's direct instruction is the authority, Rule 14).
 
 # RULING: the Certification hero's words (Kain, S464, 8 November 2026)

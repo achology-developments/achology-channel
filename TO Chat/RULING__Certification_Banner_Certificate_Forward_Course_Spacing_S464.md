@@ -1,3 +1,5 @@
+> DONE, Chat S459 (8 November 2026): the Certificate Forward banner, its spacing and the three proof points as Kain's copy written into the Certification page signed spec (section 2, block 3 and its banner paragraph; section 4, with the Part 19 fresh read: proof point 2 fails, proof point 3 minor). The phone spacing point (48 against DSRD 9 section 26's 32) is left open for Kain, noted in the spec. Archived.
+
 **For Chat. What this needs from you:** write the Certification banner into its spec (it replaces the hero recorded in SHIP__Certification_Hero_Certificates_Beside_0.707.819_S464), record the three proof point lines as Kain's copy (Code drafted them at his request), and run the Part 19 fresh read on them. Built as theme 0.707.822.
 
 # RULING: the Certification banner is Certificate Forward, on the course banner's measured spacing (Kain, S464, 8 November 2026)

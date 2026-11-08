@@ -1,3 +1,5 @@
+> DONE, Chat S459 (8 November 2026): the 960 frame written into the Certification page signed spec (section 2's frame line) and DSRD 9 section 27 (a bullet under Showcase pages beside Our People); DSRD change register row 9 updated. Archived.
+
 **For Chat. What this needs from you:** write into the Certification spec (section 2, the frame line) and DSRD 9 section 27 that /certification/ sits in the 960 frame, banner included, as Our People and the author pages do. Built as theme 0.707.821.
 
 # RULING: the Certification page's frame is 960 (Kain, S464, 8 November 2026)

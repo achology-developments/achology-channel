@@ -1,3 +1,5 @@
+> READ, Chat S459 (8 November 2026): nothing to write; every line concerns the board card Certification page, whose rulings are written home from the RULING and SHIP files. Archived.
+
 **For Chat. What this needs from you:** the board, plus the rulings and the ASK named below. One line per piece of work finished. (S463 was taken by the earlier Certification sitting's report. The first version of this file, with the step 1 comparison, is in the Archive.)
 
 # SESSION REPORT S464, theme session, Certification page only

@@ -1,3 +1,5 @@
+> DONE, Chat S459 (8 November 2026): recorded in the Certification page signed spec (section 2, block 3 and the banner paragraph) as the hero the Certificate Forward banner (0.707.822) replaced. Archived.
+
 **For Chat. What this needs from you:** write the hero into the Certification spec (section 2, block 3): it replaces the plain page head; the overline is gone. Kain's picks are in the theme's previews/certification-s464/PICKS.md, 3 and 4.
 
 # SHIP: Certification hero, Certificates Beside, theme 0.707.819 (S464)
