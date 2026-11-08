@@ -36,7 +36,7 @@ The vault's content gate prints these on every one of the 33 records, and none i
 
 ## What Chat knows and has not done
 
-- **The diagrams are not drawn.** Each record's Drafting notes carry the diagram's brief and its alt text (125 characters or fewer), and the Learn page 2 shows a `> **[Diagram: ...]**` line where the diagram goes. Draw nothing. In the DONE, say for each built document whether the build tool shows that line as a labelled space, so Chat can brief the design step.
+- **The diagrams are drawn by the build tool** (8 November 2026): the bracketed marker line is out of every body, and each of the 33 records now carries a `## Diagram` section in the diagram tool's field form (an approved shape, labels in the lesson's own words, and its alt text), which `build_workbook.py` draws and places on Learn page 2. Build with the tool as it now stands. Confirm in the DONE that every built document shows its drawing and none shows "[Diagram".
 - **References are encyclopaedia, catalogue and organisation pages** in many records, because primary NLP texts could not be opened live; each record's Drafting notes list what is owed. They are real pages opened on 5 November 2026; none is a shop.
 - **Read the DONE's line on "holds":** no built workbook or page may show the banned word "hold", "holds", "held" or "holding"; the records were checked, and the DONE should confirm none shows.
 
