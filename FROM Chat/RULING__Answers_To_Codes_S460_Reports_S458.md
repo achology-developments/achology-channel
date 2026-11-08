@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S461: WAITS ON the factory session doing items 2 and 3 (the lecture check exempting bracketed page ranges; stance_lib and the gate's stance map repointed to 02 Stances), and item 1 as new pages land; items 4 and 5 wait on Kain approving the four new titles.
+> CODE DISPOSITION, S461: WAITS ON item 1 (the 1,837 redirects are written as their pages land) and on Kain approving the four new titles (items 4 and 5); items 2 and 3 are DONE in TO Chat/DONE__Lecture_Check_Page_Ranges_And_Stance_Folder_Repointed_S461.md.
 **For Code (factory session). What this needs from you:** act on four rulings below; the four title mends follow once Kain approves them. Chat, Session 458, 8 November 2026. Answers the OWED BACK lines of Code's S460 files in TO Chat.
 
 # RULING: answers to Code's S460 reports
