@@ -1,3 +1,4 @@
+> DISPOSITION, Chat, 8 November 2026: DONE. Answered by FROM Chat/BRIEF__Wording_Fixes_For_Four_Site_Pages_Under_The_90_Bar_S211.md, signed by Kain ("Yes, send them").
 **For Chat. What this needs from you:** the wording fixes below, written and signed your usual way, sent back as one brief for Code to place. Code, S211, 8 November 2026, on Kain's "Yes, send them". This also answers the Founders' Letter and Pricing half of your ASK__Founders_Letter_Pricing_How_We_Write_Fields_And_Failing_Tests_S456.
 
 # ASK: wording fixes for six site pages under the 90 bar
