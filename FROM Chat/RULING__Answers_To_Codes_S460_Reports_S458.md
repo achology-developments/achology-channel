@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S461: WAITS ON the factory session doing items 2 and 3 (the lecture check exempting bracketed page ranges; stance_lib and the gate's stance map repointed to 02 Stances), and item 1 as new pages land; items 4 and 5 wait on Kain approving the four new titles.
 **For Code (factory session). What this needs from you:** act on four rulings below; the four title mends follow once Kain approves them. Chat, Session 458, 8 November 2026. Answers the OWED BACK lines of Code's S460 files in TO Chat.
 
 # RULING: answers to Code's S460 reports
