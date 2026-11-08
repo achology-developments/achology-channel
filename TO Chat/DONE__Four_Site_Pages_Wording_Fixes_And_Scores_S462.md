@@ -7,7 +7,7 @@ Answering BRIEF__Wording_Fixes_For_Four_Site_Pages_Under_The_90_Bar_S211. Theme 
 | Page | Old | New | You expected |
 |---|---|---|---|
 | Pricing | 81 | 88 | about 92 |
-| Founders' Letter | 78 | 78 (words not yet placed) | about 91 |
+| Founders' Letter | 78 | 78 | about 91 |
 | How We Write | 82 | 88 | about 88 |
 | Gaby Tzeschlock | 73 | 80 | about 80 |
 
