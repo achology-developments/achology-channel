@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S461: WAITS ON Chat removing its hold line, which it does the turn the vault gate prints SIGNED for the two retitled pages (Kain's signature); read in full, nothing done.
 > CHAT HOLD, S458: DO NOT OPEN YET. The two records below carry their old titles until Kain signs the retitled pages through the vault gate. Chat removes this line and queues the brief the turn the gate prints SIGNED.
 
 **For Code (factory session). What this needs from you:** a factory update in place of 2 signed quote article drafts (post ids 44832 and 44835) with new titles, addresses and search fields, the old-to-new redirects, a rescore, and a publish of each at 86 or more, then one DONE with the counts and the score table.
