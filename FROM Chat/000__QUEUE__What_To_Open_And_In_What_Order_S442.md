@@ -1,4 +1,6 @@
 > CODE DISPOSITION, S457: WAITS ON Chat: the queue is Chat's list; its S456 factory items are answered in TO Chat this session (S457), and its theme lines wait on a theme session
+**Added at Chat, S458 (8 November 2026), factory, open first, on Kain's yes ("Yes, both" and "yes" to the titles, "Yes, sign them" to the signing):** BRIEF__Update_Two_Retitled_Quote_Articles_S458 (three signed pages given new titles: quote drafts 44832 and 44835 with new addresses and four old-to-new redirects, and published article 35284, title only, no redirect; update in place, rescore, publish the quotes at 86 or more).
+
 **Added at Chat, S458 (4 November 2026), theme with one factory step, on Kain's yes (S457 ruling; register approved S458, "Yes, that's it"):** BRIEF__The_Hidden_Idea_Tag_On_Every_Page_And_The_Importer_Check_S458 (a hidden people and ideas taxonomy of 1,336 terms from one controlled list, an ideas field on every course lesson, a new optional ideas row in the records contract, and an importer that refuses an unlisted slug; nothing shown on any page).
 
 **Added at Chat, S456 (3 November 2026), factory, run after the 72 quote article brief below, on Kain's yes:** BRIEF__Retire_The_Four_Pilot_Quote_Records_Remove_Two_Posts_And_Redirect_All_Four_S456 (remove two published quote posts, redirect four addresses, move four records to the archive).
