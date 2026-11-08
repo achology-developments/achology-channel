@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S462: WAITS ON a factory session (workbook build tool work; read by the Certification and Accreditation theme session, which touches none of it).
 **For Code (factory session, the workbook build tool). What this needs from you:** change `build_workbook.py` so workbook pages fill properly, with no part stranded on a near-empty sheet, prove it on three Mindset Mastery workbooks, and send Chat the three PDFs. Open this first, before BRIEF__Build the 33 Mindset Mastery workbooks (whose document build is on hold for this). Chat, Session 458, 8 November 2026.
 
 # BRIEF: the workbook build tool fills its pages
