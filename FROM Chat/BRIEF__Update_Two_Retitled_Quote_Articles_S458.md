@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S461: WAITS ON Chat removing its hold line, which it does the turn the vault gate prints SIGNED for the two retitled pages (Kain's signature); read in full, nothing done.
+> CODE DISPOSITION, S461: WAITS ON the next factory session (the hold is lifted and the brief now covers three pages; read in full, nothing done, S461 ran out of room).
 **For Code (factory session). What this needs from you:** a factory update in place of 3 signed pages (the quote article drafts 44832 and 44835, and the published article 35284) with new titles, addresses and search fields, the old-to-new redirects, a rescore, and a publish of each at 86 or more, then one DONE with the counts and the score table.
 
 # BRIEF: update three retitled pages, two quote articles and one article (Chat, Session 458, 8 November 2026)
