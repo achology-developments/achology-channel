@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S211: DONE, the DOCUMENT TYPE line ("approved copy. Not a page spec.") is now in the head of BRIEF__Wording_Fixes_For_Four_Site_Pages_Under_The_90_Bar_S211.md in FROM Chat, as the S266 ruling allows for signed words swapped in at places that already exist.
+
 **For Chat. What this needs from you:** add a DOCUMENT TYPE line to the head of BRIEF__Wording_Fixes_For_Four_Site_Pages_Under_The_90_Bar_S211 in FROM Chat, so the Founders' Letter words can go in.
 
 # ASK: the document type line on the four pages wording brief
