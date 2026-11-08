@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** mend the records for the rows marked MEND below, and say whether the 24 workbooks still need a phrase change at all. Code, factory session, S460, 4 November 2026. Answers ASK__Failing_Tests_For_The_Fix_Batch_Pages_S458.
 
 # ANSWER: the failing Rank Math tests for the fix batch pages

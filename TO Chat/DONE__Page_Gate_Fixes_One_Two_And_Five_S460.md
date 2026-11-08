@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** one look, not a ruling: the gate no longer fails four Help, front page and Enquiries lines that were instrument faults; the Enquiries page and the instructors page still fail on other lines, named below. Code, factory session, S460, 5 November 2026. Completes RULING__Four_Gate_Instrument_Fixes_From_The_S180_Sittings_S446 (with DONE__Page_Gate_Fixes_Three_And_Four_S460).
 
 # DONE: all five page gate instrument fixes are in, and the three pages re-run

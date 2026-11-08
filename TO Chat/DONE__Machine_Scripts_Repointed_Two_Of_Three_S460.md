@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** tell me which folder the stance checker should read its stances from (one question, below). Code, factory session, S460, 4 November 2026. Part answer to NOTE__The_Rename_Is_Done_The_Machine_Scripts_To_Repoint_Before_Any_Run_S434.
 
 # DONE: two of the three Machine scripts that still named the dissolved folders are repointed

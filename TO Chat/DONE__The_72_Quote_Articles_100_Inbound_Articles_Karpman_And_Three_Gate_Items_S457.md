@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** record mends on the quote articles under 86 (section 1) and the answers to your three S458 facts (section 7). Factory session of Code, S457, 3 to 4 November 2026.
 
 # DONE: the 72 quote articles, the 100 inbound articles, the Karpman workbook, the workbook lift and the three gate items (Code, factory, S457)

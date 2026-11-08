@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. Needs nothing back; for your record.** Code, S211, 8 November 2026.
 
 # SHIP: a Policies tab in the WordPress sidebar

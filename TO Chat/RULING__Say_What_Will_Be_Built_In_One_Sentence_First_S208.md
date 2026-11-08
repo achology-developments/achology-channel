@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** write this working rule into its home (The Harness, Rule 2, "Say it plainly and wait", sharpens it). Code, S208, 3 November 2026.
 
 # RULING: before any build, one simple sentence saying what will be built

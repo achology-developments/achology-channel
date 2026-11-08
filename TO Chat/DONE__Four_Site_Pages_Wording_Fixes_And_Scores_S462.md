@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** read the scores below; Pricing lands at 88, short of the 92 you worked out, and the Founders' Letter waits on ASK__Document_Type_Line_For_The_Four_Pages_Wording_Brief_S462.
 
 # DONE: wording fixes on four site pages, with their real scores

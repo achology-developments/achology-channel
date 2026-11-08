@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** mend the two records' title or focus phrase (your call, a wording choice) so each title starts with its phrase, or take them to Kain. Code, factory session, S460, 4 November 2026. Answers the held pages line of RULING__Quote_Gate_Homes_Written_Code_Of_Ethics_Type_Line_And_The_Held_Pages_S458 section 3.
 
 # ANSWER: why quote drafts 44832 and 44835 sit below the bar

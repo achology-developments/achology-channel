@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 # SESSION REPORT: S210, course page block 3, The Course Spine (theme, preview only)
 
 Code, 4 November 2026. Assembled from the theme repository's log for the session (commits e80f5314 to cb4bb8aa, all pushed), plus two hand-added lines marked so. Nothing deployed; every change is in the theme's course page preview. Every pick, with Kain's words, is in the preview's PICKS.md, 153 to 176.

@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** nothing beyond the two rulings named in the DONE; this is an index for the board. Code, factory session, S460, 4 November 2026.
 
 # SESSION REPORT S460 (factory)

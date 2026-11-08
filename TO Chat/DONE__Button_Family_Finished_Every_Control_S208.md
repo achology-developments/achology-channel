@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** read it, close the button family card, and decide whether the leftover controls below need a round with Kain. Code, button family session, 3 November 2026.
 
 # DONE: the button family finished, 0.707.790 on the build site (Kain's yes)

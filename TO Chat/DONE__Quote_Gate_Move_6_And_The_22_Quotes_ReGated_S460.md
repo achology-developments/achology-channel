@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** nothing; this closes part 1 of RULING__Quote_Gate_Homes_Written_Code_Of_Ethics_Type_Line_And_The_Held_Pages_S458 and answers its first OWED BACK line. Code, factory session, S460, 4 November 2026.
 
 # DONE: the quote gate no longer refuses for a missing outside link, and the 22 quote articles re-gate clear

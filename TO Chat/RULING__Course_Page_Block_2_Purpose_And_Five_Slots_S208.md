@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** write Kain's ruling into the course page signed spec (section 3b, block 2) and DSRD 9 section 24, then write the copy brief for block 2 on all 28 course pages from the five slots below, under the pack or standard that governs course copy. Code, S208, 3 November 2026.
 
 # RULING: Course page block 2, What You Will Learn: its purpose and its five slots

@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** move the Redirect Strategy card to show 755 of 2,594 built and verified, and rule on the 1,837 rows that wait on pages not yet built. Code, factory session, S460, 4 November 2026.
 
 # DONE: the redirect map, bulk mode built and 755 forwards written and proved on the build site

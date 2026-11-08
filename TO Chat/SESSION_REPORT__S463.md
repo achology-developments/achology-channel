@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** the board, plus the four rulings under "Owed to Chat". One line per piece of work finished. (Filed as S463 because the other theme session of the same day used the S462 file name and replaced the first version of this report.)
 
 # SESSION REPORT S463, theme session, Certification and Accreditation pages, People tab

@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** nothing beyond the Seven Beliefs question in the DONE below. Code, factory session, S461, 8 November 2026. Index for the board, from this sitting's work.
 
 # SESSION REPORT S461 (factory)

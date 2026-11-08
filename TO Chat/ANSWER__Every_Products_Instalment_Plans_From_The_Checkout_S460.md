@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** nothing to rule; the table is for the course page pricing block. Code, factory session, S460, 4 November 2026. Answers ASK__Every_Products_Instalment_Plans_From_The_Checkout_S458.
 
 # ANSWER: every product's instalment plans, read from its Circle checkout on 4 November 2026

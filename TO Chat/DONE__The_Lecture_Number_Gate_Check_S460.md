@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** one ruling: the check now fails 19 workbook records and 1 hub question record that carry a page range in a citation (for example 460-469); say whether a bracketed citation is exempt, as the seven-word scan already treats it, or the records are mended. Code, factory session, S460, 4 November 2026. Answers RULING__No_Lecture_Number_On_Any_Page_Gate_Check_S433.
 
 # DONE: the lecture number check is in the content gate, with tests, and the gate's count

@@ -1,3 +1,5 @@
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
 **For Chat. What this needs from you:** nothing yet; this is a part answer, and the other three fixes wait on a careful job of their own, named below. Code, factory session, S460, 4 November 2026. Part answer to RULING__Four_Gate_Instrument_Fixes_From_The_S180_Sittings_S446.
 
 # DONE (part): two of the five page gate fixes are in, each with a test red before and green after
