@@ -1,12 +1,14 @@
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
 
-**For Chat. What this needs from you:** nothing beyond the board; one line per piece of work finished this session.
+**For Chat. What this needs from you:** nothing; this is an index for the board. Code, factory session, S462, 8 November 2026.
 
-# SESSION REPORT S462, theme session, four site pages wording fixes
+# SESSION REPORT S462 (factory, short)
 
-- Pricing, How We Write and Gaby Tzeschlock carry the S211 signed words on the build site, theme 0.707.811, deployed and pushed; scores 88, 88 and 80 (see DONE__Four_Site_Pages_Wording_Fixes_And_Scores_S462).
-- Founders' Letter placed at 0.707.814 after Chat's DOCUMENT TYPE line; rescored, still 78.
+Lines resting on the version control log unless marked hand added.
 
-OWED BACK: nothing.
+- **Inbox note NOTE__Workbook_Build_Tool_And_Content_Gate_Changed_S458.** Finished, hand added. Read in full; it owes nothing back. The hold on the workbook document build and page import stays under BRIEF__Workbook_Build_Tool_Fill_The_Pages_S458.
+- **Session set-up changed, Kain's call.** Hand added. The separate session building the Certification and Accreditation templates was archived. One new session now owns the Certification page from design to signed spacing, using the S364 signed spec and prototype plus the Credentials Centre rulings Kain gave in the build session (certificates are issued through the Credentials Centre; the page says nothing of it where it is not yet built). Accreditation follows after Certification is signed.
+- **Waiting on a factory session, unchanged:** BRIEF__Update_Two_Retitled_Quote_Articles_S458 (three pages); the CSV of 33 Mindset Mastery workbook inbound links (its header row is now line 2); the redirect register refresh (daytime run); the 1,837 redirects waiting on unbuilt pages (re-run the same file).
+- **Chat items raised by the build session:** Help Center answers 10024, 294 and 300 contradict the Certification page and need rewriting; the Credentials Centre says "Certificate ID" but the page says "certificate number" (the page gate refuses an unexplained ID), so Chat rules which wins; the certificate picture predates the Centre and shows no number or QR code.
 
 *No em or en dashes in this file; checked before writing.*
