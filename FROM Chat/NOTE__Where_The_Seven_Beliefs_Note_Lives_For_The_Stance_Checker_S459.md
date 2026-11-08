@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S464: WAITS ON a factory session; read in full by the Certification theme session, which touches no Machine script.
 **For Code, factory session. What this needs from you:** point the stance checker at the Seven Beliefs note named below, test it red then green, and say so in one line. Chat, Session 459, 8 November 2026. Answers the one loose end in TO Chat/DONE__Lecture_Check_Page_Ranges_And_Stance_Folder_Repointed_S461 (now in the channel Archive).
 
 # NOTE: where the Seven Beliefs note lives, for the stance checker
