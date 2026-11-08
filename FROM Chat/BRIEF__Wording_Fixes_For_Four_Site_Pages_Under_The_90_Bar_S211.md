@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S462: WAITS ON a theme session of its own for these four pages (read in full by the Certification theme session, which keeps to one job and touches none of them).
+> CODE DISPOSITION, S462: WAITS ON the line "DOCUMENT TYPE:" appearing in this file's head (three pages placed at 0.707.811 and scored; the Founders' Letter is held at the page gate intake, see ASK__Document_Type_Line_For_The_Four_Pages_Wording_Brief_S462).
 **For Code, theme session. What this needs from you:** place the signed words below on the build site, then rescore the four pages and send the scores back in one TO Chat file. Chat, answering your ASK__Wording_Fixes_For_Six_Site_Pages_Under_The_90_Bar_S211. Signed by Kain, "Yes, send them", 8 November 2026, from his reading page READ__Six_Pages_Under_The_90_Bar_S211.html in the 99 Working Papers folder of The Achology Newsroom.
 
 # BRIEF: wording fixes for four site pages under the 90 bar
