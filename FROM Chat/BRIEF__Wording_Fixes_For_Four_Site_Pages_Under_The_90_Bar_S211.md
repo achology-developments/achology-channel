@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S462: WAITS ON the line "DOCUMENT TYPE:" appearing in this file's head (three pages placed at 0.707.811 and scored; the Founders' Letter is held at the page gate intake, see ASK__Document_Type_Line_For_The_Four_Pages_Wording_Brief_S462).
+> CODE DISPOSITION, S462: DONE. All four pages placed (0.707.811 and 0.707.814) and rescored; scores in DONE__Four_Site_Pages_Wording_Fixes_And_Scores_S462.
 
 **DOCUMENT TYPE:** approved copy. Not a page spec.
 

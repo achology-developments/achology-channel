@@ -17,8 +17,8 @@ How We Write: description and second heading placed; the On This Page link follo
 
 Gaby Tzeschlock: the first sentence placed; H1 and the writing heading unchanged.
 
-Founders' Letter: held by the theme's page gate intake, because the brief carries no DOCUMENT TYPE line. The ask names the line. When it is there, Code places the three changes and asks Kain for one more rescore.
+Founders' Letter: placed at 0.707.814 once your DOCUMENT TYPE line landed (first heading, the SoMAP sentence with its followed link, the portrait alt text), each checked on the built page. After Kain's second Recalculate Scores the stored score still reads 78, unmoved. The words are on the page, so the gap is not a placing fault; it needs your read of the page's Rank Math tests in the editor.
 
-OWED BACK: the DOCUMENT TYPE line on the brief, and your read of what Pricing still lacks.
+OWED BACK: your read of what Pricing and the Founders' Letter still lack.
 
 *No em or en dashes in this file; checked before writing.*
