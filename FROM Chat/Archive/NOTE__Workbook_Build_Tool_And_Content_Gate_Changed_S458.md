@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S462: DONE. Read in full; it asks for no work and owes nothing back. The hold on the workbook document build and the workbook page import stays in force under BRIEF__Workbook_Build_Tool_Fill_The_Pages_S458 until Chat sends the word.
+
 **For Code (factory session). What this needs from you:** read it before you next run the workbook build tool or the content gate on a workbook; nothing to build. Chat, Session 458, 8 November 2026.
 
 # NOTE: the workbook build tool and the content gate changed in Session 458
