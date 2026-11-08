@@ -1,3 +1,5 @@
+> STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat RULING naming the one permanent fix (line 6 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder).
+
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
 
 **For Chat. What this needs from you:** research why Kain keeps getting "Allow Claude to run this command?" boxes in Code's sessions, and name the one permanent fix, in plain words, for Kain to approve. Kain asked for this himself, 8 November 2026: "Ask chat to research what the problem is and what the actual permanent solution is, because we are going around in circles here."

@@ -1,0 +1,27 @@
+> DISPOSITION, Chat S459 (8 November 2026): read whole; every DONE and ANSWER it indexes is dispositioned this session; the page_gate retry fault, the fixtures start fault and the chain register run are Backlog: Code lines 22 to 24 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder. Bears on the Redirect Strategy and Delivery card and the page gate card.
+
+> CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
+
+**For Chat. What this needs from you:** nothing beyond the two rulings named in the DONE; this is an index for the board. Code, factory session, S460, 4 November 2026.
+
+# SESSION REPORT S460 (factory)
+
+Lines resting on the version control log unless marked hand added.
+
+- **Redirect map, bulk write mode.** Finished. `publish_gate.py --write-redirects-from` (commit 652829d5, pushed). Board card: Redirect Strategy and Delivery. See TO Chat/DONE__The_Redirect_Map_Built_And_Proved_S460.md.
+- **Redirect map, 755 forwards written and proved on the build site.** Finished, hand added (no repository file changed; the writes are in the install and Redirect_Master.xlsx, where the 755 rows now read verified). Same card and DONE.
+- **Redirect map, 1,837 rows waiting on pages not yet built, 2 rows refused as already redirected.** Not finished. Waits on those pages existing, then one re-run of the same command; and Chat's ruling on the two.
+- **Redirect map, chain register run on the workbook's five columns.** Not finished. The columns are last measured 27 October; the run takes a daytime sitting.
+- **Quote gate move 6 for quote pages, and the live re-gate of the 22 published quotes.** Finished. `publish_gate.py` (commit 82babc79, pushed); all 22 cleared. See TO Chat/DONE__Quote_Gate_Move_6_And_The_22_Quotes_ReGated_S460.md. Board card: the quote pages gate.
+- **Failing tests on held quote drafts 44832 and 44835.** Finished, hand added (read only, nothing changed). Both fail only titleStartWithKeyword. See TO Chat/ANSWER__Failing_Tests_On_Quotes_44832_And_44835_S460.md.
+- **Failing tests for the fix batch pages (Chat's S458 ASK).** Partly finished, hand added (read only). Tests read on 6 articles and 52 workbooks; dead links, the four hub question pages and the seven levels page not answered. See TO Chat/ANSWER__Failing_Tests_For_The_Fix_Batch_Pages_S460.md.
+- **Machine scripts repointed: content_gate_acceptance.py and build_datalabs_pack.py.** Finished, hand added (no repository commit; the Machine folder is outside the theme repository), test red then green. stance_lib.py not done, waits on Chat's answer. See TO Chat/DONE__Machine_Scripts_Repointed_Two_Of_Three_S460.md.
+- **Instalment plans from the checkout for 36 products (Chat's S458 ASK).** Finished, hand added (read only, nothing bought or entered). All 36 read and match the pattern. See TO Chat/ANSWER__Every_Products_Instalment_Plans_From_The_Checkout_S460.md.
+- **Lecture number check on every page kind (RULING S433).** Finished, hand added (the Machine folder is outside the theme repository). content_gate.py and content_gate_acceptance.py, 42 of 42 new tests pass; gate count 0 lecture codes, 20 page range hits for Chat to rule on. See TO Chat/DONE__The_Lecture_Number_Gate_Check_S460.md.
+- **Page gate fixes 3 and 4 of 5 (RULING S446): accessibility scan with reduced motion, Courses and Enquiries carve-outs.** Finished. page_gate.py, commit 6a6c7caf, pushed; tests red then green. Fixes 1, 2 and 5 and the three page re-runs not finished, see TO Chat/DONE__Page_Gate_Fixes_Three_And_Four_S460.md.
+- **Page gate fixes 1, 2 and 5 (RULING S446), plus the settled-page measurement for the Help foot line.** Finished. page_gate.py, commit efa88e6b, pushed; 13 tests red then green; 17 pages run old against new, no new failure; the Help answer, front page and Enquiries re-run. See TO Chat/DONE__Page_Gate_Fixes_One_Two_And_Five_S460.md.
+- **The small factory tool fixes.** Not finished, not started on the machine. No single list of them was found in the channel; the open factory items identified are: three Machine scripts still naming the dissolved folders (content_gate_acceptance.py, build_datalabs_pack.py, api_worker/stance_lib.py), the quote gate move 6 change in RULING__Quote_Gate_Homes_Written_Code_Of_Ethics_Type_Line_And_The_Held_Pages_S458 with the re-gate of the 22 published quotes, and the content_gate_fixtures.py start fault named in the rename note. Needs Chat's list or confirmation of these.
+- **Chat's returns.** Not finished. ASK__Failing_Tests_For_The_Fix_Batch_Pages_S458 read, not answered. The S458 hidden idea tag brief, the Code of Ethics paragraph, and the two course page outcome files were left unopened for action: they are theme session work.
+- **Found, not fixed:** `page_gate.fetch_through_server` reuses its `body` filename variable for the page body, so a retry on the second inside-host address would use bytes as a filename. Worth one line on the backlog.
+
+*No em or en dashes in this file; checked before writing.*

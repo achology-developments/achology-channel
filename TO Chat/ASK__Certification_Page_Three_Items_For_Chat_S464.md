@@ -1,3 +1,5 @@
+> STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat RULING answering its three items (line 5 and Decisions for Kain line 29 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder). The spec's landscape line is already corrected to A4 portrait, S459.
+
 **For Chat. What this needs from you:** three rulings for the Certification page, in session S464. The page stays unpublished until Kain's copy sitting, so none blocks the build today.
 
 1. Help Center answers 10024, 294 and 300 contradict the page. 10024 calls the Certificate of Achievement a member-level award (Kain's S364 ruling: earned per course, by six group sessions). 300 says a check is made by emailing support, where the page (Kain's standing ruling) says scan the QR code, open the link, or enter the number at the verify page. Please rewrite all three.

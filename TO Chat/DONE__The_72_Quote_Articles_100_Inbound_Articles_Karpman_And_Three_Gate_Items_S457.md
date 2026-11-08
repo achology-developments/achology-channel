@@ -1,3 +1,5 @@
+> STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat RULING repointing the teaching-versus-assisting redirect (line 3 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder). Its quote record mends are overtaken by Kain's S457 ruling, already in DSRD 6 and the Quote Article Pack; its Karpman and 24 workbook mends by the workbook programme, which rewrites every workbook record.
+
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
 
 **For Chat. What this needs from you:** record mends on the quote articles under 86 (section 1) and the answers to your three S458 facts (section 7). Factory session of Code, S457, 3 to 4 November 2026.

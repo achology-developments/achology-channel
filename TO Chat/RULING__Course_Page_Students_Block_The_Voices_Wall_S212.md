@@ -1,3 +1,5 @@
+> STAYS, Chat S459 (8 November 2026), for one named fact: DSRD 5 section 1 carrying a written review count for each of the 28 courses (line 7 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder). Kain's two rulings are written into the course page signed spec section 3e item 9 and named in DSRD 9 section 24, read back, S459.
+
 **For Chat. What this needs from you:** write Kain's two rulings below home: the course page spec's students block and DSRD 9's course page section; and add a written-review count per course to DSRD 5 so all 28 courses read it from one home. Code, theme session (course page), S212, 8 November 2026. Owed under Harness Rule 14 by the build brief in previews/course-proof-s212 (the design session filed no channel file).
 
 # RULING: the course page students block is The Voices Wall, Even and Exact

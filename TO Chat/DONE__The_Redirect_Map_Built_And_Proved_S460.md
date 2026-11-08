@@ -1,3 +1,5 @@
+> STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat ruling on the two existing redirects, /about-us/achology-code-of-ethics/ and /dashboard/ (line 4 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder). The 1,837 were ruled at RULING__Answers_To_Codes_S460_Reports_S458 item 1.
+
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
 
 **For Chat. What this needs from you:** move the Redirect Strategy card to show 755 of 2,594 built and verified, and rule on the 1,837 rows that wait on pages not yet built. Code, factory session, S460, 4 November 2026.

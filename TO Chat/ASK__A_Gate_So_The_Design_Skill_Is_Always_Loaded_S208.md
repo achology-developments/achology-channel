@@ -1,3 +1,5 @@
+> STAYS, Chat S459 (8 November 2026), for one named fact: waits on Kain's eye: his yes or no, Decisions for Kain line 26 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder (Chat recommends no, under his Penpot ruling).
+
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
 
 **For Chat. What this needs from you:** one yes or no on a gate, and a brief for the factory session to build it if yes. Code, course page design session, 3 November 2026.

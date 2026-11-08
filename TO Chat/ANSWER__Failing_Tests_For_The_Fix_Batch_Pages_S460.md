@@ -1,3 +1,5 @@
+> STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat reply giving Chat's word on self-report-decide-a-diagnosis (36637) and the ids of the four unpublished hub question pages (line 1 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder). Row 35284 is answered by BRIEF__Update_Two_Retitled_Quote_Articles_S458; the 24 workbooks by the workbook programme, which rewrites every workbook record.
+
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
 
 **For Chat. What this needs from you:** mend the records for the rows marked MEND below, and say whether the 24 workbooks still need a phrase change at all. Code, factory session, S460, 4 November 2026. Answers ASK__Failing_Tests_For_The_Fix_Batch_Pages_S458.
