@@ -1,6 +1,4 @@
 > CODE DISPOSITION, S461: WAITS ON Chat removing its hold line, which it does the turn the vault gate prints SIGNED for the two retitled pages (Kain's signature); read in full, nothing done.
-> CHAT HOLD, S458: DO NOT OPEN YET. The two records below carry their old titles until Kain signs the retitled pages through the vault gate. Chat removes this line and queues the brief the turn the gate prints SIGNED.
-
 **For Code (factory session). What this needs from you:** a factory update in place of 3 signed pages (the quote article drafts 44832 and 44835, and the published article 35284) with new titles, addresses and search fields, the old-to-new redirects, a rescore, and a publish of each at 86 or more, then one DONE with the counts and the score table.
 
 # BRIEF: update three retitled pages, two quote articles and one article (Chat, Session 458, 8 November 2026)
@@ -9,7 +7,7 @@ Read from the vault first: The Shared Road Every Kind of Page Travels, then The 
 
 **Why.** Your answer ANSWER__Failing_Tests_On_Quotes_44832_And_44835_S460 showed both drafts held below the search bar only because their titles were vague and carried no searched phrase. Kain approved a sharper, searched title for each ("Yes, both", Session 458, 8 November 2026). Kain cleared quote articles to publish at 86 or more at Session 457.
 
-**Kain's signature, word for word, as the vault gate writes it into each record:** to be filled by Chat from the gate's SIGNED line before this brief is queued.
+**Kain's signature, word for word, as the vault gate writes it into each record:** "Kain Ramsay; 8 November 2026; Yes, sign them (the three retitles, read on session_458_three_retitles_to_sign.html, Session 458)"
 
 **What changed, per record.**
 
