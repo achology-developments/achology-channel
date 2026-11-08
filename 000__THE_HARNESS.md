@@ -1,6 +1,6 @@
 # THE HARNESS
 
-**Version 3.21, S456. Authority: Kain Ramsay.**
+**Version 3.22, S459. Authority: Kain Ramsay.**
 
 **Read by Claude Code at the open of every Code session, after The Shared Rules and before any work.**
 **Checked by Kain by viewing the rendered pages Code returns.**
@@ -17,6 +17,7 @@ Nothing in this document is open to interpretation. Where a rule seems to have a
 
 One line per version. The reasoning behind each change lives in the handovers, the session reports and the vault, which are the records built to hold it.
 
+- **3.22, S459.** Rule 2's plain statement sharpened on Kain's S208 ruling in Code's course page sitting: before any build, preview or design round, one simple sentence saying exactly what will appear on the page and what moves, and his yes waited for; a general phrase does not meet it. One sentence replaced, no rule added (RULING__Say_What_Will_Be_Built_In_One_Sentence_First_S208). Footer corrected from 3.15.
 - **3.21, S456.** Rule 7's four rendered options replaced by Kain's Penpot ruling of 3 November 2026: every look is designed and signed in Penpot before any build; the Change Viewer is kept only for small refinements inside a signed Penpot design (Kain's yes, S456). One paragraph replaced, no rule added (RULING__Every_Page_Is_Designed_In_Penpot_Before_Any_Build_S208).
 - **3.20, S449.** Rule 7 carries Kain's S186 and S188 one board method for a whole-page review, as one sentence beside the Change Viewer; a row he marks Show me options goes back to the four-option round, so the rule's test is unchanged (RULING__One_Board_For_A_Whole_Page_Review_S188).
 - **3.19, S447.** Rule 7's "one Safari page with tabs" replaced by Kain's S181 ruling: every round of options is shown in the one shared Change Viewer, with its fixed bar, one question per round. One sentence replaced, no rule added (RULING__One_Change_Viewer_For_Every_Change_Put_To_Kain_S181). Rule 11 widened the same night on Kain's S181 components ruling: look in the Component Registry before building, one home per shared feature, and the registry's birth gate refuses a second copy (RULING__One_Home_For_Every_Shared_Feature_The_Site_Components_Register_S181).
@@ -84,7 +85,7 @@ Before any change, write the declaration into the session, as its own message se
 
 No declaration, no edit. A file not named in the declaration is out of scope, and touching it is a violation regardless of how useful the touch would be. **A declaration in a factory session that names a theme file is the habit's edge, not a refusal (corrected S334 on Kain's S097 ruling): absent his word in the sitting, the item goes to the theme queue, `000__THE_THEME_QUEUE.md` at this folder's root, and is not taken on speculatively; with his word, the declaration is made and named as his.** The declaration must be its own message because the scope wall reads the transcript, and a declaration written in the same message as the edit is invisible to it.
 
-**Say it plainly and wait (Kain, Code's S121 sitting; written S366).** Before touching anything, Code also tells Kain in plain words exactly what it is about to change, and waits for his go-ahead. His words: "From here on in we're gonna have to insist that you explain exactly what you're about to do before you do it. Because when you are left to just do whatever you want, you waste time, and you also waste my tokens." Work Kain has already directed in the sitting, or signed in a brief, is the go-ahead; the plain statement is still made. **Test:** in the transcript, every edit is preceded by a plain-words statement of that change.
+**Say it plainly and wait (Kain, Code's S121 sitting; written S366).** Before touching anything, and before any build, preview or design round, Code also tells Kain in one simple sentence exactly what will appear on the page and what moves, and waits for his yes; a general phrase such as "build it" or "with placeholders" does not meet it (sharpened S459 on Kain's S208 words: "you're going to tell me what you're proposing to build before you do it. One, simple sentence."). His words: "From here on in we're gonna have to insist that you explain exactly what you're about to do before you do it. Because when you are left to just do whatever you want, you waste time, and you also waste my tokens." Work Kain has already directed in the sitting, or signed in a brief, is the go-ahead; the plain statement is still made. **Test:** in the transcript, every edit, build, preview or design round is preceded by one plain sentence naming what will appear and what moves, and by Kain's yes.
 
 ### Rule 3. One page, or one named job, per change set
 A change set covers one page, or one named non-page job declared under Rule 2. Work that would touch more than one page is a sweep, and a sweep runs only under a signed sweep brief from Kain, arrived through FROM Chat, naming the pages or bodies of work it covers. There is no other route to a sweep. "While I am in here anyway" is the exact failure this rule exists to stop.
@@ -260,4 +261,4 @@ A hook bypassed, a rule broken, an unproved claim of "done", or a change set ret
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Harness, Version 3.15.*
+*End of The Harness, Version 3.22.*
