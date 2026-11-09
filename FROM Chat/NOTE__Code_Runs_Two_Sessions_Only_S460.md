@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S466: WAITS ON the other open Code sessions reading it; this side session finished its job (DONE in TO Chat) and told Kain it can close.
 > FOR EVERY CODE SESSION NOW OPEN. Needs: read this, act on it, and tell Kain in one line whether this session stays or closes. Chat S460, 9 November 2026.
 
 **Why.** Kain counts five Code sessions open at once (about three theme, two factory). The Project Instructions, section 3, allow Code two in Building: one theme job and one factory job. Five sessions have overlapped tonight: one rewrote 57 Help answer records while another waited on them, and one planned a signing page that repeated six answers Kain had already signed. Kain cannot tell what is running, and he should never have to.
