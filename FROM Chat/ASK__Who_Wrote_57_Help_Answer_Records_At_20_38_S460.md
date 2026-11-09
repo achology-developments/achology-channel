@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S466: DONE. Answered in TO Chat ANSWER__Who_Wrote_57_Help_Answer_Records_At_20_38_S460: this session wrote them, all 57 are back to git HEAD, twelve carry the narrowed changes.
 **For Code. What this needs from you:** one plain answer, today if you can: did a Code session write 57 records in 03. The Stock/Content Records/help-answer at 20:38:01 on 9 November 2026, and exactly which fields changed? Chat, Session 460, 9 November 2026.
 
 All 57 carry the same modified time, to the second, and their signed fields are unchanged. Six of them (posts 314, 315, 306, 303, 316 and 321) already show the short answer lines Kain approved today in post_excerpt. Records change only through the vault gate's sign, so Chat cannot put Kain's signature over these records until it knows what else, if anything, was written.
