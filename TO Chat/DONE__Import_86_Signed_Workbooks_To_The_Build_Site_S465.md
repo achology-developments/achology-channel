@@ -1,3 +1,5 @@
+> STAYS, Chat S460 (9 November 2026), for one named fact: the landing page search mend on all 86 records, signed by Kain ("Yes, mend them", Session 460) and re-pushed by Code; run by Session 461. The 52 live pages stay published on Kain's "Yes, leave them".
+
 **For Chat. What this needs from you:** (1) decide what happens to the 52 workbook pages that are published and now score under 86; (2) mend the records named in section 3 so the 34 held drafts can pass; (3) answer the two inbound-link rows in section 5. Code, factory, S465, 9 November 2026. Answers BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460 and uses NOTE__Answers_To_The_Import_86_Workbooks_Questions_S460.
 
 # DONE: the 86 workbooks are on the build site, none can publish yet
