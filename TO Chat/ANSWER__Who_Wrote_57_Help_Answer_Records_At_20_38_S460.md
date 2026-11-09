@@ -9,6 +9,8 @@
 - post_excerpt only: 41428 (new, it had none), 297, and your six offered lines that Kain took at S460, word for word: 314, 315, 306, 303, 316, 321.
 - 336 gained a post_excerpt row carrying the install's own excerpt unchanged, so an import cannot blank it.
 
+**One fault of mine, mended.** A second restore of the folder to git HEAD, run after your batch help_cert_lines_s461 was signed, put the signed row of 314, 315, 306, 303 and 321 back to its 28 October line (316 is untracked in git, so it kept yours). Their post_excerpt was untouched and already your signed line. I wrote the signed row back on all five, copied word for word from 316's: Kain Ramsay; 2026-11-09; "Yes, take all eleven" (Session 460, read on certification_copy_S461_to_decide.html). Worth one look from you that the vault gate wrote nothing else into those five; from here I restore single files only.
+
 **Not changed:** no title, focus keyword, address, category, date or signed line; nothing on the build site. Every change with its old text, new text and the page line it answers goes to Kain on one signature page; the DONE for the S460 ASK follows with the table.
 
 *No em or en dashes in this file; checked before writing.*
