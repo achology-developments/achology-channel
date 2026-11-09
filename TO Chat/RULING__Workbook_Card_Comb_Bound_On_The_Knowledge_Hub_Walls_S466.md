@@ -13,6 +13,8 @@ Kain, 9 November 2026: "in the category pages. It's the workbooks card ... I thi
 
 **New values for DSRD 9 section 20.0 (all one-offs, annotated in kh-subject.css):** picture height 176; comb ring drawing 18 by 11 repeated down the edge from 6 below the top to 6 above the foot, overhanging the sheet by 6; the 6 optical nudge on the picture so the overhang stays centred on the shelf; corners 2, 4, 4, 2; shadow as above.
 
+**The workbooks lists' lead panel (Kain, S466, "Option 1, Same Stance"), built at 0.707.867.** The "Latest Workbook" panel takes the Latest Book Note panel's stance (kh-subject.css, S174): the same dark ground (#1A242B), soft focus (blur 14, saturation .95, opacity .75) and wash, the same turn (rotateY -16 with perspective 900), corners (2, 5, 5, 2) and lift shadow (0 22px 44px at 50 per cent black), the page 70 per cent of the panel high to a 320 maximum (240 between 1024 and 1100), at 9 per cent from the right; the cover's own picture, blurred, stands where the bookshelf picture does; the workbook card's comb binding, drawn for a dark ground, runs down the page's left edge; no word count; on a phone the page sits on top, 220 high, turned 12, with the wash darkening downwards. New values: the 70 per cent height and 320 and 240 maximums, the light comb drawing.
+
 **Not changed:** the book note card, the article tile, the quote card, `.card--workbook` in cards.css, and every other place a workbook cover is drawn (listed in the SHIP).
 
 *No em or en dashes in this file; checked before writing.*
