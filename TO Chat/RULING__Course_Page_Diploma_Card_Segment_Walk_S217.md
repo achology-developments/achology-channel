@@ -20,6 +20,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 9. The payment tabs on a grey track (pick 261). Kain brought a picture of tabs on a soft grey track and asked to adopt it; "Yes, grey track". The tab row keeps the Fire Slide; only its track is filled with the site's off-white. FOR CHAT: this differs from the Fire Slide's hairline track in the button standard, on this card only; say whether the standard changes or this card is a named exception.
 
+10. The payment tabs' words (pick 262). Kain's own words, placed as given: "Pay In Full", "Pay In Three", "Pay In Five".
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
