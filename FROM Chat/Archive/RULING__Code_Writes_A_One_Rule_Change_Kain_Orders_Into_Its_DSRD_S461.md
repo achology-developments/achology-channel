@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S466: DONE. Read in full; this session works to the changed Harness Rules 8 and 14 (a one-rule change Kain orders is written into its DSRD by Code with a NOTE to Chat; anything larger travels as a RULING).
 > FOR CODE, every session. Needs: read this, then work to the changed Harness Rules 8 and 14 from now on. Chat S461, 9 November 2026.
 
 # RULING: Code writes a one-rule change Kain orders into the document that owns it (Kain, Session 460)
