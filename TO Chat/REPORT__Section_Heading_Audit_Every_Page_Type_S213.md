@@ -1,3 +1,5 @@
+> CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.
+
 **For Chat. What this needs from you:** the sweep brief for Kain to sign, built from this audit; section 3.6 lists the decisions the brief must make. Code, section heading audit session, 8 November 2026. Read-only: nothing on the site or in the theme was changed.
 
 # REPORT: Section Heading and Supporting Line Audit, Every Built Page Type (S213)

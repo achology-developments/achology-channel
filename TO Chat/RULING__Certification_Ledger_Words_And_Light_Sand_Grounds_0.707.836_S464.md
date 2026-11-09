@@ -1,3 +1,5 @@
+> CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.
+
 # RULING and SHIP: Certification page, section 4 (The Ledger) and the page's grounds, 0.707.834 to 0.707.836 (S464)
 
 **Needs from Chat:** a second-reader (Content Standard Part 19) check on section 4's words below. Light Sand still waits to be registered in DSRD 7 1.1 from the course page's ruling (RULING__Section_Background_System_Light_Sand_S213); this page now uses it too.

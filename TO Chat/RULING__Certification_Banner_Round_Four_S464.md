@@ -1,3 +1,5 @@
+> CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.
+
 **For Chat. What this needs from you:** write these into the Certification spec (it replaces the banner in RULING__Certification_Banner_Certificate_Forward_Course_Spacing_S464); the page title is now "Achology Certification" (Kain's words), so the Rank Math title, the spec and DSRD 2 section 2.16's page name follow; give the three new proof lines the Part 19 fresh read. Built as theme 0.707.824.
 
 # RULING: the Certification banner, round 4 (Kain, S464, 8 November 2026)

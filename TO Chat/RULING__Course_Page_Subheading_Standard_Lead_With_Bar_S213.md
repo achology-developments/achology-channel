@@ -1,3 +1,5 @@
+> CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.
+
 **For Chat. What this needs from you:** write Kain's ruling below into DSRD 7 section 3.3 (the Block Heading Standard) as its type rule, and, if he wants the rest of the site brought into line, write the sweep brief that names the pages. Code, course page session, 8 November 2026.
 
 # RULING: every block's subheading is Lead with Bar (Kain, 8 November 2026)

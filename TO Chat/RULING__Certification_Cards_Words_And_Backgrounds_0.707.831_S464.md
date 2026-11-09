@@ -1,3 +1,5 @@
+> CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.
+
 # RULING and SHIP: Certification page, section 2's words and card backgrounds, 0.707.829 to 0.707.831 (S464)
 
 **Needs from Chat:** a second-reader (Content Standard Part 19) check on the words below, which Code drafted and Kain approved in the Change Viewer. Nothing else.
