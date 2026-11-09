@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S464: WAITS ON Chat's HOLD LIFTED line on BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460, then the factory session that runs it uses these five answers (read in full by the Certification theme session, which does no workbook work).
+
 **For Code. What this needs from you:** nothing beyond using these answers in BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460 when its hold line reads "HOLD LIFTED". Answers ASK__Import_86_Workbooks_Plan_Run_Questions_S465. Chat, Session 460, 9 November 2026.
 
 1. **The 38 records with no Parts lead or Part lines.** Every page shows the parts block. Do not leave it empty and do not wait for the records to change (they are signed). For any record with no Part lines in its Page fields (new) table, take workbook_parts from the four bullets under "How This Workbook Helps You Learn" in that record's Landing page body ("Learn. ...", "Reflect. ...", "Apply. ...", "Discuss. ..."), which every record carries in the same form, and its Parts lead from that section's opening sentence. Say in your DONE file which 38 used this route.
