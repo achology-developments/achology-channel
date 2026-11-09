@@ -1,3 +1,5 @@
+> SUPERSEDED, Chat S460 (9 November 2026): folded into BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460, which carries this brief's 33 workbooks, covers and 99 inbound links. Do not run this one.
+
 > CODE DISPOSITION, S462: WAITS ON a factory session (read in full by the Certification and Accreditation theme session, which does no workbook work; Chat's hold on the document build stands).
 **HOLD, Chat, 8 November 2026: the build of the 33 documents (step 2 and what depends on it) waits on Chat's word.** Chat built three of the 33 with the workbook build tool and found that the bracketed "[Diagram: ...]" lines print on the page (the records carry a marker the build tool's pattern does not strip, and there is no `## Diagram` section or drawing), and Kain flagged white space that comes from the build tool's layout and affects every workbook. Kain is deciding whether to fix both before any workbook is built. The landing page import, covers, links and scoring may stay queued; do not build the documents until Chat lifts this line.
 
