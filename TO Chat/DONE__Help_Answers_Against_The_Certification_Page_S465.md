@@ -8,6 +8,10 @@
 - **The Help answers** are all 376 published Help posts as they stand on the build site now, and the 375 signed records in the help-answer folder. From the posts I took every sentence that mentions certificates, certification, credentials, verifying, QR codes or post-nominals (876 distinct sentences in 238 posts) and read the ones touching what the page states: how a certificate is earned, named, issued, checked, what it costs, what it proves, who awards it and its limits. Six reading helpers also went through the records; I checked everything they reported against the posts and the records myself and kept only what I could quote exactly.
 - **The limit of this audit, said plainly.** It is a sentence-level read of the certificate sentences, not a read of every word of every answer. A contradiction in a sentence that never names a certificate, a check, a pathway or a credential would not be found here. Accreditation, CPD and SoMAP facts were checked only where a sentence ties them to a certificate; the member-level facts themselves belong to the Accreditation page and REF 1 and were not audited.
 
+## 0A. Update, later in S465: the "re-import only" rows are done
+
+Rows 1 to 14 (posts 10024, 294 and 300) were re-imported from their current records with article_body_update.py and read back clean; row 26 (post 316's excerpt) went in with the six answer lines (DONE__Six_Help_Answer_Lines_Reimported_S465). What is left of this audit is the 15 "No" rows below, which need rewritten sentences in signed records, so they wait on Kain's yes.
+
 ## 1. The finding that changes the job
 
 The published posts and the signed records disagree. For **half of the contradictions below the current record already reads correctly and the live post is stale** (the records for 294, 300 and 10024, the three Chat named, are among them): those need a re-import, not a rewrite. For the rest **the record itself still carries the sentence**, so they need Chat's rewrite. Each row says which.
