@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S466: WAITS ON the course page pricing session, which owns the block that reads it (this theme session builds the workbook card and describes no bundle or pass).
 > FOR CODE. Needs: nothing to build; a fact for any page that describes school bundles or the Access All Areas Pass. Chat S461, 9 November 2026.
 
 # NOTE: membership rolls on after the included 12 months (Kain, Session 460)
