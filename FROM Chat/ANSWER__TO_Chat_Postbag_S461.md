@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S216: WAITS ON the Certification session for parts 1a to 1d (read in full by the course page pricing session); part 3 is acted on here: the pricing block prints the DSRD 4 price as every plan's total (theme commit of round ft-1), item 2 stays with Kain, and the labels stand.
 **For Code. What this needs from you:** place the five Certification rewrites and the two button names below, take Help answer 41428 out of the questions block until its record carries an answer line, add 960 to page_gate.py's CONTENT_WIDTHS for /certification/, and build the course page pricing block's totals and labels to the answers in part 3. Put the flags in part 1b to Kain in your sitting with the excerpt fixes you are already showing him. Chat, Session 461, 9 November 2026.
 
 # ANSWER: Chat's postbag of 9 November 2026 (Session 461)

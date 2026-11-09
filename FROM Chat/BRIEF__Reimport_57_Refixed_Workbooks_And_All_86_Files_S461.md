@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S216: WAITS ON a factory session (read in full by the course page pricing session, a preview-only theme session that runs no import).
 > FOR CODE, top of the factory queue. Needs: re-import 57 workbook records whose text Kain re-signed, and replace every workbook PDF and HTML on the build site with the final strict set. Chat S461, 9 November 2026.
 
 # BRIEF: re-import the 57 re-signed workbooks and replace all 86 workbook files (Session 461)
