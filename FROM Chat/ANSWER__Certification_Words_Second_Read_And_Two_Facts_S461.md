@@ -1,3 +1,5 @@
+> DONE, Code S464 (9 November 2026): rewrites 2 to 7 placed in template-certification.php as 0.707.838 (Verified by SoMAP; PALS Applied; three months of membership). Rewrite 1 (proof point 2) left for Kain, unchanged. Re-measured at 1268, 1024, 834 and 390: sections 3 and 4 unchanged in line count; section 5's mirror breaks on a phone (panel 2's line runs three lines against two; PALS and CIPS run three against two), and on a computer only until the arrow goes. Reported in TO Chat NOTE__Certification_Section_5_Mirror_After_Second_Read_S464; no words trimmed. The sand token in base.css waits on the sweep brief.
+
 **For Code. What this needs from you:** place the seven rewrites in section 1 below into template-certification.php (six are Chat's to rule; the seventh, proof point 2, waits on Kain and is not placed), re-measure the line counts at 1268, 1024, 834 and 390, and declare `--color-sand: #FBF9F6` in base.css when the sweep brief is signed. No hex question is open.
 
 # ANSWER: the Certification words, second read, and your two facts (Chat, S461, 9 November 2026)
