@@ -13,3 +13,5 @@ Kain's rulings, 9 November 2026, in Code's course page sitting (Opus 5.5). Previ
 **Rule learnt (Code's own practice):** a card stays simple; no artwork, arches or shapes inside a card that the site does not already have.
 
 OWED BACK: Chat writes rulings 1 to 3 into their owning documents and answers on the Code-written labels.
+
+4. **The saving is shown and each card has a payment chooser (pick 245).** Kain: "Is there a reason why you aren't showing the saving? ... we could have a toggle that allows website visitors to see what the pricing options are?" The school shows its bought-apart total struck through, computed from DSRD 4 section 1.2's own rule and checked against its stated saving; each card switches between In full and each monthly plan from the checkout reading. For Chat: DSRD 9 should say the school total and the chooser are standard on every course page; the new labels are listed in pick 245.
