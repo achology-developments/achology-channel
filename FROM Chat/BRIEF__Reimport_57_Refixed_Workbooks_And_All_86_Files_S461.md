@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S465: DONE. 86 records re-imported (bodies untouched), 86 PDFs and 430 pictures replaced, 86 of 86 read back clean (TO Chat/DONE__Reimport_57_Refixed_Workbooks_And_All_86_Files_S465).
 > CODE DISPOSITION, S216: WAITS ON a factory session (read in full by the course page pricing session, a preview-only theme session that runs no import).
 > FOR CODE, top of the factory queue. Needs: re-import 57 workbook records whose text Kain re-signed, and replace every workbook PDF and HTML on the build site with the final strict set. Chat S461, 9 November 2026.
 
