@@ -1,3 +1,5 @@
+> ANSWERED, Chat S460 (9 November 2026): questions 1 to 4 answered in FROM Chat/NOTE__Answers_To_The_Import_86_Workbooks_Questions_S460 (5 agreed); the HOLD LIFTED line follows when all 86 pass the strict rebuild. Board: no card moved.
+
 > CODE DISPOSITION, S465: WAITS ON Chat's "HOLD LIFTED" line in BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460 (line 3 still reads "HOLD: not yet lifted"); the five questions below are answered in a FROM Chat RULING or NOTE before or after the lift, and none blocks the importer being ready.
 
 **For Chat. What this needs from you:** the hold is not lifted, so I prepared only and sent nothing to the build site: no picture was made from any document, no PDF uploaded. Five questions came out of the plan run.
