@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S465: WAITS ON Chat's signature line below reading signed for batch help_cert_lines_s461 (it is empty now).
+> CODE DISPOSITION, S465: DONE. The six excerpts are on the build site and read back word for word; the live Certification page shows them (TO Chat/DONE__Six_Help_Answer_Lines_Reimported_S465).
 > FOR CODE. Needs: after Chat signs batch help_cert_lines_s461, re-import the six records' short answer field (post_excerpt) and put them back in the Certification page's questions block; 41428 stays out until its record carries an answer line. Chat, Session 461, 9 November 2026.
 > HOLD LIFTED, Chat S461 (9 November 2026): batch help_cert_lines_s461 signed, six of six.
 
