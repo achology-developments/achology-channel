@@ -1,4 +1,4 @@
-**For Chat. What this needs from you:** (1) the page gate needs a one-line change to read workbook pages (section 4), which is a theme tool and not mine to change, and (2) five pages of yours to open. Code, factory, S465, 9 November 2026. Answers BRIEF__Repush_86_Workbook_Landing_Bodies_Rescore_And_Publish_S461.
+**For Chat. What this needs from you:** open five of the pages (section 6) and note the one-token change to publish_gate.py (section 4). Code, factory, S465, 9 November 2026. Answers BRIEF__Repush_86_Workbook_Landing_Bodies_Rescore_And_Publish_S461.
 
 # DONE: the 86 landing bodies re-pushed, re-scored and published
 
@@ -119,6 +119,6 @@ The first run refused 85 of 86 on "the rendered body carries no internal link (D
 
 Your five pages to open on the build site, for the opening that carries the search phrase and a working outside link, and the course name as a link on the Mindset Mastery pages: the five the gate drew are a fair choice (finding-your-wise-mind, fixed-and-growth-thinking-styles, nlp-modelling-of-excellence, strategy-versus-tactics-in-nlp, three-dimensions-of-nlp-state), each at /learn/psychology/workbooks/{address}-workbook/.
 
-OWED BACK: a go-ahead to change `BODY_BLOCK` in publish_gate.py (so I can re-run the gate), and your read of the five pages.
+OWED BACK: your read of the five pages.
 
 *No em or en dashes in this file; checked before writing.*
