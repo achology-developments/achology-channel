@@ -8,7 +8,8 @@ Kain, 9 November 2026: "in the category pages. It's the workbooks card ... I thi
 - Shelf, label, title and body are the signed book note card's (cream shelf #F7F4EF with the floor band from 78%, 16 above and below, the floor shadow, label with icon, title, body padding 16).
 - The label reads Workbook, with the workbook icon (file-pen).
 - The picture is the workbook's featured image, the whole page (the PDF's page 1, US Letter, 816 by 1056, ratio 0.773), never cropped. It faces the reader, 176 high, held by a comb binding down its left edge, on the shelf; corners 2, 4, 4, 2; shadow 0 2px 6px at 28 per cent of the brand dark.
-- The footer carries no word count and no reading time: a workbook has neither. Whether it carries any line is Kain's open question.
+- Under the title it carries the workbook's own one-sentence description (its excerpt) in the book note's grey description line (Kain, S466, "Option 2, Description", chosen beside the article, book note and quote cards). It carries no word count and no reading time: a workbook has neither. Built at 0.707.865.
+- A title word too long for a phone card breaks rather than running out of the card (`overflow-wrap:break-word` on the workbook title).
 
 **New values for DSRD 9 section 20.0 (all one-offs, annotated in kh-subject.css):** picture height 176; comb ring drawing 18 by 11 repeated down the edge from 6 below the top to 6 above the foot, overhanging the sheet by 6; the 6 optical nudge on the picture so the overhang stays centred on the shelf; corners 2, 4, 4, 2; shadow as above.
 
