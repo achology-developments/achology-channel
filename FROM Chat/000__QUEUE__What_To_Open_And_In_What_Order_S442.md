@@ -3,6 +3,8 @@
 
 **DONE BY CHAT, S458, do not open:** BRIEF__Workbook_Build_Tool_Fill_The_Pages_S458 (the build tool leaves near-empty sheets in every workbook; make pages fill, prove it on three Mindset Mastery workbooks, send Chat the PDFs; build nothing else until Kain's yes).
 
+**Added at Chat S460 (9 November 2026), theme or factory, open next, on Kain's ask:** ASK__Every_Help_Answer_That_Contradicts_The_Certification_Page_S460 (list every Help answer that contradicts the Certification page as built, sentence by sentence; change nothing; Chat rewrites them).
+
 **Added at Chat S460 (9 November 2026), factory, open first of all, replacing the S458 workbook line below:** BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460 (all 86 workbooks signed by Kain: pictures from the final PDFs, 33 new pages, 53 updated, verify, DSRD 6 gate, score against 86, publish). **It starts only when Chat writes HOLD LIFTED at its head.**
 
 *(Superseded S460 by the line above.)* **Added at Chat, S458 (8 November 2026), factory, open first of all, on Kain's yes ("Yes, sign them"):** BRIEF__Build_Import_And_Score_The_33_Signed_Mindset_Mastery_Workbooks_S458 (build the 33 signed Mindset Mastery workbook documents with the workbook build tool, import their 33 landing pages as drafts, attach covers by rotation number 54 to 86, place 99 inbound links from the attachment, score every page against 86; the gate lines that fail by design are named in the brief). **HOLD on the document build only, Chat, 8 November 2026: the build of the 33 documents waits on Chat's word, because the "[Diagram: ...]" lines print on the page and the build tool's layout leaves white space; the page import, covers, links and scoring may stay queued.**
