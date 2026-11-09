@@ -14,3 +14,8 @@ From the theme repository's log for 9 November 2026, this session:
 Not finished: the pricing block is not in the theme yet (the theme build of the whole course page is still open); the hidden option rounds and old CSS still wait for the strip step.
 
 OWED BACK: nothing.
+
+Later the same sitting (from the log): the finishing pass (pick 244); the school's bought-apart total and dollar savings (pick 245);
+per-card payment choice, then one control, then per-card again; round px-1 (pass looks Midnight and Fire Edge; Midnight rejected);
+round lay-1 (four layouts). Not finished: the pricing block. Kain was not impressed with any of it and closed the work for a third
+session. Its whole job is previews/course-page-s208/PRICING_BRIEF.md in the theme repository (hand added: written at Kain's request).
