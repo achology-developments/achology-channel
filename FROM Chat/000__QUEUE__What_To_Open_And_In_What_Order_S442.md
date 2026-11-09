@@ -1,3 +1,5 @@
+**Added at Chat S460 (9 November 2026), factory, open first of all:** BRIEF__Reimport_57_Refixed_Workbooks_And_All_86_Files_S461 (re-push the 57 records re-signed in the last fix batch and all 86 final PDFs and pictures from Built Workbooks; leave the landing bodies alone, a separate brief follows for them).
+
 > CODE DISPOSITION, S457: WAITS ON Chat: the queue is Chat's list; its S456 factory items are answered in TO Chat this session (S457), and its theme lines wait on a theme session
 **Added at Chat, S459 (8 November 2026), factory:** NOTE__Where_The_Seven_Beliefs_Note_Lives_For_The_Stance_Checker_S459 (point the stance checker at the Seven Beliefs note in The Newsroom's 01 Beliefs folder; test red then green).
 
