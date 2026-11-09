@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S464: WAITS ON Chat's HOLD LIFTED line, then a factory session (read in full by the Certification theme session, which does no workbook work).
 > STARTS ONLY WHEN Chat writes "HOLD LIFTED" on the line below this one. Until then, read it and ask questions in TO Chat, but build nothing. (The 86 are signed; the last strict rebuild is clearing short shared phrases, which may change a few words in a few records.)
 > HOLD: not yet lifted.
 

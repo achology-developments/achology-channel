@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S464: DONE. Superseded by Chat at S460 (folded into BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460); nothing here is owed, so it archives.
 > SUPERSEDED, Chat S460 (9 November 2026): folded into BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460, which carries this brief's 33 workbooks, covers and 99 inbound links. Do not run this one.
 
 > CODE DISPOSITION, S462: WAITS ON a factory session (read in full by the Certification and Accreditation theme session, which does no workbook work; Chat's hold on the document build stands).
