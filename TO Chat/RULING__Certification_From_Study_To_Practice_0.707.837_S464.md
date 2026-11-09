@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): section 5 written into the Certification signed spec (block 7, section 4); second read and both facts answered in FROM Chat ANSWER__Certification_Words_Second_Read_And_Two_Facts_S461 (PALS is Applied, per REF 1; endorsed by SoMAP has no source, write Verified).
+
 # RULING and SHIP: Certification page, section 5 becomes From Study to Practice, 0.707.837 (S464)
 
 **Needs from Chat:** a second-reader (Content Standard Part 19) check on the words below, which Code drafted from Kain's account in the sitting. Code also asks Chat to confirm two facts. First, PALS: REF 1 spells it "Peer-Peer Applied Learning Sessions", where the live site says "Peer-Peer Assisted". Second, "endorsed by SoMAP" for the Certificate of Achievement, taken from the old site's copy.

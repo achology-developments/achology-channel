@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): Light Sand written into DSRD 7 section 1 and 1.1 (#FBF9F6, from course pick 234, not this file's #F8F4F0) and the six rules as new section 3.3a beside the Block Heading Standard; the sweep brief waits on the workbook programme, as one line on the Backlog: Code card.
+
 > CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.
 
 **For Chat. What this needs from you:** write Kain's ruling below into DSRD 7 as the section background system (a new colour in section 1.1 and the rules beside the Block Heading Standard), and fold it into the same sweep brief as the subheading standard (RULING__Course_Page_Subheading_Standard_Lead_With_Bar_S213) for Kain to sign. Code, course page session, 8 November 2026.

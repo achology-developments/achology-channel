@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): round four banner, title Achology Certification and Kain's pick 11 proof bar words written into the Certification signed spec (block 3, section 4, Rank Math title) and DSRD 2 section 2.16; proof lines second-read in FROM Chat ANSWER__Certification_Words_Second_Read_And_Two_Facts_S461.
+
 > CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.
 
 **For Chat. What this needs from you:** write these into the Certification spec (it replaces the banner in RULING__Certification_Banner_Certificate_Forward_Course_Spacing_S464); the page title is now "Achology Certification" (Kain's words), so the Rank Math title, the spec and DSRD 2 section 2.16's page name follow; give the three new proof lines the Part 19 fresh read. Built as theme 0.707.824.

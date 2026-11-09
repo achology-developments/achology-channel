@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): section 2 written into the Certification signed spec (block 4, section 4); second read in FROM Chat ANSWER__Certification_Words_Second_Read_And_Two_Facts_S461: all pass.
+
 > CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.
 
 # RULING and SHIP: Certification page, section 2's words and card backgrounds, 0.707.829 to 0.707.831 (S464)
