@@ -24,6 +24,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 11. The neuron meets the name, and the figure labels (pick 263). Kain: "Yes, Orange sweep looks brilliant": on each beat of the neuron a band of orange passes through the course name. His words for the two figure labels: "Instructional Tutorials" (was Video Lessons) and "Hours of Teaching" (was Hours of Video). FOR CHAT: the hero and the rest of the page still say Video Lessons and Hours of Video; say whether they follow.
 
+12. The signal reaches the figures (pick 264). Kain's idea: the orange band that passes through the course name also passes through 175 and 51+, all three together, starting at the right and ending at the left at the same instant, once per beat of the neuron. "Yes, keep it".
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
