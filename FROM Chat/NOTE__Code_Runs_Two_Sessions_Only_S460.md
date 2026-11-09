@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S464: WAITS ON Kain's word on which theme session stays; the Certification theme session (S464) is finishing its page and told Kain so; its help-cert-fix side session is DONE and can close.
 > CODE DISPOSITION, S466: WAITS ON the other open Code sessions reading it; this side session finished its job (DONE in TO Chat) and told Kain it can close.
 > FOR EVERY CODE SESSION NOW OPEN. Needs: read this, act on it, and tell Kain in one line whether this session stays or closes. Chat S460, 9 November 2026.
 

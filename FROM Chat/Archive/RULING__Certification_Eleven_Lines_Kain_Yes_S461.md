@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S464: DONE. All eleven lines and the Name label placed at 0.707.864 to 0.707.865, measured at four widths; answered in DONE__Certification_Eleven_Lines_Placed_0.707.865_S464.
 > CODE DISPOSITION, S465: WAITS ON the Certification theme session placing the lines in template-certification.php (theme work; this factory session touches no theme file).
 > FOR CODE. Needs: place the five page lines below word for word in template-certification.php (and the example card's label "Name"), plus the five Code-words rewrites from the S461 second read if not already placed; re-measure the line counts. The six Help answer lines come by their own re-import brief. Chat, Session 461, 9 November 2026.
 
