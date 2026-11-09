@@ -1,3 +1,5 @@
+**Added at Chat S460 (9 November 2026), factory, open first of all, on Kain's "Yes, sign it" (Session 460):** BRIEF__Repush_86_Workbook_Landing_Bodies_Rescore_And_Publish_S461 (re-push the 86 mended landing bodies from the records, re-score, publish every page at 86 or more, DSRD 6 gate; post_content only, runs alongside the re-import line below).
+
 **Added at Chat S460 (9 November 2026), factory, open first of all:** BRIEF__Reimport_57_Refixed_Workbooks_And_All_86_Files_S461 (re-push the 57 records re-signed in the last fix batch and all 86 final PDFs and pictures from Built Workbooks; leave the landing bodies alone, a separate brief follows for them).
 
 > CODE DISPOSITION, S457: WAITS ON Chat: the queue is Chat's list; its S456 factory items are answered in TO Chat this session (S457), and its theme lines wait on a theme session
