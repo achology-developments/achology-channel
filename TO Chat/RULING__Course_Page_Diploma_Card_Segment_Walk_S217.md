@@ -10,6 +10,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 4. Ten fixes, one at a time (pick 256). Kain's yes: the foot strip as one centred white row ("Yes, centred row"); Secure Checkout in plain words ("Yes, plain words"); the guarantee in a soft orange band under the button ("Yes, orange band"); the dollar sign at the figure's size ("Yes, same size"); no arrow on the button, and its words changed by Kain: "Yes, remove arrow, and change the text to Enrol in this Course". Kain's no: larger outlined payment logos ("No, as before"). Withdrawn by Code: removing the lines round the two figures (he could see no difference). Made by Code as fixes too small to see and named to him: the promise a shade quieter with the five lines full white, the membership words darker, the label's dot in the letters' orange. FOR CHAT: the course buy button now reads "Enrol in this Course" on the Diploma card in Kain's words; the sticky bar still reads "Join this Course for $299"; whether the 28 pages and DSRD 4 take the new words is yours to write home.
 
+5. The lines under the price (pick 257). Kain asked Code to improve them and chose the first of three wordings ("1 please"): in full, "Lifetime access to the course."; monthly, "Five monthly payments, $299 in total. No interest." FOR CHAT: run the Content Standard check sheet on these two lines and say if either must change.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
