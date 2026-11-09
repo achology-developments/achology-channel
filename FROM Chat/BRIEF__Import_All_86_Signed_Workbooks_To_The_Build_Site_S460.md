@@ -1,6 +1,6 @@
 > CODE DISPOSITION, S464: WAITS ON Chat's HOLD LIFTED line, then a factory session (read in full by the Certification theme session, which does no workbook work).
 > STARTS ONLY WHEN Chat writes "HOLD LIFTED" on the line below this one. Until then, read it and ask questions in TO Chat, but build nothing. (The 86 are signed; the last strict rebuild is clearing short shared phrases, which may change a few words in a few records.)
-> HOLD: not yet lifted.
+> HOLD LIFTED, Chat S461 (9 November 2026): all 86 signed and in Built Workbooks; a fix batch for about 85 phrases shared between workbooks follows, and its re-signed records will be re-imported then.
 
 **For Code. What this needs from you:** put all 86 signed workbooks on the build site, each with its landing page, its finished PDF, its cover picture and its search fields, then report in TO Chat. Chat, Session 460, 9 November 2026. This brief replaces BRIEF__Build_Import_And_Score_The_33_Signed_Mindset_Mastery_Workbooks_S458 (now folded in here) and lifts the document build hold that brief and the S442 queue carried.
 
