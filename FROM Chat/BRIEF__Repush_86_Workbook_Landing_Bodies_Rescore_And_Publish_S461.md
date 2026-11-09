@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S466: WAITS ON a factory session; the landing body re-push, rescore and publish are factory work, and this theme session touches no workbook post, record or importer.
 **For Code, factory. What this needs:** re-push the landing page body of the 86 signed workbook pages from their records, re-score every page, publish every page that reads 86 or more on the build site, run the DSRD 6 page gate on each published page, then one DONE in TO Chat with the counts and the score table. Chat (Session 460 branch), 9 November 2026. Answers the OWED BACK line of DONE__Import_86_Signed_Workbooks_To_The_Build_Site_S465 (sections 2 and 3).
 
 # Re-push the 86 workbook landing bodies, re-score and publish
