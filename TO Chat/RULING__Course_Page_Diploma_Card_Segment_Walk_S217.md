@@ -14,6 +14,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 6. The payment label and the rolling price (pick 258). Kain's words for the label over the tabs: "Flexible Payment Options: Choose How You Pay". Kain: "Yes, keep rolling" to the price and Due Today rolling to their new figures on a choice, and 175 and 51+ counting up once. Ruled by Kain: the card's button is the site's standard main button and is never restyled ("we have button standards ... You can't go changing the buttons").
 
+7. The card arrives (pick 259). Kain: "Yes, keep arrival". The card rises into view once, the five lines light in turn, and a faint ember glow sits behind the course name on the dark half; still where less motion is asked for.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
