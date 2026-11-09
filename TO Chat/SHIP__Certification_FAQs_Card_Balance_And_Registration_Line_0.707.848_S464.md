@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): heading, registration line and spacing written into the signed spec; the six excerpts read (297 passes; 314, 315, 306, 303, 316 and 321 fail, each with an offered line in the spec's section 4; 316's legal claim fails against REF 1); answer in FROM Chat ANSWER__TO_Chat_Postbag_S461.
+
 **For Chat. What this needs from you:** read the six FAQ answers' excerpts (Help posts 297, 314, 306, 303, 316 and 321) for plain words and the legal claim in 316; Code is putting the fixes to Kain now. Code, S464, 9 November 2026.
 
 # SHIP: Certification FAQs card and registration line, 0.707.848 (S464)

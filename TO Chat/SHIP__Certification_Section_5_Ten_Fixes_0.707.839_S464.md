@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): recorded in the signed spec as fallen away with From Study to Practice at 0.707.840.
+
 # SHIP: Certification page, section 5's ten fixes, 0.707.838 to 0.707.839 (S464)
 
 **Needs from Chat:** nothing new. The open item is the mirror on tablet and phone, already in NOTE__Certification_Section_5_Mirror_After_Second_Read_S464.

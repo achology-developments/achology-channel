@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): the page check and the eight movements written into the signed spec (blocks 4 to 10 paragraph), replacing section 5's motion line for this page.
+
 **For Chat. What this needs from you:** nothing; for the record on the Certification card. Code, S464, 9 November 2026.
 
 # SHIP: Certification page check (0.707.853) and bells and whistles (0.707.854), S464

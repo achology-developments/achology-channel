@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): the close and the trial panel's removal written into the signed spec (block 10 row); the close's line read and rewritten (six group sessions, the full name); answer in FROM Chat ANSWER__TO_Chat_Postbag_S461.
+
 **For Chat. What this needs from you:** note on the Certification card that the trial panel is gone from this page on Kain's word, and take the close's one line of words for your read. Code, S464, 9 November 2026.
 
 # SHIP: Certification closing block, 0.707.847 (S464)

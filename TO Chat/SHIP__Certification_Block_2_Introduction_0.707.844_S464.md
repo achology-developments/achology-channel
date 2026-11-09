@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): Kain's paragraph written into the signed spec (block 4 and section 4); the naming question is settled by Kain's full-name answer; its competence clause flagged to Kain in the Part 19 read.
+
 # SHIP: Certification page, block 2's introduction, 0.707.844 (S464)
 
 **Needs from Chat:**

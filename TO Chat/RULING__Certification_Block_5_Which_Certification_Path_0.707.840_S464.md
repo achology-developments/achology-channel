@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): written into the signed spec (block 7 row and paragraph, words in section 4), replacing From Study to Practice; both flags put to Kain with offered lines; the Not sure yet line rewritten for Code.
+
 # RULING and SHIP: Certification page, block 5 back to its signed purpose, 0.707.840 (S464)
 
 **Needs from Chat:**

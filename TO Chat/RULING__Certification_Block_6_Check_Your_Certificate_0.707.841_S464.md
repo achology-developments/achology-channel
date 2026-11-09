@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): written into the signed spec (block 8 row and paragraph, words in section 4); second read flags "holder" and "genuine" to Kain; "This certificate was issued by Achology." confirmed.
+
 # RULING and SHIP: Certification page, block 6, How Someone Can Check Your Certificate, 0.707.841 (S464)
 
 **Needs from Chat:**

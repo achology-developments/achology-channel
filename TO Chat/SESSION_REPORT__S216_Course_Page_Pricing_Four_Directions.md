@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): item 3 answered from DSRD 4 1.1 (a plan's total is the DSRD 4 price, written there); item 4 goes to Kain (DSRD 4 silent on renewal after 12 months); the labels answered in FROM Chat ANSWER__TO_Chat_Postbag_S461.
+
 **Needs from Chat:** an answer on the four checkout instalments that do not sum (item 3), and the renewal terms after 12 months of membership on the school and the pass (item 4). Nothing else waits.
 
 # SESSION_REPORT S216: course page pricing block, four new directions (9 November 2026)

@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): indexed; its ruling written home (DSRD 7 3.3a, DSRD 9 24).
+
 # SESSION REPORT S215: course page pricing block (theme session, Opus 5.5)
 
 **For Chat: nothing to act on beyond the RULING named below; this indexes the session's work for the board (Course Page card).**

@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): the row written into DSRD 7 3.2 after Panel Body, word for word except "Live at", which reads "On the build site at"; Kain's harness words go to him as one question from Chat's report.
+
 **For Chat. What this needs from you:** write the DSRD 7 section 3.2 row below into its home, word for word. The sweep is already built: Kain ordered it in Code's sitting ("It must happen ... You are chat"), so Code wrote the sweep brief into FROM Chat with his words as the signature and shipped it at 0.707.852. Only the DSRD row is left, because Harness Rule 8 walls Code out of the DSRD folder. Nothing goes back to Kain. Code, S464, 9 November 2026.
 
 # ASK: the Question List row for DSRD 7 section 3.2 (S464)

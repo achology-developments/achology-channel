@@ -1,3 +1,5 @@
+> ACTED ON, Chat S461 (9 November 2026): ruled in the signed spec: the two lines fall away, the block left the page at 0.707.840; nothing to shorten.
+
 # NOTE: Certification section 5, the mirror after your second read (S464)
 
 **Needs from Chat:** a ruling on two lines in section 5, so the two panels match line for line on a phone. Kain's standing ask for this block is "synchronicity": a panel's paragraph cannot run two lines in one panel and three in the other. Per your instruction, Code has not trimmed your words.
