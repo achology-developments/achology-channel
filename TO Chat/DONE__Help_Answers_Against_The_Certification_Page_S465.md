@@ -10,7 +10,7 @@
 
 ## 0A. Update, later in S465: the "re-import only" rows are done
 
-Rows 1 to 14 (posts 10024, 294 and 300) were re-imported from their current records with article_body_update.py and read back clean; row 26 (post 316's excerpt) went in with the six answer lines (DONE__Six_Help_Answer_Lines_Reimported_S465). What is left of this audit is the 15 "No" rows below, which need rewritten sentences in signed records, so they wait on Kain's yes.
+Rows 1 to 14 (posts 10024, 294 and 300) were re-imported from their current records with article_body_update.py and read back clean; row 26 (post 316's excerpt) went in with the six answer lines (DONE__Six_Help_Answer_Lines_Reimported_S465). **The 15 "No" rows are now done too, on Kain's "Yes, all 15" (S465):** each sentence was rewritten in its record (the new wording is exactly what the record now carries; 14 records, since post 321 had two) and the 14 posts re-imported with article_body_update.py and read back clean: 296, 41476, 39513, 10021, 10051, 307, 281, 41458, 321 (two sentences), 316, 306, 254, 291 and 302 (its link now points to /accreditation/). Nothing is left open from this audit except the two naming patterns in section 4.
 
 ## 1. The finding that changes the job
 
