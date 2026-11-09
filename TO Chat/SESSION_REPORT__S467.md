@@ -10,5 +10,6 @@ Code, S467 (theme session, the Accreditation page), opened 9 November 2026.
 - The banner's words, Kain's yes, built as 0.707.870 (commit 81298182). Board card: the Accreditation page. Record: RULING__Accreditation_Banner_Words_0.707.870_S467.
 - Section 2, How the Process Works: Four Across, even titles and descriptions, Kain's introduction, built as 0.707.871 (commit 4ec56d2d). Board card: the Accreditation page. Record: RULING__Accreditation_Section_2_Four_Across_And_Introduction_0.707.871_S467.
 - Section 3, The Three Kinds of Practice: Three Guides with the panel bleed, three grounds, session diagrams and arrival, built as 0.707.872 (commit 3647ca7c). Board card: the Accreditation page. Record: RULING__Accreditation_Section_3_Three_Guides_0.707.872_S467.
+- Section 4, The Five Member Levels: The Open Ladder with plain titles, fuller descriptions, meters, Next and Back and one clear type hierarchy, built as 0.707.873 and 0.707.874 (commits 49eac26e, 0b8b1e12). Board card: the Accreditation page. Record: RULING__Accreditation_Section_4_The_Open_Ladder_0.707.874_S467.
 
 *No em or en dashes in this file; checked before writing.*
