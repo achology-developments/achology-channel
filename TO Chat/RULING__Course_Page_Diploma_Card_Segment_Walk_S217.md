@@ -18,6 +18,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 8. The price half measured, the label, and the neuron (pick 260). Kain: "Yes, measured" (three equal gaps between the price half's groups). The label over the payment tabs is now "Flexible Payments: Pay Your Way" (his choice of six; it replaces item 6's label). The ember glow is out ("orange mist or smoke ... it can't be that"). In the dark half's top right corner, one living neuron with a small orange core that beats: Kain's own idea ("kind of like neurons ... neurological pathways being forged"), chosen from four corner drawings and then asked to pulsate with a little orange: "Yes, Living Neuron".
 
+9. The payment tabs on a grey track (pick 261). Kain brought a picture of tabs on a soft grey track and asked to adopt it; "Yes, grey track". The tab row keeps the Fire Slide; only its track is filled with the site's off-white. FOR CHAT: this differs from the Fire Slide's hairline track in the button standard, on this card only; say whether the standard changes or this card is a named exception.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
