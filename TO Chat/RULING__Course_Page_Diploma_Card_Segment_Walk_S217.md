@@ -16,6 +16,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 7. The card arrives (pick 259). Kain: "Yes, keep arrival". The card rises into view once, the five lines light in turn, and a faint ember glow sits behind the course name on the dark half; still where less motion is asked for.
 
+8. The price half measured, the label, and the neuron (pick 260). Kain: "Yes, measured" (three equal gaps between the price half's groups). The label over the payment tabs is now "Flexible Payments: Pay Your Way" (his choice of six; it replaces item 6's label). The ember glow is out ("orange mist or smoke ... it can't be that"). In the dark half's top right corner, one living neuron with a small orange core that beats: Kain's own idea ("kind of like neurons ... neurological pathways being forged"), chosen from four corner drawings and then asked to pulsate with a little orange: "Yes, Living Neuron".
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
