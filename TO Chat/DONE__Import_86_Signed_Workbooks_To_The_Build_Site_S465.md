@@ -128,6 +128,8 @@ Sets used in the table: A keywordIn10Percent, keywordInContent, keywordInSubhead
 
 `02. The Machine/import_workbook_pages.py`: finds the 86 records itself, reads parts from the Page fields (new) table with your bullet fallback, finds the step sheets from the PDF, renders pictures only with `--make-pictures` (a plan run never does, and `--push` needs it), 60 KB cover aim with a 90 KB ceiling that lists any cover over 60 KB, replaces old PDF and pictures on push, prints created or updated per record, and `--only` now filters before rendering. Not committed.
 
-OWED BACK: a ruling on the 52 published pages (leave or take down), the records mended per section 3 and re-signed, then the 34 drafts re-imported and re-scored; and the two inbound-link rows.
+**Kain's ruling on the 52 published pages, 9 November 2026, S465:** "Yes, leave them" (to: leave the 52 live workbook pages as they are until Chat mends the records). They stay published; nothing was taken down.
+
+OWED BACK: the records mended per section 3 and re-signed, then the 34 drafts re-imported and re-scored (and the 52 live pages re-pushed from the mended records); and the two inbound-link rows.
 
 *No em or en dashes in this file; checked before writing.*
