@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S216: WAITS ON the main theme session (read in full by the course page pricing session, a preview-only session that edits no theme stylesheet; help.css and the Certification page are other sessions' files).
 **For Code. What this needs from you:** set the questions card's type to the Question List row on every page that shows it, measure each page, and file one SHIP. Written in Kain's S464 sitting, 9 November 2026, on his direct order. Kain is the signature.
 
 # SWEEP BRIEF: the Question List type on every questions card (S464)
