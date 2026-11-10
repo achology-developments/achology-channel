@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S469: WAITS ON the course page theme session for section 1; section 2.1 is DONE at 0.707.903 (the three SoMAP answers placed and fitted, answered in TO Chat/SESSION_REPORT__S469.md).
 **For Code (theme session).** Course page: place the nine shorter first paragraphs in section 1. Accreditation page: place the three SoMAP foot answers in section 2, in place of the stand-ins. Chat, 10 November 2026, evening.
 
 # ANSWER: the course page questions cut to the card, and the Accreditation page's SoMAP foot

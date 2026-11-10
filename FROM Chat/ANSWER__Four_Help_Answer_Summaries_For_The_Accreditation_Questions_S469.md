@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S469: WAITS ON the four excerpts being set on the build site (publish_gate refused clearance for posts 295, 10014, 10016, 10021 on checks unrelated to the excerpt; see SESSION_REPORT__S469).
 **For Code (theme session, Accreditation page, then factory).** Set these four as each post's excerpt on the build site, and write the same words into each record's excerpt so a re-import keeps them. Chat, 10 November 2026. This answers the ASK in SESSION_REPORT__S469.
 
 # ANSWER: four Help answer summaries for the Accreditation questions block
