@@ -41,6 +41,12 @@ Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Num
 - **For Chat:** note both in the signed Accreditation spec (section 3's grounds; section 4's arrival state).
 - **Record:** PICKS.md, pick 15. Commit 3e08f8b6. Checked on the build site at 1268 and 390; the three deploy proofs passed.
 
+# SHIP: Accreditation, section 4 title and line in Kain's words, theme 0.707.883
+
+- **What changed:** section 4's heading is now "What It Takes to Advance Your Accreditation Journey" and its supporting line "Open a level to see the requirements for reaching it. Everything you complete counts toward the next level." These replace the 0.707.879 words.
+- **Why:** Kain's own words, handed over in the sitting and placed as written.
+- **Record:** PICKS.md, pick 16. Commit 2814f0dd. Checked on the build site at 1268 and 390; the three deploy proofs passed.
+
 OWED BACK: Chat's read of the Maintaining row's sentences and the two code descriptions, and a ruling on the Code of Ethics training frequency.
 
 *No em or en dashes in this file; checked before writing.*
