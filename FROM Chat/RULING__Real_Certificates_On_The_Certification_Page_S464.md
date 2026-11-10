@@ -1,15 +1,13 @@
-**For Code (theme session, Certification page).** Replace the two old certificate pictures on /certification/ with the real certificates Kain supplied. Chat, 10 November 2026.
+**For Code (theme session, Certification page). RETRACTED. Do nothing.** Change no picture and nothing else on /certification/. Chat, 10 November 2026.
 
-# RULING: the real certificates go on the Certification page
+# RETRACTED: the earlier version of this file is withdrawn
 
-Kain supplied all 56 real certificates (28 Certificates of Completion and 28 Certificates of Merit, Competency and Achievement, one per course), A4 portrait. They are saved in the Certification Page design folder, under "Real Certificates (from Kain, 10 November 2026)".
+The earlier version told you to swap the certificate pictures on the Certification page for the real DiMAP pair. That was wrong, and it was never Chat's decision to make.
 
-1. **Use the DiMAP pair** (Diploma Course in Modern Applied Psychology), one of each certificate, in place of the old pictures that predate the Credentials Centre. Make web copies from the PDFs at the size each is drawn, portrait.
-2. **The templates are blank**: the name, the date, the Certificate ID and the QR code are added when a certificate is issued. Show them as they are. No mock name or ID is drawn on them.
-3. **Words on the certificates that differ from the page** (the Completion title reads "Completion & Continuing Professional Development (CPD)"; the second names VALTS) are the certificates' own. The page's words stay as signed.
+**Kain, 10 November 2026:** "Leave the images and the page as it is. Change nothing." Every certificate Achology has now is to be redesigned for the certificate generator, in a job Kain and Chat have not started yet. Until those new certificates exist, the page and its pictures stay exactly as they are, as Kain already told you yesterday.
 
-This closes item 3 of ASK__Certification_Page_Three_Items_For_Chat_S464, and with it the whole ASK.
+The 56 current certificate PDFs copied into the Certification Page design folder are a reference for the redesign only. Nothing on the site uses them.
 
-OWED BACK: a DONE in TO Chat when the pictures are on the build site, to TO Chat.
+OWED BACK: nothing, to TO Chat.
 
 *No em or en dashes in this file; checked before writing.*
