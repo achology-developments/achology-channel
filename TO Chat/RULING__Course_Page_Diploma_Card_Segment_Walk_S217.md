@@ -28,6 +28,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 13. The price half as a receipt (pick 265). Kain called the right-hand side "bland, boring, effortless, directionless" and chose "Receipt" of four treatments: the price, the membership box and Due Today are one sand panel parted by dashed lines, with the Enrol button and the guarantee beneath. Words and order unchanged.
 
+14. The line under the full price (pick 266). Kain's choice of six: "No subscription. No deadline. Yours for life." (replaces item 5's in-full line). FOR CHAT: the card says "No subscription" two lines above a membership box that renews at $34.50 a month after three months. The course has no subscription and the box states its own renewal, but please rule whether the two sit honestly together or the line needs a different word.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
