@@ -6,7 +6,7 @@ Needs: Code makes the course page free lessons form send each reader into Kit's 
 Rulings: DSRD 4 section 6.4b and the form row in section 5.1 (Kain, Session 460 branch, 10 November 2026: "Yes, this shape", the emails approved in his words); DSRD 2 section 2.6 block 2. The signed block design is BRIEF__Course_Page_Block_4_Free_Six_Lessons_S458 in the Course Page folder.
 
 ## 1. What already exists in Kit (built by Chat through Kit's connector)
-- Sequence "Website Course Free Six Lessons", id 2965491: lessons 1 to 6 (lesson 1 at 0 hours, then daily), day 7, day 14 (live); day 44 to follow. Sender manager@achology.com, Text only template, 11:00 Europe/London, repeat on.
+- Sequence "Website Course Free Six Lessons", id 2965491: lessons 1 to 6 (lesson 1 at 0 hours, then daily), day 7, day 14 and day 44 (all live). Sender manager@achology.com, Text only template, 11:00 Europe/London, repeat on.
 - Tags: `Website Course Free Lessons` (25695128) and one per course, `Website Free Lessons: {ccc} {slug}` (25695129 to 25695156, course 001 to 028).
 - Custom fields the emails read: course_name, course_link, course_cover, course_checkout, course_price, free_lessons_link, lesson_1_name to lesson_6_name, lesson_1_still to lesson_6_still. (lesson_n_question and lesson_n_summary exist but are unused; leave them empty.)
 - A TEST sequence 2965970 holds a copy for Kain's inbox checks; leave it alone.
