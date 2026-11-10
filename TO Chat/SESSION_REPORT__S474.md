@@ -42,3 +42,17 @@ Item 8 has one drawing that explains (the roads); Accreditation's same eye; both
 - **0.707.928** Certification gate fixes (the certificate band draws only the head; a 2px nudge out).
 - **0.707.929** Accreditation's Two Codes and How Every Session Is Checked rebuilt as one pair, Two Cards, Open Track (pick 35; Kain's direction relayed by the main theme session, his pick in the viewer). No word changed. For Chat: the committee of three Master Achologists is said in step two and again under Its Standards; Kain's accepted critique names it, and the words are Chat's to settle. The signed spec and build sheet for these two blocks now describe the old arrangement (picks 13, 14, 19, 28, 29): the fold-back is owed.
 - Correction: an earlier note in the Accreditation record gave Certification's gate count; fixed. Accreditation is 47 passed, 38 failed, the same lines as 0.707.916.
+
+## Close, from the theme's version control log (S474, 10 November 2026; Kain closed the session for context depth)
+
+One line per ship, all on the build site, theme now 0.707.929:
+- 1ff14e2e, 833e87a9, 98386188 (0.707.919): the twelfth question (307), title case labels, Is and Is Not as Two Grounds.
+- 533b9091 (0.707.920), 8490ef93 (0.707.921): the check block as Three Roads In.
+- 655143cc (0.707.923): the certificate heads in the two cards, Which Path's certificates at 104, even lines.
+- baadba6a (0.707.926): Accreditation's four steps, four lines each.
+- 0e2ea121 (0.707.927): Accreditation's three guides re-cut.
+- eb9fe84f (0.707.928): two Certification gate fixes.
+- 7066562d (0.707.929): Accreditation's Two Codes and check block as Two Cards, Open Track.
+Preview rounds kept in previews/accreditation-s467: round-c9-1 to c9-4, round-a9-1 to a9-3 (99418ff8, e1f9ca8d, ef3a2c6d, 72fdcc4a, e1bfb13d, 3de7438c, 26bc81c7).
+
+Owed, none of it by this session any longer: the fold-back of the two rebuilt Accreditation blocks into their build sheet and signed spec; Chat's read of the new sentences and chapters 1 and 8; the roads drawing recorded in DSRD 7 5.2.6; the repeated committee sentence; the not-run lines on both DSRD 6 records. The memory note's top block carries the same state for the next session. The preview mirror is stopped.
