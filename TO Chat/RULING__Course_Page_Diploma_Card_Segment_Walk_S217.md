@@ -58,6 +58,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 28. The bundles' open panels finished (pick 280). The button goes to each bundle's own checkout (DSRD 4 1.2 and 1.3), the site's standard main button with the Diploma card's guarantee pill beneath; the gaps closed; shorter course-neutral paragraphs. Kain: "I couldn't really fault this". FOR CHAT: the button words ("Enrol in this Bundle", "Get the Access All Areas Pass") and the two paragraphs are Code's; each school needs its own paragraph line for the other course pages.
 
+29. The bundles' course lists linked (pick 281). Every included course links to its own course page and the pass's 28 sit under their seven schools, each school linking to its school page, addresses from DSRD 1, the course in hand unlinked. Kain: "Yes, keep it". With this the bundle card is finished (picks 275 to 281). FOR CHAT: these are new internal links on every course page; record them wherever the linking plan lives.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
