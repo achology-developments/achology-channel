@@ -18,8 +18,7 @@
 
 ## Not finished
 
-- Accreditation's Rank Math score: the read is running; the line goes on the page's record.
-- The contrast round: waits on Kain's eye.
+- Accreditation's Rank Math score is 88 against 90: whether Kain's Certification exception covers it waits on Chat (DONE S470 section 1).
 - Certification step 4's shorter wording: waits on Chat (DONE S470 section 3).
 - The six Help answers' own excerpts: wait on a factory session.
 
