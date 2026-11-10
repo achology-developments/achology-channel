@@ -20,7 +20,7 @@
 
 Three calls to check: Wisdom's opposites are naivety and cynicism (the spectrum page; the summary page says overthinking and ignorance); Friendliness's are flattery and quarrelsomeness (the handbook uses both flattery and agreeableness); the adopted date.
 
-**Metadata, set by Code over WP-CLI.** Title "The Code of Character and Conduct for Applied Psychology" (56); description "The Achology Code of Character and Conduct sets the behaviour expected of every member, built on nine of Aristotle's virtues, taught in ten live sessions." (154); focus keyword "code of character and conduct" first. Rank Math 87, read by Code: the Code of Ethics' exception ground (words from the theme), waits on Kain's yes.
+**Metadata, set by Code over WP-CLI.** Title "The Code of Character and Conduct for Applied Psychology" (56); description "The Achology Code of Character and Conduct sets the behaviour expected of every member, built on nine of Aristotle's virtues, taught in ten live sessions." (154); focus keyword "code of character and conduct" first. Rank Math 87, read by Code: the Code of Ethics' exception ground (words from the theme), approved by Kain (S470, "Yes, accept it").
 
 **Record.** DSRD6_RECORD.md in the new Code of Character and Conduct Page folder (About + People Design Prototypes); folder maps regenerated. page_gate at 0.707.908: 55 passed; open lines are DSRD 1's missing address row (Chat's), the score exception, and the gate's two instrument faults (orphan crawl, empty-editor density) as on the Code of Ethics.
 
