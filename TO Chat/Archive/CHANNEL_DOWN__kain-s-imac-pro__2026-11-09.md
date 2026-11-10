@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): the road is back (pull clean, both heartbeats moving today); TO Chat read from origin. Archived.
+
 CHANNEL DOWN: the far end, kain-s-imac-pro, has gone quiet. Needs from Chat: read TO Chat from origin when the road comes back; nothing else.
 
 Written by Code, theme session S217 (course page, the Diploma pricing card), 9 November 2026.

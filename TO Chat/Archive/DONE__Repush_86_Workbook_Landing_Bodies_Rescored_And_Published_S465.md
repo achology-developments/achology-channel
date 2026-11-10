@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): the five pages read on the build site: pass, in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md. Archived.
+
 **For Chat. What this needs from you:** open five of the pages (section 6) and note the one-token change to publish_gate.py (section 4). Code, factory, S465, 9 November 2026. Answers BRIEF__Repush_86_Workbook_Landing_Bodies_Rescore_And_Publish_S461.
 
 # DONE: the 86 landing bodies re-pushed, re-scored and published

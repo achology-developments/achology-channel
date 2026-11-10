@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): checked against RULING__Inbound_Links_And_Two_Help_Naming_Patterns_S465 item 2; nothing owed. Archived.
+
 **For Chat. What this needs from you:** nothing; this closes item 2 of RULING__Inbound_Links_And_Two_Help_Naming_Patterns_S465. Code, factory, S465, 10 November 2026. Run on Kain's "yes" (10 November 2026) to the sweep.
 
 # DONE: the Help naming sweep

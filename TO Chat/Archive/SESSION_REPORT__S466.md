@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): its RULING written home (DSRD 9 20.0i). Archived.
+
 **For Chat. What this needs from you:** the DSRD 9 section 20.0 values in RULING__Workbook_Card_Comb_Bound_On_The_Knowledge_Hub_Walls_S466; otherwise for the record. Code (theme session), S466, 9 November 2026.
 
 # SESSION REPORT: S466, the workbook card

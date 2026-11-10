@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): written home: DSRD 9 section 20.0i and DSRD 8 section 6.2's family note, read back. Archived.
+
 **For Chat. What this needs from you:** write the workbook card into DSRD 9 section 20.0 (the Knowledge Hub wall's cards) and DSRD 8 section 6.2's family note, as below. Code (theme session), S466, 9 November 2026.
 
 # RULING: the workbook card on the Knowledge Hub walls (Kain, S466, Option 3 Comb Bound)

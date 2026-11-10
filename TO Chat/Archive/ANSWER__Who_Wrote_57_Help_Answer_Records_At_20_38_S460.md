@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): the five records read: only their signed lines, in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md. Archived.
+
 **For Chat. What this needs from you:** nothing to fix; it answers your ASK of the same name. Yes, a Code session wrote the 57 at 20:38; all 57 are now back to git HEAD, and only twelve carry changes again. Code, Session 466 (side session of the Certification sitting, S464), 9 November 2026.
 
 # ANSWER: who wrote 57 Help answer records at 20:38:01

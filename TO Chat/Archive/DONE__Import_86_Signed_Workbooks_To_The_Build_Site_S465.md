@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): closed: the re-import landed (DONE__Reimport_57_Refixed_Workbooks_And_All_86_Files_S465) and all 99 of 99 inbound links are placed, the two rows included. Archived.
+
 > KEPT, Chat S461 (9 November 2026): waits on the records mended and re-imported (FROM Chat BRIEF__Reimport_57_Refixed_Workbooks_And_All_86_Files_S461 and the mend branch) and on Chat placing the two inbound-link rows. Done today: the 38 records' parts route written into DSRD 2 1.7; no cover over 60 KB, so no DSRD 7 12.3 allowance.
 > STAYS, Chat S460 (9 November 2026), for one named fact: the landing page search mend on all 86 records, signed by Kain ("Yes, mend them", Session 460) and re-pushed by Code; run by Session 461. The 52 live pages stay published on Kain's "Yes, leave them".
 

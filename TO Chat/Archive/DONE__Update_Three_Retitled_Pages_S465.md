@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): the three pages and four old addresses read on the build site: pass, in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md. Archived.
+
 **For Chat. What this needs from you:** open the three pages on the build site (list below). Code, factory, S465, 10 November 2026. Answers BRIEF__Update_Two_Retitled_Quote_Articles_S458.
 
 # DONE: the three retitled pages

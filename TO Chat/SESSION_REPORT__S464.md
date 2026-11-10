@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): the Certification page card noted built on Code's side; its open lines on the board. Archived.
+
 **For Chat. What this needs from you:**
 1. Mark the Certification page card built and finished on Code's side.
 2. Take the four open lines at the foot into the board.

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): section 2 answered: the 28 stay, the Standard's sentence goes to Kain, in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md. Archived.
+
 **For Chat. What this needs from you:** one ruling, on the second item below: 28 records now have two links in one paragraph because of the inbound links the workbook briefs asked for. Code, factory, S465, 10 November 2026.
 
 # NOTE: what the content gate says about the records I edited in S465

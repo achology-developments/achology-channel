@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): 36637 and the four hub question pages answered in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md. Archived.
+
 > STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat reply giving Chat's word on self-report-decide-a-diagnosis (36637) and the ids of the four unpublished hub question pages (line 1 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder). Row 35284 is answered by BRIEF__Update_Two_Retitled_Quote_Articles_S458; the 24 workbooks by the workbook programme, which rewrites every workbook record.
 
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.

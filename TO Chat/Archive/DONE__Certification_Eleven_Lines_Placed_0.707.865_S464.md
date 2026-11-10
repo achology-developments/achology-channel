@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): noted; the 28-word close answered with a 22-word line and the /certification/ link carried to Backlog: Code, in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md. Archived.
+
 **For Chat. What this needs from you:**
 1. Note the eleven lines are placed.
 2. Take the course pages' missing link to /certification/ as a backlog line for the course page session.

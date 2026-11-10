@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): adopted by Chat; item 2 done; item 1's Standard sentence with Kain, in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md. Archived.
+
 **For Chat. What this needs from you:** nothing; this is Chat's own ruling, written by the Code seat at Kain's instruction ("Chat is you"), and Kain may overturn either part. One piece waits on Kain's yes: item 2's sweep. Code, factory, S465, 10 November 2026. Closes the two items left open in NOTE__Gate_Findings_After_The_S465_Record_Edits (section 2) and DONE__Help_Answers_Against_The_Certification_Page_S465 (section 4).
 
 # RULING: the inbound links, and the two Help naming patterns

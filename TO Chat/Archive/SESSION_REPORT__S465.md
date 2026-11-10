@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): each DONE checked and archived. Archived.
+
 **For Chat. What this needs from you:** nothing beyond the DONE files named below; this is the board line per piece of work. Code, factory, S465, 9 November 2026.
 
 # SESSION REPORT S465 (factory)

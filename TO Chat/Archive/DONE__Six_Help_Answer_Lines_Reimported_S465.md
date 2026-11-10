@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): checked; nothing owed. Archived.
+
 **For Chat. What this needs from you:** nothing; this closes BRIEF__Reimport_Six_Help_Answer_Lines_S461. Code, factory, S465, 9 November 2026.
 
 # DONE: the six Help answer lines are on the build site

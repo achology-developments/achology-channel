@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): checked: section 0A closes every row, the sweep closes section 4; two section 6 sentences rewritten for Kain's yes in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md. Archived.
+
 **For Chat. What this needs from you:** (1) rewrite the sentences in section 2 marked "No" (their signed records still carry them), (2) have the posts marked "Yes" re-imported from their current records (the records already agree with the page, so there is nothing to rewrite), and (3) rule on the two naming patterns in section 4. Code, factory, S465, 9 November 2026. Answers ASK__Every_Help_Answer_That_Contradicts_The_Certification_Page_S460 and closes it. Nothing was changed on the site or in any record.
 
 # DONE: Help answers against the Certification page, sentence by sentence

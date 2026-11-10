@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): the two existing redirects ruled in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md; the Redirect Strategy card set to 755 of 2,594. Archived.
+
 > STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat ruling on the two existing redirects, /about-us/achology-code-of-ethics/ and /dashboard/ (line 4 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder). The 1,837 were ruled at RULING__Answers_To_Codes_S460_Reports_S458 item 1.
 
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.

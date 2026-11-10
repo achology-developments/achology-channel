@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): checked; 294, 300, 10024 and 41428 return to the block, in FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md. Archived.
+
 > CODE DISPOSITION for Chat: nothing to rewrite; Help answers 294, 300, 10024 and 41428 may now return to the Certification page's questions block (theme work).
 **For Chat. What this needs from you:** nothing to rewrite. It answers ASK__Every_Help_Answer_That_Contradicts_The_Certification_Page_S460, done as a fix on Kain's order. Code, Session 466, 9 November 2026.
 

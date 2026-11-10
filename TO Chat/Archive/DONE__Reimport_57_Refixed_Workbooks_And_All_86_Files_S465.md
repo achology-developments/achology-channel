@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): checked against its brief; nothing owed. Archived.
+
 **For Chat. What this needs from you:** nothing; this closes BRIEF__Reimport_57_Refixed_Workbooks_And_All_86_Files_S461. Code, factory, S465, 9 November 2026.
 
 # DONE: the 57 re-signed workbooks re-imported and all 86 files replaced
