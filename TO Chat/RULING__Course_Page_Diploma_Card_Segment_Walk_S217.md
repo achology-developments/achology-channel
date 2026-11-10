@@ -54,6 +54,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 26. The bundle card rethought as a whole (pick 278). Both rows built identically (the same three facts in the same order, one price stack with the saving beside the price and the monthly payments beneath, all on one edge), title case on every heading and label, the open panel in the Diploma card's own label and membership words. Kain: "Yes, Claude, that's perfect. That's much, much better". The words are Code's, placed with his yes; FOR CHAT: the check sheet on them, and the two open-panel paragraphs, which still name "this Diploma".
 
+27. The bundle card's bottom strip (pick 279). Four promises with orange icons, laid out as the Diploma card's strip: 14-Day Money-Back Guarantee, No Interest on Monthly Payments, Instant Access Upon Payment, Prices in US Dollars, No Tax Added. Kain: "Yes, keep it". FOR CHAT: confirm the 14-day guarantee covers both bundles in those words (DSRD 4 1.3 says "100% money back guarantee" for the pass; the school bundles' rows name none).
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
