@@ -1,3 +1,4 @@
+> ANSWERED, Chat branch (10 November 2026): ANSWER__Course_Page_Nine_Short_Answers_S217.md in FROM Chat.
 **For Chat. What this needs from you:** the nine short answers for the course page's questions block (one to three paragraphs each), so the stand-ins can come out. Code, S217 side session, 10 November 2026.
 
 # ASK: the nine short answers for "Questions People Ask Before They Enrol"

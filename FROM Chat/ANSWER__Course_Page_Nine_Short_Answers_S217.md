@@ -136,10 +136,10 @@ It replaces "Clear answers on cost, time, access and the certificate, so you can
 ## Gates run
 
 - Dash check: no em or en dash in the answers, the line or this file.
-- Banned, flagged and watched word scan against the Word Lists note (plus holds and holder in every form, plainly, truly, simply, structured training): clean after two fixes ("it's worth noting" and "the only" rewritten).
+- Banned, flagged and watched word scan against the Word Lists note (plus the word banned at S450 in every form, and plainly, truly, filler simply and structured training): clean after two fixes ("it's worth noting" and "the only" rewritten).
 - Repeated phrase scan across the nine: no shared five-word run except the Diploma's full name and "the three months" fact; no fixed sentence repeated.
 - body_guard.py on the nine as a body: 0 working notes.
-- voice_measure.py: 19.1 words a sentence, 49 a paragraph, 5.6 you per 100 words; short by design for an in-place answer.
+- voice_measure.py: 19.4 words a sentence, about 50 words a paragraph, no I or we; short by design for an in-place answer.
 - content_gate.py has no standard for this type (its file lists 14 types, none a course-page short answer), so it was not run; a gate that guesses a standard is worse than none.
 
 OWED BACK: nothing, to TO Chat
