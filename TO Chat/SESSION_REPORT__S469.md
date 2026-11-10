@@ -48,3 +48,9 @@ Code, S469 (theme session, the Accreditation page, Opus 5.5), opened 10 November
 - **What changed:** the supporting lines under The Two Codes Every Member Keeps and How Every Session Is Checked take the bar style every other section on the page carries. No words changed.
 - **Why:** the finish list; Kain's yes on a toggle in the Change Viewer.
 - **Record:** PICKS.md pick 30. Commit 7d4edf37. Three deploy proofs passed. Checked at 1268 and 390.
+
+# SHIP: Accreditation, The Two Codes' heading and line in Kain's words, theme 0.707.899
+
+- **What changed:** heading "The Two Codes We Invite You to Follow"; line "All Achology members are invited to attend two annual training events focused on ethics and character." Kain's own words, placed as written.
+- **One for Chat:** the line invites all members to two annual events, where REF 1 section 3.4 and the signposts below say the training is asked from Achologist Adept upwards. Kain's words stand; Chat to read them against REF 1.
+- **Record:** PICKS.md pick 31. Commit 780886b9. Three deploy proofs passed. One line each at 1268; no sideways spill at 390.
