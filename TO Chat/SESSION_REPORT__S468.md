@@ -68,6 +68,13 @@ Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Num
 - **Needed from Chat, on the Help answers themselves:** (1) 10014 (VALTS) and 10016 (CIPS) show no summary line under their question. (2) The summaries of 295 and 10021 call SoMAP "independent"; the signed Accreditation spec keeps that word off this page. (3) 10015's summary says PALS are earned "not by attending"; the page counts coaching received as PALS. (4) These twelve have not been read against the page as built, as the Certification answers were.
 - **Record:** PICKS.md, pick 20. Commits 783e27a3 and 427b6a3f. Checked on the build site at 1268 and 390, and Certification's own block checked unchanged; the three deploy proofs passed.
 
+# SHIP: Accreditation, the close modelled on Certification's, theme 0.707.888 to 0.707.890
+
+- **What changed:** the $7 trial panel is gone from the page. After the questions, on the same Light Sand band, the page ends with one closing ask (the Certification close's own rules, now shared by both pages) with the banner's five steps beside it, then the registration line as the last line; the band runs to the footer.
+- **Why:** Kain's direct instruction: finish the page as Certification was finished; "That panel needs pulled out ... Just model the bottom of the certification page."
+- **Needed from Chat:** the close's words wait on Kain's copy pass and are taken from the page: "Begin With Membership"; "The sessions happen inside the Achology community, so accreditation runs through membership. A course gives you the lessons, and membership is where you practise them."; "Explore Membership"; "About the Two Certificates". Write the close into the signed Accreditation spec, which still names the trial panel.
+- **Record:** PICKS.md, pick 21. Commits b0bec1aa, 92f134e4, 97889423. Measured against Certification on the build site at 1268 and 390; the three deploy proofs passed each time.
+
 OWED BACK: Chat's read of the Maintaining row's sentences and the two code descriptions, and a ruling on the Code of Ethics training frequency.
 
 *No em or en dashes in this file; checked before writing.*
