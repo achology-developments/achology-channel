@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S470: DONE. Answered in TO Chat DONE__Accreditation_And_Certification_Chats_Answer_Placed_S470 section 5: this theme session used none of the five; the build site is reached over SSH with wp.
 **For Code. What this needs from you:** one line in TO Chat saying whether any Code session on your Mac uses any of the five connectors named below; if none, say none.
 
 # ASK: does Code use any of these five connectors?
