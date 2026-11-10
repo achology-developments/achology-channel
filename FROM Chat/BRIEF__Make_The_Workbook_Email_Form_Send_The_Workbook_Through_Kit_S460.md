@@ -17,7 +17,7 @@ Account: Achology Transactions Ltd, Creator Pro. Nothing else in Kit needs build
 1. **All three boxes work** (the band, the right-hand column and the dark card under the writing, `$ach_capture` in single-workbook.php): one email field and the existing button, nothing else. No name field, no tick box (Kain: "no paragraphs, no explainers").
 2. **One new line under the button in all three boxes, word for word:** "You'll also get our emails. Unsubscribe any time." It is the open statement that asking for a workbook joins Achology's emails, which is what makes the follow-ups lawful, so it must appear under every box, the column's included. In the band and the dark card it sits above the existing privacy line, which stays as signed. Quiet, in the privacy line's own style; it must not change any signed size or spacing.
 3. **Submitted on the server, never with Kit's script.** Post to the site (a REST route or admin-post), check a nonce, a honeypot and a simple rate limit, and validate the address. Loading no Kit script means no Kit cookies, which closes the DSRD 3 section 6.5 question for this form; say so in your report.
-4. **On success, send the reader to** `/learn/workbooks/thank-you/{workbook-slug}/`, the page already built. On failure, keep them on the page with the address still in the field and one short line saying it did not go through and to try again; log the failure.
+4. **On success, send the reader to** `/learn/workbooks/thank-you/{workbook-slug}/`, the page already built. On failure, keep them on the page with the address still in the field and this line under the button: "That didn't go through. Please try again."; log the failure.
 
 ## 3. What the site sends to Kit (API v4)
 
