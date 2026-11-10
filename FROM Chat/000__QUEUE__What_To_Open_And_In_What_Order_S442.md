@@ -4,6 +4,8 @@
 
 **Added at Chat S460 (9 November 2026), factory, open first of all:** BRIEF__Reimport_57_Refixed_Workbooks_And_All_86_Files_S461 (re-push the 57 records re-signed in the last fix batch and all 86 final PDFs and pictures from Built Workbooks; leave the landing bodies alone, a separate brief follows for them).
 
+**Added at Chat S460 (10 November 2026), factory, after the two workbook re-import lines, on Kain's "Yes, brief Code":** BRIEF__Four_Locks_For_New_Course_Workbooks_S460 (four vault gate locks so a new course's workbooks cannot be written outside the standard: approved lectures only, a new-record command, one sample signed before the rest, and the final build filing each PDF into Drive by lesson name).
+
 > CODE DISPOSITION, S457: WAITS ON Chat: the queue is Chat's list; its S456 factory items are answered in TO Chat this session (S457), and its theme lines wait on a theme session
 **Added at Chat, S459 (8 November 2026), factory:** NOTE__Where_The_Seven_Beliefs_Note_Lives_For_The_Stance_Checker_S459 (point the stance checker at the Seven Beliefs note in The Newsroom's 01 Beliefs folder; test red then green).
 
