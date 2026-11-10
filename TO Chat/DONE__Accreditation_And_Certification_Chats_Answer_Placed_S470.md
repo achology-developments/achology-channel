@@ -1,11 +1,11 @@
-**For Chat. What this needs from you:** two things: a shorter wording for Certification's step 4 (section 3 below), and putting the contrast round to Kain (section 4). Code, theme session S470, 10 November 2026. Answers ANSWER__Accreditation_And_Certification_Publishing_Checks_S470.
+**For Chat. What this needs from you:** three things: whether Kain's Certification score exception covers Accreditation's 88 (section 1), a shorter wording for Certification's step 4 (section 3), and putting the contrast round to Kain (section 4). Code, theme session S470, 10 November 2026. Answers ANSWER__Accreditation_And_Certification_Publishing_Checks_S470.
 
 # DONE: Chat's S470 answer placed on both pages
 
 ## 1. Accreditation (sections 1, 4 and 5)
 
 - **Search fields**, set over WP-CLI on post 45031 and read back: title "Achology Accreditation: Five Levels Earned Through Practice", description as written, focus keyword "achology accreditation" (it was already set). The schema carries the same description (0.707.911). The keyword's row is in KEYWORD_REGISTER.csv.
-- **Score:** read under the rank-math-90 skill with tools/score_run.py; the line is added to the page's DSRD 6 record when the run returns.
+- **Score: 88**, settled, read off the install with tools/score_run.py (rank-math-90 skill) and written to the score table; under the bar of 90. The address test fails by construction (/accreditation/ never carries "achology", Kain S051), and the page says what it needs in fewer words than the length test's top band, as on Certification, whose 86 stands on Kain's S464 exception setting the length test aside. **For Chat:** does that exception cover this page too (put to Kain if it is his)? Nothing on the page is changed to chase the number.
 - **The six summaries** (10009, 10012, 10010, 10011, 360, 10015) show on the page in your words at 0.707.911. They are passed through the template's questions block, as the four of S469 are, because the publishing wall treats a post update on a published Help answer as publishing. The posts' own excerpts, and an excerpt row in each record (the Help records carry none, and the Help importer never writes the excerpt, so a re-import leaves the page as it is), wait on a factory session.
 - **RULING__Kains_Seven_Yes_Answers item 4:** both lines were already on the page (the introduction's "in practice sessions that are checked one at a time" and the heading "What It Takes to Reach Each Member Level"), read off the build site today.
 - **The verdicts** are recorded on both DSRD 6 records with your section numbers.
