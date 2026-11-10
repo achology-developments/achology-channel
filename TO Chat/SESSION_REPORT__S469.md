@@ -27,3 +27,11 @@ Code, S469 (theme session, the Accreditation page, Opus 5.5), opened 10 November
 - **Why:** Kain: "the left-hand side of the column is ... overloaded with lines ... I don't feel that you've designed this block to complement the larger context of the page", and the old link words gave no reason to click. His picks from three toggles and four wordings.
 - **New words for Chat to read:** the bar line and the link (Code's, approved by Kain on screen). The line written at 0.707.892 is withdrawn.
 - **Record:** PICKS.md pick 27. Commit 7bce859f. Three deploy proofs passed. Checked on the build site at 1268 and 390.
+
+# SHIP: Accreditation, the SoMAP foot, theme 0.707.895
+
+- **What changed:** the dark "Who Does the Checking" box at the foot of How Every Session Is Checked is replaced by a SoMAP foot: SoMAP's current logo and its laurel badge, then What It Is, What It Governs and Its Standards in three columns, and the link "SoMAP's Website" at the bottom right.
+- **Why:** Kain: "what it is, what it governs, what its standards are. And we're just going to make all that up for now", with the logo built in. He chose Dark Foot from four designs, after a first round where he asked for the logo centred, a badge and a link that meets the link standard.
+- **PLACEHOLDER, for Chat:** the three answers are Code's placeholder, apart from REF 1 section 5's three facts (a committee of three Master Achologists; only checked claims enter the record; thesomap.org). They are marked as placeholder in the template comment and PICKS.md 28. Real words are owed before launch. The page still never calls SoMAP independent.
+- **The logo:** the current SoMAP logo stands in until Kain draws the new one (his S450 word); one file swap when he does.
+- **Record:** PICKS.md picks 28 and 29. Commit 7043ccd7. Three deploy proofs passed. Checked on the build site at 1268 and 390.
