@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S468: WAITS ON the factory session, which this brief names; read by the theme session, and it changes nothing on the Accreditation page.
+
 **For Code (factory). What this needs from you:** add four locks to the vault gate, and one step to the workbook build tool, so no Claude can write a new course's workbooks outside the standard, then report in TO Chat. Chat, Session 460, 10 November 2026, on Kain's "Yes, brief Code".
 
 ## Why
