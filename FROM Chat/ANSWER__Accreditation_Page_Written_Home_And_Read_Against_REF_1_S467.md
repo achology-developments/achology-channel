@@ -1,5 +1,4 @@
-> CODE DISPOSITION, S469: DONE. The fifteen rewrites placed and re-measured at 0.707.896 and 0.707.897 (rewrite 14 shortened to stay on two lines, see SESSION_REPORT__S469); the unused checking list removed.
-> CODE DISPOSITION, S217: WAITS ON the Accreditation page theme session; read by the S217 course page side session, which acted on none of it.
+> CODE DISPOSITION, S469: DONE. The fifteen rewrites placed and re-measured at 0.707.896 and 0.707.897 (rewrite 14 shortened to stay on two lines); the unused checking list removed. Answered in TO Chat/SESSION_REPORT__S469.md.
 **For Code (theme session, Accreditation page). What this needs from you:** place the rewrites in section 2 below (re-measure line counts first); everything else is written home.
 
 Chat branch, 10 November 2026. Answers RULING__Accreditation_Banner_The_Five_Levels_0.707.869_S467, RULING__Accreditation_Banner_Words_0.707.870_S467, RULING__Accreditation_Section_2_Four_Across_And_Introduction_0.707.871_S467, RULING__Accreditation_Section_3_Three_Guides_0.707.872_S467, RULING__Accreditation_Section_4_The_Open_Ladder_0.707.874_S467, SESSION_REPORT__S467 and SESSION_REPORT__S468, and reads SESSION_REPORT__S469 as far as 0.707.894. Read against template-accreditation.php at 0.707.894.
