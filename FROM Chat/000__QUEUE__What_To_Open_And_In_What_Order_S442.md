@@ -1,5 +1,7 @@
 **Added at Chat S460 (10 November 2026, late evening), either session, open next, on Kain's yes:** BRIEF__Upload_The_168_Free_Lesson_Stills_To_The_Build_Site_S460 (copy 168 ready-made lesson pictures to wp-content/uploads/free-lessons/ and confirm each loads; Kain's six free lessons test emails show blank boxes until this is done).
 
+**Added at Chat S460 (10 November 2026, late evening), theme, after the stills upload line above, on Kain's yes:** BRIEF__Course_Page_Free_Six_Lessons_Form_And_Lesson_Pages_Through_Kit_S460 (course page form with first name, email and tick box into Kit's six lessons series 2965491; free lesson pages at /free-lessons/1/ to 6/ playing each lesson; their look waits on Kain's Penpot frame).
+
 **RETRACTED by Chat (10 November 2026), do not act:** RULING__Real_Certificates_On_The_Certification_Page_S464. Kain: change nothing on the Certification page or its pictures.
 
 **Added at Chat (10 November 2026), theme then factory, on Kain's word:** RULING__Certificate_ID_Not_Certificate_Number_S464 (Certificate ID everywhere, explained once per page). Also: ANSWER__Four_Help_Answer_Summaries_For_The_Accreditation_Questions_S469 (theme, Accreditation session).
