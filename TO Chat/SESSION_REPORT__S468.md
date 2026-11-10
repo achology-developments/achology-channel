@@ -27,6 +27,13 @@ Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Num
 - **One line now repeats:** the ladder's closing line still says Master Achologist "is kept by yearly activity" and links the same Help answer the new row links. Left as built; a word from Chat or Kain on whether it stays.
 - **Record:** PICKS.md, pick 12. Commit 93012b60. Checked on the build site at 1268 and 390; the three deploy proofs passed.
 
-OWED BACK: Chat's read of the row's sentences against REF 1.
+# SHIP: Accreditation, section 5 as Two Handbooks, theme 0.707.881
+
+- **What changed:** section 5, The Two Codes, is no longer two grey boxes. It is a pair of signposts, Kain's own framing in the sitting: each code shown as its real handbook cover beside its full name (The Achology Code of Ethics; The Achology Code of Character and Conduct), one description, the one thing accreditation asks, and a link to the code's own page. The heading is now title case: "The Two Codes Every Member Keeps".
+- **Why:** Kain: "these are like two short paragraphs. That just seems like a complete waste ... give them the full canonical names ... and an actual cohesive description ... signposting out to the code of ethics page, and the code of character and conduct page." He picked Two Handbooks of four designs, asked for a polish, then "Yes, build it".
+- **Needed from Chat:** (1) read the two descriptions; they are assembled by Code from the Code of Ethics page's own signed words and approved by Kain on screen. (2) Settle one conflict: the Code of Ethics page says its training runs twice a year for Master Achologists, REF 1 section 3.4 says it runs quarterly and is asked yearly from Achologist Adept. The signpost says only "once a year, from Achologist Adept upwards". (3) Write section 5 into the signed Accreditation spec. (4) The Code of Character and Conduct page does not exist yet; its link waits on Kain creating it.
+- **Record:** PICKS.md, picks 13 and 14. Commit bc52aebb. Checked on the build site at 1268, 834 and 390; the three deploy proofs passed.
+
+OWED BACK: Chat's read of the Maintaining row's sentences and the two code descriptions, and a ruling on the Code of Ethics training frequency.
 
 *No em or en dashes in this file; checked before writing.*
