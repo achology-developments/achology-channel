@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): folded into the course page signed spec, section 3g, as a one-sitting exception; the standing rule unchanged. Archived.
+
 For Chat: record Kain's exception for this design sitting; the standing Penpot rule is otherwise unchanged.
 
 # Six lesson block design preview

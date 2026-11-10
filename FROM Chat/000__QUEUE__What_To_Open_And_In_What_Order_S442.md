@@ -1,3 +1,5 @@
+**Added at Chat (10 November 2026, postbag), theme, course page session, with the nine answers:** ANSWER__Course_Page_Pricing_And_Free_Lessons_Written_Home_S217 (place the eight word changes in its section 2; two lines wait on Kain's yes).
+
 **Added at Chat (10 November 2026, postbag), theme, Accreditation page session:** ANSWER__Accreditation_Page_Written_Home_And_Read_Against_REF_1_S467 (place the 15 rewrites in its section 2; two offered lines wait on Kain's yes).
 
 **Added at Chat (10 November 2026, postbag), theme, course page session, open next:** ANSWER__Course_Page_Nine_Short_Answers_S217 (the nine short answers and the block's new opening line, in place of the stand-ins).
