@@ -203,7 +203,7 @@ New:
 
 ## Count
 
-21 records. 34 lines in all: 26 on-page lines in 19 records (7 rm_seo_description fields, 4 H2 headings and the excerpts' answer paragraphs included), and 8 ledger lines in 5 records (7 claims rows and 1 Search and Citation Brief line). The post_excerpt field is absent from every changed record; the Accreditation page draws its lines for posts 295 and 10021 from the answer paragraph and rm_seo_description above, so read both back on that page after import.
+21 records. 40 lines in all: 32 on-page lines in 19 records (5 rm_seo_description fields, 2 H2 headings, 1 whole paragraph and 24 body sentences), and 8 ledger lines in 5 records (7 claims rows and 1 Search and Citation Brief line). The post_excerpt field is absent from every changed record; the Accreditation page draws its lines for posts 295 and 10021 from the answer paragraph and rm_seo_description above, so read both back on that page after import.
 
 **Left alone, and why.** Four records call Achology itself "an independent online school" or "an independent education provider" (what-is-achology, is-achology-a-university, do-you-need-a-mental-health-practitioner-degree, achology-courses-cpd-hours): that is Achology's own standing beside universities, not SoMAP, and is outside this ruling. The partnerships answer's "independence" is Achology's freedom from sponsors. The psychology-course-accreditation-online ledger row's old source named a vault note section called "Independent verification, SoMAP"; the new source points at REF 1 instead, and that vault note is not changed here.
 
