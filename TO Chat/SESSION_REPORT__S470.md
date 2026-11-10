@@ -12,11 +12,16 @@
 - **Fold-back** (hand added): PROTOTYPE__Accreditation_Page_S470_APPROVED.html (the page exported at 0.707.907, stylesheets inlined) and BUILD_SHEET__Accreditation_Page.md in the Accreditation Page folder; the S364 prototype removed as superseded (in git history); README updated. Card: Accreditation page.
 - **One Change Viewer round** for Kain, built and measured, not yet shown: previews/accreditation-s467/round-sp-1.js (switch ps), the phone and tablet spacing as Certification's. Card: Accreditation page.
 
+- **0.707.909** (theme commit c6b7fda9): Accreditation's spaces step down below a computer as Certification's (48 tablet, 32 phone), Kain's go-ahead; RULING__Accreditation_Phone_And_Tablet_Spacing_As_Certification_S470. Card: Accreditation page.
+- **0.707.911** (theme commit 5f14e442): Chat's S470 answer placed: Accreditation's search title and description (set over WP-CLI, Kain's yes), schema description, six question summaries; Certification's three word changes (Kain's yes), no picture touched. DONE__Accreditation_And_Certification_Chats_Answer_Placed_S470. Card: both pages.
+- **The contrast round** (theme commit 410711ac, preview only): round-ct-1.js, two toggles, waiting on Kain's eye. Card: both pages.
+
 ## Not finished
 
-- Accreditation's search title, description and focus keyword, the score, and the schema description: wait on Chat's words and Kain's yes (ASK S470 section 1).
-- The spacing round: waits on Kain's eye.
-- Chat's verdicts and reads: ASK S470 sections 2 to 6.
+- Accreditation's Rank Math score: the read is running; the line goes on the page's record.
+- The contrast round: waits on Kain's eye.
+- Certification step 4's shorter wording: waits on Chat (DONE S470 section 3).
+- The six Help answers' own excerpts: wait on a factory session.
 
 ## The other S470 theme session: the Code of Character and Conduct page
 
