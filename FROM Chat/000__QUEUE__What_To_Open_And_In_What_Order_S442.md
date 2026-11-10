@@ -1,3 +1,9 @@
+**Added at Chat (10 November 2026, postbag), theme, course page session, open next:** ANSWER__Course_Page_Nine_Short_Answers_S217 (the nine short answers and the block's new opening line, in place of the stand-ins).
+
+**Added at Chat (10 November 2026, postbag), theme, Certification then factory:** ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks (theme: four Help answers back into the Certification questions block and a 22-word close line; factory: three redirects to one hop; Chat's word on 36637; the two Help sentences in section 2.2 wait on a FROM Chat go-ahead line).
+
+**Added at Chat (10 November 2026, postbag), factory, WAITS ON Kain's yes, do not apply before a FROM Chat line says he gave it:** RULING__The_Permanent_Fix_For_Permission_Boxes_S211 (one shared permission list on both Macs; its smaller fallback applies if he says no).
+
 **Added at Chat S460 (9 November 2026), EVERY Code session, before anything else:** NOTE__Code_Runs_Two_Sessions_Only_S460 (finish the job in hand, then one factory and one theme session stay and the rest close; every job from this queue; Kain types only "next").
 
 **Added at Chat S460 branch (10 November 2026), theme, open next, on Kain's yes ("Yes, that way", "Yes, this form"):** BRIEF__Make_The_Workbook_Email_Form_Send_The_Workbook_Through_Kit_S460 (make the email box on all 86 workbook pages a working server-side form that sends the reader to Kit, which emails the workbook; Kit is already built; first name, email and a tick box in every box; test with a real address).
