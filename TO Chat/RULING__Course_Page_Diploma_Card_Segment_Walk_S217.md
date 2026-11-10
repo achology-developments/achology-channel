@@ -46,6 +46,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 22. The button, the guarantee and the logos in step (pick 274). Kain asked for "neatness and synchronicity" between the Enrol button, the guarantee band and the logo row, and said "Yes, keep it" to Matching Pill, Logos Across, of three: the guarantee band takes the button's own pill shape and height, and the five logos spread from the button's left edge to its right edge, so all three rows share both edges. The button is the site's standard and is untouched.
 
+23. The two bundles as one card of two rows (pick 275). Kain brought a mock-up he made in ChatGPT, called its mechanism "very, very, very clean" but its design not to our standards, and said "Yes, keep it" to the build: one card under the Diploma card with two slim rows (the school bundle and the Access All Areas Pass), a row opening its panel beneath it, one open at a time, both closed when the page loads. Each panel is the Diploma card's own approved parts unchanged (the dark half with the living neuron, the Soft Panel of icon lines, the grey-track tabs in his words, the Receipt and rolling price, the standard button), with a list of the included courses and the saving. Every figure is from DSRD 4 and DSRD 5; the pass's rating count is DSRD 5's locked 175,162. The mock-up's words are placed as given for now and are Chat's to work (title case on the headings, "This Diploma" across 28 courses, the middle dots, the button words); Kain said he will change wording afterwards.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
