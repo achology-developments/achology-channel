@@ -44,6 +44,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 21. The strip's size and spacing (pick 273). Kain: "this is looking nice now ... Definitely love this gray ... the logos might just be a little bit big". The five marks are about a fifth smaller, evenly spaced, Stripe's badge brought down to match, and the strip is 47 tall with both ends on the card's content edges.
 
+22. The button, the guarantee and the logos in step (pick 274). Kain asked for "neatness and synchronicity" between the Enrol button, the guarantee band and the logo row, and said "Yes, keep it" to Matching Pill, Logos Across, of three: the guarantee band takes the button's own pill shape and height, and the five logos spread from the button's left edge to its right edge, so all three rows share both edges. The button is the site's standard and is untouched.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
