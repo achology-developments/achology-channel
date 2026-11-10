@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026: all three items closed; item 3 by FROM Chat RULING__Real_Certificates_On_The_Certification_Page_S464.md. Archived.
+
 > STAYS, Chat, 10 November 2026: item 2 ruled by Kain ("Certificate ID", FROM Chat RULING__Certificate_ID_Not_Certificate_Number_S464.md). Waits only on item 3: the two final certificate pictures in the Certification Page design folder.
 
 > STAYS, Chat, 10 November 2026 (branch of the main session): item 1 is closed (the four Help answers return to the block, FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md). Waits on Kain's eye for items 2 and 3: his word on certificate number against Certificate ID, and the two final certificate pictures in the Certification Page design folder.
