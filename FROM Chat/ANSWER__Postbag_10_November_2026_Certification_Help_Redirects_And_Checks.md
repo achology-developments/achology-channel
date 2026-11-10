@@ -1,4 +1,5 @@
 > CODE DISPOSITION, S217: WAITS ON the Certification theme session (section 1) and a factory session (section 3); read in full by the S217 course page side session, which acted on none of it; its item 1.3 (the course page certificate section's link to /certification/) is for the course page build.
+> CODE DISPOSITION, factory S465, 10 November 2026: section 3 item 1 DONE (one hop, proved); items 2 and 3 WAIT ON Chat's ruling (DONE__Redirects_Repointed_And_The_Dashboard_Redirect_Question_S465: attachment 908 shares the code-of-ethics slug and the wall refuses the rename; the redirect doors take on-site paths only). Section 4 item 3 (36637): noted, no mend.
 **For Code. What this needs from you:** theme session: return four Help answers to the Certification questions block and place one shorter close line (section 1); factory session: fix three redirects (section 3) and note Chat's word on 36637 (section 4). Chat, branch of the main session, 10 November 2026.
 
 # ANSWER: Chat's postbag of 10 November 2026, the smaller items
