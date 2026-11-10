@@ -9,6 +9,8 @@ The six free lessons emails in Kit (sequence "Website Course Free Six Lessons", 
 ## The files
 In the project folder: Course Page design folder, then "Six Lessons Emails S460", then "Upload These 168". 168 JPGs, 640 x 360, about 40 KB each, named `achology-free-lesson-{course number, three digits}-{lesson 1 to 6}.jpg` (for example `achology-free-lesson-001-1.jpg`). Each is the course page's own teaching still from previews/course-page-s208/img/lessons/640 (lesson 1 of course 001 uses the alt2 frame Kain picked) with the play disc and the lesson's real running time laid on by `tools/still.py` beside them. Course 012 lessons 5 and 6 had no still in that folder, so those two use the video's own Vimeo frame. Do not remake or recompress them.
 
+**One extra file in the same folder:** `achology-free-lessons-community.jpg` (the day 44 email's picture of live sessions). Upload it to the same place.
+
 ## What to do
 1. Copy all 168, unchanged, to `wp-content/uploads/free-lessons/` on the build site (a plain folder, not the media library, so no WordPress page or attachment is made).
 2. Check every one answers 200 with `image/jpeg` at `https://achologytest.com/wp-content/uploads/free-lessons/achology-free-lesson-{ccc}-{n}.jpg`.
