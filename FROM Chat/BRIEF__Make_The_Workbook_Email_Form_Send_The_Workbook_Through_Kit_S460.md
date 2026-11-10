@@ -9,9 +9,9 @@ Read first: DSRD 4 section 5.1 (the paragraphs "How the workbook download gate w
 Account: Achology Transactions Ltd, Creator Pro. Nothing else in Kit needs building for this job.
 
 - **Tags:** `Website Workbook Download` (id 25677339), and seven category tags named `Website Workbook Category: <category>` for the seven DSRD 1 section 4 categories (ids 25677340 to 25677346).
-- **Custom fields (keys):** `workbook_name`, `workbook_link`, `workbook_course`, `workbook_cover`, `workbook_course_link`.
+- **Custom fields (keys):** `workbook_name`, `workbook_link`, `workbook_course`, `workbook_cover`, `workbook_course_link`, `workbook_course_cover`, `workbook_course_tagline`.
 - **Sequence `Website Workbook Delivery` (id 2965204):** one email, sent 0 hours after joining, Kain's words in the Achology email design he approved on a real inbox test. It reads the five fields above. Repeat is on.
-- **Sequence `Website Workbook Follow-Ups` (id 2965261):** three emails on days 2, 5 and 9; Chat is writing them now, and the sequence sends nothing until they are published. Repeat is off.
+- **Sequence `Website Workbook Follow-Ups` (id 2965261):** three emails on days 2, 5 and 9. The day 2 email (Kain's own words) is in and published; Chat is writing days 5 and 9. Repeat is off.
 - Two sequences named `Design Test` and `Design Test 2` are Chat's tests; ignore them.
 
 ## 2. The form, on every workbook page
@@ -24,7 +24,7 @@ Account: Achology Transactions Ltd, Creator Pro. Nothing else in Kit needs build
 ## 3. What the site sends to Kit (API v4)
 
 For the workbook the reader asked for, at the moment they ask:
-- Create or update the subscriber by email, with `first_name` set to the name given (left as it is in Kit if blank), and with the fields: `workbook_name` (the workbook's searched name, for example "Karpman Drama Triangle Workbook": the title before the colon, the same name the thank-you page uses), `workbook_link` (the URL of its `pdf_file` attachment, read at that moment, so a re-import can never leave a stale link), `workbook_course` (the full DSRD 5 name from `associated_course`), `workbook_course_link` (that course's page, through `achology_course_url`), and `workbook_cover` (the cover image, see section 4).
+- Create or update the subscriber by email, with `first_name` set to the name given (left as it is in Kit if blank), and with the fields: `workbook_name` (the workbook's searched name, for example "Karpman Drama Triangle Workbook": the title before the colon, the same name the thank-you page uses), `workbook_link` (the URL of its `pdf_file` attachment, read at that moment, so a re-import can never leave a stale link), `workbook_course` (the full DSRD 5 name from `associated_course`), `workbook_course_link` (that course's page, through `achology_course_url`), `workbook_cover` (the cover image, see section 4), `workbook_course_cover` (the course's own cover from the theme, `images/course-covers/course-quote-cover-NNN`, as a 300 px JPG like the workbook cover) and `workbook_course_tagline` (the course's tagline from the tagline table in DSRD 2, for example "develop the skills and psychological understanding needed to positively influence people's mental health and wellbeing.": first letter lower case, full stop kept, because the email reads "a course for people who'd like to {tagline}").
 - Apply the tag `Website Workbook Download` and the tag for the workbook's primary `kh_category`.
 - Add the subscriber to sequence 2965204 (delivery) and to sequence 2965261 (follow-ups).
 
@@ -44,7 +44,7 @@ When an address that has already had one workbook asks for a second, Kit must se
 Done when, on the build site, with a real address Chat can read (manager@achology.com):
 1. Each of three workbooks from three different categories (Karpman Drama Triangle, one Mindset Mastery, one other), asked for from each of the three boxes, lands on its own thank-you page.
 2. The email arrives within two minutes for each, with the right cover, name, course and link, and the link opens the PDF for someone not signed in to the site.
-3. Kit shows the address with the five fields, both tags, and in both sequences.
+3. Kit shows the address with the seven fields and the first name, both tags, and in both sequences.
 4. A second workbook for the same address arrives (section 5).
 5. All three boxes show the name field, the email field and the tick box at computer and phone width, an unticked box stops the form with its line, and the email greets the test by the name given; the page passes its DSRD 6 gate, and no Kit script loads on the page.
 
