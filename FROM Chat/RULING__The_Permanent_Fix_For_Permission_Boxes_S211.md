@@ -69,7 +69,7 @@ This fix widens what runs without asking beyond what Code already added: Code's 
 
 "Shall Code's sessions move, copy and delete files without asking you, but only inside the Achology folder, the channel and Code's scratch folder, with anything outside those still asking? Yes or no."
 
-On a no, Code applies Steps 2 to 5 only and leaves `additionalDirectories` without the channel line and `defaultMode` unset.
+On a no, Code applies Step 1 without the `defaultMode` line and without the channel line, does Steps 2 and 4, and in Step 3 keeps the `mv`, `cp` and three `rm` rules Code added on 8 November; Step 5 then falls away.
 
 OWED BACK: a DONE in TO Chat naming the settings applied on both Macs, to TO Chat
 

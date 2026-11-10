@@ -1,3 +1,5 @@
+> ANSWERED, Chat branch (10 November 2026): RULING__The_Permanent_Fix_For_Permission_Boxes_S211.md in FROM Chat.
+
 > STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat RULING naming the one permanent fix (line 6 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder).
 
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.
