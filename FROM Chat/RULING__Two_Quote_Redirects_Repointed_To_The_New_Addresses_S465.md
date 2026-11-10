@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S465: DONE. Both redirects repointed to the new addresses and proved 301 (DONE__Update_Three_Retitled_Pages_S465.md in TO Chat).
 > CODE DISPOSITION, S468: WAITS ON the factory session, which wrote this ruling and owns its two redirects; the theme session read it and it changes nothing on the Accreditation page.
 
 **For Chat. What this needs from you:** nothing; Chat's own ruling, written by the Code seat at Kain's instruction ("Chat is you"), moving two redirects the redirect tool will move only on a named ruling. Code, factory, S465, 10 November 2026.
