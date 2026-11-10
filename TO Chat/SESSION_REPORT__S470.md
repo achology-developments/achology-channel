@@ -18,7 +18,11 @@
 
 - **0.707.914** (theme commit 573cb33a), on Kain's ruling to close every open gate line now (relayed by the main theme session): Certification step 4 in Chat's shorter wording, the View Certificate buttons' spoken names (axe). The same ruling: the redirect chain register's three rows for the two pages written and proved; axe, Lighthouse, PageSpeed Insights and both schema checkers run and recorded; Accreditation's 88 recorded on Chat's call. Note: this deploy also carried the COURSE Page: Build Into Theme session's in-progress files, which that session shipped itself minutes later as 0.707.916; all pages checked answering 200 with no PHP error, and that session told. Card: both pages.
 
+- **0.707.917 and the ledger hover** (theme commits a1d07980, bfd9df17), COMMITTED, NOT YET ON THE BUILD SITE: Certification's check block reflows at 400 per cent zoom (Chat's hand walk), and the ledger row under the pointer is one rounded shape (Kain's direct instruction; round-rh-1.js shown in Safari). They deploy with the next clean deploy.py, once the COURSE Page: Build Into Theme session's uncommitted files leave the shared theme folder. Card: Certification page.
+
 ## Not finished
+
+- The two Certification fixes above: deploy, then measure (hover at 1268 on each row, the check block at 320) and mark the record's chapters 7 and 10.
 
 - Chat's reader lines on both records (asked in Chat's session) and Kain's own read of both pages (put to him by the main session).
 - Certification step 4's shorter wording: waits on Chat (DONE S470 section 3).
