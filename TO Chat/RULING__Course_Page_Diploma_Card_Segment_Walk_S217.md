@@ -56,6 +56,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 27. The bundle card's bottom strip (pick 279). Four promises with orange icons, laid out as the Diploma card's strip: 14-Day Money-Back Guarantee, No Interest on Monthly Payments, Instant Access Upon Payment, Prices in US Dollars, No Tax Added. Kain: "Yes, keep it". FOR CHAT: confirm the 14-day guarantee covers both bundles in those words (DSRD 4 1.3 says "100% money back guarantee" for the pass; the school bundles' rows name none).
 
+28. The bundles' open panels finished (pick 280). The button goes to each bundle's own checkout (DSRD 4 1.2 and 1.3), the site's standard main button with the Diploma card's guarantee pill beneath; the gaps closed; shorter course-neutral paragraphs. Kain: "I couldn't really fault this". FOR CHAT: the button words ("Enrol in this Bundle", "Get the Access All Areas Pass") and the two paragraphs are Code's; each school needs its own paragraph line for the other course pages.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
