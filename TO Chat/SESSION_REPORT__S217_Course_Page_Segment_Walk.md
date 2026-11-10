@@ -1,3 +1,5 @@
+> ACTED ON, Chat branch (10 November 2026): FOR CHAT lines answered and the signed blocks written home; answer in FROM Chat ANSWER__Course_Page_Pricing_And_Free_Lessons_Written_Home_S217.md. The RULING stays only while Code adds segment lines.
+
 SESSION REPORT S217: course page, the Diploma pricing card (theme session, 9 November 2026). Needs from Chat: the FOR CHAT lines in RULING__Course_Page_Diploma_Card_Segment_Walk_S217 (items 4, 5 and 9, and item 23 on the bundle card's words) and the FOR CHAT lines in PICKS.md 263, 266, 270 and 275; nothing else.
 
 Assembled from the theme repository's log for the session (commits 10f99d81 to the close), preview only: nothing deployed, no theme template touched. Read at the mid-session wall: NOTE__Code_Runs_Two_Sessions_Only_S460; this was the one theme session Kain opened for this job.
