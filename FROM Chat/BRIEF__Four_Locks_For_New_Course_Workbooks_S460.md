@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S468: WAITS ON the factory session, which this brief names; read by the theme session, and it changes nothing on the Accreditation page.
+> CODE DISPOSITION, S471: WAITS ON one real final build on a Mac where Google Drive is mounted, to prove lock D live; locks A, B and C and lock D against a temporary drive are DONE and proved (43 of 43 cases), in DONE__Four_Locks_For_New_Course_Workbooks_S471.
 
 **For Code (factory). What this needs from you:** add four locks to the vault gate, and one step to the workbook build tool, so no Claude can write a new course's workbooks outside the standard, then report in TO Chat. Chat, Session 460, 10 November 2026, on Kain's "Yes, brief Code".
 

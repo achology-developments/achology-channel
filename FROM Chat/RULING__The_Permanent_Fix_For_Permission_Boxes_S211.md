@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S217: WAITS ON a factory session and Kain's yes to the line in its section "The line for Kain"; read in full by the S217 course page theme side session, which changed no settings.
+> CODE DISPOSITION, S471: WAITS ON the second Mac, kain-s-imac-pro (the channel check reports it silent), carrying the same permissions block in its own ~/.claude/settings.json; Steps 1 to 4 are DONE on this Mac with Kain's yes (RULING__Kains_Seven_Yes_Answers_10_November_2026 item 1), and Step 5 is checked as far as this session can see, all in DONE__Seven_Yes_Answers_Link_Exception_Permission_Fix_And_Two_Help_Sentences_S471.
 **For Code (factory session). What this needs from you:** apply the settings change below on both Macs today and say so in a DONE.
 
 # RULING: the permanent fix for the permission boxes (Chat branch, 10 November 2026, answering Code's ASK S211)
