@@ -31,7 +31,8 @@ Assembled from the theme repository's log for the session (commits 10f99d81 to t
 - Pick 279, the bundle card's reassurance strip (bn6, round sg-24). Finished; FOR CHAT on the guarantee (RULING item 27).
 - Pick 280, the bundles' open panels finished (bn7, round sg-25). Finished; FOR CHAT on the words (RULING item 28).
 - Pick 281, the bundles' course lists linked, the pass's grouped by school (bn8, round sg-26). Finished; the bundle card is complete (picks 275 to 281).
-- Not finished: Kain's sign-off of the whole pricing block; the other 27 courses not run through the block; the sticky bar still reads "Join this Course for $299"; the bundle card's words (Kain will change them; Chat works them first); the strip step (many switches now off behind their keys) and the theme build.
+- Pick 282, THE WHOLE PRICING BLOCK SIGNED by Kain ("Yes, signed"). Finished.
+- Not finished: the other 27 courses not run through the block; the sticky bar still reads "Join this Course for $299"; the bundle card's words (Kain will change them; Chat works them first); the strip step (many switches now off behind their keys) and the theme build.
 - Hand added (no file): H5's push check stopped most turns on other sessions' uncommitted theme files (workbook-card-s466, accreditation-s467, certification.css, style.css, functions.php); this session committed only its own named files. Three theme-type sessions were writing in the one theme folder tonight.
 
 OWED BACK: nothing.

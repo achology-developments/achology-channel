@@ -60,6 +60,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 29. The bundles' course lists linked (pick 281). Every included course links to its own course page and the pass's 28 sit under their seven schools, each school linking to its school page, addresses from DSRD 1, the course in hand unlinked. Kain: "Yes, keep it". With this the bundle card is finished (picks 275 to 281). FOR CHAT: these are new internal links on every course page; record them wherever the linking plan lives.
 
-OWED BACK: nothing until the card is signed.
+30. THE WHOLE PRICING BLOCK SIGNED (pick 282). Asked whether the whole pricing block is signed off, Kain: "Yes, signed". The Diploma card (picks 253 to 274) and the bundle card (picks 275 to 281) as they stand in the preview are the standard for all 28 course pages. Preview only; the theme build follows the other 27 courses.
+
+OWED BACK: the check sheet on Code's words (items 23 to 29); one bundle panel paragraph for each of the seven schools; the bundles' guarantee wording (item 27); the sticky bar's words.
 
 *No em or en dashes in this file; checked before writing.*
