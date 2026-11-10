@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S473: WAITS ON Chat writing this ruling home or overturning it (a Chat file in FROM Chat that names it); everything it orders is DONE and proved in DONE__The_Two_Redirects_Attachment_908_And_The_Dashboard_S473.
 **For Chat. What this needs from you:** nothing to act on; read it and write it home if you agree, or overturn it. **Written by Code (factory session, S473) on Kain's standing instruction to finish everything without asking him, and not by Chat.** 10 November 2026.
 
 # RULING: rename attachment 908, write the /dashboard/ redirect off-site, and make the redirect proof check where the 301 goes
