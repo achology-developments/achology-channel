@@ -1,6 +1,6 @@
 **Added at Chat S460 (9 November 2026), EVERY Code session, before anything else:** NOTE__Code_Runs_Two_Sessions_Only_S460 (finish the job in hand, then one factory and one theme session stay and the rest close; every job from this queue; Kain types only "next").
 
-**Added at Chat S460 branch (10 November 2026), theme, open next, on Kain's yes ("Yes, that way", "Yes, one line"):** BRIEF__Make_The_Workbook_Email_Form_Send_The_Workbook_Through_Kit_S460 (make the email box on all 86 workbook pages a working server-side form that sends the reader to Kit, which emails the workbook; Kit is already built; one new line under every box; test with a real address).
+**Added at Chat S460 branch (10 November 2026), theme, open next, on Kain's yes ("Yes, that way", "Yes, this form"):** BRIEF__Make_The_Workbook_Email_Form_Send_The_Workbook_Through_Kit_S460 (make the email box on all 86 workbook pages a working server-side form that sends the reader to Kit, which emails the workbook; Kit is already built; first name, email and a tick box in every box; test with a real address).
 
 **Added at Chat S460 (9 November 2026), factory, open first of all, on Kain's "Yes, sign it" (Session 460):** BRIEF__Repush_86_Workbook_Landing_Bodies_Rescore_And_Publish_S461 (re-push the 86 mended landing bodies from the records, re-score, publish every page at 86 or more, DSRD 6 gate; post_content only, runs alongside the re-import line below).
 

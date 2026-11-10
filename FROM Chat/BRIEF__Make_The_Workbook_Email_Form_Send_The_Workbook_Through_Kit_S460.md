@@ -16,15 +16,15 @@ Account: Achology Transactions Ltd, Creator Pro. Nothing else in Kit needs build
 
 ## 2. The form, on every workbook page
 
-1. **All three boxes work** (the band, the right-hand column and the dark card under the writing, `$ach_capture` in single-workbook.php): one email field and the existing button, nothing else. No name field, no tick box (Kain: "no paragraphs, no explainers").
-2. **One new line under the button in all three boxes, word for word:** "You'll also get our emails. Unsubscribe any time." It is the open statement that asking for a workbook joins Achology's emails, which is what makes the follow-ups lawful, so it must appear under every box, the column's included. In the band and the dark card it sits above the existing privacy line, which stays as signed. Quiet, in the privacy line's own style; it must not change any signed size or spacing.
+1. **All three boxes work** (the band, the right-hand column and the dark card under the writing, `$ach_capture` in single-workbook.php), and each asks, in this order, exactly as Kain chose on the rendered page ("Yes, this form", 10 November 2026): a field "Your first name", a field "Your email address", a tick box reading "Send me the workbook and Achology's emails.", then the existing button. Nothing else (Kain: "no paragraphs, no explainers").
+2. **The tick box must be ticked to get the workbook.** It starts unticked. If the button is pressed without it, the form stays put and shows under the box: "Please tick the box to get your workbook." The name may be left blank; the email may not. The fields and box must sit inside the signed design without changing any signed size or spacing; in the band and the column, where space is tight, keep their order and say in your report how they fit at computer and phone width. The privacy line stays as signed in the band and the dark card.
 3. **Submitted on the server, never with Kit's script.** Post to the site (a REST route or admin-post), check a nonce, a honeypot and a simple rate limit, and validate the address. Loading no Kit script means no Kit cookies, which closes the DSRD 3 section 6.5 question for this form; say so in your report.
 4. **On success, send the reader to** `/learn/workbooks/thank-you/{workbook-slug}/`, the page already built. On failure, keep them on the page with the address still in the field and this line under the button: "That didn't go through. Please try again."; log the failure.
 
 ## 3. What the site sends to Kit (API v4)
 
 For the workbook the reader asked for, at the moment they ask:
-- Create or update the subscriber by email, with the fields: `workbook_name` (the workbook's searched name, for example "Karpman Drama Triangle Workbook": the title before the colon, the same name the thank-you page uses), `workbook_link` (the URL of its `pdf_file` attachment, read at that moment, so a re-import can never leave a stale link), `workbook_course` (the full DSRD 5 name from `associated_course`), `workbook_course_link` (that course's page, through `achology_course_url`), and `workbook_cover` (the cover image, see section 4).
+- Create or update the subscriber by email, with `first_name` set to the name given (left as it is in Kit if blank), and with the fields: `workbook_name` (the workbook's searched name, for example "Karpman Drama Triangle Workbook": the title before the colon, the same name the thank-you page uses), `workbook_link` (the URL of its `pdf_file` attachment, read at that moment, so a re-import can never leave a stale link), `workbook_course` (the full DSRD 5 name from `associated_course`), `workbook_course_link` (that course's page, through `achology_course_url`), and `workbook_cover` (the cover image, see section 4).
 - Apply the tag `Website Workbook Download` and the tag for the workbook's primary `kh_category`.
 - Add the subscriber to sequence 2965204 (delivery) and to sequence 2965261 (follow-ups).
 
@@ -46,7 +46,7 @@ Done when, on the build site, with a real address Chat can read (manager@acholog
 2. The email arrives within two minutes for each, with the right cover, name, course and link, and the link opens the PDF for someone not signed in to the site.
 3. Kit shows the address with the five fields, both tags, and in both sequences.
 4. A second workbook for the same address arrives (section 5).
-5. The line shows under all three boxes at computer and phone width; the page passes its DSRD 6 gate, and no Kit script loads on the page.
+5. All three boxes show the name field, the email field and the tick box at computer and phone width, an unticked box stops the form with its line, and the email greets the test by the name given; the page passes its DSRD 6 gate, and no Kit script loads on the page.
 
 Report in one DONE file in TO Chat: what you built, the five test results with times, the section 5 finding, Kain's connecting steps, and the launch-day addresses. Chat then shows Kain the working form.
 
