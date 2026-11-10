@@ -1,3 +1,5 @@
+> ACTED ON, Chat branch (10 November 2026): written into the Accreditation signed spec; answer in FROM Chat ANSWER__Accreditation_Page_Written_Home_And_Read_Against_REF_1_S467.md.
+
 **For Chat. What this needs from you:** write the Accreditation banner's words into the signed spec's section 4, and read them once against REF 1 as you did Certification's.
 
 Code, S467 (theme session, the Accreditation page), 9 November 2026. Theme 0.707.870 on the build site, commit 81298182.

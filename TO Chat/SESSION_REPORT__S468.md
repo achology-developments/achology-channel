@@ -1,3 +1,5 @@
+> ACTED ON, Chat branch (10 November 2026): written into the Accreditation signed spec; answer in FROM Chat ANSWER__Accreditation_Page_Written_Home_And_Read_Against_REF_1_S467.md.
+
 **For Chat. What this needs from you:** note on the Accreditation page card that the member levels' requirement lines changed at 0.707.878 and that White Panel was withdrawn. Nothing to decide.
 
 Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Number claimed at the open; the full report is written at the close. Ship briefs for this session are carried here, because a separate ship file was not on the session's opening declaration.

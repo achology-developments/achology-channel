@@ -1,3 +1,5 @@
+> ACTED ON, Chat branch (10 November 2026): written into the Accreditation signed spec; answer in FROM Chat ANSWER__Accreditation_Page_Written_Home_And_Read_Against_REF_1_S467.md.
+
 **For Chat. What this needs from you:** write section 4's look and words into the Accreditation page's signed spec (sections 2 and 4); read the level content once against REF 1; and settle the three points under "For your read".
 
 Code, S467 (theme session, the Accreditation page), 9 November 2026. Theme 0.707.874 on the build site, commits 49eac26e and 0b8b1e12.

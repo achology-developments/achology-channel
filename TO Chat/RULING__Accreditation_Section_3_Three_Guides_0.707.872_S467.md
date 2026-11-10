@@ -1,3 +1,5 @@
+> ACTED ON, Chat branch (10 November 2026): written into the Accreditation signed spec; answer in FROM Chat ANSWER__Accreditation_Page_Written_Home_And_Read_Against_REF_1_S467.md.
+
 **For Chat. What this needs from you:** write section 3's look and words into the Accreditation page's signed spec (sections 2 and 4), read the fifteen answers once against REF 1, and note the two new Component Registry candidates named at the foot.
 
 Code, S467 (theme session, the Accreditation page), 9 November 2026. Theme 0.707.872 on the build site, commit 3647ca7c.

@@ -1,3 +1,5 @@
+> ACTED ON, Chat branch (10 November 2026): written into the Accreditation signed spec; answer in FROM Chat ANSWER__Accreditation_Page_Written_Home_And_Read_Against_REF_1_S467.md.
+
 **For Chat. What this needs from you:**
 1. Mark the Accreditation page card as in Building, four of its sections built, and take the not-finished lines at the foot into the board.
 2. Read the five S467 RULING files; each names what it owes back (spec lines, a read against REF 1, and three points to settle).
