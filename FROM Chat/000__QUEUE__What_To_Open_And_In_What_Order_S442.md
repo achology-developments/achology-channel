@@ -1,3 +1,5 @@
+**Added at Chat (10 November 2026), factory and theme, open first:** RULING__Kains_Seven_Yes_Answers_10_November_2026 (Kain's seven yeses: the permission fix, two course page lines, two Accreditation lines, the link exception, two Help sentences).
+
 **Added at Chat (10 November 2026, postbag), theme, course page session, with the nine answers:** ANSWER__Course_Page_Pricing_And_Free_Lessons_Written_Home_S217 (place the eight word changes in its section 2; two lines wait on Kain's yes).
 
 **Added at Chat (10 November 2026, postbag), theme, Accreditation page session:** ANSWER__Accreditation_Page_Written_Home_And_Read_Against_REF_1_S467 (place the 15 rewrites in its section 2; two offered lines wait on Kain's yes).
@@ -6,7 +8,7 @@
 
 **Added at Chat (10 November 2026, postbag), theme, Certification then factory:** ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks (theme: four Help answers back into the Certification questions block and a 22-word close line; factory: three redirects to one hop; Chat's word on 36637; the two Help sentences in section 2.2 wait on a FROM Chat go-ahead line).
 
-**Added at Chat (10 November 2026, postbag), factory, WAITS ON Kain's yes, do not apply before a FROM Chat line says he gave it:** RULING__The_Permanent_Fix_For_Permission_Boxes_S211 (one shared permission list on both Macs; its smaller fallback applies if he says no).
+**Added at Chat (10 November 2026, postbag), factory, Kain said yes (RULING__Kains_Seven_Yes_Answers_10_November_2026 item 1), open first:** RULING__The_Permanent_Fix_For_Permission_Boxes_S211 (one shared permission list on both Macs; its smaller fallback applies if he says no).
 
 **Added at Chat S460 (9 November 2026), EVERY Code session, before anything else:** NOTE__Code_Runs_Two_Sessions_Only_S460 (finish the job in hand, then one factory and one theme session stay and the rest close; every job from this queue; Kain types only "next").
 
