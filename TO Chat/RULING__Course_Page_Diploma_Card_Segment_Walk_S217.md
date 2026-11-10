@@ -32,6 +32,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 15. The card's type and Kain's standing instruction (pick 267). The receipt's two sub-headings now use the heading face (Como 14/600) and "Paid Once" is 14; made standing by Code as a type fix. Kain, after two days on this one block: "I just want this ... block to be finished ... I just want you to be like a excellent graphic designer and just do great design work." The Diploma card is complete in preview; the two bundle cards beneath are the block's last unfinished part, to be finished by Code without small decisions and shown to him once.
 
+16. The two bundle cards finished to the Diploma card's standard (pick 268), on Kain's instruction to finish the block as a designer. Built only from parts he approved on the Diploma card (edge, grey tab track and fire-framed tab, his tab words, the receipt price panel, the one-piece figure); the buttons are the site's standard, untouched; the bundles' words and order unchanged. The trust bar under the cards is removed because the Diploma card's own strip repeats it; the small print stays. FOR CHAT: the bundle tabs now read "Pay In Full / Pay In Two / Pay In Four / Pay In Six" and "Pay In Three / Pay In Six / Pay In Twelve", Kain's Diploma wording carried across by Code; confirm or correct.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
