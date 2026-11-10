@@ -11,7 +11,7 @@ Account: Achology Transactions Ltd, Creator Pro. Nothing else in Kit needs build
 - **Tags:** `Website Workbook Download` (id 25677339), and seven category tags named `Website Workbook Category: <category>` for the seven DSRD 1 section 4 categories (ids 25677340 to 25677346).
 - **Custom fields (keys):** `workbook_name`, `workbook_link`, `workbook_course`, `workbook_cover`, `workbook_course_link`, `workbook_course_cover`, `workbook_course_tagline`.
 - **Sequence `Website Workbook Delivery` (id 2965204):** one email, sent 0 hours after joining, Kain's words in the Achology email design he approved on a real inbox test. It reads the five fields above. Repeat is on.
-- **Sequence `Website Workbook Follow-Ups` (id 2965261):** three emails on days 2, 5 and 9. The day 2 email (Kain's own words) is in and published; Chat is writing days 5 and 9. Repeat is off.
+- **Sequence `Website Workbook Follow-Ups` (id 2965261):** three emails on days 2, 5 and 9. All three are in and published, in Kain's own words. Repeat is off.
 - Two sequences named `Design Test` and `Design Test 2` are Chat's tests; ignore them.
 
 ## 2. The form, on every workbook page
