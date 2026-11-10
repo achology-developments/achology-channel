@@ -1,3 +1,5 @@
+**Added at Chat (10 November 2026), theme then factory, on Kain's word:** RULING__Certificate_ID_Not_Certificate_Number_S464 (Certificate ID everywhere, explained once per page). Also: ANSWER__Four_Help_Answer_Summaries_For_The_Accreditation_Questions_S469 (theme, Accreditation session).
+
 **Added at Chat (10 November 2026, evening), theme, course page and Accreditation sessions:** ANSWER__Postbag_10_November_2026_Evening_Course_Page_And_Accreditation.md (nine shorter first paragraphs; the SoMAP foot's three answers).
 
 **Added at Chat (10 November 2026), factory, on Kain's yes (RULING__Kains_Seven_Yes_Answers_10_November_2026 item 5), open with that ruling:** RULING__SoMAP_Is_Never_Called_Independent_The_Help_Answer_Lines_S467 (40 lines in 21 Help answers, 41465's two sentences included; REF 1 is already changed).
