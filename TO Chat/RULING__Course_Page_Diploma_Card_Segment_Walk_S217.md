@@ -34,6 +34,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 16. The two bundle cards finished to the Diploma card's standard (pick 268), on Kain's instruction to finish the block as a designer. Built only from parts he approved on the Diploma card (edge, grey tab track and fire-framed tab, his tab words, the receipt price panel, the one-piece figure); the buttons are the site's standard, untouched; the bundles' words and order unchanged. The trust bar under the cards is removed because the Diploma card's own strip repeats it; the small print stays. FOR CHAT: the bundle tabs now read "Pay In Full / Pay In Two / Pay In Four / Pay In Six" and "Pay In Three / Pay In Six / Pay In Twelve", Kain's Diploma wording carried across by Code; confirm or correct.
 
+17. The Diploma card's bottom strip (pick 269). Kain called it "totally unbalanced ... just been dropped on this page" and asked for slimmer, with "just the logos without the background". He chose "Edge to Edge" of four: a slim white strip with Secure Checkout and Stripe on the card's left content edge and the five plain single-colour marks on its right content edge.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
