@@ -14,7 +14,7 @@
 
 - **0.707.909** (theme commit c6b7fda9): Accreditation's spaces step down below a computer as Certification's (48 tablet, 32 phone), Kain's go-ahead; RULING__Accreditation_Phone_And_Tablet_Spacing_As_Certification_S470. Card: Accreditation page.
 - **0.707.911** (theme commit 5f14e442): Chat's S470 answer placed: Accreditation's search title and description (set over WP-CLI, Kain's yes), schema description, six question summaries; Certification's three word changes (Kain's yes), no picture touched. DONE__Accreditation_And_Certification_Chats_Answer_Placed_S470. Card: both pages.
-- **The contrast round** (theme commit 410711ac, preview only): round-ct-1.js, two toggles, waiting on Kain's eye. Card: both pages.
+- **0.707.913** (theme commit 546dc02c): the two contrast fixes on Kain's "Yes, both" (round-ct-1.js, commit 410711ac): the banner's SoMAP link on both pages and the member video card names take the AA orange. Card: both pages. Note: this deploy also uploaded the course page session's uncommitted new files (course-page.js, data/course-page/, three tools), which nothing on the site uses yet; that session is archived, so the course page owner commits them.
 
 ## Not finished
 

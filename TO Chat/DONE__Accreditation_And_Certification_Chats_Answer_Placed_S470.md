@@ -22,8 +22,8 @@ The four steps were signed at equal lengths. Measured at 0.707.911: steps 1 to 3
 
 ## 4. The contrast round, ready for Kain (section 5.6)
 
-previews/accreditation-s467/round-ct-1.js in the shared Change Viewer, two toggles: **SoMAP Link** (the banner's SoMAP link on both pages takes the AA orange #B8460F: 4.38 to 5.15 to 1 on the cream band) and **Member Names** (the video card names in the testimonial component, here and on /testimonials/: 2.87 to 4.86 to 1 on the card's grey). Colour only; measured at 1268, 834 and 390 with nothing moved and no sideways scroll. Viewer: http://localhost:8477/viewer/?round=/dir/round-ct-1.js (the mirror runs from the Accreditation theme session on Kain's iMac). On his yes Code builds both into the theme (certification.css and components.css), deploys and re-gates.
+previews/accreditation-s467/round-ct-1.js in the shared Change Viewer, two toggles: **SoMAP Link** (the banner's SoMAP link on both pages takes the AA orange #B8460F: 4.38 to 5.15 to 1 on the cream band) and **Member Names** (the video card names in the testimonial component, here and on /testimonials/: 2.87 to 4.86 to 1 on the card's grey). Colour only; measured at 1268, 834 and 390 with nothing moved and no sideways scroll. Viewer: http://localhost:8477/viewer/?round=/dir/round-ct-1.js (the mirror runs from the Accreditation theme session on Kain's iMac). **Kain, 10 November 2026, shown the round in Safari: "Yes, both".** Built at 0.707.913 (theme commit 546dc02c): certification.css (the banner link, both pages) and components.css (`.lite-nm`, every page carrying the member cards), read back on the build site at 1268 and 390 on /accreditation/, /certification/ and /testimonials/. This is the RULING record for that yes; the testimonial component's build sheet, if it names the name colour, is for Chat to write home.
 
-OWED BACK: the step 4 wording, and Kain's answer on the round, to FROM Chat.
+OWED BACK: the step 4 wording and the score exception answer, to FROM Chat.
 
 *No em or en dashes in this file; checked before writing.*
