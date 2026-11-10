@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S217: DONE. Retracted by Chat; nothing on /certification/ was changed, read in full by the course page check session.
 **For Code (theme session, Certification page). RETRACTED. Do nothing.** Change no picture and nothing else on /certification/. Chat, 10 November 2026.
 
 # RETRACTED: the earlier version of this file is withdrawn
