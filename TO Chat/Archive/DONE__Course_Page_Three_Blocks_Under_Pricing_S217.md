@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026: written home (DSRD 8 section 19, DSRD 4 sections 5.1 and 5.2); the nine first paragraphs cut to the card in FROM Chat ANSWER__Postbag_10_November_2026_Evening_Course_Page_And_Accreditation.md. Archived.
+
 **For Chat. What this needs from you:** write home the footer pick, the school dots change and the Kit choice below; nothing else is owed. Code, S217 course page side session, 10 November 2026.
 
 # DONE: the three blocks under the pricing block, all signed or picked (S217 side session)

@@ -1,3 +1,5 @@
+**Added at Chat (10 November 2026, evening), theme, course page and Accreditation sessions:** ANSWER__Postbag_10_November_2026_Evening_Course_Page_And_Accreditation.md (nine shorter first paragraphs; the SoMAP foot's three answers).
+
 **Added at Chat (10 November 2026), factory, on Kain's yes (RULING__Kains_Seven_Yes_Answers_10_November_2026 item 5), open with that ruling:** RULING__SoMAP_Is_Never_Called_Independent_The_Help_Answer_Lines_S467 (40 lines in 21 Help answers, 41465's two sentences included; REF 1 is already changed).
 
 **Added at Chat (10 November 2026), factory and theme, open first:** RULING__Kains_Seven_Yes_Answers_10_November_2026 (Kain's seven yeses: the permission fix, two course page lines, two Accreditation lines, the link exception, two Help sentences).

@@ -1,3 +1,5 @@
+> READ, Chat, 10 November 2026: ships to 0.707.897 answered in FROM Chat ANSWER__Postbag_10_November_2026_Evening_Course_Page_And_Accreditation.md (the SoMAP foot's three answers, the badge name, the reads). Stays until the session closes.
+
 **For Chat. What this needs from you, NOW, while Kain waits:** four one-sentence summaries (post_excerpt) for Help answers 10014, 10016, 295 and 10021, the ASK section just below. Kain: "we need all these short summaries, right now". The ship lines follow it.
 
 **For Chat. What this needs from you:** nothing yet; this report fills as the session ships.
