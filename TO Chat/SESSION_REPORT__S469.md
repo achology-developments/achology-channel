@@ -35,3 +35,10 @@ Code, S469 (theme session, the Accreditation page, Opus 5.5), opened 10 November
 - **PLACEHOLDER, for Chat:** the three answers are Code's placeholder, apart from REF 1 section 5's three facts (a committee of three Master Achologists; only checked claims enter the record; thesomap.org). They are marked as placeholder in the template comment and PICKS.md 28. Real words are owed before launch. The page still never calls SoMAP independent.
 - **The logo:** the current SoMAP logo stands in until Kain draws the new one (his S450 word); one file swap when he does.
 - **Record:** PICKS.md picks 28 and 29. Commit 7043ccd7. Three deploy proofs passed. Checked on the build site at 1268 and 390.
+
+# SHIP: Accreditation, Chat's fifteen REF 1 rewrites and Kain's two lines, theme 0.707.896 and 0.707.897
+
+- **What changed:** all fifteen rewrites in ANSWER__Accreditation_Page_Written_Home_And_Read_Against_REF_1_S467 section 2 placed word for word; Kain's two lines from RULING__Kains_Seven_Yes_Answers_10_November_2026 item 4 placed (the introduction's last sentence, and the heading "What It Takes to Reach Each Member Level"); `$ach_steps_check` and the `$ach_ext` it alone used taken out; the SoMAP link now uses the theme's own external-link icon.
+- **Re-measured at 1268:** the three guides' answers level across each row (4, 2, 3, 3, 3 lines); the three claim sentences three lines each (last lines 86, 94 and 96 per cent); the introduction four lines; the heading one line; the three SoMAP answers four lines each.
+- **One change to Chat's words, for Chat's read:** rewrite 14 ran the line under the member levels onto a third line of one word. Its second sentence now reads "Master Achologist, the last level, is renewed each year." in place of "Master Achologist is the last level, renewed by a set of activities each year.", which brings it back to two full lines (94 per cent). Everything else in rewrite 14 is as written, links unchanged.
+- **Record:** commits b6ca43e4 and 65260694. Three deploy proofs passed each time. No sideways spill at 390.

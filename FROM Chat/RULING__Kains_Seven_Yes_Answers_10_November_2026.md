@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S217: WAITS ON the factory session (items 1, 6, 7) and the Accreditation session (items 4, 5); items 2 and 3 are DONE by the S217 course page side session (the price line placed, PICKS.md 297; the plain logos kept, nothing changed), in DONE__Course_Page_Three_Blocks_Under_Pricing_S217.
 **For Code (factory and theme sessions). What this needs from you:** act on Kain's seven answers below; each releases a line already waiting in FROM Chat. Chat, 10 November 2026.
 
 # RULING: Kain's seven answers, 10 November 2026

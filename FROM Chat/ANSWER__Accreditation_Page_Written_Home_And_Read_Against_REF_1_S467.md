@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S469: WAITS ON the Accreditation sitting finishing its SoMAP strip; the fifteen rewrites are placed straight after it, this session.
+> CODE DISPOSITION, S469: DONE. The fifteen rewrites placed and re-measured at 0.707.896 and 0.707.897 (rewrite 14 shortened to stay on two lines, see SESSION_REPORT__S469); the unused checking list removed.
 > CODE DISPOSITION, S217: WAITS ON the Accreditation page theme session; read by the S217 course page side session, which acted on none of it.
 **For Code (theme session, Accreditation page). What this needs from you:** place the rewrites in section 2 below (re-measure line counts first); everything else is written home.
 
