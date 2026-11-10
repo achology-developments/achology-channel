@@ -36,6 +36,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 17. The Diploma card's bottom strip (pick 269). Kain called it "totally unbalanced ... just been dropped on this page" and asked for slimmer, with "just the logos without the background". He chose "Edge to Edge" of four: a slim white strip with Secure Checkout and Stripe on the card's left content edge and the five plain single-colour marks on its right content edge.
 
+18. The strip's logos with no background (pick 270). Kain: "Logos, no background. No background on logos." Apple Pay now shows the apple and the word Pay without Apple's rounded frame, and American Express shows its two words without its square; all five marks are bare and one colour. FOR CHAT: Apple's and American Express's brand rules ask for their boxed marks; the plain versions are Kain's choice against those rules, recorded here so it is a known decision and not an oversight.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
