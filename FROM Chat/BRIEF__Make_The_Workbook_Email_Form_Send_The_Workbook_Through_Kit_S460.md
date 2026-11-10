@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S468: WAITS ON the Accreditation page sitting ending; read in full by this theme session mid-sitting, and it is the next theme job after it, not started.
+
 **For Code, theme session. What this needs from you:** make the "Get Your Free Workbook" box on all 86 workbook pages a working form that hands the address to Kit, so Kit emails the reader their workbook, then report in TO Chat. Chat, Session 460 branch, 10 November 2026. Every decision below is Kain's or Chat's and is recorded; build without asking unless something here cannot be built as written.
 
 Read first: DSRD 4 section 5.1 (the paragraphs "How the workbook download gate works" and "No tick box", Kain's yes of 10 November 2026) and section 6.4 ("Settled"); DSRD 2 section 1.7 (the email box and the thank-you page); the Shared Road and The Workbook Pack in 17 Packs, and the Words notes, for the one line of copy this adds.
