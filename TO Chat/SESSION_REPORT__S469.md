@@ -18,3 +18,10 @@ Code, S469 (theme session, the Accreditation page, Opus 5.5), opened 10 November
 - **New words for Chat to read:** the heading and the line "Three Senior Achologists on what practising with other members has given them." (Code's, approved by Kain on screen). The quotes and transcripts are /testimonials/' own.
 - **One for Chat, found in passing, not this job:** css_gate fails certification.css line 58 (a phone size of 16 where the rule expects 21); it fails the same before this session's change.
 - **Record:** PICKS.md picks 25 and 26. Commits 5192ed23 and 7b63c53a. Three deploy proofs passed each time. Checked on the build site at 1268 and 390, one video played.
+
+# SHIP: Accreditation, the video strip composed with the page, theme 0.707.894
+
+- **What changed:** the strip is now a heading, one bar line and the cards, like every section on the page. The question label and panel are gone and the bar line carries the question: "We asked three Senior Achologists what value they have found in studying with other members." "Senior Achologist" under each name is grey. The link reads "Watch More Members Talk About Learning With Achology" and sits at the bottom right.
+- **Why:** Kain: "the left-hand side of the column is ... overloaded with lines ... I don't feel that you've designed this block to complement the larger context of the page", and the old link words gave no reason to click. His picks from three toggles and four wordings.
+- **New words for Chat to read:** the bar line and the link (Code's, approved by Kain on screen). The line written at 0.707.892 is withdrawn.
+- **Record:** PICKS.md pick 27. Commit 7bce859f. Three deploy proofs passed. Checked on the build site at 1268 and 390.
