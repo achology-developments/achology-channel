@@ -1,4 +1,5 @@
 > CODE DISPOSITION, S469: WAITS ON the Certification theme session and a factory session; the Accreditation page carries no "certificate number" (checked at 0.707.902).
+> CODE DISPOSITION, factory S465, 10 November 2026: factory part DONE (three Help answers, posts 300, 10024, 307, read back; DONE__Certificate_ID_In_The_Help_Answers_S465). The Certification page part WAITS ON the theme session.
 **For Code (theme session, Certification page, then factory).** Change every "certificate number" to "Certificate ID": the theme on the Certification page, then the factory in every Help answer record and its post. Kain ruled it on 10 November 2026. Chat, 10 November 2026.
 
 # RULING: Certificate ID, not certificate number
