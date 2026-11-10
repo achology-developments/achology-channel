@@ -40,6 +40,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 19. The strip's logos whole (pick 271). Kain: some logos were "trimmed", as if each sat in a box; "The logos are going to be different lengths ... That's okay ... the same sort of height". Each of the five marks is now drawn whole at its own length and proportions, on one centre line, evenly spaced; none is fitted into a shared box.
 
+20. American Express mended (pick 272). Kain: "american express is still boken". Its words are now a real standalone shape made from the mark's own path with only the square left out, drawn the same plain way as the other four logos.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
