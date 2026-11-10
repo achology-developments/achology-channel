@@ -12,4 +12,11 @@ Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Num
 - **Record:** the theme's previews folder for this page, PICKS.md, pick 10. Commit c2431483.
 - **Checked:** on the build site at 1268 and 390; the three deploy proofs passed.
 
+# SHIP: Accreditation, section 4 title and supporting line, theme 0.707.879
+
+- **What changed:** section 4's heading now reads "What Each Member Level Asks of You" and its supporting line "Open a level to see exactly what it takes. Everything you complete counts towards the next one." Kain's yes in the sitting to Code's words, after he asked for a simpler, more specific title.
+- **Why:** the old title only labelled the block and its line leaned on the word "cumulative".
+- **Record:** PICKS.md, pick 11. Commit 9cf7434c. The three deploy proofs passed.
+- **Also from the sitting, not built:** Kain found the ladder missing its last layer, Maintaining Master Achologist Status (REF 1 section 3.2). It is on his screen as a Before and After (PICKS.md, pick 12), with Code's words from REF 1; the words will need Chat's read once he rules.
+
 *No em or en dashes in this file; checked before writing.*
