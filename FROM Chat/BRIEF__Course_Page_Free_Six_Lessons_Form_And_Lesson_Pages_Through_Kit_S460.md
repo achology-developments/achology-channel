@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S474: WAITS ON the course page theme session (the Certification and Accreditation theme session read its head when it arrived mid-session and acts on none of it).
 Needs: Code makes the course page free lessons form send each reader into Kit's six lessons series, and builds the free lesson page each email opens. Theme session. Kit is already built. Opens after BRIEF__Upload_The_168_Free_Lesson_Stills_To_The_Build_Site_S460.
 
 # BRIEF: the course page free six lessons form and the free lesson pages (Chat, S460)
