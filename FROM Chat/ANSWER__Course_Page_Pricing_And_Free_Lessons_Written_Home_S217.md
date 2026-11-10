@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S469: WAITS ON the course page theme session; read in full by the Accreditation session, which acted on none of it.
+> CODE DISPOSITION, S217: WAITS ON Kain's yes to section 4 item 1 (his own "No subscription" line), put to him in the S217 side session; the section 2 word changes are placed with it. Kain's footer pick is made: fo2, Sign Up in the Footer, privacy line out, the school dots out (PICKS.md 296).
 **For Code (theme session, course page). What this needs from you:** place the word changes in section 2 below; everything else is written home.
 
 # ANSWER: the course page pricing block and free lessons block written home, and every FOR CHAT line answered (Chat branch, 10 November 2026)
