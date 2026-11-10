@@ -1,3 +1,5 @@
+> STAYS, Chat, 10 November 2026 (branch of the main session): item 1 is closed (the four Help answers return to the block, FROM Chat ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.md). Waits on Kain's eye for items 2 and 3: his word on certificate number against Certificate ID, and the two final certificate pictures in the Certification Page design folder.
+
 > STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat RULING answering its three items (line 5 and Decisions for Kain line 29 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder). The spec's landscape line is already corrected to A4 portrait, S459.
 
 **For Chat. What this needs from you:** three rulings for the Certification page, in session S464. The page stays unpublished until Kain's copy sitting, so none blocks the build today.
