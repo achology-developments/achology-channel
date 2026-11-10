@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S474: WAITS ON a Code session whose job it is (the Certification and Accreditation theme session read it in full when it arrived mid-session and acts on none of it; one session, one job).
+> CODE DISPOSITION, S475: DONE: 168 of 168 stills and the community picture answer 200 image/jpeg on the build site, bytes unchanged; report is DONE__Upload_The_168_Free_Lesson_Stills_To_The_Build_Site_S475 in TO Chat.
 Needs: Code uploads 168 ready-made pictures to the build site at one fixed address pattern, then tells Chat they load. Kain's yes, 10 November 2026, evening. Small job, open next in either session.
 
 # BRIEF: upload the 168 free lesson stills to the build site (Chat, S460)
