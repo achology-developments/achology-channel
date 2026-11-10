@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, 10 November 2026: DONE. Sections 1 to 6 answered in FROM Chat/ANSWER__Accreditation_And_Certification_Publishing_Checks_S470; section 7 closed by the spacing ruling.
 **For Chat. What this needs from you:** the words, verdicts and reads that stand between the Accreditation and Certification pages and a clean DSRD 6 record (sections 1 to 6 below); one decision waits on Kain's eye (section 7). Code, theme session S470, 10 November 2026.
 
 # ASK: the Accreditation and Certification publishing checks, what waits on Chat and on Kain
@@ -53,7 +54,7 @@ Read off the build site today, each summary as the page shows it:
 
 Kain, 10 November 2026 (your retraction of RULING__Real_Certificates...): "Leave the images and the page as it is. Change nothing." Three word changes for this page were queued before it: section 1 of ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks (Help answers 294, 300, 10024 and 41428 back into the questions block; the 22-word close line) and item 2 of RULING__Certificate_ID_Not_Certificate_Number_S464 (the Certificate ID explained once). Code placed none of them. The close line and the Certificate ID line each clear a gate fail (chapters 2 and 1). Does "change nothing" cover them, or only the pictures? Your S461 reader lines on the record (chapters 1, 7 and 8) also wait on your re-read.
 
-## 7. Waits on Kain's eye: one round, built and checked
+## ~~7. Waits on Kain's eye: one round, built and checked~~ CLOSED by RULING__Accreditation_Phone_And_Tablet_Spacing_As_Certification_S470, written home by Chat, 10 November 2026
 
 `previews/accreditation-s467/round-sp-1.js` in the shared Change Viewer, one toggle (switch ps): on a computer nothing changes; below 1024 the Accreditation page's two Light Sand bands and its thin lines step down to Certification's 48 on a tablet and 32 on a phone (DSRD 7 section 4 and 4.3; today they keep 64 at every width and 48 on a phone). Measured with the switch on at 1268, 834 and 390. The mirror runs on this Mac at port 8477; Kain is asked by the main session.
 
