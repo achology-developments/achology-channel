@@ -50,6 +50,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 24. The saving on each bundle row (pick 276). Kain asked for ways to strengthen the two bundle rows; first of four, one at a time: each closed row shows "Save $353" or "Save $2,254" in a small soft orange pill by the price (under the name on smaller screens). He said "Yes, keep it". The figures are DSRD 4's, the same as the open panel's saving.
 
+25. The monthly way on each bundle row (pick 277). Under each bundle's price the longest monthly plan it has, "or six payments of $189.50" and "or 12 payments of $249.58", in place of "paid once". Kain: "Yes, this is good ... definitely want that in". He then asked for the closed card's words to be stronger and the capitalisation standard applied.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
