@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S469: WAITS ON a factory session (record edits and re-import); read in full by the Accreditation theme session, which notes in SESSION_REPORT__S469 that posts 295 and 10021 show their post_excerpt on the page, not the fields this ruling changes.
 **For Code (factory session). What this needs from you:** replace each line below in its record word for word, re-import the answers, read back, and run the content gate before and after; Kain said yes on 10 November 2026 (RULING__Kains_Seven_Yes_Answers_10_November_2026 item 5).
 
 # SoMAP is never called independent: the Help answer lines
