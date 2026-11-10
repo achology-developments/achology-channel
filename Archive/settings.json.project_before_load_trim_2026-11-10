@@ -1,0 +1,72 @@
+{
+  "permissions": {
+    "deny": [
+      "mcp__880e3142-ab47-4847-9204-ec7abdb6d2fa",
+      "mcp__39b55325-aa85-4498-9267-ab443e5e8e1b",
+      "mcp__1c547f09-4fbe-412e-9222-0aec718bc1a6",
+      "mcp__304f267d-b9b6-473a-8916-a94f2968d784",
+      "mcp__78f659f8-8ad5-41fc-ab98-ce6d82f40bc3",
+      "mcp__387045d9-c3b0-4477-be9a-75865c2b0669",
+      "mcp__b5b5018e-6be0-4bc3-9cf7-7336eea712ca",
+      "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c",
+      "mcp__Word__By_Anthropic_",
+      "mcp__scheduled-tasks",
+      "mcp__pdf-viewer",
+      "mcp__plugin_pdf-viewer_pdf",
+      "mcp__mcp-registry"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit|NotebookEdit|Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/04. The Achology Newsroom/02. The Machine/vault_gate/vault_gate.py\" hook"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/04. The Achology Newsroom/02. The Machine/vault_gate/pack_trigger.py\""
+          }
+        ]
+      }
+    ]
+  },
+  "enabledPlugins": {
+    "legal@knowledge-work-plugins": false,
+    "legal@synced": false,
+    "legal@inline": false,
+    "product-management@knowledge-work-plugins": false,
+    "product-management@synced": false,
+    "product-management@inline": false,
+    "engineering@knowledge-work-plugins": false,
+    "engineering@synced": false,
+    "engineering@inline": false,
+    "data@knowledge-work-plugins": false,
+    "data@synced": false,
+    "data@inline": false,
+    "design@knowledge-work-plugins": false,
+    "design@synced": false,
+    "design@inline": false,
+    "searchfit-seo@knowledge-work-plugins": false,
+    "searchfit-seo@synced": false,
+    "searchfit-seo@inline": false,
+    "cowork-plugin-management@knowledge-work-plugins": false,
+    "cowork-plugin-management@synced": false,
+    "cowork-plugin-management@inline": false,
+    "pdf-viewer@knowledge-work-plugins": false,
+    "pdf-viewer@synced": false,
+    "pdf-viewer@inline": false,
+    "frontend-design@claude-plugins-official": true
+  },
+  "claudeMdExcludes": [
+    "/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/CLAUDE.md"
+  ]
+}
