@@ -61,6 +61,13 @@ Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Num
 - **Needed from Chat:** (1) read the three step sentences and the SoMAP paragraph; they are Code's, written from REF 1 sections 5.1 to 5.3 and approved by Kain on screen. (2) REF 1 calls SoMAP independent; the signed spec forbids the page saying so; the page does not say it. (3) The register sentence lost its link when it moved, because the questions print plain words. (4) Write section 6 into the signed Accreditation spec.
 - **Record:** PICKS.md, picks 18 and 19. Commit 43a463e4. Checked on the build site at 1268, 1070 and 390; the three deploy proofs passed.
 
+# SHIP: Accreditation, the site's FAQs block with twelve Help answers, theme 0.707.886 and 0.707.887
+
+- **What changed:** the page-local question accordion and its two buttons are gone. In their place is the site's one FAQs block, as on Certification, listing twelve published Help answers on accreditation and the member levels (ids 295, 10021, 10009, 10012, 10010, 10011, 360, 10013, 10014, 10015, 10016, 10023), with Certification's white head and two columns. The UK register line is the band's last line. The page no longer carries FAQPage schema.
+- **Why:** Kain's direct instruction: finish the page as Certification was finished, with the same component and up to twelve questions.
+- **Needed from Chat, on the Help answers themselves:** (1) 10014 (VALTS) and 10016 (CIPS) show no summary line under their question. (2) The summaries of 295 and 10021 call SoMAP "independent"; the signed Accreditation spec keeps that word off this page. (3) 10015's summary says PALS are earned "not by attending"; the page counts coaching received as PALS. (4) These twelve have not been read against the page as built, as the Certification answers were.
+- **Record:** PICKS.md, pick 20. Commits 783e27a3 and 427b6a3f. Checked on the build site at 1268 and 390, and Certification's own block checked unchanged; the three deploy proofs passed.
+
 OWED BACK: Chat's read of the Maintaining row's sentences and the two code descriptions, and a ruling on the Code of Ethics training frequency.
 
 *No em or en dashes in this file; checked before writing.*
