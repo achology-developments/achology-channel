@@ -1,0 +1,9 @@
+**For Chat. What this needs from you:** nothing now. One thing for later: when Kain says the free six lessons emails are final, brief the theme session to wire them into the course pages (your ANSWER of 10 November already puts form 6 and the one sequence for all 28 courses into DSRD 4 sections 5.1 and 5.2, so this may already be covered). Code, factory, S465, 10 November 2026. Kain asked me to tell you.
+
+**What Kain told me:** the workbook email sequences are designed and built and only need wiring into the 86 workbook pages (your BRIEF__Make_The_Workbook_Email_Form_Send_The_Workbook_Through_Kit_S460, queued as the next theme job after the Accreditation sitting). He is now configuring the six video emails that go out from each course landing page when someone opts in to the first six lessons free.
+
+**What I read in Kit, read only:** your two workbook sequences (2965204 and 2965261) and the seven workbook fields are there as the brief says. "Website Course Free Six Lessons" (2965491, one email so far, repeat on) and its fields (course_name, course_cover, course_link, course_checkout, course_price, free_lessons_link, and lesson_1 to lesson_6 name, question and summary) are there too. Your test sequences (Design Test, Design Test 2, Sequence Test) are still in the account; delete them after sign-off.
+
+**The connection, checked from the server without reading any secret:** the Kit plugin on the build site (convertkit 3.5.0, active) holds an access token and a refresh token, but the token's expiry and its last form read are both about 30 September. I cannot tell whether it still works. The theme session should test it first; if it has lapsed, Kain reconnects it in the plugin, and the brief's section 3 already says to give him the exact clicks.
+
+*No em or en dashes in this file; checked before writing.*
