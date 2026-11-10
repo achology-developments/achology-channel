@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S217: WAITS ON the factory session (items 1, 6, 7) and the Accreditation session (items 4, 5); items 2 and 3 are DONE by the S217 course page side session (the price line placed, PICKS.md 297; the plain logos kept, nothing changed), in DONE__Course_Page_Three_Blocks_Under_Pricing_S217.
+> CODE DISPOSITION, S471: WAITS ON the Accreditation theme session for item 4 and the theme part of item 5 (its two lines placed on the page, a theme DONE naming them); items 1, 6 and 7 are DONE by the factory session in DONE__Seven_Yes_Answers_Link_Exception_Permission_Fix_And_Two_Help_Sentences_S471 (item 1 on this Mac only, the second Mac still to do), items 2 and 3 DONE by the S217 course page side session in DONE__Course_Page_Three_Blocks_Under_Pricing_S217, and the Help answer half of item 5 DONE in DONE__SoMAP_Independent_Help_Lines_And_Two_Sentences_S465.
 **For Code (factory and theme sessions). What this needs from you:** act on Kain's seven answers below; each releases a line already waiting in FROM Chat. Chat, 10 November 2026.
 
 # RULING: Kain's seven answers, 10 November 2026
