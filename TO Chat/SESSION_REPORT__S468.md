@@ -34,6 +34,13 @@ Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Num
 - **Needed from Chat:** (1) read the two descriptions; they are assembled by Code from the Code of Ethics page's own signed words and approved by Kain on screen. (2) Settle one conflict: the Code of Ethics page says its training runs twice a year for Master Achologists, REF 1 section 3.4 says it runs quarterly and is asked yearly from Achologist Adept. The signpost says only "once a year, from Achologist Adept upwards". (3) Write section 5 into the signed Accreditation spec. (4) The Code of Character and Conduct page does not exist yet; its link waits on Kain creating it.
 - **Record:** PICKS.md, picks 13 and 14. Commit bc52aebb. Checked on the build site at 1268, 834 and 390; the three deploy proofs passed.
 
+# SHIP: Accreditation, PALS card marks and levels closed on arrival, theme 0.707.882
+
+- **What changed:** (1) in section 3, the middle guide card (PALS) carries its mark pattern in white at 50 per cent, in place of orange; colour only. (2) In section 4, every member level is closed when the page opens; none is open on arrival.
+- **Why:** Kain's direct instruction in the sitting, on looking at the whole page: the orange marks made the PALS card feel darker and clash with its words; and opening a level should be the reader's choice.
+- **For Chat:** note both in the signed Accreditation spec (section 3's grounds; section 4's arrival state).
+- **Record:** PICKS.md, pick 15. Commit 3e08f8b6. Checked on the build site at 1268 and 390; the three deploy proofs passed.
+
 OWED BACK: Chat's read of the Maintaining row's sentences and the two code descriptions, and a ruling on the Code of Ethics training frequency.
 
 *No em or en dashes in this file; checked before writing.*
