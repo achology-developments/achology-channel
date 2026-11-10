@@ -42,6 +42,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 20. American Express mended (pick 272). Kain: "american express is still boken". Its words are now a real standalone shape made from the mark's own path with only the square left out, drawn the same plain way as the other four logos.
 
+21. The strip's size and spacing (pick 273). Kain: "this is looking nice now ... Definitely love this gray ... the logos might just be a little bit big". The five marks are about a fifth smaller, evenly spaced, Stripe's badge brought down to match, and the strip is 47 tall with both ends on the card's content edges.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
