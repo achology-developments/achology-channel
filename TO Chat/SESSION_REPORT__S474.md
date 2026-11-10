@@ -35,3 +35,10 @@ Check block: the three ways and the one paragraph in PICKS.md 26. Cards and Whic
 ## Still to do in this round
 
 Item 8 has one drawing that explains (the roads); Accreditation's same eye; both DSRD 6 records brought current; the channel clone had diverged from origin at one point (H6 said "needs a hand"; later reads said level).
+
+## Later in S474
+
+- **0.707.926, 0.707.927** Accreditation's four steps and three guides re-cut to fill their lines (its picks 33, 34).
+- **0.707.928** Certification gate fixes (the certificate band draws only the head; a 2px nudge out).
+- **0.707.929** Accreditation's Two Codes and How Every Session Is Checked rebuilt as one pair, Two Cards, Open Track (pick 35; Kain's direction relayed by the main theme session, his pick in the viewer). No word changed. For Chat: the committee of three Master Achologists is said in step two and again under Its Standards; Kain's accepted critique names it, and the words are Chat's to settle. The signed spec and build sheet for these two blocks now describe the old arrangement (picks 13, 14, 19, 28, 29): the fold-back is owed.
+- Correction: an earlier note in the Accreditation record gave Certification's gate count; fixed. Accreditation is 47 passed, 38 failed, the same lines as 0.707.916.
