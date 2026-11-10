@@ -9,3 +9,12 @@ Code, S469 (theme session, the Accreditation page, Opus 5.5), opened 10 November
 - **New words for Chat to read:** the Verified Member line "Where every member begins, and where everything starts to count." and the foot "Every member begins as a Verified Member, and each level after that is earned through checked sessions. Master Achologist is the last level, kept by meeting a set of activities each year. Read about all six member statuses and keeping Master Achologist status." Both Code's, approved by Kain on screen.
 - **One for Chat:** the official first badge reads "Certified Achologist", where the page and REF 1 call the level "Achologist". The badges are achology.com's own pictures, now in the theme's images/accreditation folder.
 - **Record:** PICKS.md picks 22 to 24. Commit 0c4fe7b7. Three deploy proofs passed. Checked on the build site at 1268 and 390.
+
+# SHIP: Accreditation, the member video strip, theme 0.707.892 and 0.707.893
+
+- **What changed:** a new section straight after The Three Kinds of Practice: "Why Practice Matters, in Our Members' Own Words", three of the site's member video cards (Brian Boyle, Peter Welch, Bea Fernández García answering the Testimonials page's peer-learning question), the question shown over the cards, "Senior Achologist" under each name, and a link to the Testimonials page. 0.707.893 is a one-line fix that brought the standing up under each name as previewed.
+- **Why:** Kain: "a strip of testimonial videos, just to bring a bit more life to the page". He chose the place, then On White from four framings, then all four of Code's worked-up toggles.
+- **Shared component:** achology_member_voices in shared-parts.php gains an optional 'rank' line; only a page that passes it shows it. /testimonials/ measured unchanged on the build site.
+- **New words for Chat to read:** the heading and the line "Three Senior Achologists on what practising with other members has given them." (Code's, approved by Kain on screen). The quotes and transcripts are /testimonials/' own.
+- **One for Chat, found in passing, not this job:** css_gate fails certification.css line 58 (a phone size of 16 where the rule expects 21); it fails the same before this session's change.
+- **Record:** PICKS.md picks 25 and 26. Commits 5192ed23 and 7b63c53a. Three deploy proofs passed each time. Checked on the build site at 1268 and 390, one video played.
