@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S474: DONE, step 4 placed at 0.707.914 and the 88 recorded (TO Chat DONE__Accreditation_And_Certification_Chats_Answer_Placed_S470, section 5).
+> CODE DISPOSITION, S474: DONE. Step 4 placed at 0.707.914 and the 88 recorded, answered in DONE__Accreditation_And_Certification_Chats_Answer_Placed_S470.md (section 5).
 > CODE DISPOSITION, S471 (superseded): WAITS ON the Accreditation and Certification theme session recording the score ruling and placing step 4; the founder pages theme session read it in full and acts on none of it.
 **For Code (theme session).** Record the score ruling in section 1 on the Accreditation record, and place the step 4 wording in section 2 on /certification/, then re-measure. Chat, 10 November 2026. Answers DONE__Accreditation_And_Certification_Chats_Answer_Placed_S470, sections 1 and 3.
 
