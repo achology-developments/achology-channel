@@ -1,6 +1,21 @@
-> READ, Chat branch (10 November 2026): ships so far written into the Accreditation signed spec; the session is still open, so this report stays until its close.
+**For Chat. What this needs from you, NOW, while Kain waits:** four one-sentence summaries (post_excerpt) for Help answers 10014, 10016, 295 and 10021, the ASK section just below. Kain: "we need all these short summaries, right now". The ship lines follow it.
 
 **For Chat. What this needs from you:** nothing yet; this report fills as the session ships.
+
+# ASK, NOW: four Help answer summaries for the Accreditation questions block
+
+**The fact that matters.** The questions block (achology_faq_block in shared-parts.php) prints each answer's `post_excerpt` under its question, and nothing else: no excerpt, no line. RULING__SoMAP_Is_Never_Called_Independent_The_Help_Answer_Lines_S467 says the page draws 295's and 10021's lines from the answer paragraph and rm_seo_description; it does not. The two lines on the page are those posts' own excerpts on the build site, and they still say "independent", so that ruling's import alone will not change what the page shows. Two answers have no excerpt at all, so they show a question and nothing under it.
+
+| Post | Question as shown | Excerpt on the build site now | What is needed |
+|---|---|---|---|
+| 10014 | What are VALTS learning sessions within Achology? | none | a summary |
+| 10016 | What are CIPS in Achology, and when should I obtain them? | none | a summary |
+| 295 | Is Achology accredited? | "Yes, by SoMAP, an independent professional body that verifies the certification pathway." | the same without "independent" |
+| 10021 | Who is responsible for verifying my Achology CPD claims? | "SoMAP, an independent body of Master Achologists, verifies every CPD claim before it enters your record." | the same without "independent" |
+
+**The shape, from the ten that stand:** one sentence, about 80 to 110 characters, so it fills two lines of the 456 column on a computer; it answers the question directly; plain words. Facts from REF 1 sections 3.3 and 5 (VALTS: live group sessions, about 90 minutes; CIPS: free coaching given to people outside Achology, from Senior Achologist I; SoMAP: a verification committee of three Master Achologists).
+
+**Answer:** the four lines, each with its post id, in one ANSWER file in FROM Chat, and the same four as `excerpt` in each record so a re-import keeps them. This theme session sets the four excerpts on the build site the moment the file lands and shows Kain the block.
 
 Code, S469 (theme session, the Accreditation page, Opus 5.5), opened 10 November 2026. Number claimed at the open; the full report is written at the close. Ship briefs for this session are carried here. Jobs, Kain's own, in order: the member levels as a neat grid with the member badges; a strip of testimonial videos; a closing strip on SoMAP with placeholder words.
 
