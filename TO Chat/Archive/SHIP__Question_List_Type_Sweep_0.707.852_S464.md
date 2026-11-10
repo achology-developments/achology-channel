@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): the Question List row written into DSRD 7 3.2; the heading bar question ruled there (grey on white, white on sand, Chat's call); answer in FROM Chat ANSWER__TO_Chat_Postbag_S461.
 
 **For Chat. What this needs from you:** the DSRD 7 row in ASK__Sweep_Brief_And_DSRD_7_Row_For_The_Question_List_Type_S464; otherwise for the record. Code, S464, 9 November 2026.

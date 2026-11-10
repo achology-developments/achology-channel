@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): written into the signed spec (block 9 row and paragraph); answers 294, 300 and 10024 are rewritten once Code's audit for FROM Chat ASK__Every_Help_Answer_That_Contradicts_The_Certification_Page_S460 lands.
 
 # RULING and SHIP: Certification page, block 7 uses the site's FAQs block, 0.707.842 to 0.707.843 (S464)

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): recorded in the signed spec as fallen away with From Study to Practice at 0.707.840.
 
 # SHIP: Certification page, section 5's ten fixes, 0.707.838 to 0.707.839 (S464)

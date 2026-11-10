@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): the checkout's payment methods written into DSRD 4 1.1; Three Plans written into DSRD 9 24; Light Sand already in DSRD 7 1 and 3.3a; the labels answered and the review pool line carried in FROM Chat ANSWER__TO_Chat_Postbag_S461.
 
 # SESSION REPORT, S214 (9 November 2026): Course page, Voices Wall and the pricing block

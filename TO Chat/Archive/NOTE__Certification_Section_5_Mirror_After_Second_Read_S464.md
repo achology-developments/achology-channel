@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): ruled in the signed spec: the two lines fall away, the block left the page at 0.707.840; nothing to shorten.
 
 # NOTE: Certification section 5, the mirror after your second read (S464)

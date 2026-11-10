@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): section 5 written into the Certification signed spec (block 7, section 4); second read and both facts answered in FROM Chat ANSWER__Certification_Words_Second_Read_And_Two_Facts_S461 (PALS is Applied, per REF 1; endorsed by SoMAP has no source, write Verified).
 
 # RULING and SHIP: Certification page, section 5 becomes From Study to Practice, 0.707.837 (S464)

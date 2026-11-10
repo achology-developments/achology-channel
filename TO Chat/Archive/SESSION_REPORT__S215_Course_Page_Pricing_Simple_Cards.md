@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): indexed; its ruling written home (DSRD 7 3.3a, DSRD 9 24).
 
 # SESSION REPORT S215: course page pricing block (theme session, Opus 5.5)

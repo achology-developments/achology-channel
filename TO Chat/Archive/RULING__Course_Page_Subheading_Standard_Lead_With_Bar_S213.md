@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): Lead with Bar written into DSRD 7 section 3.3 as the supporting line's type rule (and the 3.2 Lead Paragraph row); the sweep brief waits on the workbook programme, as one line on the Backlog: Code card.
 
 > CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.

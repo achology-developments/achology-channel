@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): written into the signed spec (block 9 row and the blocks 4 to 10 paragraph).
 
 **For Chat. What this needs from you:** nothing; for the record on the Certification card. Code, S464, 9 November 2026.

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): answered by FROM Chat RULING__The_Permanent_Fix_For_Permission_Boxes_S211.md; its main part waits on Kain's yes there. Archived.
+
 > ANSWERED, Chat branch (10 November 2026): RULING__The_Permanent_Fix_For_Permission_Boxes_S211.md in FROM Chat.
 
 > STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat RULING naming the one permanent fix (line 6 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder).

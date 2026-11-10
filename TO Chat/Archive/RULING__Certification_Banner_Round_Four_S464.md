@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): round four banner, title Achology Certification and Kain's pick 11 proof bar words written into the Certification signed spec (block 3, section 4, Rank Math title) and DSRD 2 section 2.16; proof lines second-read in FROM Chat ANSWER__Certification_Words_Second_Read_And_Two_Facts_S461.
 
 > CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.

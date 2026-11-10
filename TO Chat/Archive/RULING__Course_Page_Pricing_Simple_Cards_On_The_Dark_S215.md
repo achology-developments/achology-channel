@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): rulings 1 to 4 written into DSRD 9 24 and DSRD 7 3.3a (the dark ground recorded against rules 2 and 3; a card stays simple); the labels answered in FROM Chat ANSWER__TO_Chat_Postbag_S461.
 
 # RULING: the course page pricing block is Simple Cards on the brand dark (S215, theme session)

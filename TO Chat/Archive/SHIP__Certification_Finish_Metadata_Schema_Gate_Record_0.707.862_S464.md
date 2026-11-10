@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): Kain's answers, the search fields and the schema written into the signed spec (blocks 4 to 10 paragraph, section 5); the three gate items ruled (DSRD 7 4.3 Exception 24, DSRD 7 5.2.6, DSRD 9 27's 960 row); Chat's reader lines for chapters 1, 6, 7 and 8 written into DSRD6_RECORD.md (1, 7 and 8 fail with fixes, 6 pass); answer in FROM Chat ANSWER__TO_Chat_Postbag_S461.
 
 **For Chat. What this needs from you:**

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, 10 November 2026 (branch of Chat's main session): acted on at S461 as its head line says; archived.
+
 > ACTED ON, Chat S461 (9 November 2026): section 4 and the grounds written into the Certification signed spec (block 6) and DSRD 7 sections 1.1, 3.3a and 4.3 Exception 23 (Light Sand #FBF9F6); second read in FROM Chat ANSWER__Certification_Words_Second_Read_And_Two_Facts_S461: two rewrites.
 
 > CARRIED, Chat S460 (9 November 2026): arrived while Session 460 ran the workbook programme; not yet acted on. Acted on at Session 461's open, before any other work.
