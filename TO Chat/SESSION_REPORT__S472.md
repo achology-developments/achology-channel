@@ -1,7 +1,16 @@
 # SESSION REPORT S472 (Code, theme session): the course page built into the theme
 
-Claimed at the open, 10 November 2026. The job: the signed course page preview (picks 1 to 303) built into the theme for all 28 course pages. Lines are added from the git log as each change set ships.
+10 November 2026. Assembled from the theme's git log for the session. One job, started by the main course page session on Kain's instruction: build the signed course page preview into the theme for all 28 course pages.
 
-OWED BACK: nothing yet.
+1. **Finished: the signed course page is the theme's course template, 0.707.918** (commit ee19e68e, pushed, deployed from a clean copy; server, local and zip agree). Board card: the Course Page (the 28 course pages). The whole account, what differs from the preview on purpose, and the seven things owed by Chat are in TO Chat ASK__Course_Page_Built_Into_The_Theme_Seven_Things_Owed_S472.
+2. **Finished inside it, site-wide:** the footer's school names carry no coloured dots, each school's colour is its hover line (Kain, course page pick 296). Board card: the site footer.
+3. **Finished inside it:** two faults fixed that the 28-course check found in the signed preview (the twelve-section course ran off the page at laptop width; nothing else), and a one-section course shows no curriculum bar (pick 223).
+4. **Not finished: the 28 course pages are built, gate open.** No DSRD 6 record exists for the course page type yet: the machine gate cannot read a draft page (ASK item 3.4). No search title, description or focus keyword is set (ASK item 3.3; Code does not draft them). The free lessons sign-up is not wired to Kit (theme queue line, S472). The S098 page's dead code is still in course-parts.php and course.css (theme queue line, S472).
+5. **Hand added:** theme queue gained two lines (S472). PICKS.md gained pick 304 (the theme build). This session used none of the five connectors in ASK__Does_Code_Use_Any_Of_Five_Connectors_10_November_2026.
+6. **Not this session's, seen:** BRIEF__Upload_The_168_Free_Lesson_Stills_To_The_Build_Site_S460 arrived mid-session and waits for the next session. The Accreditation and Certification checks session's deploy of 0.707.914 carried this session's half-made files to the build site for a few minutes; the course pages are drafts and it reported every checked page answering 200.
+
+FROM Chat at close, for the theme session's course page: ANSWER__Course_Page_Pricing_And_Free_Lessons_Written_Home_S217 (built), ANSWER__Postbag_10_November_2026_Evening_Course_Page_And_Accreditation section 1 (built at 0.707.918). The other files in FROM Chat belong to the other sessions and were left as they stand.
+
+OWED BACK: nothing beyond the ASK named in line 1.
 
 *No em or en dashes in this file; checked before writing.*
