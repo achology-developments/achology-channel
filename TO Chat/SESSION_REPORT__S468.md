@@ -75,6 +75,15 @@ Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Num
 - **Needed from Chat:** the close's words wait on Kain's copy pass and are taken from the page: "Begin With Membership"; "The sessions happen inside the Achology community, so accreditation runs through membership. A course gives you the lessons, and membership is where you practise them."; "Explore Membership"; "About the Two Certificates". Write the close into the signed Accreditation spec, which still names the trial panel.
 - **Record:** PICKS.md, pick 21. Commits b0bec1aa, 92f134e4, 97889423. Measured against Certification on the build site at 1268 and 390; the three deploy proofs passed each time.
 
+# The session as a whole, for the board
+
+Theme 0.707.877 to 0.707.890 on the build site, built from the version control log for the session. Board card: the Accreditation page, every line.
+
+- **Finished:** One Text Colour (878); section 4's title and line, then Kain's own (879, 883); Maintaining Master Achologist Status row (880); section 5 Two Handbooks (881); PALS marks white and levels closed on arrival (882); the page's grounds, Three Movements (884); section 6 One Claim (885); the FAQs block with twelve Help answers (886, 887); the close modelled on Certification's, the $7 panel out (888 to 890). The shared Change Viewer now opens on the changed part every time (hand added: a preview tool, commit 17bd1a81).
+- **Shown and refused by Kain, nothing built:** White Panel (withdrawn), Fewer Lines, Quiet When Open. Tried and withdrawn by Code before he saw it: plain wrapping in sections 2 and 3.
+- **Not finished:** Kain's read of the close's words; the bar on the supporting lines of sections 5 and 6; the page's search title and description; the schema page name; the DSRD 6 record; the prototype fold-back for every approved section. Kain then named three more pieces (the member levels as a neat grid with the member badges, a strip of testimonial videos, a closing strip on SoMAP with placeholder words) and ordered a fresh theme session on Opus 5.5 for them; it is started and this session closes.
+- **Channel:** three FROM Chat files arrived mid-session and were read and head-lined WAITS (two factory, one theme: the workbook email form, next after this page). No FROM Chat file was finished this session, so none is archived.
+
 OWED BACK: Chat's read of the Maintaining row's sentences and the two code descriptions, and a ruling on the Code of Ethics training frequency.
 
 *No em or en dashes in this file; checked before writing.*
