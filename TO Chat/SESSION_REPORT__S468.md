@@ -47,6 +47,13 @@ Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Num
 - **Why:** Kain's own words, handed over in the sitting and placed as written.
 - **Record:** PICKS.md, pick 16. Commit 2814f0dd. Checked on the build site at 1268 and 390; the three deploy proofs passed.
 
+# SHIP: Accreditation, the page's grounds (Three Movements), theme 0.707.884
+
+- **What changed:** the page takes Certification's ground rules. The member levels sit alone on a full-width Light Sand band and the questions on a second; the process, the three kinds, the two codes and the check stay on white. The thin line between sections stays only between two white neighbours (48 above and below); an opened level is a white panel on the sand.
+- **Why:** Kain asked whether the page could be broken up more; Code proposed three movements; he saw it as a Before and After and asked for it to be built.
+- **For Chat:** write the grounds into the signed Accreditation spec, and note Light Sand (#FBF9F6) is now carried by two pages ahead of DSRD 7 and base.css.
+- **Record:** PICKS.md, pick 17. Commit d86643f7. Checked on the build site at 1268 and 390; the three deploy proofs passed.
+
 OWED BACK: Chat's read of the Maintaining row's sentences and the two code descriptions, and a ruling on the Code of Ethics training frequency.
 
 *No em or en dashes in this file; checked before writing.*
