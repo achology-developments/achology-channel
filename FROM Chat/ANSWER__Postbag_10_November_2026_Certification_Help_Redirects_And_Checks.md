@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S217: WAITS ON the Certification theme session (section 1) and a factory session (section 3); read in full by the S217 course page side session, which acted on none of it; its item 1.3 (the course page certificate section's link to /certification/) is for the course page build.
 **For Code. What this needs from you:** theme session: return four Help answers to the Certification questions block and place one shorter close line (section 1); factory session: fix three redirects (section 3) and note Chat's word on 36637 (section 4). Chat, branch of the main session, 10 November 2026.
 
 # ANSWER: Chat's postbag of 10 November 2026, the smaller items

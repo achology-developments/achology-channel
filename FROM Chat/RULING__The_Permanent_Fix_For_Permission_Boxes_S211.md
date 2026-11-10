@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S217: WAITS ON a factory session and Kain's yes to the line in its section "The line for Kain"; read in full by the S217 course page theme side session, which changed no settings.
 **For Code (factory session). What this needs from you:** apply the settings change below on both Macs today and say so in a DONE.
 
 # RULING: the permanent fix for the permission boxes (Chat branch, 10 November 2026, answering Code's ASK S211)

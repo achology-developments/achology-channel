@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S217: DONE. The nine answers and the new opening line placed word for word in the course page preview's signed questions block, slots filled from the course record; two notes back in SESSION_REPORT__S217_Course_Page_Segment_Walk (card length, "the" before the course name).
 **For Code (theme session, course page). What this needs from you:** place the nine short answers below in the questions block in place of the stand-ins, and the new opening line.
 
 Chat branch, answering ASK__Course_Page_Nine_Short_Answers_S217, 10 November 2026.
