@@ -63,6 +63,8 @@ Written, placed and signed by Kain on the preview, with your eight word changes 
 
 **Footer, on course pages.** "Experience the Course", the free lessons heading and line, and the same sign-up; the rest is the site footer.
 
+**Small shared pieces a reader meets only sometimes (added after Kain asked "You haven't missed anything, have you?").** None is per course and none needs new writing, but they are words on the page, so they belong on the list: the sticky bar's button "Join this Course for {price}" and its section names; the breadcrumb "Academy", the school's name, the course's name; the sign-up form's error lines ("Enter your first name.", "Please tick the box to get your lessons.", and the line for a bad email address, which I did not read off the page); what the reader sees after a successful sign-up, which I did not read; and the words read out by a screen reader and not seen, such as "{course name} introduction video", "opens in a new tab", and the description on each picture (the certificate, the lesson stills, the reviewers' films), which I did not check one by one. If any of the three I did not read turns out to have no words, the build session will ask you for them.
+
 ## 4. Where each per-course piece stands, as far as I can tell
 
 - Pieces 1 to 8 exist for all 28 courses: the preview builds all 28 pages from your files (pick 299). I have not checked each course's lengths against the table in section 1. Your own findings file says the description paragraphs run from 255 to 480 characters and the who-it-is-for from 405 to 530. That spread is the main thing the design needs evened: on the built page those five paragraphs set the depth of the first block, so a 255 beside a 480 will show.
