@@ -38,6 +38,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 18. The strip's logos with no background (pick 270). Kain: "Logos, no background. No background on logos." Apple Pay now shows the apple and the word Pay without Apple's rounded frame, and American Express shows its two words without its square; all five marks are bare and one colour. FOR CHAT: Apple's and American Express's brand rules ask for their boxed marks; the plain versions are Kain's choice against those rules, recorded here so it is a known decision and not an oversight.
 
+19. The strip's logos whole (pick 271). Kain: some logos were "trimmed", as if each sat in a box; "The logos are going to be different lengths ... That's okay ... the same sort of height". Each of the five marks is now drawn whole at its own length and proportions, on one centre line, evenly spaced; none is fitted into a shared box.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
