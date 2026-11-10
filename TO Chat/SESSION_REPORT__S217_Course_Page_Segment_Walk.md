@@ -27,6 +27,7 @@ Assembled from the theme repository's log for the session (commits 10f99d81 to t
 - Pick 275, the two bundles as one card of two rows, Kain's mechanism from his mock-up, each panel the Diploma card's own parts (bn2, round sg-20). Finished in preview; FOR CHAT on the mock-up's words (item 23 of the RULING).
 - Pick 276, the saving on each bundle row (bn3, round sg-21), the first of four ways Code brought to strengthen the rows. Finished.
 - Pick 277, the monthly way on each bundle row (bn4, round sg-22). Finished.
+- Pick 278, the bundle card rethought as a whole (bn5, round sg-23). Finished; FOR CHAT on its words (RULING item 26).
 - Not finished: Kain's sign-off of the whole pricing block; the other 27 courses not run through the block; the sticky bar still reads "Join this Course for $299"; the bundle card's words (Kain will change them; Chat works them first); the strip step (many switches now off behind their keys) and the theme build.
 - Hand added (no file): H5's push check stopped most turns on other sessions' uncommitted theme files (workbook-card-s466, accreditation-s467, certification.css, style.css, functions.php); this session committed only its own named files. Three theme-type sessions were writing in the one theme folder tonight.
 

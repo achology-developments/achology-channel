@@ -52,6 +52,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 25. The monthly way on each bundle row (pick 277). Under each bundle's price the longest monthly plan it has, "or six payments of $189.50" and "or 12 payments of $249.58", in place of "paid once". Kain: "Yes, this is good ... definitely want that in". He then asked for the closed card's words to be stronger and the capitalisation standard applied.
 
+26. The bundle card rethought as a whole (pick 278). Both rows built identically (the same three facts in the same order, one price stack with the saving beside the price and the monthly payments beneath, all on one edge), title case on every heading and label, the open panel in the Diploma card's own label and membership words. Kain: "Yes, Claude, that's perfect. That's much, much better". The words are Code's, placed with his yes; FOR CHAT: the check sheet on them, and the two open-panel paragraphs, which still name "this Diploma".
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
