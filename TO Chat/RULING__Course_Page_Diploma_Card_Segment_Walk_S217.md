@@ -62,6 +62,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 30. THE WHOLE PRICING BLOCK SIGNED (pick 282). Asked whether the whole pricing block is signed off, Kain: "Yes, signed". The Diploma card (picks 253 to 274) and the bundle card (picks 275 to 281) as they stand in the preview are the standard for all 28 course pages. Preview only; the theme build follows the other 27 courses.
 
+31. The blocks under the pricing block, Kain's rulings (pick 283). (a) The free lessons block is to be redesigned as one coherent unit ("the scrappiest block on the page ... a 10% first effort"), its step titles now in title case, its Send button the email field's width ("I'm fine with a button full width"). (b) "Questions People Ask Before They Enrol" is "a completely underutilized block" with "no information in there whatsoever": it is to be tidied and filled (Chat's nine questions, BRIEF__Course_Page_Outcomes_Grid_Contents_And_Nine_Questions_S456). (c) On every course page the site footer's top half carries the free lessons invitation in place of "Unlock your first month for $7"; Kain: "We don't want to make the offer available on the course page". The closing free lessons band then goes. FOR CHAT: write (c) into the footer's spec and DSRD 4's offer placement, and supply the questions' answers for (b).
+
 OWED BACK: the check sheet on Code's words (items 23 to 29); one bundle panel paragraph for each of the seven schools; the bundles' guarantee wording (item 27); the sticky bar's words.
 
 *No em or en dashes in this file; checked before writing.*
