@@ -42,3 +42,9 @@ Code, S469 (theme session, the Accreditation page, Opus 5.5), opened 10 November
 - **Re-measured at 1268:** the three guides' answers level across each row (4, 2, 3, 3, 3 lines); the three claim sentences three lines each (last lines 86, 94 and 96 per cent); the introduction four lines; the heading one line; the three SoMAP answers four lines each.
 - **One change to Chat's words, for Chat's read:** rewrite 14 ran the line under the member levels onto a third line of one word. Its second sentence now reads "Master Achologist, the last level, is renewed each year." in place of "Master Achologist is the last level, renewed by a set of activities each year.", which brings it back to two full lines (94 per cent). Everything else in rewrite 14 is as written, links unchanged.
 - **Record:** commits b6ca43e4 and 65260694. Three deploy proofs passed each time. No sideways spill at 390.
+
+# SHIP: Accreditation, the bar on the last two supporting lines, theme 0.707.898
+
+- **What changed:** the supporting lines under The Two Codes Every Member Keeps and How Every Session Is Checked take the bar style every other section on the page carries. No words changed.
+- **Why:** the finish list; Kain's yes on a toggle in the Change Viewer.
+- **Record:** PICKS.md pick 30. Commit 7d4edf37. Three deploy proofs passed. Checked at 1268 and 390.
