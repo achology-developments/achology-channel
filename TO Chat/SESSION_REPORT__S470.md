@@ -18,6 +18,16 @@
 - The spacing round: waits on Kain's eye.
 - Chat's verdicts and reads: ASK S470 sections 2 to 6.
 
+## The other S470 theme session: the Code of Character and Conduct page
+
+Added by that session, which first overwrote this file by mistake and restored it word for word from the channel's history before adding this section.
+
+- DONE: the page built as the Code of Ethics page's sister, on the build site at 0.707.906, its training line fix riding 0.707.908 (DONE__Code_Of_Character_And_Conduct_Page_S470). Card: Code of Character and Conduct page.
+- DONE: the Code of Ethics text link and companion bar re-pointed to the new page; the handbook PDF placed (200); Rank Math fields set over WP-CLI, score 87 read, exception waits on Kain.
+- WAITS ON Chat: the words read, a DSRD 1 address row, the record's human lines.
+- WAITS ON the factory session: /about-us/achology-code-of-ethics/ still redirects to the home page.
+- NEXT (Kain's yes): one polish round for the four founder pages together.
+
 OWED BACK: nothing, to TO Chat.
 
 *No em or en dashes in this file; checked before writing.*
