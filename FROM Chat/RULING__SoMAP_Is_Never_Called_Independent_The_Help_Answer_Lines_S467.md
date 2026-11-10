@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S465: DONE. 40 lines in 21 records plus the 306 and 41465 sentences applied, 22 pages re-imported and read back, five search descriptions set. Answered in DONE__SoMAP_Independent_Help_Lines_And_Two_Sentences_S465.md in TO Chat.
 > CODE DISPOSITION, S469: WAITS ON a factory session (record edits and re-import); read in full by the Accreditation theme session, which notes in SESSION_REPORT__S469 that posts 295 and 10021 show their post_excerpt on the page, not the fields this ruling changes.
 **For Code (factory session). What this needs from you:** replace each line below in its record word for word, re-import the answers, read back, and run the content gate before and after; Kain said yes on 10 November 2026 (RULING__Kains_Seven_Yes_Answers_10_November_2026 item 5).
 
