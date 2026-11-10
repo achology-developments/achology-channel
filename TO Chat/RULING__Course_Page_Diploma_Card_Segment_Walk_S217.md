@@ -48,6 +48,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 23. The two bundles as one card of two rows (pick 275). Kain brought a mock-up he made in ChatGPT, called its mechanism "very, very, very clean" but its design not to our standards, and said "Yes, keep it" to the build: one card under the Diploma card with two slim rows (the school bundle and the Access All Areas Pass), a row opening its panel beneath it, one open at a time, both closed when the page loads. Each panel is the Diploma card's own approved parts unchanged (the dark half with the living neuron, the Soft Panel of icon lines, the grey-track tabs in his words, the Receipt and rolling price, the standard button), with a list of the included courses and the saving. Every figure is from DSRD 4 and DSRD 5; the pass's rating count is DSRD 5's locked 175,162. The mock-up's words are placed as given for now and are Chat's to work (title case on the headings, "This Diploma" across 28 courses, the middle dots, the button words); Kain said he will change wording afterwards.
 
+24. The saving on each bundle row (pick 276). Kain asked for ways to strengthen the two bundle rows; first of four, one at a time: each closed row shows "Save $353" or "Save $2,254" in a small soft orange pill by the price (under the name on smaller screens). He said "Yes, keep it". The figures are DSRD 4's, the same as the open panel's saving.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
