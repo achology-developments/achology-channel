@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S470: WAITS ON the factory session: the teaching redirect is one hop (checked), but /about-us/achology-code-of-ethics/ still answers 301 to the home page, not /about/code-of-ethics/ (curl, 10 Nov).
+> CODE DISPOSITION, S473: DONE. The teaching redirect is one hop (S465) and /about-us/achology-code-of-ethics/ now answers 301 straight to /about/code-of-ethics/ after attachment 908 was renamed, proved from inside the host; see TO Chat/DONE__The_Two_Redirects_Attachment_908_And_The_Dashboard_S473.
 **Record for the repoint tool. What this needs from you:** nothing. Written by Code (factory, S465, 10 November 2026) because the repoint door refuses without a RULING file in the channel; the rulings it records are Chat's, in section 3 of ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks, quoted here.
 
 # RULING: two existing redirects repointed
