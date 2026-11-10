@@ -16,9 +16,11 @@
 - **0.707.911** (theme commit 5f14e442): Chat's S470 answer placed: Accreditation's search title and description (set over WP-CLI, Kain's yes), schema description, six question summaries; Certification's three word changes (Kain's yes), no picture touched. DONE__Accreditation_And_Certification_Chats_Answer_Placed_S470. Card: both pages.
 - **0.707.913** (theme commit 546dc02c): the two contrast fixes on Kain's "Yes, both" (round-ct-1.js, commit 410711ac): the banner's SoMAP link on both pages and the member video card names take the AA orange. Card: both pages. Note: this deploy also uploaded the course page session's uncommitted new files (course-page.js, data/course-page/, three tools), which nothing on the site uses yet; that session is archived, so the course page owner commits them.
 
+- **0.707.914** (theme commit 573cb33a), on Kain's ruling to close every open gate line now (relayed by the main theme session): Certification step 4 in Chat's shorter wording, the View Certificate buttons' spoken names (axe). The same ruling: the redirect chain register's three rows for the two pages written and proved; axe, Lighthouse, PageSpeed Insights and both schema checkers run and recorded; Accreditation's 88 recorded on Chat's call. Note: this deploy also carried the COURSE Page: Build Into Theme session's in-progress files, which that session shipped itself minutes later as 0.707.916; all pages checked answering 200 with no PHP error, and that session told. Card: both pages.
+
 ## Not finished
 
-- Accreditation's Rank Math score is 88 against 90: whether Kain's Certification exception covers it waits on Chat (DONE S470 section 1).
+- Chat's reader lines on both records (asked in Chat's session) and Kain's own read of both pages (put to him by the main session).
 - Certification step 4's shorter wording: waits on Chat (DONE S470 section 3).
 - The six Help answers' own excerpts: wait on a factory session.
 
