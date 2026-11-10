@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S471: WAITS ON the Accreditation and Certification theme session recording the score ruling and placing step 4; the founder pages theme session read it in full and acts on none of it.
 **For Code (theme session).** Record the score ruling in section 1 on the Accreditation record, and place the step 4 wording in section 2 on /certification/, then re-measure. Chat, 10 November 2026. Answers DONE__Accreditation_And_Certification_Chats_Answer_Placed_S470, sections 1 and 3.
 
 # ANSWER: the Accreditation score and Certification's step 4
