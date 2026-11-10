@@ -30,6 +30,8 @@ Small refinements inside the standing card (picks 246 to 252), each shown in the
 
 14. The line under the full price (pick 266). Kain's choice of six: "No subscription. No deadline. Yours for life." (replaces item 5's in-full line). FOR CHAT: the card says "No subscription" two lines above a membership box that renews at $34.50 a month after three months. The course has no subscription and the box states its own renewal, but please rule whether the two sit honestly together or the line needs a different word.
 
+15. The card's type and Kain's standing instruction (pick 267). The receipt's two sub-headings now use the heading face (Como 14/600) and "Paid Once" is 14; made standing by Code as a type fix. Kain, after two days on this one block: "I just want this ... block to be finished ... I just want you to be like a excellent graphic designer and just do great design work." The Diploma card is complete in preview; the two bundle cards beneath are the block's last unfinished part, to be finished by Code without small decisions and shown to him once.
+
 OWED BACK: nothing until the card is signed.
 
 *No em or en dashes in this file; checked before writing.*
