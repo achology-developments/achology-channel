@@ -20,3 +20,18 @@ Kain judged Certification "just kind of bog standard"; nine points named and agr
 OWED BACK: nothing until the round closes; the DONE follows then.
 
 *No em or en dashes in this file; checked before writing.*
+
+## Ships, continued (S474)
+
+- **0.707.919** Is and Is Not as Two Grounds (pick 25); with the twelfth question and title case labels.
+- **0.707.920 and 0.707.921** How Someone Can Check Your Certificate as Three Roads In (pick 26): three ways as cards, Kain's two paragraphs cut to one, three orange roads drawn in, the certificate in the card at 120; icons qr-code and hash registered.
+- **0.707.923** Two Certificates cards show each certificate's head in a band; Which Path's certificates 104; every paragraph pair even (pick 28). Item 5 (Which Path's shape) refused by Kain after four designs (pick 27).
+
+## Changed sentences, for Chat to read (all shown to Kain on screen and approved)
+
+Ledger: "It confirms the person named on it finished every lesson of an Achology course, and so has studied all of the material it teaches."; "It doesn't show they've applied what they learned, in their own lives or at work. Only the learner can choose to take that next step."; "A Certificate of Merit, Competency and Achievement also records six group sessions practising the course's skills with others."; "Every certificate is reviewed by SoMAP before it's issued, and carries a unique QR code that anyone can scan to confirm it's genuine."; "It isn't a licence to practise, and it doesn't replace professional regulation, supervision or an employer's own background checks."
+Check block: the three ways and the one paragraph in PICKS.md 26. Cards and Which Path: PICKS.md 28.
+
+## Still to do in this round
+
+Item 8 has one drawing that explains (the roads); Accreditation's same eye; both DSRD 6 records brought current; the channel clone had diverged from origin at one point (H6 said "needs a hand"; later reads said level).
