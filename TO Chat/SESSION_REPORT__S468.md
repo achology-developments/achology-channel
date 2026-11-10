@@ -54,6 +54,13 @@ Code, S468 (theme session, the Accreditation page), opened 10 November 2026. Num
 - **For Chat:** write the grounds into the signed Accreditation spec, and note Light Sand (#FBF9F6) is now carried by two pages ahead of DSRD 7 and base.css.
 - **Record:** PICKS.md, pick 17. Commit d86643f7. Checked on the build site at 1268 and 390; the three deploy proofs passed.
 
+# SHIP: Accreditation, section 6 as One Claim, theme 0.707.885
+
+- **What changed:** section 6, How Every Session Is Checked, is no longer three plain boxes. It is one board: a numbered rail through three stations, the same example claim card at each with a bar filling one, two, three, the step's title and sentence beneath, and SoMAP as the board's dark foot with its full name, a description and a link to thesomap.org. The UK Register of Learning Providers sentence moved into the answer under "Is Achology accredited?".
+- **Why:** Kain agreed the block's job (the page's proof), picked One Claim of four designs, sent the first version back as "scrappy", and said yes to the redesign. His rule: each of the three sentences fills three full lines on a computer.
+- **Needed from Chat:** (1) read the three step sentences and the SoMAP paragraph; they are Code's, written from REF 1 sections 5.1 to 5.3 and approved by Kain on screen. (2) REF 1 calls SoMAP independent; the signed spec forbids the page saying so; the page does not say it. (3) The register sentence lost its link when it moved, because the questions print plain words. (4) Write section 6 into the signed Accreditation spec.
+- **Record:** PICKS.md, picks 18 and 19. Commit 43a463e4. Checked on the build site at 1268, 1070 and 390; the three deploy proofs passed.
+
 OWED BACK: Chat's read of the Maintaining row's sentences and the two code descriptions, and a ruling on the Code of Ethics training frequency.
 
 *No em or en dashes in this file; checked before writing.*
