@@ -156,6 +156,14 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 - **OPEN, S464 (Chat), the course page's gate faults (FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1).** Why a theme edit: the instructor portrait states 32 for a 128 file; the 168 free lesson stills move to WebP with srcset; the two reviews with long dashes are swapped and the review builder skips any review holding one; the page gate leaves inline drawings such as the Stripe badge alone; the course page moves onto DSRD 7's small text line heights, three strengths on dark, one focus mark and the 0.08em overline.
 - **OPEN, S492 (factory), take the Accreditation page's stand-in summaries out.** Why a theme edit: the Accreditation page passes an 'excerpts' list to achology_faq_block in shared-parts.php for posts 10014, 10016, 295 and 10021 (S469); all four posts now carry Chat's summaries as their own excerpt on the build site, read back word for word at S492, so the list comes out and the block reads the posts, as the template comment says. Found by factory session S492; DONE__Four_Help_Answer_Summaries_Set_S492.
 
+- **OPEN, S465 (Chat), course page focus phrases and alt text (FROM Chat/RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465, section 1 items 1 to 3).** Why a theme edit: 020 and 025 take the hyphenated phrase, 028 a phrase its body carries, and the eleven pages' hero alt text names the course in full.
+
+- **OPEN, S465 (Chat), the workbook page's step lines under In Short show the step names only (same file, section 1 item 4).** Why a theme edit: the four descriptions are printed twice on one page.
+
+- **OPEN, S465 (Chat), the stretched course picture in Ready to Further Your Learning (same file, section 1 item 5).** Why a theme edit: a 380 wide file is drawn 458 wide in a shared component.
+
+- **OPEN, S465 (Chat), the workbook page's two form shapes shown to Kain as one switch (same file, section 2).** Why a theme edit: the hero is One Line and the dark card two fields; Kain sees both before either changes.
+
 ---
 
 *No em or en dashes in this file; checked before writing.*
