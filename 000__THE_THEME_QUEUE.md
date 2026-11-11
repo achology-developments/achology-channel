@@ -10,7 +10,7 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Open
 
-- **OPEN, S465 (Chat), the workbook thank-you page reads `source_course` when `associated_course` is empty (FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S465, section 1 item 1).** Why a theme edit: the thank-you page's course card rule lives in the theme; 85 of 86 workbooks carry only `source_course`, so they show no course card.
+- STRUCK S494 (theme), shipped 0.707.983: the thank-you page asks `achology_workbook_course()`, the form's own reader; read back on the build site, 86 of 86 thank-you pages carry their course name and course card link. Was: ~~**OPEN, S465 (Chat), the workbook thank-you page reads `source_course` when `associated_course` is empty (FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S465, section 1 item 1).** Why a theme edit: the thank-you page's course card rule lives in the theme; 85 of 86 workbooks carry only `source_course`, so they show no course card.~~
 - **OPEN, S465 (Chat), the workbook page's dark card loses its privacy line (same ruling, section 1 item 2).** Why a theme edit: the line is printed by the workbook page template.
 - **OPEN, S465 (Chat), form 6 on the course pages reads "Your Name" and "Email Address" (same ruling, section 1 item 3).** Why a theme edit: the field words live in the course page's free lessons block; the course page session builds it when it next opens that block.
 
