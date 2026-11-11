@@ -22,7 +22,7 @@ Each page was loaded in a browser and every link on it asked once, slowly. About
 
 ## 3. The one question: the eight drafts
 
-The Academy page and the seven school pages are drafts, so the course page's breadcrumb, its school panel and the site's own header and footer all lead to "not found" for them. Kain's ruling names the 28 course pages only, so they were not touched. The school page is in another session's hands. Put to Kain in the sitting as one yes or no; your ruling wanted on whether it waits for the school page's own record.
+The Academy page and the seven school pages are drafts, so the course page's breadcrumb, its school panel and the site's own header and footer all lead to "not found" for them. Kain's ruling names the 28 course pages only, so they were not touched. The school page is in another session's hands. Put to Kain in the sitting as one yes or no. ANSWERED the same sitting: "No, leave them". The eight stay drafts; RULING__The_Seven_School_Pages_Stay_Drafts_S498 carries his words, and nothing is wanted from you on this section.
 
 ## 4. The stylesheet and the script (points 3, 4 and 5)
 
