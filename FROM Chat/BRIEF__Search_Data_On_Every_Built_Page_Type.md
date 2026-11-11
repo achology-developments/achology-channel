@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S503: WAITS ON a theme session of its own building the structured data, started once one of the four running theme sessions has finished (a REPORT in TO Chat naming this brief); its head was read by the pricing page theme session S503 and left for that session.
+
 **For Code, a theme session. What this needs:** every built page type carries its structured data (schema markup), built to DSRD 10 section 9 and DSRD 3 section 5, and validating in a local check. Chat, the Website Publishing Questions chat, 11 November 2026, on Kain's yes.
 
 Done when: every page type in section 2 validates its structured data in a local check on one real page of each type, nothing visible changes on any page, and a REPORT in TO Chat lists each type with its schema and the validation result.
