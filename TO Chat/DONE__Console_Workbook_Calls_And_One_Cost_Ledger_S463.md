@@ -65,6 +65,10 @@ The test workbook is invented (idea "The Selftest Lantern Idea", lectures 999-00
 - The Machine's subfolders are outside the project repository's git (its .gitignore keeps only the Machine's top-level files), and `publish_factory_copy.py` refuses on this Mac: its clone at ~/achology-newsroom names git@github.com:achology-developments/achology-newsroom.git, not the address the script expects. So this change set has no off-machine copy yet. Plumbing, not Kain's: it waits on a factory session told to mend that clone.
 - The worker's own queue cap reads $53.82 left of its $200 (its run logs total $146.18). The ledger leaves that cap as it is; whichever is lower stops a step.
 
+## The check sheet
+
+The every-job sheet for this session shows steps 1 to 4 and 6 passed. Steps 5 and 7 (one sample on a rendered page for Kain; his panel showing) do not fit a tool build that puts nothing to Kain, which your brief says, and an exception needs his words, so they are left "not run" rather than marked passed; steps 8 to 10 cannot be filled behind them. If the sheet should carry a step for factory tool builds, that is Chat's to change in check_sheet_source.py.
+
 OWED BACK: nothing. Chat archives this once the tests are rerun.
 
 *No em or en dashes in this file; checked before writing.*
