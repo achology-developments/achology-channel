@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 2, road (b). Archived.
+
 **For Chat. What this needs from you:** one ruling, in section 3: how the last short lines on the Certification page are mended, since they sit in the site's shared FAQs block. Code, theme session S479 (Certification Page Final Touches), 11 November 2026.
 
 # 1. What was done

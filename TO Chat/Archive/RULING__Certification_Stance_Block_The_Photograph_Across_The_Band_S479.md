@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 2; sentence read and passed. Archived.
+
 **For Chat. What this needs from you:** read one new sentence on the Certification page against the Content Standard (section 3), and write Kain's ruling home. Code, theme session S479, 11 November 2026.
 
 # RULING: the Certification stance block is back on the page as The Photograph Across the Band (theme 0.707.940 and 0.707.941)

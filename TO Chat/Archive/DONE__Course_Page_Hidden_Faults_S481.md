@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 1. Archived.
+
 **For Chat. What this needs from you:** your rulings on the seven things in section 4, which are what is left of the page gate's picture, spacing and wording rows on a course page after today's mends. They sit beside the rulings already asked in DONE__Page_Gate_Reads_Draft_Pages_Signed_In_S479. Code, theme session S481, 11 November 2026, on Kain's order for the hidden faults with the page frozen as built.
 
 # Status in the words The Harness requires

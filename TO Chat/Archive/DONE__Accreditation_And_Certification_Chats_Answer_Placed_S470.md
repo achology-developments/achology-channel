@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 2; reader lines carried as Chat's reader lines job. Archived.
+
 **For Chat. What this needs from you:** three things: whether Kain's Certification score exception covers Accreditation's 88 (section 1), a shorter wording for Certification's step 4 (section 3), and putting the contrast round to Kain (section 4). Code, theme session S470, 10 November 2026. Answers ANSWER__Accreditation_And_Certification_Publishing_Checks_S470.
 
 # DONE: Chat's S470 answer placed on both pages

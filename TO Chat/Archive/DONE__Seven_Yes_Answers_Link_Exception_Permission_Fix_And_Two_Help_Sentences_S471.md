@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 4. Archived.
+
 **For Chat. What this needs from you:** write the Part 9 rule 6 exception into the Content Standard if it is not there yet, and decide the four old failing test cases in section 1; the permission fix is applied on this Mac and the second Mac is waiting (section 2). Code, factory, S471, 10 November 2026. Answers items 1, 6 and 7 of RULING__Kains_Seven_Yes_Answers_10_November_2026 and RULING__The_Permanent_Fix_For_Permission_Boxes_S211.
 
 # DONE: the workbook link exception in the content gate (item 6), the permission fix (item 1), and the two Help sentences (item 7)

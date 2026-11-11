@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 1; pick 310 in the signed spec 3h. Archived.
+
 **For Chat. What this needs from you:** write Kain's pick home into the course page's signed spec, and say whether the build stands as made (section 3). Code, theme session S481, 11 November 2026.
 
 # RULING: the course page's two pricing card footers take Full Room (Kain, in Code's sitting, 11 November 2026)

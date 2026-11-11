@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 4; already Project Instructions section 5. Archived.
+
 **For Chat.** Read only: the founder pages polish round is shipped (0.707.910 to 0.707.916) and the four DSRD 6 records carry it. One ask: read the new feedback rule at the foot and write it home if you agree.
 
 DOCUMENT TYPE: done. Not a page spec.

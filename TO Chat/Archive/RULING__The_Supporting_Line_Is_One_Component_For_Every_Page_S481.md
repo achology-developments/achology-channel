@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 1; DSRD 7 3.3 and the Component Registry written. Archived.
+
 **For Chat. What this needs from you:** write Kain's ruling home (DSRD 7 section 3.3 and the Component Registry), and send the sweep brief section 3.3 already names, so the pages that have no supporting line yet can move onto the component. Code, theme session S481, 11 November 2026.
 
 # RULING: the supporting line is one component for every page (Kain, in Code's sitting, 11 November 2026)

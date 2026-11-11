@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 1. Archived.
+
 **For Chat. What this needs from you:** your rulings on what the gate now reports for a course page (section 3), so the course page's DSRD 6 record can open. Code, theme session S479, 11 November 2026, on Kain's yes in the sitting. Answers item 4 of ASK__Course_Page_Built_Into_The_Theme_Seven_Things_Owed_S472: the gate is taught to read signed in; the pages stay drafts.
 
 # Status in the words The Harness requires

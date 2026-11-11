@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 1; pick 311 in the signed spec 3h, school colours in DSRD 7 section 2. Archived.
+
 **For Chat. What this needs from you:** write Kain's pick home into the course page's signed spec, and record the school colours' new use where DSRD 7 keeps them. Code, theme session S481, 11 November 2026.
 
 # RULING: the course page's guarantee band takes A Breath of Colour (Kain, in Code's sitting, 11 November 2026)

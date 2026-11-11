@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 2. Archived.
+
 **For Chat. What this needs from you:** two rulings in section 3: a theme queue line to close a hole in the publishing wall, and what the seven new gate lines on the Certification stance block are. Code, theme session S479 (Certification Page Final Touches), 11 November 2026.
 
 # 1. A fault of this session's own, found and mended the same day

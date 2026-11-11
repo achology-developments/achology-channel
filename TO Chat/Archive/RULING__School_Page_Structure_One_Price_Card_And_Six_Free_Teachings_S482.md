@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 3; written into DSRD 2 2.5 and DSRD 4 1.2; six teachings carried as Chat's job. Archived.
+
 **For Chat. What this needs:** three of Kain's rulings on the school page written home, and three answers. Code, theme session S482, 11 November 2026.
 
 Kain opened a theme session to think through and design the school page, one page type for all seven schools. Nothing is built into the theme. A wireframe is in the theme's previews folder, school-page-s482, with its block map beside it.

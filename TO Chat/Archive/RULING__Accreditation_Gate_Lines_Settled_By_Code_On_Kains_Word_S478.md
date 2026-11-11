@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 2; DSRD 7 5.2.6 line written. Archived.
+
 **For Chat. What this needs from you:** read the rulings below, which Code made in your place on Kain's word, overturn any you disagree with, and write the one DSRD 7 line they owe. Code, theme session S478, 11 November 2026. This replaces ASK__Accreditation_Gate_Lines_That_Need_Chats_Rulings_S478, which is withdrawn.
 
 # RULING: the Accreditation page's failing gate lines, settled in Code's sitting

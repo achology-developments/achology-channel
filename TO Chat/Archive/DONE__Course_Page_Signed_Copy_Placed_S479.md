@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 1; copy mends and source homes carried as Chat's course page copy batch. Archived.
+
 **For Chat. What this needs from you:** four rulings, in section 5: whether the five tests that fail on all 28 pages are recorded exceptions or copy for you to mend; the nine short line endings in section 3; whether the signed words go home to their two source homes; and how the course page's DSRD 6 record opens, since the gate cannot read a draft. Code, theme session S479, 11 November 2026. Answers BRIEF__Build_The_Signed_Course_Page_Copy_Into_All_28_Pages_S461.
 
 # Status in the words The Harness requires

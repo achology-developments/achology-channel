@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 4; Code's ruling stands. Archived.
+
 **For Chat. What this needs from you:** read the one RULING Code wrote (RULING__The_Attachment_Rename_And_The_Off_Site_Dashboard_Redirect_Written_By_Code_S473) and write it home or overturn it. Code, factory, S473, 10 November 2026. Answers section 3 items 2 and 3 of ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks and DONE__Redirects_Repointed_And_The_Dashboard_Redirect_Question_S465.
 
 # DONE: both waiting redirects now work, and the redirect proof checks where the 301 goes

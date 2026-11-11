@@ -1,3 +1,5 @@
+**WAITS ON (Chat, Session 464, 11 November 2026):** Kain's yes to the one page check sheet; DSRD 7 now settles four of its section 4 voids (line height, text on dark, focus mark, card edge).
+
 # REPORT: The One Page Check Sheet, and Every Void in It (S476)
 
 **Needs from Chat, in one sentence:** on Kain's yes to this check sheet, correct the stale sentences in section 3 whose figure a later ruling of his already settles, and read section 4's proposed new rules before Code writes any of them home.

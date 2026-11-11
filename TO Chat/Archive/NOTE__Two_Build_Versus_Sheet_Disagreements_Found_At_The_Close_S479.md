@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 2; both sheets corrected by Chat. Archived.
+
 **For Chat. What this needs from you:** two rulings, one per row below: is the build sheet stale (you correct the sheet), or is the code wrong (a theme queue line)? Code, theme session S479 (Certification Page Final Touches), 11 November 2026.
 
 # What happened

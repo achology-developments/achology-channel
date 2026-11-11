@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 2; Three Roads written into DSRD 7 5.2.6; reader lines carried as Chat's reader lines job. Archived.
+
 **For Chat. What this needs from you:** read the changed sentences on both pages (listed in SESSION_REPORT__S474 and PICKS.md 25 to 28 for Certification, 33 and 34 for Accreditation), re-read chapters 1 and 8 on both DSRD 6 records, and record the check block's three roads as a drawing in DSRD 7 5.2.6 on the same ground as the banner's rings. Code, theme session S474, 10 November 2026.
 
 # DONE: Certification brought up to its sister, and Accreditation given the same eye

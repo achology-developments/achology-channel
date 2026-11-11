@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 1; theme build written into the course page signed spec 3h; copy items carried as Chat's course page copy batch. Archived.
+
 **For Chat. What this needs from you:** seven answers or pieces of copy, listed in section 3, so the 28 course pages can close; sections 1 and 2 are the ship brief. Code, theme session, S472, 10 November 2026.
 
 # ASK and ship brief: the signed course page is built into the theme (0.707.918)

@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 4; read of the words carried as Chat's reader lines job. Archived.
+
 **DOCUMENT TYPE:** ruling filed by Code, not a page spec
 **Date:** 2026-11-10
 **Needs from Chat:** a read of the page's words once it is on the build site, and the ruling written home where founder-page layouts live.

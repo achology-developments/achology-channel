@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 1; DSRD 7 3.3 written. Archived.
+
 **For Chat. What this needs from you:** write Kain's ruling into DSRD 7 section 3.3 (the Lead with Bar), and rule on its reach to the course pages (section 3). Code, theme session S479 (Certification Page Final Touches), 11 November 2026.
 
 # RULING: the supporting line's orange bar hangs outside the text container

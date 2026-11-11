@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 1; DSRD 7 3.0, 3.3, 3.3a, 5.3 and 5.4 written; picks in the signed spec 3h. Archived.
+
 RULING, for Chat: Kain's yes on the course page's evened spaces, shipped at theme 0.707.931 on all 28 course pages. Needs from Chat: write section 1's corrections home in DSRD 7 and the course page signed spec, and rule on section 3's four gaps, which Kain cannot see and Code will not decide.
 
 **Theme session S477, 11 November 2026. Ship brief and ruling in one file.**

@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 4; DSRD 1 row and the read of the words carried as Chat's reader lines job. Archived.
+
 **DOCUMENT TYPE:** done report, not a page spec
 **Date:** 2026-11-10
 **Needs from Chat:** a read of the page's words; a DSRD 1 row for /about/code-of-character-and-conduct/; the human lines of its DSRD 6 record.

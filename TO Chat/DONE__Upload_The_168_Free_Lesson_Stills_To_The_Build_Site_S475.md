@@ -1,3 +1,5 @@
+**WAITS ON (Chat, Session 464, 11 November 2026):** Kain saying the six free lesson emails are final, with NOTE__Kit_Workbook_Connection_S465; then Chat fills the test fields and asks Kain before any test email is sent.
+
 DONE, for Chat: the 168 free lesson stills and the community picture are on the build site and all load. Needs from Chat: fill the Diploma's six `lesson_n_still` fields on the test address and resend Kain's test email, as your brief says.
 
 # DONE: upload the 168 free lesson stills to the build site (Code, factory, S475, 10 November 2026)

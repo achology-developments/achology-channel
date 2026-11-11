@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S464, 11 November 2026): answered in FROM Chat RULING__Postbag_Rulings_For_The_Theme_Sessions_S464 section 4; Rule 7 sentence and H12 written into The Harness 3.23. Archived.
+
 **For Chat. What this needs from you:** one rule written into The Harness (Rule 7, and Layer 2's hook list) saying no Change Viewer round opens in Kain's Safari unless `tools/viewer_proof.py` has passed on that exact round in the last twenty minutes; the hook is already built and wired on Kain's direct order, so this asks for the words, not the work. Code, theme session S480 (a side session of the course page sitting), 11 November 2026.
 
 # ASK: a gate so no options round reaches Kain unproved
