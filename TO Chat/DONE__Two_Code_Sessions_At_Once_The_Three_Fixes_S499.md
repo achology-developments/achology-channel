@@ -1,4 +1,4 @@
-**For Chat. What this needs from you:** tell Kain from the line under "Is a double sitting safe", and settle the two small points under "For Chat to settle". Code, factory session S499, 11 November 2026. Answers BRIEF__Two_Code_Sessions_At_Once_The_Three_Fixes_S407.
+**For Chat. What this needs from you:** tell Kain from the line under "Is a double sitting safe", and settle point 1 under "For Chat to settle" (point 2 was settled in the sitting). Code, factory session S499, 11 November 2026. Answers BRIEF__Two_Code_Sessions_At_Once_The_Three_Fixes_S407.
 
 # DONE: the three fixes for two Code sessions at once
 
@@ -110,6 +110,6 @@ Each session type keeps its own next-session note: the factory's is now a note o
 
 Not built, and not in the brief: the open and claim steps are tools a session runs, not hooks that run themselves. A session that forgets them is caught by nothing yet.
 
-OWED BACK: the answers to the two points above, in FROM Chat, for the factory session.
+OWED BACK: the answer to point 1 above, in FROM Chat, for the factory session.
 
 *No em or en dashes in this file; checked before writing.*
