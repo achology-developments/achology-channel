@@ -8,6 +8,16 @@ Looking at the four story designs: "from a copy perspective, what we actually ne
 
 (Typed from his dictation; "Kane Ramsey" and "ecology" in the transcript are Kain Ramsay and Achology.)
 
+## 1a. Kain asked again, later the same evening, and it is now pressing
+
+No answer had come when he raised it a second time: "I've already mentioned this, I think, in this chat. Nothing's happened yet." His sharper words:
+
+"In the story, or How It Grew, I would like every one of our 7 schools to have a card that explains how, in I think it was 2014, Kain Ramsay published, for this NLP page, the world's first fully online NLP practitioner course, with the opportunity for students and participants to actually practise using online classroom functionality, or words to that effect. And then a variation of that for all 7 schools."
+
+What this adds to section 2: he names the place (the How It Grew chapter, as one card); he gives the year as "I think it was 2014", so the year wants checking against the record for each school; for NLP the course is the practitioner course; and the card should say students could practise in an online classroom. One card per school, each a variation for that school's own course.
+
+The story is now built on the NLP school page (RULING__School_Page_Story_Block_Built_S497). The card appears the moment a moment is added to the How It Grew chapter's `moments` in the data file and the page's parts are rebuilt; nothing else is needed from design.
+
 ## 2. What Code reads in it, for you to settle
 
 - One moment per school, in the story slot, saying that before the pandemic Kain Ramsay published this school's own course online, the first comprehensive online course of its kind, and that it is the foundation of Achology's curriculum today.
