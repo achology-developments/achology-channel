@@ -65,6 +65,10 @@ The sample's principle: "Focus is won by deciding what we will not do, because t
 1. The pages file's principle column is cut at its first comma unless the field is quoted. Written here with Python's csv module; the build could warn when a row has more fields than its header.
 2. The check sheet harness refuses the Agent tool unless the brief opens with what it needs, a "Done when" line, "Model:" and "Effort:" lines, and a line saying it asks Kain nothing. Worth naming in the writer and checker run books so other branches meet it once.
 
+## Title case mend (the main session's word, after this report was first written)
+
+014-105: "Getting Comfortable With Silence" is now "Getting Comfortable with Silence" (title and workbook name) in workbook_upgrade_b04_s465_TITLES.json, noted "title case mend, Chat S465, Part 1 rule 9". The record itself is still blank, so its heading, post_title and rm_seo_title carry no title yet; its writer sets them from the TITLES file. The brief was rebuilt and checks TRUE TO THE VAULT.
+
 ## Plan time
 
 About 50 minutes on Kain's weekly plan: the writer (Sonnet 5.5, high) ran 13 minutes, the checker (Opus 5.5, high) about 8 minutes over two rounds and a confirmation; the rest was the set-up, mends, read and build in this Opus 5.5 branch. No console spend.
