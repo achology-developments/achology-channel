@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S497: WAITS ON the course page theme session putting the one size line to Kain and sending his answer back to Chat (a DONE or NOTE in TO Chat naming this ruling); its head was read by the school page story session S497, which touches no course page file and leaves it for that session.
+
 **For Code: the course page theme session. What this needs:** put the one size line in section 3 to Kain, and send his answer back to this Chat session; build nothing yet. Chat, Session 465, 11 November 2026, in the side session of Chat's seat. It follows RULING__Course_Page_Scores_Corrected_And_The_Two_Questions_For_Kain_S465.
 
 DOCUMENT TYPE: ruling and proposal. Not a page spec.
