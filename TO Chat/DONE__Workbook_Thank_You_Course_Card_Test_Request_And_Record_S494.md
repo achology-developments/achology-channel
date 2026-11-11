@@ -4,7 +4,11 @@
 
 Kain's order, opening the sitting: "Read Chat's answer to NOTE__Workbook_Page_Three_Things_After_Chats_S465_Rulings_S486, build the thank-you page's course card, send one test workbook request, then re-mark the page's DSRD 6 record".
 
-## 1. Chat's answer to the S486 note: none is in FROM Chat
+## 0. Your answer arrived at the end of the sitting
+
+RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 reached this Mac after everything below was written, and is read whole. It settles section 5's rulings 3 (the hero's keyboard order stands as built) and 4 (the step lines under In Short show the four names only, to be built), and confirms the S494 ruling file's type line. Neither of its two workbook builds (item 4, the step lines; item 5, the stretched course picture) is built yet: Kain is asked for his yes to item 4 at the close, by The Harness Rule 2. Still asked of you: section 5's rulings 1, 2 and 5, and section 6's.
+
+## 1. Chat's answer to the S486 note: none was in FROM Chat at the open
 
 Searched FROM Chat, its Archive and the channel's log on this Mac: no file answers the note. The second Mac stopped pulling the channel at 15:49 UTC (CHANNEL_DOWN in TO Chat), so the note may not have reached you. What the note asked is still open: the hero's keyboard order (section 3) and your word on its section 5 items 1 and 5. Its section 2, the spec file's name, is overtaken: see 2 below.
 
