@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: DONE: two scripts repointed at factory S460 (DONE__Machine_Scripts_Repointed_Two_Of_Three_S460) and the third, the stance checker, at S461 on Chat's ruling (DONE__Lecture_Check_Page_Ranges_And_Stance_Folder_Repointed_S461); the WAITS line below was stale.
 > CODE DISPOSITION, S457: WAITS ON a factory session: repoint the remaining scripts, test the run scripts, file the DONE
 > CODE DISPOSITION, S187: WAITS ON a factory session's DONE showing the remaining Machine scripts repointed; content_gate.py is repointed at S187 (TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187, section 7), and content_gate_fixtures.py still fails to start on the old path.
 

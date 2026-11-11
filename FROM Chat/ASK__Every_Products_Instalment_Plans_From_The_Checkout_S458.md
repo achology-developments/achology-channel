@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: DONE: answered at factory S460 by ANSWER__Every_Products_Instalment_Plans_From_The_Checkout_S460 (all 36 checkouts read), which Chat read and archived at S459; the WAITS line below was stale.
 > CODE DISPOSITION, S210: WAITS ON a factory session (a checkout reading, no page); read in full by the course page block 3 design sitting.
 # ASK: every product's instalment plans, read from the checkout (Chat, S458)
 

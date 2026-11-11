@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: DONE: built at factory S460 (DONE__The_Lecture_Number_Gate_Check_S460, 42 of 42 tests) and its page range ruling built at S461 (DONE__Lecture_Check_Page_Ranges_And_Stance_Folder_Repointed_S461, 0 of 1,454 failing); the WAITS line below was stale.
 > CODE DISPOSITION, S457: WAITS ON a factory session: add the lecture code check with a pass and a fail test, report the gate's count against Chat's 71
 CODE DISPOSITION, S175: WAITS ON a factory session (gate check and its count are factory work; this was a theme session).
 **Needs from Code (factory session): add one gate check. A page body carrying a lecture number or code fails, on every kind of page. Then list the records that fail it now.**
