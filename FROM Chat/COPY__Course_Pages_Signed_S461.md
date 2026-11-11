@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S478: WAITS ON the course page theme session, whose job this is; opened by the Certification and Accreditation session, which touches no course page.
+
 # Course page copy for all 28 courses, signed by Kain (Session 461, 10 November 2026)
 
 Signed by Kain on the rendered page: course 002 as the standard ("Yes, the standard"), then the other 27 from three random courses and the three lowest scorers ("Yes, sign them all"). Written by a Sonnet 5.5 writer, scored by a separate Opus 5.5 checker, mended. Research: Answer Socrates (Seneca, GB) for 23 courses, live Google suggestions for 005, 011, 012, 027 and 028. Course 001's hero and descriptions stay as signed on the Diploma page; only its search set and question mends are new.
