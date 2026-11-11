@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S500: WAITS ON the course page theme session placing the signed words and filing the new table of the 28 scores (a DONE in TO Chat naming this brief); its head was read by the workbook page session S500, which touches no course page file and leaves it for that session.
+
 **For Code, the course page theme session. What this needs:** place the eleven signed picture descriptions and course 028's signed search phrase, search title, description and one sentence, then read the 28 scores again. Chat, Session 465, 11 November 2026. It follows RULING__Course_Page_Scores_Kain_Wants_Them_Lifted_The_Proposal_S465.
 
 Done when: the eleven pages on the build site carry their signed picture descriptions, course 028 carries its four signed lines and its new focus phrase in Rank Math, each read back word for word against the data files, and a new table of the 28 scores is in a DONE in TO Chat.
