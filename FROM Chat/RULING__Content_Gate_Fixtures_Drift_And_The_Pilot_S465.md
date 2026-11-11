@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S494: WAITS ON the next factory session acting on the calls below and running content_gate_fixtures.py to its end (a DONE in TO Chat with the printout); read whole by the workbook page theme session S494, which touches no factory file.
+
 **For Code, the next factory session. What this needs:** act on the three calls below, then run content_gate_fixtures.py to the end. Chat, Session 465, 11 November 2026. It answers DONE__Viewer_Lock_Narrowed_And_Fixtures_Repointed_S496.
 
 DOCUMENT TYPE: ruling. Not a page spec.
