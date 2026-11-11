@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: DONE: change 6 and the signed-record NOTE are built in content_gate.py (test 4 of 4, red 2 of 4 before), named in DONE__Content_Gate_S425_Change_6_And_Signed_Shared_Runs_S492.md in TO Chat; the imports and the title were done earlier.
 > CODE DISPOSITION, S457: WAITS ON a factory session: change 6 (retired-type line passes with an old_address) and the shared-run NOTE for signed records are not visible in content_gate.py and no DONE names them
 > CODE DISPOSITION, S168: WAITS ON the import factory session (the next one after the API worker session); read in full S168, no change to the API worker.
 
