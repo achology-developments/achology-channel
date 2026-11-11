@@ -16,7 +16,7 @@ Each was put to him one at a time with buttons, as he asked ("give me a button w
 ## 2. Not answered
 
 5. **The free coaching and free events page (decision 8):** put to him; he answered with the condition above and did not say yes or no. It stays on the Decisions for Kain list. Code did not ask twice.
-6. **The About story keeps its own design (decision 9):** put to him at this session's close; if he answers, a line is added here.
+6. **The About story keeps its own design (decision 9):** ANSWERED after this file was first written: "Yes, keep it". The About page's story stays exactly as it is and does not take the school story design. Write it home with section 1.
 7. **The four workbook samples (decision 4):** not put to him by this session; it is your sitting.
 
 ## 3. The school story cards (decisions 1 to 3)
