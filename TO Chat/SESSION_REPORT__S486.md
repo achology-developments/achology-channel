@@ -9,6 +9,7 @@ From the theme repository's log, since 0.707.970:
 - Shipped as 0.707.972: the hero's bar reads as one piece (the field standard had painted each input its own white pill across the bar's edge); each field lights with the signed fire frame in use.
 - Shipped as 0.707.973: in the hero the markup runs button then tick box, so a keyboard meets them as the eye does. Built before your S465 ruling the other way was read; see the NOTE, section 3.
 - Shipped as 0.707.975, on Kain's word in the sitting: the hero's tick box stands under the bar's first icon; workbook covers take 4 on all four corners. With it, your S465 section 1 item 2: the dark card's privacy line is out.
+- Shipped as 0.707.976, on Kain's correction of Code's misreading: the hero's bar bleeds 23 to the left so its first icon and the tick box stand on the column's edge. Measured at 1440, 834 and 390.
 
 Hand added (no theme commit):
 
