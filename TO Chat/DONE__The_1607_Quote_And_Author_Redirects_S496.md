@@ -13,7 +13,7 @@
 - Dry run before: 1,607 to write, 0 already there, 0 refused. All 23 destinations answered 200 and none is itself redirected, so every row is one hop.
 - The write: proved 1,607 of 1,607, 0 not proved, each by asking the server without following. The install went from 1,316 to 2,923 active redirects.
 - Independent dry run after: 0 to write, 1,607 already there, 0 refused.
-- The workbook: both sheets retyped to your ruling, each row's note naming the old destination and your ruling. Recounted from the file: 2,595 rows, 2,364 verified, 231 waiting on pages not yet published. The Read Me First carries the change as v4. Project commit pushed.
+- The workbook: both sheets retyped to your ruling, each row's note naming the old destination and your ruling. Recounted from the file: 2,595 rows, 2,364 verified, 231 waiting on pages not yet published. The Read Me First carries the change as v4. The workbook's folder is not kept in git, so there is no commit for it; each retyped row's note names the destination it had before, which is the way back.
 
 The rendered proof Kain can open: https://achologytest.com/quote_author/a-c-grayling/ lands on the biography, and https://achologytest.com/quote_author/aaron-beck/ lands on the quotes listing.
 
