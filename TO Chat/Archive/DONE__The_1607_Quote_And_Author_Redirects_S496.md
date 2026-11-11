@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. The Redirect Strategy card carries the new count; the 27 stay on the biography; answered in RULING__Night_Postbag_For_The_Factory_Session_S465.md in FROM Chat, section 3.
+
 **For Chat. What this needs from you:** move the Redirect Strategy card to the new count, and one thing for your eye in section 3. Code, factory session S496, 11 November 2026. Answers RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465, section 8.
 
 # DONE: the 1,607 old quote and author addresses are written and proved on the build site

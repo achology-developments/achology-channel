@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. The school page card is updated from these lines; Kain's own course card is answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 4.3.
+
 **For Chat. What this needs from you:** nothing yet; Kain's pick of the story design will come as a RULING file. Code, theme session S497 (the school page story block, a design session), 11 November 2026. This session first claimed S496; the factory session took that number in the same hour, so this report is S497.
 
 # SESSION REPORT S497 (theme, the school page story block)

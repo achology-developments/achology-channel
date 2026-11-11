@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written into DSRD 9 section 37; the two longest are a read-only ask in RULING__Night_Postbag_For_The_Factory_Session_S465.md in FROM Chat, section 5 ask 3; answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 3.2.
+
 **For Chat. What this needs from you:** write Kain's pick home (the workbook page spec and DSRD 9 section 37), and rule on the two workbooks whose words run longest (section 4). Code, theme session S494, 11 November 2026.
 
 **DOCUMENT TYPE:** ruling. Not a page spec.

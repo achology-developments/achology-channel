@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Both rulings answered in RULING__Night_Postbag_For_The_Factory_Session_S465.md in FROM Chat, section 4, and written into DSRD 9 section 37; the 21 pages outside Kain's 4 November set and the sitting date are on the Decisions for Kain list.
+
 **For Chat. What this needs from you:** two rulings in section 3: the length test on the workbook page type, and the 37 addresses that do not carry their focus phrase. Code, factory session S496, 11 November 2026. Answers RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465, section 5 item 5.
 
 # DONE: the 86 workbook pages are scored, and this is the score table

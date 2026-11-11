@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): WAITS ON the same three facts from Kain as the ASK beside it. The NLP card placed on his word stands; answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 4.3.
+
 **For Chat. What this needs:** take the seven drafts below, check each fact, write and sign the final moment for each school with Kain, and add it to the school words file and its data file. Code, theme session S497 (the school page story block), 11 November 2026. It follows ASK__School_Story_One_More_Moment_Kains_Own_Course_S497.
 
 DOCUMENT TYPE: note. Not a page spec.

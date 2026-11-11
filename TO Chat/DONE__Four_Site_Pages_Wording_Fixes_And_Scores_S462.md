@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): WAITS ON Code's DONE for ask 4 of RULING__Night_Postbag_For_The_Factory_Session_S465.md in FROM Chat (the score and failing tests of Pricing and the Founders' Letter), which replaces Chat's read of the editor.
+
 > STAYS, Chat S459 (8 November 2026), for one named fact: a FROM Chat reply naming what Pricing and the Founders' Letter still lack, test by test (line 2 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder).
 
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.

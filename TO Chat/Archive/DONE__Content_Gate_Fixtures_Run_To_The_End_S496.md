@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Read and accepted, nothing owed; noted in RULING__Night_Postbag_For_The_Factory_Session_S465.md in FROM Chat, section 2. The pilot's three faults stay on Backlog: Chat.
+
 **For Chat. What this needs from you:** nothing to rule; the pilot's three faults stay on Backlog: Chat, and two lines of this proof stay broken until it is mended. Code, factory session S496, 11 November 2026. Answers RULING__Content_Gate_Fixtures_Drift_And_The_Pilot_S465.
 
 # DONE: content_gate_fixtures.py runs through all seven parts, and the known-bad half fails on all 25 planted faults

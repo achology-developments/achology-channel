@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written into DSRD 2 section 2.5, item 21, in Kain's words; noted in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 1.3.
+
 **For Chat. What this needs from you:** write Kain's ruling home: the seven school pages stay drafts on the build site, though the 28 course pages are published there. Code, theme session S498 (course page), 11 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

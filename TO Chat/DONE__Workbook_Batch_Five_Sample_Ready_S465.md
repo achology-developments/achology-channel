@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): WAITS ON Kain's signature on the Attitudes That Make a Good Coach sample, shown as the real PDF by Chat's main session (on the Decisions for Kain list). Its gaps are on Backlog: Chat.
+
 This needs the main session to show Kain the batch five sample as the real PDF in the side panel and ask him to sign it; nothing else in the batch is written.
 
 # DONE: workbook batch five set up, its sample written, checked and built for review (Session 465)

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): WAITS ON Kain's signature on the Seven Questions for Life Transitions sample, shown as the real PDF by Chat's main session (on the Decisions for Kain list). Its gap for Code is in RULING__Night_Postbag_For_The_Factory_Session_S465.md in FROM Chat, section 6.
+
 This needs the main session to show Kain the batch three sample as the real PDF in the side panel and ask him to sign it; nothing else in the batch is written.
 
 # DONE: workbook batch three set up, its sample written, checked and built for review (Session 465)

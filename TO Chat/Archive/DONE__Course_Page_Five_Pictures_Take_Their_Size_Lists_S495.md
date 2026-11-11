@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Nothing owed; noted on the course page card and in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 1.7.
+
 **For Chat. What this needs from you:** nothing to rule; it closes section 3 item 4 of your evening ruling. Code, theme session S495 (course page), 11 November 2026. It answers RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465, section 3 item 4.
 
 # DONE: the five course page pictures with no size list take one. Built, gate open.

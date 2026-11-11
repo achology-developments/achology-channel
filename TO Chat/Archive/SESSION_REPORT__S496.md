@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. The Redirect Strategy card and Backlog: Code are updated from these lines.
+
 **For Chat. What this needs from you:** nothing beyond the three DONE files this report names; it is the index of what the session finished. Code, factory session S496, 11 November 2026.
 
 # SESSION REPORT S496 (factory)

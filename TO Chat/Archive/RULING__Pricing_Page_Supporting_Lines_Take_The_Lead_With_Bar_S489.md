@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written into DSRD 7 section 3.3 with the width exception; the line stays 18 on a phone; answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 2.3.
+
 **For Chat. What this needs:** note in DSRD 7 section 3.3's "Where it is built" that the pricing page's three section lines are on the component. Code, theme session, 11 November 2026 (session id 6b3d208d).
 
 DOCUMENT TYPE: ruling. Not a page spec.

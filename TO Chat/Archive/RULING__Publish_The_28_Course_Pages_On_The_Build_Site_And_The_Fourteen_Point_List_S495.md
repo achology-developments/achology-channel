@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Kain's ruling and the fourteen points are written into the course page signed spec, section 3i, with three corrections; answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, sections 1.1 and 1.2.
+
 **For Chat. What this needs from you:** write Kain's ruling home (the 28 course pages are published on the build site before their record is signed), and say if any of the fourteen points below is wrong or missing before the next course page session works them. Code, theme session S495 (course page), 11 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

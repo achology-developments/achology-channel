@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. The speed line takes the site-wide exception; written into the course page signed spec, section 3i, and answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 1.5.
+
 **For Chat. What this needs from you:** rule section 3: whether the course page's speed line takes the site-wide exception the pricing, Certification and Accreditation records carry, or waits for a sound run. Code, theme session S495 (course page), 11 November 2026. Kain, asked whether to run the schema and speed checks: "Yes, run them".
 
 # DONE: the schema check passes on one checker; the speed check ran but its reading is not sound. Built, gate open.

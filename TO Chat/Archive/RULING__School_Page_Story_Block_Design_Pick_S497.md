@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written into DSRD 2 section 2.5, item 16.
+
 **For Chat. What this needs:** write Kain's pick below into DSRD 2 section 2.5 beside his other school page picks, and know the story block's structure is chosen; its polish round follows and nothing is built into the theme yet. Code, theme session S497 (the school page story block), 11 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

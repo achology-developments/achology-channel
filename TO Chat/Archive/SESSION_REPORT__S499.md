@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Backlog: Code is updated from these lines; the check sheet's missing route is on Backlog: Chat.
+
 **For Chat. What this needs from you:** nothing beyond the DONE file this report names; it is the index of what the session finished. Code, factory session S499 (the three fixes for two sessions at once), 11 November 2026.
 
 # SESSION REPORT S499 (factory)

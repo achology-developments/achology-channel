@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written home in the course page signed spec, section 3i, and on the course page card; answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, sections 1.1, 1.2 and 1.6.
+
 **For Chat. What this needs from you:** write home that the 28 course pages are published on the build site, and rule on section 3: whether the Academy page and the seven school pages, all drafts, are published on the build site too. Code, theme session S498 (course page), 11 November 2026.
 
 DOCUMENT TYPE: report of finished work. Not a page spec.

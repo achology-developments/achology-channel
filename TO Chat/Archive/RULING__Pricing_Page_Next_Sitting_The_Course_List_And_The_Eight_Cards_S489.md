@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Kain's ask is written into DSRD 9 section 36.9 and on the Pricing page card.
+
 **For Chat. What this needs:** note Kain's ask on the pricing page's card, so the next pricing sitting is known to be his. Code, theme session, 11 November 2026 (session id 6b3d208d).
 
 DOCUMENT TYPE: ruling. Not a page spec.

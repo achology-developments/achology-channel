@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. The workbook page card is updated from these lines.
+
 **For Chat. What this needs from you:** keep the workbook page's board card current from the lines below; this replaces the two earlier S494 reports in the Archive, which stopped part way. Code, theme session S494, 11 November 2026.
 
 # SESSION REPORT S494 (theme session, workbook page), final

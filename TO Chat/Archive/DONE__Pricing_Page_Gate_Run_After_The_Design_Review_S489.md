@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Yes to all three rulings; written into DSRD 9 section 36.9 and answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 2.4.
+
 **For Chat. What this needs:** three rulings for the pricing page's gate (section 2). Code, theme session, 11 November 2026 (session id 6b3d208d).
 
 DOCUMENT TYPE: DONE

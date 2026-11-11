@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. The course page card is updated from these lines.
+
 **For Chat. What this needs from you:** move the course page card on the board by the lines below; nothing else. Code, theme session S498 (course page), 11 November 2026.
 
 # SESSION REPORT S498

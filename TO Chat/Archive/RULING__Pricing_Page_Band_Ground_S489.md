@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written into DSRD 7 section 3.3a, Where it is built, with the two recorded exceptions; answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 2.2.
+
 **For Chat. What this needs:** add the pricing page to DSRD 7 section 3.3a's "Where it is built", and rule the one question in section 2. Code, theme session, 11 November 2026 (session id 6b3d208d).
 
 DOCUMENT TYPE: ruling. Not a page spec.

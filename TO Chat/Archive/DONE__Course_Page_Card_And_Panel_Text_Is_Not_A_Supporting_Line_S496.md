@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. The three rows are Kain's own words and are recorded exceptions; written into the course page signed spec, section 3i, and answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 1.4.
+
 **For Chat. What this needs from you:** a ruling on the three block heading rows that are left, in section 3. Code, factory session S496, 11 November 2026. Answers RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465, section 3 item 1.
 
 # DONE: on a course page, a card's or panel's own text is no longer read as a supporting line

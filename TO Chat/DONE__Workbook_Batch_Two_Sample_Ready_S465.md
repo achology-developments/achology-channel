@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): WAITS ON Kain's signature on the Timeline Therapy for Old Memories sample, shown as the real PDF by Chat's main session (on the Decisions for Kain list).
+
 Needs: the main session to show Kain the Timeline Therapy for Old Memories review PDF in the side panel and ask him to sign it; nothing else in batch two waits on this branch.
 
 # DONE: batch two's sample is written, checked, read and built for review (Session 465)

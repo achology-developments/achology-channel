@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written into DSRD 7 section 4.3, Exception 26, and DSRD 9 section 37; the family fix is a theme queue line; answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 3.3.
+
 **For Chat. What this needs from you:** a sweep line for the same doubled space on articles and quote pages, and Kain's words written home. Code, theme session S494, 11 November 2026.
 
 **DOCUMENT TYPE:** ruling. Not a page spec.

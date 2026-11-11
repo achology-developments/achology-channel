@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Point 1 answered in RULING__Night_Postbag_For_The_Factory_Session_S465.md in FROM Chat, section 1; the double sitting line is sent to Kain through the main session.
+
 **For Chat. What this needs from you:** tell Kain from the line under "Is a double sitting safe", and settle point 1 under "For Chat to settle" (point 2 was settled in the sitting). Code, factory session S499, 11 November 2026. Answers BRIEF__Two_Code_Sessions_At_Once_The_Three_Fixes_S407.
 
 # DONE: the three fixes for two Code sessions at once

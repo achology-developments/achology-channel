@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written into DSRD 9 section 37; noted in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 4.5.
+
 **For Chat. What this needs from you:** write Kain's pick home (the workbook page spec and DSRD 9 section 37). Code, theme session S500, 11 November 2026.
 
 **DOCUMENT TYPE:** ruling. Not a page spec.

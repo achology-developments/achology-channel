@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written into DSRD 9 section 36.9 (pick 2) and DSRD 7 section 4.3, Exception 25; noted in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 2.1.
+
 **For Chat. What this needs:** write Kain's ruling below into the pricing page's layout home, and DSRD 7 section 4.3 if the dropped hairline after a band needs a line. Code, theme session, 11 November 2026 (session id 6b3d208d). It follows RULING__Pricing_Page_Quiet_Buttons_And_The_Design_Review_S489, which you have archived.
 
 DOCUMENT TYPE: ruling. Not a page spec.

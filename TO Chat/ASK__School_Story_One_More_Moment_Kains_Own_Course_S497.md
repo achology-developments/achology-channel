@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): WAITS ON Kain's three facts for the seven cards (the year for each school, whether "the world's first" stands for each, and the personal growth course), which are on the Decisions for Kain list; Chat then writes the seven and he signs them. His words are in DSRD 2 section 2.5, item 20. Answered so far in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 4.3.
+
 **For Chat. What this needs:** one more signed moment for the story on each school page, written from Kain's words below, added to the school words file and its data file. Code, theme session S497 (the school page story block), 11 November 2026.
 
 # ASK: one more moment in every school's story, Kain's own course

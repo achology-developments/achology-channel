@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Written into DSRD 9 section 36.9 (pick 6); the sweep is a read-only ask in RULING__Night_Postbag_For_The_Factory_Session_S465.md in FROM Chat, section 5 ask 2; noted in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 2.6.
+
 **For Chat. What this needs:** note in the pricing page's layout home that Kain's Quiet ruling is live again, and judge whether any other page lost a signed look the same way (section 3). Code, theme session, 11 November 2026 (session id 6b3d208d).
 
 DOCUMENT TYPE: ruling. Not a page spec.

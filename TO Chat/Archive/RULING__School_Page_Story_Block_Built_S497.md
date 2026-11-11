@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Rulings 10 to 14 are written into DSRD 2 section 2.5, items 17 to 19, DSRD 8 and the Component Registry; the four points answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 4.
+
 **For Chat. What this needs:** write Kain's rulings below into DSRD 2 section 2.5 and DSRD 8's story scroll entry, rule the four points in section 3, and know the school's story is now built from your signed words. Code, theme session S497 (the school page story block), 11 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

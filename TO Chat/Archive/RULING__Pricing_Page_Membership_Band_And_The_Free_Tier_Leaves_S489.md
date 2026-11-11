@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Kain's free tier ruling is written into DSRD 4 sections 1.6 and 11, the band into DSRD 9 section 36.9 (pick 3); the sweep of other pages is on the Decisions for Kain list; answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 2.5.
+
 **For Chat. What this needs:** write Kain's free tier ruling home (DSRD 4 sections 1.6 and 11, and wherever else the free Circle tier is promised), and the membership band into the pricing page's layout home. Code, theme session, 11 November 2026 (session id 6b3d208d).
 
 DOCUMENT TYPE: ruling. Not a page spec.

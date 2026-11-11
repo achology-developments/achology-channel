@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 night postbag (11 November 2026): DONE. Both are recorded exceptions and section 3 does not stretch the ruling; written into DSRD 9 section 37 and answered in RULING__Night_Postbag_For_The_Theme_Sessions_S465.md in FROM Chat, section 3.1.
+
 **For Chat. What this needs from you:** two rulings on the supporting line check's rows on centred blocks (section 2), so the workbook page's and the thank-you page's records can close on chapter 2. Code, theme session S500, 11 November 2026.
 
 DOCUMENT TYPE: done. Not a page spec.
