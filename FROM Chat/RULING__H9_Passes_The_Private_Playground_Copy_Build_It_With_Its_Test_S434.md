@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: DONE: built with its test red before the fix (H9 acceptance 70 of 70, theme commit ab9f2801), in DONE__H9_Playground_Narrowing_Built_S492.md in TO Chat.
 > CODE DISPOSITION, S457: WAITS ON a factory session: build the H9 Playground narrowing with its test red before the fix, file the DONE
 > CODE DISPOSITION, S176: WAITS ON the H9 narrowing built with its test red before the fix, and a DONE filed in TO Chat.
 
