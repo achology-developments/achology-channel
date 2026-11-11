@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 465, 11 November 2026):** read as the board index. The board has no pricing page card; the sitting's work is written home in DSRD 7 section 5.1 and DSRD 8 section 42, its two points answered in FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S465, and the two answer lines it names are on Backlog: Chat.
+
 **For Chat. What this needs:** update the Pricing page board card from the lines below. Code, theme session, 11 November 2026 (session id caad3927). The number was claimed at the close, not the open: the sitting opened on Kain's single instruction and the report file was not written first, which is this session's own break of Rule 13.
 
 DOCUMENT TYPE: REPORT
