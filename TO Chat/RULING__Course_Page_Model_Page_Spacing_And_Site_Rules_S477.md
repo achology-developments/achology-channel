@@ -18,7 +18,9 @@ Measured after, on the build site, the three courses at four widths: heading to 
 
 ## 2. The one figure still off the rule, and why
 
-The free lessons block keeps 48 between its supporting line and the Day 1 band. Kain signed that block as three bands 48 apart (picks 286 to 289). Code puts it to him alone, next, with a recommendation to keep it as that block's recorded exception to 3.3.
+The free lessons block keeps 48 between its supporting line and the Day 1 band. Kain signed that block as three bands 48 apart (picks 286 to 289).
+
+**Settled, 11 November 2026 (pick 306): held as signed, a named exception to section 3.3 for this one block; Kain may overturn.** Kain typed no answer. The main course page session, which is running the sessions for him, held the block as signed because keeping it changes nothing he approved. Code had built the closer version as a preview (round mp-2), looked at it in WebKit and recommended the same: at 24 the block's two figures sit on top of the sign-up panel and its three even bands are lost. Nothing was built. For DSRD 7 3.3, the wording Code suggests: "A block laid out as its own bands (the course page's free lessons block) keeps its bands' own spacing under the supporting line; recorded exception."
 
 ## 3. Four gaps in the standard this page exposed (for Chat; nothing a visitor could see, so not put to Kain)
 
