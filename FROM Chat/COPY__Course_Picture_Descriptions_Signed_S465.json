@@ -1,0 +1,51 @@
+{
+ "signed": "Kain, 11 November 2026, Session 465: \"Yes, all as shown\"",
+ "home": "000__COPY__Course_Page_Score_Lift_S465.md in the Course Page Copy folder",
+ "slot": "the description (alt text) of the square course artwork, course-{nnn}-square",
+ "courses": {
+  "001": {
+   "focus_phrase": "online psychology course",
+   "artwork_description": "The cover of this online psychology course shows a woman in profile, her mind glowing orange."
+  },
+  "002": {
+   "focus_phrase": "nlp for beginners",
+   "artwork_description": "The cover of this NLP for beginners course shows a woman in profile, a bulb lit at the back of her mind."
+  },
+  "004": {
+   "focus_phrase": "nlp master practitioner course",
+   "artwork_description": "The cover of this NLP master practitioner course shows a woman in profile, a clear bulb against her dark hair beneath an orange plume."
+  },
+  "006": {
+   "focus_phrase": "cbt course online",
+   "artwork_description": "The cover of this CBT course online shows a woman in profile, a small light glowing in her mind."
+  },
+  "010": {
+   "focus_phrase": "life coach training",
+   "artwork_description": "The cover of this life coach training shows an older grey-bearded man in profile, threads of light crossing his mind."
+  },
+  "011": {
+   "focus_phrase": "egan skilled helper",
+   "artwork_description": "The cover of this Egan Skilled Helper training shows an older white-bearded man in profile in warm light."
+  },
+  "012": {
+   "focus_phrase": "helping skills training",
+   "artwork_description": "The cover of this helping skills training shows a woman in profile, warm orange light around her head."
+  },
+  "016": {
+   "focus_phrase": "learn mindfulness online",
+   "artwork_description": "Learn mindfulness online: the cover shows a young dark-bearded man with a lit bulb at his temple."
+  },
+  "021": {
+   "focus_phrase": "emotional intelligence course",
+   "artwork_description": "The cover of this emotional intelligence course shows a woman in profile, two bulbs glowing in her hair."
+  },
+  "022": {
+   "focus_phrase": "life purpose course",
+   "artwork_description": "The cover of this life purpose course shows a woman in profile, a lit bulb crossed by a compass needle in her mind."
+  },
+  "028": {
+   "focus_phrase": "entrepreneurship course",
+   "artwork_description": "The cover of this entrepreneurship course shows an older man in profile, looking up into soft light."
+  }
+ }
+}
