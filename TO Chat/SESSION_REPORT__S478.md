@@ -51,6 +51,8 @@ Kain's standing rule, 11 November 2026, saved to memory: a commissioned run is n
 
 - **The page gate, re-run at 0.707.938 on Kain's "yes" (hand added; no printout saved, no record line marked):** Certification 40 pass, 31 fail, 9 review; Accreditation 47 pass, 38 fail, 15 review; the same counts as 0.707.928 and 0.707.929. Certification's record still prints "built, gate open: §8". The Certification figure went stale at once: the theme session Signed COURSE Page Copy Publishing (S479) reported that Kain, in its sitting at 12:50, picked design 3 of the stance block (The Photograph Across the Band) four minutes after this session took the block off on his "yes"; this session answered "clear, go" and stood off the page's files. Certification's gate must be run again after that deploy. Not finished, in those words: neither record cleared.
 
+- **Certification handed to the other theme session (hand added).** Kain, 11 November 2026: "it seems to me we have two sessions working on the same page. Is this healthy?" Asked "Shall I hand Certification to the other session and keep only Accreditation?", he said "yes". From now the session Signed COURSE Page Copy Publishing (S479) owns the Certification page, its record and its picks; this session keeps Accreditation only. The hand-over notes went to that session by message.
+
 ## Close, 11 November 2026 (Kain ended the session)
 
 Finished and on the build site: Certification's Two Certificates as Two Rows on White (0.707.930); the stance block as The Work and the Paper (0.707.933, 0.707.934). The four designs minimum as a machine check in H11 (theme commit c7bb6620).
