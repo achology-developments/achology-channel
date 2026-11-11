@@ -6,7 +6,7 @@ Vault gate batch workbook_upgrade_b01_s463. The drafts are in its staged folder,
 
 ## The fourteen
 
-Every record: written by one Sonnet 5.5 writer (one at a time), scored by an Opus 5.5 checker who never wrote it, every reference opened live, read by the batch reader, paid check run. Every scorecard now has all twelve rows PASS. The gate's only FAILs are "signed by Kain", the locked title on seven records, and on two records a seven-word run shared with another workbook record (allowed until the strict rebuild). Every --review build prints "all checks held".
+Every record: written by one Sonnet 5.5 writer (one at a time), scored by an Opus 5.5 checker who never wrote it, every reference opened live, read by the batch reader, paid check run. Every scorecard now has all twelve rows PASS. The gate's only FAILs are "signed by Kain", the locked title on seven records, and on one record a seven-word run shared with an old workbook record (allowed until the strict rebuild). Every --review build prints "all checks held".
 
 | Record | Written | Checker rounds | FAILs left | Read | Paid check |
 |---|---|---|---|---|---|
@@ -58,6 +58,6 @@ About five and a quarter hours on Kain's plan, from about 18:30 to 23:45. That c
 
 ## Not done here, by the brief's limits
 
-No sign, no final build, no import, no Drive filing. The two shared runs with workbook records (Core Values with batch b04, Barriers to Personal Growth with the old 005-007) will be caught by the strict rebuild.
+No sign, no final build, no import, no Drive filing. The one shared run left (Barriers to Personal Growth with the old 005-007, the Dweck quote) will be caught by the strict rebuild once that old record is replaced.
 
 *No em or en dashes in this file.*
