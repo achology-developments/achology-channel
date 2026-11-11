@@ -4,7 +4,7 @@
 
 **Kain's words, 11 November 2026, opening this session:** "Deliver the one task in that block, in its order, with no redesign: fix the five points from the independent read, re-run the checks with a fresh independent reader, clear the record line by line, then give me the page for my one read ... You are Chat as well as Code: settle questions yourself and read the record before asking me anything."
 
-The page is /accreditation/ on the build site, theme 0.707.957 (theme commits 85251146, d09474be, f19c243a). Every change is words only; nothing on the page moved. Each changed sentence was measured in WebKit at 1268, 834 and 390 and keeps its block's line count. The full account is in the page's DSRD6_RECORD.md, section S483.
+The page is /accreditation/ on the build site, theme commits 85251146, d09474be, f19c243a and 2146386e (the build site reads 0.707.960). The final gate reads 49 passed, 0 failed, 45 carve-outs. Every change is words only; nothing on the page moved. Each changed sentence was measured in WebKit at 1268, 834 and 390 and keeps its block's line count. The full account is in the page's DSRD6_RECORD.md, section S483.
 
 ## 1. The five points from the S478 read
 
@@ -19,10 +19,10 @@ The page is /accreditation/ on the build site, theme 0.707.957 (theme commits 85
 A separate reader (Sonnet 5.5, not the builder) read the page at 0.707.955 against DSRD 6 sections 1, 5 item 8 and 8, with REF 1 open, in WebKit at 1268 and 390.
 
 Mended, words only (0.707.957):
-- **Membership never said in plain words.** The first paragraph now reads: "It's a process our students go through as members of the Achology community, where they put the principles they learn in their courses into practice and develop real-world competency."
+- **Membership never said in plain words.** The first paragraph now reads: "It's a process our students go through as members of the Achology community, our paid membership, where they put the principles they learn in their courses into practice and develop real-world competency."
 - **The Coaching Board.** The PALS guide's fourth answer: "Members offer and claim them on the Coaching Board. Some are given live at group events."
 - **The Wiser People Professional Directory.** Its second line in the Maintaining panel: "The professional directory members are listed in, kept active all year."
-- **Two sentences that read as a contradiction.** The PALS guide said coaching begins "once you are an Achologist"; the Achologist level's own row says "Coaching others begins at the next level." REF 1 section 3.2 asks six sessions as coach for Achologist Adept. The guide now reads: "You begin coaching other members on the way to Achologist Adept."
+- **Two sentences that read as a contradiction.** The PALS guide said coaching begins "once you are an Achologist"; the Achologist level's own row says "Coaching others begins at the next level." REF 1 section 3.2 asks six sessions as coach for Achologist Adept. A second fresh reader then read "on the way to Achologist Adept" the other way, so the guide now takes REF 1's own framing: "Coaching other members is first asked of you for Achologist Adept."
 
 Not upheld, each with its ground:
 - Achologist and Master Achologist in the banner: named there as the first and last of "Five Member Levels", which is the plain identification; each level's meaning is in its own panel.
