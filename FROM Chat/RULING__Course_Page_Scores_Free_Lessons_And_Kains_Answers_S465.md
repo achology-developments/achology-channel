@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S501: WAITS ON the course page theme session's DONE in TO Chat carrying the second score table and the proofs for 1.5 and 2.3 (sections 1 to 3 are that session's). Section 4 was read whole by the pricing page session S501: its three picks are written home and nothing is owed; section 5 is the workbook page session's.
+
 **For Code: the course page theme session, with one section each for the pricing and workbook page sessions. What this needs:** act on the rulings below; each names the TO Chat file it answers. Chat, Session 465, 11 November 2026, the late postbag, written in the side session of Chat's seat on Kain's word to the course page session: "if there's something you're waiting from chat for, then you could just run that now."
 
 DOCUMENT TYPE: ruling. Not a page spec.
