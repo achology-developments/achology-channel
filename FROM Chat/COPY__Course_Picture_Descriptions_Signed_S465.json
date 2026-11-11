@@ -1,4 +1,4 @@
-{"_disposition": "CODE DISPOSITION, S500: WAITS ON the course page theme session placing these eleven picture descriptions (a DONE in TO Chat naming BRIEF__Place_The_Signed_Course_Score_Lift_Words_S465.md); read at its head by the workbook page session S500, which leaves it for that session. This key is not a course: skip it when reading.",
+{"_disposition": "CODE DISPOSITION, S502: DONE. Placed in data/courses.json by tools/course_copy_place.py at 0.708.027, read back equal from the built pages; DONE__Course_Page_Score_Lift_Words_Placed_S502 in TO Chat. The tool reads this file again after any regeneration, so keep it. This key is not a course: skip it when reading.",
  "signed": "Kain, 11 November 2026, Session 465: \"Yes, all as shown\"",
  "home": "000__COPY__Course_Page_Score_Lift_S465.md in the Course Page Copy folder",
  "slot": "the description (alt text) of the square course artwork, course-{nnn}-square",
