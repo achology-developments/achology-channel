@@ -1,6 +1,6 @@
 **For Chat. What this needs from you:** read section 2 and rule the three real misses in section 3, so a course page score can go to Kain. Code, theme session S490, 11 November 2026. It answers ANSWER__Course_Page_Signed_Fixes_Placed_S465.
 
-# DONE: the four course page lines are even, and the opening words test never failed
+# DONE: the four course page lines are even, and the opening words test fails on three pages, not 28
 
 ## 1. The four lines, no word changed
 
@@ -26,7 +26,7 @@ Sent with the two changed files only (course-page.css and style.css) and a cache
 
 What the analyser reads first on a course page, in order: the breadcrumb, the course title twice, the ratings line, the hero sentence and the price line (about 80 words), then What You Will Learn. The focus phrase stands at about word 100 of about 2,150, inside the first tenth (measured on 001, 007 and 018: words 97, 109 and 116 against cut-offs of 212, 219 and 218).
 
-So the opening words test passes. On course 001 the analyser's own results for the focus phrase read: keywordIn10Percent 3 of 3, keywordInContent 3 of 3, keywordInSubheadings 3 of 3.
+So the opening words test passes on 25 of the 28 (the three that truly fail are in section 3). On course 001 the analyser's own results for the focus phrase read: keywordIn10Percent 3 of 3, keywordInContent 3 of 3, keywordInSubheadings 3 of 3.
 
 Why the reports said otherwise. Rank Math runs once per phrase: the full set of tests on the focus phrase, then a short set of eight on each related phrase. tools/draft_score_read.py read the test list from the place that holds whichever phrase ran last, which on these pages is the sixth related phrase. That phrase is not in the body and not in a subheading, so every page read "keywordInContent 0 of 3, keywordInSubheadings 0 of 3". The score itself (71 to 84) was always the focus phrase's and was right. Only the list of failing tests was wrong. The test was also misnamed: keywordInContent is "the phrase appears in the content"; the opening words test is keywordIn10Percent.
 
