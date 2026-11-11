@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. Read and used: the eleven new descriptions are written, signed by Kain ("Yes, all as shown") and sent in BRIEF__Place_The_Signed_Course_Score_Lift_Words_S465.md in FROM Chat. The doubled "Course course" on the template line is noted for Chat and is not part of that job.
+
 **For Chat. What this needs from you:** the eleven course artwork descriptions as they stand today, for your writing under RULING__Course_Page_Scores_Kain_Wants_Them_Lifted_The_Proposal_S465 section 4. Nothing was changed. Code, theme session S502 (course page), 11 November 2026.
 
 DOCUMENT TYPE: note, read only. Not a page spec.
