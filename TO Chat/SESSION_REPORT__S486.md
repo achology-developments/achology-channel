@@ -11,6 +11,9 @@ From the theme repository's log:
 - d7c75773, shipped as theme 0.707.958: the three Get Your Free Workbook boxes are a working form that sends to Kit through the site. Not finished: see the DONE.
 - The commit after it, shipped as 0.707.963: no Kit script on a workbook page.
 - The commit after that, shipped as 0.707.964: the column button full width again; no Kit script on the thank-you page.
+- Shipped as 0.707.966, on Kain's word in the sitting: the four step lines' orange bars hang outside the column; the book hinge strip is off workbook covers. RULING__Workbook_Page_Bars_Outside_The_Column_And_Covers_Shown_Whole_S486. Card: the workbook page.
+- Preview only: four whole hero designs for the workbook page in the Change Viewer (the workbook hero preview folder, round 1), proved by viewer_proof.py on its second run.
+- Shipped as 0.707.970, Kain's pick of the four: the hero's form is One Line; the fields read "Your Name" and "Email Address" in all three boxes; no privacy line in the hero. RULING__Workbook_Hero_One_Line_New_Field_Words_And_No_Privacy_Line_S486. Card: the workbook page. Not finished: Kain said more small changes to the hero may follow; no prototype folded back; the page's DSRD 6 record not re-marked.
 
 Hand added (no theme commit):
 
