@@ -12,6 +12,7 @@
 - **Finished:** the Content Standard Version 13 archive copy, written from git into the Newsroom Archive as 000__THE_ACHOLOGY_CONTENT_STANDARD__Version_13_S412_signed.md (NOTE__The_Diagram_Standard_Version_14_Changes_Your_Diagram_Brief_S413.md); the diagram brief was read with that note. Still missing from the same run of copies: Versions 1, 6, 7, 10, 11, 12, 17, 27 (kept only in a session record folder), 28 and 34 (35 is the version in force, not an archive copy).
 - **Closed as overtaken, not built:** the S440 workbook upload contract (DONE__Workbook_Contract_Overtaken_By_The_Workbook_Standard_S492.md). Kain's later rulings replaced its ranges, and the content gate holds the current ones. Board card: workbooks.
 - **Finished:** css_gate refuses a second copy of a registered shared feature (DONE__Components_Second_Copy_Lock_And_The_Viewer_Lock_Question_S492.md). Board card: the component registry. **Not finished:** the Change Viewer hook from the same note, which waits on Chat's answer on whether it still stands.
+- **Not finished, asked:** the S427 scheduled import test (ASK__Is_The_Scheduled_Import_Test_Still_Wanted_S492.md); Code recommends retiring it. Board card: the factory queue.
 - **Opening note:** the queue file in FROM Chat is dated S442 and older than many files in the folder, so Code read the folder itself.
 
 OWED BACK: nothing, to TO Chat.

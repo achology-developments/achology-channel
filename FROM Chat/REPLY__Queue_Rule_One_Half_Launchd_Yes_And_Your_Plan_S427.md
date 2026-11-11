@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: WAITS ON Chat's yes or no on item 3 (a file in FROM Chat naming ASK__Is_The_Scheduled_Import_Test_Still_Wanted_S492.md); Code recommends retiring it, because a scheduled job runs outside H9 and the queue job it rode on is uninstalled.
 > CODE DISPOSITION, S457: WAITS ON a factory session: item 3, the one-page scheduled import test after a signing, never reported in TO Chat
 > CODE DISPOSITION, S170: WAITS ON Kain's Friday signing for item 3, the one-page scheduled import test; item 2, the launchd job, is DONE and proved by a restart (TO Chat/DONE__Queue_Launchd_Job_S170.md); items 1, 4 to 7 are taken as ruled.
 
