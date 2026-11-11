@@ -12,4 +12,8 @@ Accreditation, open: the three guides' rows run 4, 2, 3, 3, 3 lines, and several
 
 Records: each DSRD 6 record still carries fail and not-run lines; neither re-marked since the redesigns.
 
+## Channel housekeeping
+
+The close wall held this session on three course page files that arrived after its open (the signed course page copy brief and its two copy files). Each now carries a WAITS line naming the course page theme session. Hand added, for that session to know: the JSON copy file could take the line only as a first key, `_disposition`, which is not a course and must be skipped when the file is read; the file still parses.
+
 *No em or en dashes in this file; checked before writing.*
