@@ -14,6 +14,7 @@ From the theme repository's log:
 - Shipped as 0.707.966, on Kain's word in the sitting: the four step lines' orange bars hang outside the column; the book hinge strip is off workbook covers. RULING__Workbook_Page_Bars_Outside_The_Column_And_Covers_Shown_Whole_S486. Card: the workbook page.
 - Preview only: four whole hero designs for the workbook page in the Change Viewer (the workbook hero preview folder, round 1), proved by viewer_proof.py on its second run.
 - Shipped as 0.707.970, Kain's pick of the four: the hero's form is One Line; the fields read "Your Name" and "Email Address" in all three boxes; no privacy line in the hero. RULING__Workbook_Hero_One_Line_New_Field_Words_And_No_Privacy_Line_S486. Card: the workbook page. Not finished: Kain said more small changes to the hero may follow; no prototype folded back; the page's DSRD 6 record not re-marked.
+- Shipped as 0.707.972 and 0.707.973, after Kain asked "Are you 100% happy with this?": the field standard had painted each input its own white pill across the bar's edge, so each field is now a 48 pill inside the bar that lights with the signed fire frame in use; the tick box line stands on the column's edge; in the hero the markup runs button then tick box, so a keyboard meets them as the eye does (this settles the first point under "For Chat to weigh" in the One Line RULING). Looked at in WebKit at 1440, 834 and 390. The form's sending was not run again after the reorder.
 
 Hand added (no theme commit):
 
