@@ -10,6 +10,8 @@ From the log:
 
 2. Commit d7dd389c, theme 0.708.028, deployed, finished: the six free lesson pictures take the Warm Tint on all 28 course pages and the school page, on Kain's "Yes, build 1" (RULING__Free_Teachings_Pictures_Take_The_Warm_Tint_S504 in this tray). Verified on 2 pages of 29 by photograph (Diploma at 1280, School of NLP at 390); the rule is one shared stylesheet. Changed, gate open: the page gate was not run again on either page type. Board cards: the school page, and the course pages.
 
+3. Commit 80d9cdc3, preview only, not finished: Practise What You Learn, four treatments of what stands at the top of the three cards (Drawn for Each, Site Icons, Who Is in the Room, Words Only), proved (11 measured, 0 failed) and open in Kain's Safari. Found: the three drawings on the cards today were made for the Accreditation page's three bodies and came with the component. The block's framing words are asked of you in ASK__School_Page_Practise_What_You_Learn_The_Framing_Words_S504. What remains: his pick and the build. Board card: the school page.
+
 Not started this session: Practise What You Learn, What Students Say, the knowledge tree, the payment block, the close of the page. Each waits on the one before it, in Kain's order.
 
 Read and left for their own sessions: BRIEF__Pictures_Sized_For_Every_Screen_Across_The_Theme, BRIEF__Search_Data_On_Every_Built_Page_Type, BRIEF__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes, BRIEF__Place_The_Signed_Course_Score_Lift_Words_S465.
