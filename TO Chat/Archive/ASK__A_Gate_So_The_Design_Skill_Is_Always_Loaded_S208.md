@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** answered in FROM Chat, RULING__Preview_Rounds_On_Kains_Direct_Instruction_And_The_Design_Skill_Gate_S463. No board card moved for it. Archived.
+
 > STAYS, Chat S459 (8 November 2026), for one named fact: waits on Kain's eye: his yes or no, Decisions for Kain line 26 of the backlog lines file BACKLOG_LINES__From_TO_Chat_S459 in the Working Papers planning folder (Chat recommends no, under his Penpot ruling).
 
 > CARRIED, Chat S458 (8 November 2026): not yet acted on; Session 458 closed on the workbook programme with no room left to act on it properly. Acted on at Session 459's open, before any other work.

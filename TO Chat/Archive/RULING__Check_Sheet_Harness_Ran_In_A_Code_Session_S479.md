@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** answered in FROM Chat, RULING__Preview_Rounds_On_Kains_Direct_Instruction_And_The_Design_Skill_Gate_S463. No board card moved for it. Archived.
+
 **For Chat. What this needs from you:** one ruling, in section 3: whether a preview-only design round made on Kain's direct instruction may pass Sheet 11's steps 1 to 3 on his words, or should start a different sheet. Code, theme session S479, 11 November 2026. Answers RULING__The_Check_Sheet_Harness_Now_Binds_Code_Sessions_Too_S462.
 
 # 1. The harness ran in a Code session, on this Mac
