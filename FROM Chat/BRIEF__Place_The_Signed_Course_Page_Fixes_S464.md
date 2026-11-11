@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S484: WAITS ON the course page theme session, whose brief this is (the file DONE__ for these 43 signed lines existing in TO Chat); S484 held the Certification page only and touched nothing here.
+
 **For Code, the course page theme session. What this needs:** place 43 signed lines on the 28 course pages, set the six school panels, measure every changed line in WebKit at 1268, 834 and 390, and then send one DONE. Chat, Session 464, 11 November 2026.
 
 Done when: every line in the signed file below reads word for word on the built drafts; the source Code regenerates from carries the new words, so a regeneration keeps them; the six school panels show their signed words with no stand-in flag left; the WebKit measure prints no last line of one to three words under 60 per cent at any of the three widths; and the 28 Rank Math scores are read again. All of it is reported in one DONE in TO Chat.
