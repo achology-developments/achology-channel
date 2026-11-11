@@ -9,6 +9,7 @@ Finished:
 - The 28 focus phrases claimed in the keyword register, none clashing (hand added).
 - tools/draft_score_read.py written and committed (27cae16c): reads a draft's Rank Math score on the page's real words, because the theme's feed refuses drafts; control reads 88 and 86 on Accreditation and Certification, the same as the standard reading. The 28 scores are in the DONE below, 71 to 84, none at 90.
 - Line endings measured in WebKit on all 28 pages at 1268, 834 and 390 (hand added): nine paragraphs end on a line of one to three words, plus eight hero sentences at phone width.
+- The page gate taught to read draft pages signed in, on Kain's yes (commit 06661164): page_gate.py --signed-in, search_gate.post_facts naming its statuses so a draft is found, tools/page_gate_signed_in_acceptance.py (ten cases, ten pass, written first), the 28 draft scores in the gate's score table. Filed as DONE__Page_Gate_Reads_Draft_Pages_Signed_In_S479, which asks Chat for the course page's gate rulings. Board card: the course page's DSRD 6 record.
 - DONE__Course_Page_Signed_Copy_Placed_S479 filed in TO Chat; the head lines of the brief, the five answers and the two copy files in FROM Chat updated to S479.
 
 Not finished:

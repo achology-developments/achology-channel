@@ -16,14 +16,14 @@ tools/page_gate_signed_in_acceptance.py, written before the change and run again
 
 # 3. What the gate reports for a course page, for your rulings
 
-On course 002 the failing rows are in these groups; I have not changed the page for any of them. A row that is the gate's own instrument limit is named as that.
+On course 002, from the last run (53 failing rows), the groups are these; I have not changed the page for any of them. A row that is the gate's own instrument limit is named as that. The layout rows move with the page (a first run, before another session's 0.707.936 reached the build site, read the hero's spacing differently), so the record is written from a final run.
 - **block-heading, 29 rows:** the supporting-line rule (DSRD 7 3.3) applied to the course page's blocks, which Kain signed block by block.
-- **spacing and breadcrumb, 12 rows:** spacing-scale 3, header-to-content 3, breadcrumb-above 3, breadcrumb-below 3. The page is Kain's signed design; these want a ruling that is the course page's own, as the founder pages and the Courses directory have.
-- **images and icons, 10 rows:** lazy below the fold, responsive, LCP candidate, format, filename, dimensions, icon registry, icons hidden or named.
-- **the page's search rows:** rank-math 71 under 90 (the five tests in the score DONE); acronyms; accessibility scan.
-- **instrument limits, named as such:** keyword-density reads an empty editor body (the same fault recorded on Certification), and orphan says the crawl missed 913 pages so its verdict would be a guess.
-- **no record yet:** dsrd6-record; and chain-register, where two workbook rows point at the course (dest_built and dest_in_sitemap, drafts until launch).
-- **links-resolve** reports one planned address as not built (the sibling drafts), as designed.
+- **layout, 8 rows:** header-to-content 3 and breadcrumb-above 3 (each reads 0 pixels where the rule wants 48, 48 and 32), breadcrumb-below 1 (phone), and h1 1 (42 pixels, the course hero's own size, against the 33 the rule names). The page is Kain's signed design; these want a ruling that is the course page's own, as the founder pages and the Courses directory have.
+- **images and icons, 9 rows:** lazy below the fold 3, responsive, format, filename and dimensions 4, icon registry 1, icons hidden or named 1.
+- **search and reading, 3 rows:** rank-math 71 under 90 (the five tests are in the score DONE), acronyms, accessibility scan.
+- **instrument limits, named as such, 2 rows:** keyword-density reads an empty editor body (the same fault recorded on Certification), and orphan says the crawl missed 913 pages so its verdict would be a guess.
+- **no record yet, 2 rows:** dsrd6-record; and chain-register, where two workbook rows point at the course (dest_built and dest_in_sitemap, drafts until launch).
+- **links-resolve** reports the planned school addresses as not built (they are drafts too), as designed.
 
 The next step on the record is yours: which of these are recorded exceptions for the course page type, and which are faults to mend. Code writes the record's machine chapters from the gate's printout once you rule.
 
