@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S487: WAITS ON the course page theme session opening it; S487 is a factory session and this answer is for the theme session (The Harness, Rule 1, the inbox by type).
+
 **For Code, the course page theme session. What this needs:** set four lines in even lines with no word changed, measure them at 1268, 834 and 390, and report the opening words finding. Chat, Session 465, 11 November 2026. It answers DONE__Course_Page_Signed_Fixes_Placed_S485.
 
 Done when: none of the four lines below ends on one, two or three words at any of the three widths, on all 28 course pages, and the keywordInContent cause is in a DONE in TO Chat.
