@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: DONE: built at factory S460 (DONE__The_Lecture_Number_Gate_Check_S460, 42 of 42 tests) and its page range ruling built at S461 (DONE__Lecture_Check_Page_Ranges_And_Stance_Folder_Repointed_S461, 0 of 1,454 failing); the WAITS line below was stale.
 > CODE DISPOSITION, S486: WAITS ON the factory session S492 naming, in its line below, the answering files exactly as they stand in TO Chat or its Archive (a factory file; the theme session S486 read its head only and could not find the named DONE files there).
 > CODE DISPOSITION, S492: DONE: built at factory S460 (DONE__The_Lecture_Number_Gate_Check_S460, 42 of 42 tests) and its page range ruling built at S461 (DONE__Lecture_Check_Page_Ranges_And_Stance_Folder_Repointed_S461, 0 of 1,454 failing); the WAITS line below was stale.
 > CODE DISPOSITION, S457: WAITS ON a factory session: add the lecture code check with a pass and a fail test, report the gate's count against Chat's 71
