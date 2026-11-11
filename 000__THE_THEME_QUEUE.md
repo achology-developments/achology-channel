@@ -142,6 +142,15 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **OPEN, S472 (theme): take the S098 course page's dead code out.** `template-course.php` no longer calls the old blocks' renderers in `course-parts.php` (the video block, the opt-in, the instructor, the old curriculum, members, certificate, buy block, questions, buy box and the design sitting's chooser), and `course.css` still carries their rules beside the hero's. Prove each removal by matching the removed selectors against the rendered course pages. Why it waits: it changes nothing a visitor sees and was kept out of the 0.707.918 change set so that set stayed the signed page and nothing else.
 
+
+- **OPEN, S464 (Chat), the supporting line becomes one component (FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1).** Why a theme edit: the look is drawn page by page in course-page.css, certification.css and accreditation.css. One class in one shared stylesheet, each page's copy out, the Component Registry row's home file filled, the supporting-line check wired into the page gate. Kain's bar rule (DSRD 7 section 3.3) reaches the course pages' eight lines through it.
+
+- **OPEN, S464 (Chat), every summary in the FAQs block set in even lines, site-wide (FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 2).** Why a theme edit: the block is the shared questions component; a short last line on Certification cannot be mended by words at three widths. Proved by machine at three widths on Certification and two other pages that carry it.
+
+- **OPEN, S464 (Chat), close H9's quoted path hole (FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 2).** Why a theme edit: H9's script pattern stops at a quote mark, so a quoted path to a publishing script passes. An acceptance case that fails first.
+
+- **OPEN, S464 (Chat), the course page's gate faults (FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1).** Why a theme edit: the instructor portrait states 32 for a 128 file; the 168 free lesson stills move to WebP with srcset; the two reviews with long dashes are swapped and the review builder skips any review holding one; the page gate leaves inline drawings such as the Stripe badge alone; the course page moves onto DSRD 7's small text line heights, three strengths on dark, one focus mark and the 0.08em overline.
+
 ---
 
 *No em or en dashes in this file; checked before writing.*
