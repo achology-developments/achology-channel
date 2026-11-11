@@ -60,6 +60,10 @@ The eye accessing cues principle already asks the page to weigh the claim agains
 1. The writer brief told the writer that a shared run against another workbook is "listed, not fixed", which assumed those workbooks were old text. All 86 are now signed, so for new workbooks that line misleads: every shared run should be fixed. Worth a line in the S459 writer brief.
 2. The vault gate hook refuses any shell command whose text names the records folder, even one that only fills a brief's FILL lines; and the check sheet harness refuses an Agent brief without its first line, a "Done when" line, "Model:" and "Effort:", and a line saying it asks Kain nothing. Neither is wrong; both cost a retry.
 
+## Title case mend (main session's request, after this report)
+
+In workbook_upgrade_b05_s465_TITLES.json, record 004-050's title is now "Reprogramming Limited Thinking with NLP Workbook" and its workbook_name "Reprogramming Limited Thinking with NLP", noted "Title case mend, Chat S465, Part 1 rule 9". No word changed. The record's heading, post_title and rm_seo_title are still blank from new-record, so they had nothing to change, and the writer sets them from this file. The brief was rebuilt and checks TRUE TO THE VAULT again.
+
 ## Plan time
 
 About 75 minutes on Kain's weekly plan: the writer (Sonnet 5.5, high) ran about 15 minutes over two passes, the checker (Opus 5.5, high) about 7 minutes over two rounds; the rest was the reading, set-up, mends, read and build in this Opus 5.5 branch. No console spend.
