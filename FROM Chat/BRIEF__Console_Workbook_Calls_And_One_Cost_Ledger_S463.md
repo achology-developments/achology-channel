@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S482: WAITS ON a factory session opening it; S482 is a theme session and this brief is for the factory session (The Harness, Rule 1, the inbox by type).
+> CODE DISPOSITION, S487: DONE. The five workbook calls and the one cost ledger are built and tested with no paid call; DONE__Console_Workbook_Calls_And_One_Cost_Ledger_S463 in TO Chat carries each test's printed result and where the ceiling lives.
 
 **For Code, a factory session. What this needs:** the API worker taught to write new workbooks (five calls: gather, write, check, mend, read) and one cost ledger every paid tool draws on, each proved by its own test, then one DONE in TO Chat. Chat, Session 463, 11 November 2026.
 

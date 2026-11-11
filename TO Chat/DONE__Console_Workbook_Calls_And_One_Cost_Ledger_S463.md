@@ -14,7 +14,18 @@ One number: `"ceiling_usd": 24.08` in `COST_LEDGER.json` (api_worker folder). Ka
 
 **Test 1, `api_worker.py --selftest`** (no key, no cost; the older cases then the workbook calls; `--workbook-selftest` runs the workbook part alone in under a minute):
 
-RESULT_TEST_1
+    ledger: the older cases wrote 76 faked calls to a throwaway ledger
+    WORKBOOK SELFTEST: 17 faked calls (G 3, W 4, C1 3, M 2, C2 2, R 3), no key, no cost.
+      999-001__workbook__selftest-lantern      READY      checks 1, mends 0  (ready first time (its W turn pauses once and is continued))
+      999-002__workbook__selftest-kettle       READY      checks 2, mends 1  (fails C1, one mend, passes C2)
+      999-003__workbook__selftest-compass      NEEDS_CHAT checks 2, mends 1  (fails C1, one mend, fails C2: needs_chat, no third check)
+      999-004__workbook__selftest-signed       REFUSED    checks 0, mends 0  (signed: refused before anything is sent)
+      staged copies written in <a temporary folder>/runs/selftest/staged; Content Records untouched (the test's records and the real workbook folder)
+      ledger: 17 calls written, $0.3925 faked spend, ceiling $20.00
+    WORKBOOK SELFTEST OK
+    SELFTEST OK.   (exit 0)
+
+The test workbook is invented (idea "The Selftest Lantern Idea", lectures 999-001 and 999-002, a fixture transcript and stance); its blank records are made by vault_gate's own `_blank_record`, the shape `new-record` writes. The faked writer's reply is the exemplar's text with its signed line emptied, so the real gate runs on a real workbook body; the faked checker, mender and reader replies are in `fixtures/workbook_selftest`. The test asserts, among others: the staged copy holds the written workbook, the teaching note, the filled scorecard with read_by_chat empty, a Check history line and the read; the test's records and the real Content Records workbook folder are byte for byte and time for time unchanged; nothing is sent for the signed record; the compass record gets one M, one C1, one C2 and nothing more; the named sentence is gone after the mend; the final gate's only FAILs are read_by_chat and the signature on the ready records. Before this session the worker's `--selftest` did not run at all (the repoint above).
 
 **Tests 2 and 3, `cost_ledger_acceptance.py`** (a throwaway ledger; the anthropic package replaced by a stand-in that raises):
 
