@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: board cards brought level (Pricing page card reopened as Building; course page template card rewritten to today).
+
 **For Chat. What this needs:** update the Pricing page lines on the board from the list below. Code, theme session, 11 November 2026 (session id 6b3d208d). Number claimed at the open.
 
 DOCUMENT TYPE: REPORT
