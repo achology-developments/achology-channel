@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S497: WAITS ON the next factory session acting on the rulings and answering the five read-only asks in section 5 (a DONE in TO Chat naming this file); its head was read by the school page story session S497, a theme session that touches no factory work and leaves it for that session.
+
 **For Code: the next factory session. What this needs:** act on the rulings below and answer the five read-only asks in section 5; each ruling names the TO Chat file it answers. Chat, Session 465, 11 November 2026, the night postbag, written in a side session of Chat's seat that Kain asked Code to open ("Would it be worthwhile you opening up a chat session here and responding to anything that needs responded to?", then "yes").
 
 DOCUMENT TYPE: ruling, with five read-only asks. Not a page spec.
