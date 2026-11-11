@@ -13,7 +13,8 @@ Hand added (no theme commit):
 
 - Finished: the page gate run at 0.707.956 and its printout saved; Lighthouse 13.6.0 run (Agentic Browsing 1.0, accessibility 100); the record's machine lines all read pass or recorded exception; component_gate.py passes every sheet.
 - Finished: an independent read of chapters 1, 7 and 8 by a helper that did not build the page, saved beside the record.
-- Not finished: the record is not closed. What remains is reading only, and it is Chat's: chapters 1, 7, 8, 10 and 11. Detail and the eight reader points are in DONE__Certification_Machine_Lines_Closed_And_The_Reading_Lines_Owed_S484.
+- Finished, on Kain's word in the sitting ("Yes, settle them"): the record's five reading lines settled by Code acting as Chat, the independent reader's eight points each ruled, no word changed; gate at 0.707.962 reads 41 passed, 0 failed, the record every line closed. Filed as RULING__Certification_Reading_Lines_Settled_By_Code_On_Kains_Word_S484 for Chat to overturn. One exception in it, the VoiceOver read carried to the pre-launch device check, was put to Kain for his yes.
+- Not finished, Chat's: DSRD 9's Certification layout line for the stance block; the board card.
 - A slip, mended at once: at the open this session wrote over SESSION_REPORT__S483, which another theme session had claimed a minute earlier; it was put back word for word from the channel's history and this session took S484.
 
 OWED BACK: nothing beyond the DONE.
