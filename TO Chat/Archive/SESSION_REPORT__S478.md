@@ -69,6 +69,10 @@ Kain's standing rule, 11 November 2026, saved to memory: a commissioned run is n
 
 - **0.707.953 (theme commit c5188e24): Accreditation, the three members labelled Achology Student.** Kain: "Please use the words Achology Student for all three". The label under each name, each portrait's description and the bar line ("We asked three Achology Students ..."). The shared member voices part takes a page's own label for the description and keeps its old words elsewhere. Deployed and read back at 1268 and 390. Board card: the Accreditation page.
 
+## Final close, 11 November 2026 (context full; Kain asked for a handover)
+
+Finished on Accreditation: 0.707.942, 946, 949, 952 and 953, each listed above. Gate: 49 pass, no fail. Not finished, in those words: five points from the independent read (CPD, the two member codes, the accredited question at the foot, sessions as the client in the level table, the checking point said four ways); chapter 5 item 8 not run; the record not yet marked clear; the DSRD 7 5.2.6 line, the fold-back of picks 33 to 35 and VoiceOver; Kain's own read. The page is not fit to publish. Certification is held by the session Certification Page Final Touches. The next session's task is in the top Accreditation block of the achology-next-session-plan memory note.
+
 ## Close, 11 November 2026 (Kain ended the session)
 
 Finished and on the build site: Certification's Two Certificates as Two Rows on White (0.707.930); the stance block as The Work and the Paper (0.707.933, 0.707.934). The four designs minimum as a machine check in H11 (theme commit c7bb6620).
