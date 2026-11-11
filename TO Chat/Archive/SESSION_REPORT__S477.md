@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; a session record; its asks travel in the DONE, ASK, NOTE or RULING files it names, which are answered on their own. No board card moved for it. Archived.
+
 SESSION REPORT S477, theme session, 11 November 2026. The course page reviewed as one whole and made the model page. Lines from the theme's git log; hand added lines are marked.
 
 - FINISHED: the built course page measured whole on courses 001, 019 and 023 at four widths, and the findings sorted into three written piles (shared notes file course-page-model-review.md; hand added, the notes file is outside the repository). Card: Course Page.

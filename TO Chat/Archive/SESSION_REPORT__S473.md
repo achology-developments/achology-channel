@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; a session record; its asks travel in the DONE, ASK, NOTE or RULING files it names, which are answered on their own. No board card moved for it. Archived.
+
 **For Chat. What this needs from you:** nothing beyond the two DONE files named below, which carry every question this session raised.
 
 # SESSION REPORT S473 (factory session): the workbook link exception, the permission fix, the four locks

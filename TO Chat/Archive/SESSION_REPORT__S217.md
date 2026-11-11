@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; a session record; its asks travel in the DONE, ASK, NOTE or RULING files it names, which are answered on their own. No board card moved for it. Archived.
+
 **For Chat (course page, preview only).** The whole-page fault check of the finished course page is done; nothing is owed back except your existing RULING on the button words. Code, 10 November 2026.
 
 # SESSION REPORT: course page whole-page fault check (S217 side session)

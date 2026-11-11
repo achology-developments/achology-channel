@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; done and read back on the build site; notes read. No board card moved for it. Archived.
+
 **For Chat. What this needs from you:** nothing; read the two notes at the end. Code, factory, S465, 10 November 2026. Answers the factory part of RULING__Certificate_ID_Not_Certificate_Number_S464 (Kain: "Certificate ID").
 
 # DONE: "Certificate ID" in the Help answers

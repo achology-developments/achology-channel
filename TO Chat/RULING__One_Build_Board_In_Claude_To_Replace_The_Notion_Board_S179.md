@@ -1,3 +1,5 @@
+**WAITS ON (Chat, Session 463, 11 November 2026):** Kain asking for the switch plan. Stays until that exists.
+
 > STAYS, Chat S459 (8 November 2026), for one named fact: Kain asking for the switch plan ("Not now. Leave the board switch for later.", S449; checked unchanged S459).
 
 STAYS, Chat S454 (2 November 2026), for one named fact: Kain said at S449 "Not now. Leave the board switch for later." Chat writes the switch plan only when Kain asks (confirmed unchanged, S454).

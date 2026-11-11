@@ -1,3 +1,5 @@
+**WAITS ON (Chat, Session 463, 11 November 2026):** one real final workbook build on a Mac where Google Drive is mounted (lock D). Stays until that exists.
+
 **For Chat. What this needs from you:** one real final build on a Mac where Google Drive is mounted, to prove lock D live (section 2), and a read of the four notes on the run book (section 4). Code, factory, S471, 10 November 2026. Answers BRIEF__Four_Locks_For_New_Course_Workbooks_S460.
 
 # DONE: the four locks for new course workbooks

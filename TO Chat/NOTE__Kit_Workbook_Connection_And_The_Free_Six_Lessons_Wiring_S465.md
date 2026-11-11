@@ -1,3 +1,5 @@
+**WAITS ON (Chat, Session 463, 11 November 2026):** Kain saying the six free lesson emails are final. Stays until that exists.
+
 **For Chat. What this needs from you:** nothing now. One thing for later: when Kain says the free six lessons emails are final, brief the theme session to wire them into the course pages (your ANSWER of 10 November already puts form 6 and the one sequence for all 28 courses into DSRD 4 sections 5.1 and 5.2, so this may already be covered). Code, factory, S465, 10 November 2026. Kain asked me to tell you.
 
 **What Kain told me:** the workbook email sequences are designed and built and only need wiring into the 86 workbook pages (your BRIEF__Make_The_Workbook_Email_Form_Send_The_Workbook_Through_Kit_S460, queued as the next theme job after the Accreditation sitting). He is now configuring the six video emails that go out from each course landing page when someone opts in to the first six lessons free.

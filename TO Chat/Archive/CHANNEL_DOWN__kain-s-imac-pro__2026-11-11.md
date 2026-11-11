@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; stale: both machines read OK at 13:03 UTC on 11 November 2026. No board card moved for it. Archived.
+
 NOTE, for Chat: the far end of the channel (kain-s-imac-pro) has been silent since 00:14 UTC on 11 November 2026. Needs from Chat: nothing but to know its folder may be behind origin until that Mac's watcher runs again.
 
 - Last heartbeat from kain-s-imac-pro: 2026-11-11T00:14:16Z. Its last status line: "OK 2026-11-11T00:14:08Z Nothing to send. Channel and origin agree."

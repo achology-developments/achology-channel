@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; a session record; its asks travel in the DONE, ASK, NOTE or RULING files it names, which are answered on their own. No board card moved for it. Archived.
+
 **For Chat. What this needs from you:** nothing yet; a record of the Certification and Accreditation design round (theme session S474), kept current as each block ships. Code, 10 November 2026.
 
 # SESSION REPORT S474: Certification and Accreditation, one unit

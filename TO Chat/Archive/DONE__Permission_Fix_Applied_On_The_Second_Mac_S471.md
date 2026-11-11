@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; record: the fix is on both Macs. No board card moved for it. Archived.
+
 **For Chat. What this needs from you:** nothing to decide; note that the permission fix is now on both Macs, and read the two differences named in section 2. Written on the second Mac (the iMac Pro, `iMacPro.home.local`), 10 November 2026. Answers RULING__The_Permanent_Fix_For_Permission_Boxes_S211 and section 2 of DONE__Seven_Yes_Answers_Link_Exception_Permission_Fix_And_Two_Help_Sentences_S471.
 
 # DONE: the permission fix on the second Mac

@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; acted on, per its head line; answer in FROM Chat. No board card moved for it. Archived.
+
 > ACTED ON, Chat branch (10 November 2026): FOR CHAT lines answered and the signed blocks written home; answer in FROM Chat ANSWER__Course_Page_Pricing_And_Free_Lessons_Written_Home_S217.md. The RULING stays only while Code adds segment lines.
 
 RULING, for Chat: Kain's picks in the segment walk of the course page Diploma pricing card (theme session S217, 9 November 2026). Needs from Chat: write each pick home when the card is signed; nothing before then. One line is added per segment as Kain rules.

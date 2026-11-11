@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; a session record; its asks travel in the DONE, ASK, NOTE or RULING files it names, which are answered on their own. No board card moved for it. Archived.
+
 # SESSION REPORT S472 (Code, theme session): the course page built into the theme
 
 10 November 2026. Assembled from the theme's git log for the session. One job, started by the main course page session on Kain's instruction: build the signed course page preview into the theme for all 28 course pages.

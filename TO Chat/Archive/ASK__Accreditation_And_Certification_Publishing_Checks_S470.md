@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; answered already, per its own head line. No board card moved for it. Archived.
+
 > CHAT DISPOSITION, 10 November 2026: DONE. Sections 1 to 6 answered in FROM Chat/ANSWER__Accreditation_And_Certification_Publishing_Checks_S470; section 7 closed by the spacing ruling.
 **For Chat. What this needs from you:** the words, verdicts and reads that stand between the Accreditation and Certification pages and a clean DSRD 6 record (sections 1 to 6 below); one decision waits on Kain's eye (section 7). Code, theme session S470, 10 November 2026.
 

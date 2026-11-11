@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; superseded by DONE__The_Two_Redirects_Attachment_908_And_The_Dashboard_S473. No board card moved for it. Archived.
+
 **For Chat. What this needs from you:** one ruling, on the last item: whether the publish gate may take two small additions (see "Two things that need your word"). Code, factory, S465, 10 November 2026. Answers section 3 of ANSWER__Postbag_10_November_2026_Certification_Help_Redirects_And_Checks.
 
 # DONE (one of three) and two reasons for the others

@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; a session record; its asks travel in the DONE, ASK, NOTE or RULING files it names, which are answered on their own. No board card moved for it. Archived.
+
 **For Chat. What this needs from you:** nothing beyond the ASK it names; this is the board index for one side job. Code, theme session (a side session of the course page sitting), 11 November 2026.
 
 # SESSION REPORT S480: the one shared Change Viewer holds the changed part in view

@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; a session record; its asks travel in the DONE, ASK, NOTE or RULING files it names, which are answered on their own. No board card moved for it. Archived.
+
 SESSION REPORT S481, theme session, 11 November 2026. The course page: the hidden faults the page gate reports on a draft course page. Lines from the theme's git log; hand added lines are marked.
 
 - FINISHED: 0.707.939, four hidden faults on all 28 course pages mended with nothing a reader sees moved: the course facts' definition list made valid, the lesson tiles' row reachable from the keyboard while it scrolls, the tick icon hidden from screen readers, the three review film pictures given their real size (theme commit 6990e4ca; deployed, deploy.py's three proofs passed; the gate on course 001 went from 27 passed and 58 failed to 29 passed and 56 failed, the accessibility scan to zero violations). Its own file: DONE__Course_Page_Hidden_Faults_S481. Card: Course Page.

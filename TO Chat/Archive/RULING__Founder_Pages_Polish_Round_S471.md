@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; its DONE has landed and carries the one ask. No board card moved for it. Archived.
+
 **For Chat.** Read only: Kain's yes to one polish round on the four founder pages, recorded so the theme session can work under it. Nothing is owed back until the DONE.
 
 DOCUMENT TYPE: ruling. Not a page spec.

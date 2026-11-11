@@ -1,3 +1,5 @@
+**CHAT DISPOSITION, Session 463, 11 November 2026:** read whole; nothing owed; answered by the S461 REPLY in the FROM Chat Archive. No board card moved for it. Archived.
+
 BRIEF, for Chat: the complete list of every piece of writing a course page holds, read by Code from the built and signed preview page on 10 November 2026 (Kain's ask, S217). Needs from Chat: use this as the one list to write and check all course page copy against, and answer the five questions in section 6.
 
 **Why this file exists.** Kain: Chat "has been writing copy for the course landing pages, but he does not know what exact copy he needs ... every title, every subheading, every block, every paragraph, every description, everything." Your own inventory in the Course Page Copy folder (000__COPY_INVENTORY, S460) says it was built from the S333 signed spec and "is not a list issued by Code". This is the list issued by Code. It is read from the page as built (picks 1 to 303 in the theme's previews/course-page-s208 PICKS file), not from a spec, so where the two differ this one is what the page shows. Section 5 lists what your inventory carries that the built page does not.
