@@ -10,6 +10,8 @@ From the theme repository's log, since 0.707.970:
 - Shipped as 0.707.973: in the hero the markup runs button then tick box, so a keyboard meets them as the eye does. Built before your S465 ruling the other way was read; see the NOTE, section 3.
 - Shipped as 0.707.975, on Kain's word in the sitting: the hero's tick box stands under the bar's first icon; workbook covers take 4 on all four corners. With it, your S465 section 1 item 2: the dark card's privacy line is out.
 - Shipped as 0.707.976, on Kain's correction of Code's misreading: the hero's bar bleeds 23 to the left so its first icon and the tick box stand on the column's edge. Measured at 1440, 834 and 390.
+- Shipped as 0.707.977, after Kain asked for a whole-page review: four dead rules and one stale comment out of workbook.css; the page measured the same before and after at 1440, 834 and 390. The review's findings are in the NOTE, section 5.
+- Shipped as 0.707.978, on Kain's "Yes, fix those": the three Browse More covers state their width and height. The other half of that yes, the step pictures, needed nothing: Code's "soft" finding was a mismeasure and is withdrawn in the NOTE.
 
 Hand added (no theme commit):
 

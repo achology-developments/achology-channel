@@ -28,8 +28,8 @@ Mended by Code, nothing a reader sees moved (0.707.977): four dead rules left in
 Found, not mended, each needing a ruling or its own change set:
 
 1. **The same words twice (yours).** "All Achology workbooks follow the same four-step structure, making them easy to use on your own or as part of a group" opens both the step lines under the In Short note and the How This Workbook Helps You Learn block, and the four descriptions of Learn, Reflect, Apply and Discuss are printed in both places, word for word.
-2. **The four step page pictures are soft (Code's).** The file served is 173 wide and is drawn 181 wide, so on a sharp screen it has half the detail it needs. It wants a larger size with a srcset.
-3. **Three Browse More covers state no width or height (Code's)**, so the page can shift as they load. The page gate already lists them.
+2. **WITHDRAWN, Code's mismeasure: the four step page pictures are not soft.** The 173 was the browser's density-corrected reading, not the file. The pictures carry a srcset (232, 768, 791 and 816 wide); on a sharp screen the page loads the 768 file for a picture drawn 219 wide. Nothing to mend.
+3. **DONE at 0.707.978: the three Browse More covers state their width and height** (768 by 994, read from the attachment). They are drawn the same size as before (192 by 244, 188 by 241, 184 by 238 at 390 wide).
 4. **The course picture in Ready to Further Your Learning is stretched (shared component):** a 380 wide file drawn 458 wide.
 5. **Two shapes of one form on one page (Kain's, to be shown, not described):** the hero is One Line; the dark card near the foot is still two fields with the tick box beside the button.
 6. **Section headings do not share one alignment (as signed):** Used For and Browse More stand left, How This Workbook Helps You Learn and Ready to Further Your Learning are centred, Where This Workbook Comes From is set in with its text. Noted, not a fault unless Kain says so.
