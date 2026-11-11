@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S478: WAITS ON the course page theme session, whose job this is; read in full by the Certification and Accreditation session, which touches no course page.
+
 BRIEF, for Code: build Kain's signed course page copy into all 28 course pages on the build site. Needs from Code: place it, read Rank Math off each built page, and send back a DONE naming the 28 scores.
 
 **What Kain signed (10 November 2026, Session 461).** Course 002 first, on its rendered page ("Yes, the standard"). Then the other 27, from three courses drawn at random and the three lowest scorers ("Yes, sign them all"). The copy is in FROM Chat: COPY__Course_Pages_Signed_S461.md is for reading, and COPY__Course_Pages_Signed_S461.json is the same copy keyed by course number, for building.
