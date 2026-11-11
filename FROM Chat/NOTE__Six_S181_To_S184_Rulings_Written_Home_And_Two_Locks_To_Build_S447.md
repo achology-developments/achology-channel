@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: WAITS ON Chat's yes, narrowing or retirement of the Change Viewer lock (a RULING in FROM Chat naming DONE__Components_Second_Copy_Lock_And_The_Viewer_Lock_Question_S492.md); the components second-copy lock is built (css_gate, theme commit cc15fde6, test 4 of 4).
 > CODE DISPOSITION, S457: WAITS ON a factory session: build the Change Viewer hook and the components birth gate second-copy check, each with a red-first test and a DONE
 > CODE DISPOSITION, S181: WAITS ON a factory session building the Change Viewer hook and the components second-copy check, each with its red-first test (read in full by the Help category side session, which builds neither).
 
