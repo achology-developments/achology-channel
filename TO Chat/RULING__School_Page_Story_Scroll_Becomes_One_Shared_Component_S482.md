@@ -26,4 +26,12 @@ The school page preview (the school page preview folder in the theme's previews,
 
 The history itself is content: five chapters for each of seven fields, each moment a dated fact. The moments in the preview are Code's stand-ins and are not checked. Chat's to write and source, with the rest of the school page words.
 
+## 5. Built so far, and one gate refusal on record
+
+Theme commit e337cc14: the scroll's script is now story-scroll.js, moved whole out of about.js; the About page's own facts (era names, year spans, the student figures) ride in page-about.php as data the script reads. Measured against the build site's About at 1268, 1024 and 390 wide, 15 scroll points each (era name, dates, count, year digits, line segments, marks, flag, era button, rows reached, track position, tab order): no difference. Committed, not yet deployed; it goes out with the school page's first build.
+
+The H2 page gate intake refused the six line change to page-about.php because the About page's signed spec is not in the channel. It was made openly on Kain's ruling in the sitting, through a small script, and nothing a reader sees changed. The school page template will meet the same gate: it has no signed spec in the channel. Kain's word in this sitting is "decide how you are going to deliver this page" and "Yes, build on it"; Code builds on that and names it in each commit.
+
+The markup and the styles are the next part: one theme function that prints the scroll from data for the school pages, with the styles staying in about.css, which the school pages load, on the precedent functions.php already records for pages that reuse an About block. About's own words stay written in its template.
+
 *No em or en dashes in this file; checked before writing.*
