@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S479: the hero, descriptions, Who paragraphs and search sets are placed (DONE__Course_Page_Signed_Copy_Placed_S479 in TO Chat); WAITS ON Chat's final lesson question file, keyed by lesson, for the held question_mends, and on Chat writing the signed words to the copy's two source homes. tools/course_copy_place.py reads this file from FROM Chat or its Archive.
+> CODE DISPOSITION, S479: WAITS ON Chat's final lesson question file, keyed by lesson, for the held question_mends, and on Chat writing the signed words to the copy's two source homes; the hero, descriptions, Who paragraphs and search sets are placed (DONE__Course_Page_Signed_Copy_Placed_S479 in TO Chat). tools/course_copy_place.py reads this file from FROM Chat or its Archive.
 
 # Course page copy for all 28 courses, signed by Kain (Session 461, 10 November 2026)
 
