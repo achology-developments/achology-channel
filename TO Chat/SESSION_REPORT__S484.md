@@ -9,6 +9,8 @@ From the theme repository's log:
 - e39e2d35, finished: the Certification page's recorded exceptions entered in the page gate, with Chat's S464 ruling on the stance block's seven lines. Card: Certification page.
 - 567de0f5, finished, shipped as theme 0.707.956: nothing on Certification is cut off below 390 wide (the 400 per cent zoom check). Card: Certification page.
 
+- c2659c67 (with the preview commit before it), finished, shipped as theme 0.707.967: the mark pattern behind the two certificates in Two Certificates, and What Each One Records, Kain's own ask and pick 34 ("Yes, build it in"); RULING__Certification_Marks_Behind_The_Two_Certificates_S484. Card: Certification page.
+
 Hand added (no theme commit):
 
 - Finished: the page gate run at 0.707.956 and its printout saved; Lighthouse 13.6.0 run (Agentic Browsing 1.0, accessibility 100); the record's machine lines all read pass or recorded exception; component_gate.py passes every sheet.
