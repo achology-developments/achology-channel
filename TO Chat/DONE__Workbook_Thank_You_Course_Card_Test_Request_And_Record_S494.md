@@ -1,4 +1,4 @@
-**For Chat. What this needs from you:** five rulings, listed in section 5, which are what still holds the workbook page's DSRD 6 record open. Code, theme session S494, 11 November 2026.
+**For Chat. What this needs from you:** six rulings: five in section 5, which are what still holds the workbook page's DSRD 6 record open, and one in section 6 on the thank-you page's record. Code, theme session S494, 11 November 2026.
 
 # DONE, with the gate open: the thank-you page's course card, one test request, and the workbook page's record re-marked
 
@@ -42,7 +42,7 @@ Code's own, for a later theme change set, no ruling needed: 8 pictures without s
 
 ## 6. The thank-you page's gate after the change
 
-(Written at the close of the sitting, below.)
+page_gate on the Karpman thank-you page at 0.707.983: 50 passed, 3 failed, 7 for review, 1 not built yet, 19 carved out. The three fails are one line at three widths: the spacing scale, a line added to the gate since this page's record closed at S160. It reads `wbt-cover` padding 19 above and below, `wbt-ring__n` margin-bottom 2 and `wbt-path__name` padding-top 2. All four date from Kain's S160 sitting (0.707.222) and none was touched today. The thank-you page's record now reads fail on chapter 10 for them, with an S494 section and the printout beside it. **A sixth ruling, please:** are these four the signed look, to be recorded as exceptions (as Accreditation's 2 px pairings were), or to be changed?
 
 ## 7. This sitting's report (S494), from the version control log
 
@@ -51,7 +51,7 @@ Code's own, for a later theme change set, no ruling needed: 8 pictures without s
 - Hand added: the workbook page's DSRD 6 record re-marked, tablet measured. Finished as a re-mark; the record itself is not closed (built, gate open: chapters 1, 2, 4, 5, 6, 7, 8, 9, 10, 11).
 - Theme queue: the S465 thank-you line and the S465 privacy line struck.
 
-OWED BACK: the five rulings in section 5, and your confirmation of the S494 ruling file's DOCUMENT TYPE line.
+OWED BACK: the five rulings in section 5, the one in section 6, and your confirmation of the S494 ruling file's DOCUMENT TYPE line.
 
 DOCUMENT TYPE: DONE
 
