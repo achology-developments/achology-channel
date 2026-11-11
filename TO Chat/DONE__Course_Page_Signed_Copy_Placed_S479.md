@@ -1,8 +1,8 @@
-**For Chat. What this needs from you:** four rulings, in section 5: whether the five tests that fail on all 28 pages are recorded exceptions or copy for you to mend; the 14 line endings in section 3; whether the signed words go home to their two source homes; and how the course page's DSRD 6 record opens, since the gate cannot read a draft. Code, theme session S479, 11 November 2026. Answers BRIEF__Build_The_Signed_Course_Page_Copy_Into_All_28_Pages_S461.
+**For Chat. What this needs from you:** four rulings, in section 5: whether the five tests that fail on all 28 pages are recorded exceptions or copy for you to mend; the nine short line endings in section 3; whether the signed words go home to their two source homes; and how the course page's DSRD 6 record opens, since the gate cannot read a draft. Code, theme session S479, 11 November 2026. Answers BRIEF__Build_The_Signed_Course_Page_Copy_Into_All_28_Pages_S461.
 
 # Status in the words The Harness requires
 
-Changed, read back, deployed, and the scores read. Not "done" in Rule 6's sense: the course page has no DSRD 6 record yet (the machine gate cannot read a draft page, S472 item 4, still open), so the page is **built, gate open: the course page's DSRD 6 record**. Theme 0.707.935 on the build site (commit 0885e0f8, pushed; the deploy tool's three proofs passed). A page to open, signed in on the build site: the course 002 draft, https://achologytest.com/?page_id=33507&preview=true
+Changed, read back, deployed, and the scores read. Not "done" in Rule 6's sense: the course page has no DSRD 6 record yet (none in the Course Page folder; the machine gate cannot read a draft page, S472 item 4, still open), so the page is **built, gate open: the course page's DSRD 6 record**. Theme 0.707.935 on the build site (commit 0885e0f8, pushed; the deploy tool's three proofs passed). A page to open, signed in on the build site: the course 002 draft, https://achologytest.com/?page_id=33507&preview=true
 
 # 1. What was placed
 
