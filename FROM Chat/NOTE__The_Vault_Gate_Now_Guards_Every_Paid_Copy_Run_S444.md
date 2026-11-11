@@ -1,5 +1,4 @@
-> CODE DISPOSITION, S457: WAITS ON a factory session: point RECORDS and reading-list records paths at The Stock's Content Records by name, rerun api_worker.py --selftest, file the DONE
-> CODE DISPOSITION, S180: WAITS ON the next factory session (this is a theme session; read in full, nothing in it touches the theme).
+> CODE DISPOSITION, S487: DONE. RECORDS and the reading lists find Content Records in The Stock by name and the self-test passes; answered by DONE__API_Worker_Record_Path_Fixed_And_Selftest_Passes_S444.md in TO Chat.
 **For Code (factory). What this needs from you:** know that every paid Claude call in The Machine now stops unless its batch brief was built from the vault, and fix the API worker's record path, which points at a folder that no longer exists.
 
 # NOTE: the vault gate guards every paid copy run (Chat, S444, 25 October 2026)
