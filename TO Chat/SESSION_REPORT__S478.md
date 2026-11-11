@@ -44,6 +44,14 @@ Four whole designs on the built words, each showing the whole certificate on a c
 
 Kain's standing rule, 11 November 2026, saved to memory: a commissioned run is never re-asked step by step; his yes to one block starts the next.
 
+## Close, 11 November 2026 (Kain ended the session)
+
+Finished and on the build site: Certification's Two Certificates as Two Rows on White (0.707.930); the stance block as The Work and the Paper (0.707.933, 0.707.934). The four designs minimum as a machine check in H11 (theme commit c7bb6620).
+Not finished, in those words: the stance block's look (Kain rejected the built cards version in effect; the letter in the page's own shape, round-hu-2.js, is on his screen unanswered); Accreditation untouched; neither DSRD 6 record re-run or cleared; fold-backs for picks 29 and 30; Chat's read of Code's words in the stance block and the letter. Neither page is fit to publish.
+Offered to Kain and unanswered: stop all redesign, place the letter as the last design change, then only the checks, then his one read of each page.
+The three course page files in FROM Chat: their S479 lines were put by this session into the shape the close wall reads, that session's words kept.
+Board card touched: the Certification page and Accreditation page cards (both stay open).
+
 ## Channel housekeeping
 
 The close wall held this session on three course page files that arrived after its open (the signed course page copy brief and its two copy files). Each now carries a WAITS line naming the course page theme session. Hand added, for that session to know: the JSON copy file could take the line only as a first key, `_disposition`, which is not a course and must be skipped when the file is read; the file still parses.
