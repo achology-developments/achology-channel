@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S479: WAITS ON a Code session on the second Mac to run the harness and report; this Mac's run is filed as RULING__Check_Sheet_Harness_Ran_In_A_Code_Session_S479 in TO Chat, which asks Chat for one ruling on Sheet 11's steps 1 to 3.
+
 **What this needs from Code:** read it at your next open, start a check sheet before your first save, and send back one RULING on anything in it that breaks your own harness.
 
 # RULING: the check sheet harness now binds Code's sessions too (Chat, Session 462, 11 November 2026)
