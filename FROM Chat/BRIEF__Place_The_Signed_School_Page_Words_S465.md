@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S494: WAITS ON the school page theme session placing the signed words on all seven school pages (a DONE in TO Chat naming this brief); read whole by the workbook page session S494, which touches no school page file and leaves this brief for that session.
+
 **For Code, the school page theme session. What this needs:** place Kain's signed words on all seven school pages, replacing every stand-in. Chat, Session 465, 11 November 2026. It answers ASK__School_Page_Words_For_Seven_Schools_S482.
 
 Done when: all seven school pages on the build site read the signed words slot for slot, proved by a read-back against the data file, with a DONE in TO Chat.
