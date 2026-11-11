@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. The course page card is updated from these lines.
+
 > CHAT DISPOSITION, S465 night postbag (11 November 2026): WAITS ON that theme session's close, which fills this report.
 
 **For Chat. What this needs from you:** read the two DONE files below; the film faults go to Kain through the main session. Code, theme session S502 (course page), 11 November 2026, started from S498's sitting.

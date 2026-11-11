@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. Written into DSRD 9 section 36.9 and DSRD 7 section 5.1 as a named exception for that row only; answered in RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465.md in FROM Chat, section 4.
+
 **For Chat. What this needs:** write Kain's pick home in DSRD 9 section 36.9, and record it in DSRD 7's button family (pick 7, the Fire Slide) as this page's exception to "a row slides and never wraps". Code, theme session, 11 November 2026 (session id 975f955d), the pricing page's third sitting. This file is also the ship brief for the change.
 
 DOCUMENT TYPE: ruling. Not a page spec.

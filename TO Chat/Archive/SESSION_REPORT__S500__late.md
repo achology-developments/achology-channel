@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. The workbook page's picks are written home and its card carries tonight's lines.
+
 **For Chat. What this needs from you:** keep the workbook page's board card current from the lines below; this replaces the earlier S500 report in the Archive, which stopped part way. Code, theme session S500, 11 November 2026. The sitting is still open; the last lines are added at the close.
 
 # SESSION REPORT S500 (theme session, workbook page)

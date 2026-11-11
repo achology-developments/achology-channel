@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. Written into DSRD 8, the Browse More decisions, row 9, and DSRD 9 section 37; noted in RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465.md in FROM Chat, section 5.
+
 **For Chat. What this needs from you:** write Kain's ruling home (the Browse More block's family standard and the Component Registry row, where the S130 size is written), since it replaces his S130 pick on four page kinds. Code, theme session S500, 11 November 2026.
 
 **DOCUMENT TYPE:** ruling. Not a page spec.

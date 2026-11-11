@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. Written into DSRD 9 section 36.9; noted in RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465.md in FROM Chat, section 4.
+
 **For Chat. What this needs:** write Kain's pick home in DSRD 9 section 36.9, beside the pricing page's other picks. Code, theme session, 11 November 2026 (session id 975f955d), the pricing page's third sitting. This file is also the ship brief for theme 0.708.011.
 
 DOCUMENT TYPE: ruling. Not a page spec.

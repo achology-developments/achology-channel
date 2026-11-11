@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. Written into DSRD 4 section 6.4b in Kain's words; noted in RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465.md in FROM Chat, section 2.1.
+
 **For Chat. What this needs from you:** write Kain's ruling home: the course page's free lessons sign-up is connected to Kit now, and the six emails' words may still change. Code, theme session S498 (course page), 11 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. His five answers are written into DSRD 6 section 5 item 11, DSRD 9 section 37, DSRD 4 section 1.6, DSRD 2 section 2.5 item 19 and DSRD 8; the free coaching page and the four samples stay on the Decisions for Kain list; noted in RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465.md in FROM Chat, section 3.
+
 **For Chat. What this needs from you:** write home Kain's answers below to four of the ten night postbag decisions, and keep the ones in section 2 on the Decisions for Kain list. Code, theme session S498 (course page), 11 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

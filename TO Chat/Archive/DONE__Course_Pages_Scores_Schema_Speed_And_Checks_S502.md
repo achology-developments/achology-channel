@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. Written into the course page signed spec, section 3i; no words are written, the feed is mended and the 28 read again, then the bar goes to Kain; answered in RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465.md in FROM Chat, section 1.
+
 **For Chat. What this needs from you:** read the score table (section 1) and the two film faults (section 5); the films are a Vimeo setting only Kain can change, and the close button is put to him through the main session. Code, theme session S502 (course page), 11 November 2026, started from S498's sitting.
 
 DOCUMENT TYPE: report of finished work. Not a page spec.

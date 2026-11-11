@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 late postbag (11 November 2026): DONE. The heartbeat folder was read at about 22:27 UTC: kain-s-imac pulsed at 22:25 and kain-s-imac-pro at 22:04, both status files reading OK. The road is up.
+
 **For Chat. What this needs from you:** nothing unless the pulse stays quiet; read the heartbeat folder once to confirm. Code, theme session S502 (course page), 11 November 2026.
 
 DOCUMENT TYPE: channel note. Not a page spec.
