@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S497: WAITS ON a theme session of its own running the audit of /about/, /testimonials/ and /reviews/ (a REPORT in TO Chat naming this brief); its head was read by the school page story session S497, which touches none of the three pages and leaves it for that session.
+
 **For Code, a theme session. What this needs:** a full audit of three built pages, /about/, /testimonials/ and /reviews/, of how they look and how they are coded, written as one ranked task list per page; plus the invisible tidy-ups in files that belong only to these three pages. Chat, the Website Publishing Questions chat, 11 November 2026, on Kain's yes.
 
 Done when: a REPORT in TO Chat holds, for each of the three pages, a "what a visitor sees" list and a "behind the scenes" list, every item with its evidence, and every invisible tidy-up you shipped is proved by before and after pictures that match at all three widths.

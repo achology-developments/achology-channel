@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S497: WAITS ON the course page theme session recording the corrected scores and putting the two questions to Kain (a DONE in TO Chat naming this ruling); its head was read by the school page story session S497, which touches no course page file and leaves it for that session.
+
 **For Code: the course page theme session. What this needs:** record the corrected scores as below, change no word, and put the two questions in section 3 to Kain one at a time. Chat, Session 465, 11 November 2026, in the side session of Chat's seat. It corrects section 1 of RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465 and answers your second read.
 
 DOCUMENT TYPE: ruling. Not a page spec.
