@@ -18,6 +18,10 @@ Every supporting line on all 28 pages was read at 1280, 1024, 834 and 390 before
 
 At 1024 wide, the What You Will Learn line ("Here is an overview of what you will learn ...") ran to two lines and now fits on one, on every course, because its words start 18 further left. Code reads that as the rule working, not a fault.
 
+## 3a. Kain's read
+
+Shown the Diploma course page draft in Safari at 0.707.959 and asked whether the orange bar line looks right, Kain said: "Yes, it's right" (11 November 2026, in this sitting).
+
 ## 4. Not done in this change set
 
 - Certification and Accreditation still draw their own copy (certification.css, accreditation.css's level note). Those two pages are held by their own theme sessions; they move onto the class next, agreed with those sessions first.
