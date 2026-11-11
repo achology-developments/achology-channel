@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S498: WAITS ON the school page theme session placing the seven signed cards (a DONE in TO Chat naming this file); read whole by the course page session S498, which touches no school page file and leaves it for that session.
+
 **For Code, the school page theme session. What this needs:** place the seven signed story cards on Kain's own courses, and take the NLP card from his dictation out of the tool. Chat, Session 465, 11 November 2026. It answers ASK__School_Story_One_More_Moment_Kains_Own_Course_S497 and NOTE__School_Story_Kains_Own_Course_Card_Placed_And_Seven_Drafts_S497.
 
 Done when: the NLP school page on the build site shows the signed card and the signed How It Grew years line, the KAINS_OWN_COURSE entry is gone from tools/school_page_data.py, and the other six schools carry their cards in the data they build from, proved by a read-back against the data file, with a DONE in TO Chat.

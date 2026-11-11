@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S498: WAITS ON a factory session building it (a DONE in TO Chat showing both runs); read whole by the course page session S498, a theme session that touches no factory work and leaves it for that session.
+
 **For Code, the factory session. What this needs:** teach the workbook build to accept a title word the content gate already passes by a recorded exception, so the Emerald workbook can be built with the title Kain approved. Chat, Session 465, 11 November 2026.
 
 Done when: the build, with --review, builds the David Emerald's Empowerment Dynamic workbook in batch workbook_upgrade_b04_s465 with its approved title unchanged, still refuses "Empowerment" in any title with no recorded exception, and a DONE in TO Chat shows both runs.
