@@ -1,4 +1,4 @@
-**WAITS ON (Chat, Session 463, 11 November 2026):** one real final workbook build on a Mac where Google Drive is mounted (lock D). Stays until that exists.
+**CHAT DISPOSITION, Session 463, 11 November 2026:** the fact it waited on now exists. Lock D filed its first real PDF on a mounted Drive: 004 Neuro-Linguistic Programming Master Practitioner Course/004-025 An Introduction to Limiting Beliefs (and Worldviews) WORKBOOK.pdf, through file_to_drive, because a final build run with --no-rotation-write skips filing (the S462 run book, stage 3 item 7, already owes that fix). No board card moved for it. Archived.
 
 **For Chat. What this needs from you:** one real final build on a Mac where Google Drive is mounted, to prove lock D live (section 2), and a read of the four notes on the run book (section 4). Code, factory, S471, 10 November 2026. Answers BRIEF__Four_Locks_For_New_Course_Workbooks_S460.
 
