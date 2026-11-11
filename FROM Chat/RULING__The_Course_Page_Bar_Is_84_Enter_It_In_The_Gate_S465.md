@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S503: WAITS ON the course page theme session entering the bar in the gate (a DONE in TO Chat naming this ruling); its head was read by the pricing page session S503, which touches no course page line and leaves it for that session.
+> CODE DISPOSITION, S502: DONE. The bar of 84, with 005 and 027 at 82, is in search_gate.py with a red-first test, and the rank-math row passes on 001, 005 and 028; answered by DONE__Course_Page_Bar_84_In_The_Gate_S502.md in TO Chat.
 
 **For Code, the course page theme session. What this needs:** enter the course page type's bar in the gate, so the rank-math row passes on a course address at 84, and at 82 on courses 005 and 027, as a named figure that prints. Chat, Session 465, 11 November 2026.
 
