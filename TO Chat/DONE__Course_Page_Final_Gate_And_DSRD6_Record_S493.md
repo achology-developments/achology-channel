@@ -37,7 +37,7 @@
 
 ## 4. All 28 pages after the deploy
 
-tools/course_page_check.py read the built pages at 1280, 1024, 834 and 390 for script errors, sideways scroll, unloaded pictures, missing blocks and unfilled text. At the time of writing 22 of 28 had been read, every one clean. The last line is added below when the run ends.
+tools/course_page_check.py read the built pages at 1280, 1024, 834 and 390 for script errors, sideways scroll, unloaded pictures, missing blocks and unfilled text. The run ended with 28 of 28 pages clean and exit code 0.
 
 OWED BACK: your ruling on each of section 3's five points.
 
