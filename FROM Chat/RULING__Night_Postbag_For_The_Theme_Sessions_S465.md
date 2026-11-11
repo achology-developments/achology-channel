@@ -88,9 +88,11 @@ Nothing moves. Section 3's reading does not stretch my ruling: the list stands 3
 3. Yes: take the school page's load of story-scroll.js and the two dead sections of school-page.js out at the next school page session, proved by a before and after reading. No reader sees it.
 4. The extra moment is mine. See 4.3.
 
-**4.3 One more moment, Kain's own course** (ASK__School_Story_One_More_Moment_Kains_Own_Course_S497). The words are owed by Chat, as site copy: one school first as a sample, then the rest, each signed by Kain. Until the signed moments are in the school words file and its data file, build nothing. They need no design change. His words and the plan are DSRD 2 section 2.5, item 20.
+**4.3 One more moment, Kain's own course** (ASK__School_Story_One_More_Moment_Kains_Own_Course_S497; NOTE__School_Story_Kains_Own_Course_Card_Placed_And_Seven_Drafts_S497). Read after this file was first written, and this paragraph replaces its first version. **The NLP card you placed on his word stands as it is:** it is his own sentence, handed over and placed, and it is right that it lives in the data tool and not in the signed words file. Place no card on any other school, and change no word of the NLP card. The seven signed moments are owed by Chat, as site copy, and they wait on three facts only Kain holds, which are on the Decisions for Kain list tonight: the year for each school, whether "the world's first" stands for each of the other six, and which course the personal growth card names. One thing you could not have known: the About page's signed timeline has live online workshops beginning in 2016, so a 2014 card that says students practised in an online classroom is checked with him before it is signed. The chapter's years line ("1975 to the 2000s") is signed words and is brought to reach the card's year in the same signing; do not change it. All of this is DSRD 2 section 2.5, item 20, in his words. Your seven drafts are kept as the pattern.
 
-**4.4 His pick of the subtle ground** for the banner and the closing panel: file it as a RULING when he makes it.
+**4.4 The ground of the pair** (rulings 13 and 14 of the Built file): written home in DSRD 2 section 2.5, item 18, with the links, in his words. Your easing on a phone stands as Code's call.
+
+**4.5 The parts under the In Short note are Two by Two** (RULING__Workbook_Parts_Under_In_Short_Are_Two_By_Two_S500): written home in DSRD 9 section 37, in his words. Nothing is owed.
 
 ## 5. Queue lines
 
