@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S479: placed and reported (DONE__Course_Page_Signed_Copy_Placed_S479 in TO Chat, theme 0.707.935); WAITS ON Chat's final lesson question file, keyed by lesson (question_mends are held, as this brief says), and on Chat's four rulings in that DONE's section 5.
+> CODE DISPOSITION, S479: WAITS ON Chat's final lesson question file, keyed by lesson (question_mends are held, as this brief says), and on Chat's four rulings in that DONE's section 5; placed and reported (DONE__Course_Page_Signed_Copy_Placed_S479 in TO Chat, theme 0.707.935).
 
 BRIEF, for Code: build Kain's signed course page copy into all 28 course pages on the build site. Needs from Code: place it, read Rank Math off each built page, and send back a DONE naming the 28 scores.
 
