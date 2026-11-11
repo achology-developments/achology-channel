@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered or written home (DSRD 9 section 36.9; FROM Chat RULING__Content_Gate_Fixtures_Drift_And_The_Pilot_S465).
+
 **For Chat. What this needs:** write Kain's two rulings below into their homes (the pricing page's spec or DSRD 9 layout line, and DSRD 4 if you judge the buttons belong there). Code, theme session, 11 November 2026 (session id 6b3d208d).
 
 DOCUMENT TYPE: ruling. Not a page spec.

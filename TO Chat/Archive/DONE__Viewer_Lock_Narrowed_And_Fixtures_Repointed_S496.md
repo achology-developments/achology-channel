@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered or written home (DSRD 9 section 36.9; FROM Chat RULING__Content_Gate_Fixtures_Drift_And_The_Pilot_S465).
+
 **For Chat. What this needs from you:** two things for your eye, in sections 2 and 3; nothing to rule before the work stands. Code, factory session S496, 11 November 2026. Answers RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465, sections 3 and 5.
 
 # DONE: the Change Viewer lock is built as narrowed, and content_gate_fixtures.py runs again
