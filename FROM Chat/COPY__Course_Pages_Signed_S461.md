@@ -1203,7 +1203,7 @@ Learn the phases every entrepreneur goes through, so you can identify the stage 
 
 **What You Will Learn**
 
-Which stage of building a business are you at? This course is a business, innovation and entrepreneurship masterclass, led by Kain Ramsay with Russell Dalgleish, whose career runs from technology, sales and marketing through managing director and turnaround work to an advisory service investing in early-stage businesses. It answers the questions people ask them most, from experience.
+Which stage of building a business are you at? This entrepreneurship course is a business and innovation masterclass, led by Kain Ramsay with Russell Dalgleish, whose career runs from technology, sales and marketing through managing director and turnaround work to an advisory service investing in early-stage businesses. It answers the questions people ask them most, from experience.
 
 It presents entrepreneurship as a process of ups and downs, highs and lows, wins and failures, and sets out the phases every entrepreneur goes through, so that you can identify the stage you're at and the next steps of your progression. It stays with the idea that business is always about working with people, and that how well you relate to yourself shapes how well you influence others.
 
@@ -1217,10 +1217,10 @@ This course suits you if you see entrepreneurship as a process with stages and y
 
 **Search and sharing**
 
-- Focus phrase: start a business course
-- Search title: Start a Business Course: Innovation and Entrepreneurship
-- Meta description: Start a business course led by Kain Ramsay with Russell Dalgleish: innovation, leadership, motivation, legal structures, capital and marketing.
-- Related phrases: start a business course online; starting a business course uk; entrepreneurship course; entrepreneurship courses online; how to start a business
+- Focus phrase: entrepreneurship course (changed on Kain's "No, lift it now" and signed by him, "Yes, all as shown", 11 November 2026, Session 465; was: start a business course)
+- Search title: Entrepreneurship Course: The Stages of Building a Business
+- Meta description: An entrepreneurship course led by Kain Ramsay with Russell Dalgleish: stages of building a business, leadership, legal structures, capital and marketing.
+- Related phrases: start a business course online; starting a business course uk; start a business course; entrepreneurship courses online; how to start a business
 - Questions people ask: How to start a business? How to start a business for beginners? How to grow a business? How to grow a business from scratch?
 - Research: Google Suggest (free), seeds "start a business course", "entrepreneurship course", "how to start a business", "how to grow a business", gb, about 40 suggestions
 
