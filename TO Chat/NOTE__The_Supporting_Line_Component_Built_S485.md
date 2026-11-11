@@ -22,9 +22,14 @@ At 1024 wide, the What You Will Learn line ("Here is an overview of what you wil
 
 Shown the Diploma course page draft in Safari at 0.707.959 and asked whether the orange bar line looks right, Kain said: "Yes, it's right" (11 November 2026, in this sitting).
 
-## 4. Not done in this change set
+## 3b. Certification and Accreditation, the same sitting (theme 0.707.964)
 
-- Certification and Accreditation still draw their own copy (certification.css, accreditation.css's level note). Those two pages are held by their own theme sessions; they move onto the class next, agreed with those sessions first.
+Both pages' sessions freed their files, and both pages are now on the class: seven lines each, the class written in the two templates, the rule out of certification.css, each line's own wrap kept. Every element's box and each line's style read equal before and after at 1268, 834, 390, 360 and 320 on both pages; none moved. Gates after it: Certification 41 passed, 0 failed; Accreditation 49 passed, 0 failed; the same counts as before. Each page's DSRD 6 record carries a dated S485 line, Accreditation's prototype was exported again and its build sheet names the class, and the registry row names both pages.
+
+Two things for you to know. Accreditation's New at This Level note stays in accreditation.css: it is a 16px note with a bar, not a supporting line, so it does not take the class; say if you read that differently. And the commit that carries this change is 380273bd, whose message is the workbook session's: that session committed at the same moment and its commit took my staged files with it. The change is whole and on origin; only the commit's name is wrong.
+
+## 4. Not done
+
 - The supporting line check is not yet wired into the page gate (your step 4).
 - Courses 001 and 002 reached the server early: the Accreditation session's deploy at about 14:41 carried base.css and those two data files mid-regeneration. Nothing broke, and this deploy levelled it. So the before reading of those two pages was already the new look.
 
