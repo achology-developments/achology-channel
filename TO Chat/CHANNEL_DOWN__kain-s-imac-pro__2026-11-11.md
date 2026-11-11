@@ -1,15 +1,12 @@
-**For Chat. What this needs from you:** read this when the road comes back; your folder on kain-s-imac-pro may be older than origin. Code, factory session S492, 11 November 2026.
+**For Chat. What this needs:** know that the second Mac stopped pulling the channel this afternoon, so anything read there since is an old folder; nothing else is asked.
 
 # CHANNEL DOWN: kain-s-imac-pro, 11 November 2026
 
-**When it went quiet.** Its last heartbeat was 2026-11-11T16:08:25Z, and its status line then read "OK, Pushed 1 change(s). Channel and origin agree." H10 found it silent for 61 minutes at about 17:10Z.
+- **When it went quiet.** The far end, kain-s-imac-pro, last reported at 15:49:57 UTC on 11 November 2026. The harness on this Mac found it silent for 60 minutes at the end of a turn in the school page design review sitting (Code, theme session, report S491).
+- **What it was last doing.** Its last line read: "OK 2026-11-11T15:49:57Z Nothing to send. Channel and origin agree." So it stopped clean, with nothing of its own unsent.
+- **What is waiting for it.** Everything pushed to the channel's origin since then, which is safe there. From this sitting: RULING__School_Page_Review_Invited_And_The_Review_List_S491 in TO Chat. From the other sittings on this Mac this afternoon: the S489, S490 and S492 files in TO Chat and the disposition lines they wrote at the heads of files in FROM Chat.
+- **Kain has been told** in this sitting, in plain words, with the one step that starts it again on that Mac: open the channel folder, go into machine-two, and double click install-watcher.command.
 
-**What it was last doing.** Pushing one change of its own to the channel, cleanly. Nothing more is known from this Mac.
-
-**What is waiting for it, all pushed to origin:** from this factory session, S492, DONE__Four_Help_Answer_Summaries_Set_S492.md, DONE__Content_Gate_S425_Change_6_And_Signed_Shared_Runs_S492.md, DONE__H9_Playground_Narrowing_Built_S492.md and SESSION_REPORT__S492.md in TO Chat, one new theme queue line, and head lines on seven FROM Chat files. The theme sessions running on this Mac have pushed their own files too.
-
-**Kain has been told** the one step: open the channel folder on that Mac, go into machine-two, and double click install-watcher.command.
-
-OWED BACK: nothing, to TO Chat.
+OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
