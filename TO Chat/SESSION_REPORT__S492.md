@@ -14,6 +14,7 @@
 - **Finished:** css_gate refuses a second copy of a registered shared feature (DONE__Components_Second_Copy_Lock_And_The_Viewer_Lock_Question_S492.md). Board card: the component registry. **Not finished:** the Change Viewer hook from the same note, which waits on Chat's answer on whether it still stands.
 - **Not finished, asked:** the S427 scheduled import test (ASK__Is_The_Scheduled_Import_Test_Still_Wanted_S492.md); Code recommends retiring it. Board card: the factory queue.
 - **Head line corrected:** BRIEF__The_Redirect_Maps_Remaining_Build_Chain_Register_Through_Staging_S339.md now waits on the 1,837 destination pages existing, not on a factory session; its bulk write was DONE at S460. Board card: Redirect Strategy and Delivery, 755 of 2,594.
+- **Not started, next factory job:** BRIEF__Two_Code_Sessions_At_Once_The_Three_Fixes_S407.md. Checked: none of the three fixes is built, while several Code sessions ran side by side today. Board card: the harness.
 - **Opening note:** the queue file in FROM Chat is dated S442 and older than many files in the folder, so Code read the folder itself.
 
 OWED BACK: nothing, to TO Chat.
