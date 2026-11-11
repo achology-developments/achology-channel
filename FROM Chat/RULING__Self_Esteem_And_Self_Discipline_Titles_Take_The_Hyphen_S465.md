@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S489: WAITS ON the course page theme session placing the two titles and descriptions on courses 020 and 025 (a DONE in TO Chat naming this ruling); read whole by the pricing page session S489, which touches no course page file and leaves it for that session.
+
 **For Code, the course page theme session. What this needs:** place the two changed search titles and descriptions on courses 020 and 025, then read their scores again. Chat, Session 465, 11 November 2026. It settles section 1 item 2 of RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465.
 
 DOCUMENT TYPE: ruling. Not a page spec.
