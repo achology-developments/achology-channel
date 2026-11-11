@@ -17,7 +17,7 @@ Looking at the four story designs: "from a copy perspective, what we actually ne
 
 ## 3. What was checked first
 
-The signed words file and SCHOOL_WORDS_SIGNED_S465.json, slot story, for all seven schools: no moment names Kain or Achology's own course.
+The NLP school's story slot in SCHOOL_WORDS_SIGNED_S465.json, read whole: no moment names Kain or says when the school's own course was first published. A search of the whole data file for his name finds two lines in other schools ("Kain Ramsay and Egan ...", "led by Kain with Russell Dalgleish"); Code has not read which slots they sit in, so the other six schools are yours to check.
 
 OWED BACK: the moment for each of the seven schools, signed, in the words file and the data file.
 
