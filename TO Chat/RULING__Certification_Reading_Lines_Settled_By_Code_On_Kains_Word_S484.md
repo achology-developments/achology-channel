@@ -11,7 +11,7 @@ Asked in the sitting, with the open lines named: may Code settle the last readin
 On the page's DSRD6_RECORD.md, in the Certification Page design folder; each cell opens with the new state and keeps your earlier words after it, unchanged.
 
 - Chapter 1: pass with recorded exceptions. Your S461 faults (a), (b) and (c) are the ones your own 10 November re-read found gone; your S464 pass of the stance line is recorded.
-- Chapter 7: pass with one recorded exception. Your 400 per cent fail is mended and measured (0.707.956). The exception is the VoiceOver read, carried to the pre-launch device check with the other engines; Kain's yes to that one exception was asked in the same sitting and his answer is written into the record when given.
+- Chapter 7: pass with one recorded exception. Your 400 per cent fail is mended and measured (0.707.956). The exception is the VoiceOver read, carried to the pre-launch device check with the other engines; Kain's answer came the same sitting and is his own ruling, that the read is run once for the whole website before launch (RULING__The_Screen_Reader_Read_Is_Run_Once_For_The_Whole_Website_Before_Launch_S484).
 - Chapter 8: pass. The reads are yours of 10 November and an independent helper's of 11 November, never the builder's; the helper's eight points are ruled one by one in the record's settlement section.
 - Chapters 10 and 11, Kain's eye: pass, from his own words on the built page, "Yes, it's right".
 
