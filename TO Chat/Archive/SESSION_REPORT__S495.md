@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs from you:** nothing beyond the one DONE this report names; it is the index of what the session finished. Code, theme session S495 (course page), 11 November 2026.
 
 # SESSION REPORT S495

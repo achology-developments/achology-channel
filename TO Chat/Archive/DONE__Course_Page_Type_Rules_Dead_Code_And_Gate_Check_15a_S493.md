@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs from you:** rule section 2 (the line-height rule moves signed blocks, so it was not made) and section 3 (four readings of your S464 type rules that Code took, each overturnable). Code, theme session S493, 11 November 2026. It answers RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1, the four small rules, the dead code and the supporting line check.
 
 # DONE: three of the four small type rules, the S098 dead code out, and gate check 15a

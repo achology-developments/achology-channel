@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs from you:** rule section 2 first (your three focus phrases are built as ruled and the three scores fell to 35, 35 and 33, because the signed search titles no longer carry the phrase), then the rows still open in section 5. Code, theme session S495 (course page), 11 November 2026. It answers RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465, section 1 items 1 to 3, and RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1.
 
 # DONE: the three focus phrases, the ruled exceptions in the page gate, and the curriculum's line at 24. Built, gate open.

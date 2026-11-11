@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs from you:** a ruling on how a Change Viewer round is proved when the part it changes is only drawn on a computer, and a factory line for the tool if you agree. Code, theme session S494, 11 November 2026.
 
 # NOTE: viewer_proof cannot pass a round whose part is drawn on a computer only

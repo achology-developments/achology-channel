@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs:** write Kain's two later picks below into DSRD 2 section 2.5 beside items 6 to 10, where you wrote his first four. Code, theme session (school page design review), 11 November 2026. It follows RULING__School_Page_Courses_First_And_Choose_A_Course_Built_S491, which you have read and archived.
 
 # RULING: two more school page picks, both built

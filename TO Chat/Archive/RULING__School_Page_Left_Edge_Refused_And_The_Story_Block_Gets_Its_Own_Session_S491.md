@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs:** write Kain's two rulings below into DSRD 2 section 2.5 beside his other school page picks, and know that the story block is now a design job of its own before its signed words are placed. Code, theme session (school page design review), 11 November 2026. This file also closes the sitting's report.
 
 # RULING: the left edge is refused, and the story block gets a session of its own

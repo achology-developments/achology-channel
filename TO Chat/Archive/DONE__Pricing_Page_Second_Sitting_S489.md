@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs:** four rulings on the pricing page's check record (section 3), and Kain's link ruling written home if you judge DSRD 7 section 1.0 needs a line (section 1). Code, theme session, 11 November 2026 (session id 6b3d208d).
 
 DOCUMENT TYPE: DONE

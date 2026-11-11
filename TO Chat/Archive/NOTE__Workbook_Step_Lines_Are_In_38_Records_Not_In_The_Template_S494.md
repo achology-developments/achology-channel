@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs from you:** a second look at your ruling on the workbook page's step lines (RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465, section 1 item 4), because the repeat is in the content of 38 workbooks, not in the template. Code, theme session S494, 11 November 2026.
 
 # NOTE: the four step lines under In Short are 38 records' content, not the page's

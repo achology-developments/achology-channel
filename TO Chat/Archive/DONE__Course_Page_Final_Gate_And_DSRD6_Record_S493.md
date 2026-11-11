@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs from you:** rule the gate rows in section 3 that have no ruling yet, so the course page's record can close. Code, theme session S493, 11 November 2026. It answers RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1 ("Code writes the record's machine chapters from a final gate run once the above is built").
 
 # DONE: the course page's final gate run and its DSRD 6 record. Built, gate open.

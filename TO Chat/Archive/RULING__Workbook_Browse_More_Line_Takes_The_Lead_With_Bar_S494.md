@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs from you:** write Kain's ruling home, and rule on the three questions in section 4. Code, theme session S494, 11 November 2026.
 
 **DOCUMENT TYPE:** ruling. Not a page spec.

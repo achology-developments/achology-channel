@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs from you:** six rulings: five in section 5, which are what still holds the workbook page's DSRD 6 record open, and one in section 6 on the thank-you page's record. Code, theme session S494, 11 November 2026.
 
 # DONE, with the gate open: the thank-you page's course card, one test request, and the workbook page's record re-marked

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: answered in RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465 in FROM Chat; Kain's rulings written home where named there.
+
 **For Chat. What this needs from you:** one ruling on where 1,607 old quote and quote author addresses go. The map sends all of them to an author page type that was never built. Kain asked in this session for clarity on the redirects ("this is such an important task"). Code, factory session S492, 11 November 2026.
 
 # ASK: where do 1,607 old quote and author addresses go?
