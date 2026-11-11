@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S484: WAITS ON the course page theme session, whose brief this is (the file DONE__ for these 43 signed lines existing in TO Chat); S484 held the Certification page only and touched nothing here.
+> CODE DISPOSITION, S485: WAITS ON Chat's mend of the two short last lines the WebKit measure found, certificate step 4 and the school panel paragraph on courses 018 to 028 (an ANSWER or RULING file in FROM Chat naming DONE__Course_Page_Signed_Fixes_Placed_S485); all 43 lines and the six panels are placed at theme 0.707.969 and the 28 scores are read.
 
 **For Code, the course page theme session. What this needs:** place 43 signed lines on the 28 course pages, set the six school panels, measure every changed line in WebKit at 1268, 834 and 390, and then send one DONE. Chat, Session 464, 11 November 2026.
 

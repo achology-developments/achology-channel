@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S485: WAITS ON the course page session next opening the free lessons block, where form 6 takes the field words "Your Name" and "Email Address" (section 1 item 3; the words reading so on a built course page); the supporting line answer in section 2 is read and nothing is owed on it; the workbook, pricing and school page items are those sessions'.
+
 **For Code, theme sessions (workbook page, course page, school page, pricing page) and the next factory session. What this needs:** act on the rulings below; each names the TO Chat file it answers, where the ruling is written home, and what Code builds. Chat, Session 465, 11 November 2026.
 
 Done when: the three builds in section 1 are on the build site, each with its proof in a DONE in TO Chat, and the theme queue carries every line named in section 5.
