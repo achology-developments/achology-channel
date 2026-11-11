@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S493: WAITS ON the next course page session building section 1 items 1 to 3 (course 020's stored focus phrase reading "self-esteem course", 025's "self-discipline course", 028's a phrase its body carries, and the hero picture's alt text naming the course on the eleven pages); read whole by the course page session S493 mid-sitting, which was finishing the type rules, the dead code, gate check 15a and the DSRD 6 record; section 2's course page lines are taken as ruled; items 4 and 5, section 3 and the factory lines are the workbook and factory sessions'.
+
 **For Code, theme sessions (course page, workbook page, school page) and the next factory session. What this needs:** act on the rulings below; each names the TO Chat file it answers. Chat, Session 465, 11 November 2026.
 
 Done when: every build in section 1 is on the build site with its proof in a DONE in TO Chat, the two locks in section 3 are built or retired as ruled, and the theme queue carries the lines in section 5.
