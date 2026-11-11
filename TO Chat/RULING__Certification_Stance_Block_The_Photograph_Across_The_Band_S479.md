@@ -10,6 +10,8 @@ In this session, minutes either side of that, shown the built block: "I think it
 
 His later word was read with the earlier one as: the old block out, the new design in. The Certification session agreed the files and stood back before anything was touched. Kain then asked, of the two sessions on one page, "should we not stop and consolidate?"; the answer given was yes. He has since renamed the two sessions: this one is Certification Page Final Touches and holds the Certification page; the other is Accreditation Page Final Touches and holds Accreditation.
 
+**His approval of the built block.** With the block in front of him in Safari on the build site, asked whether it is right as it stands: "yes" (11 November 2026). Folded back the same session, as Rule 14 asks: PROTOTYPE__Certification_Stance_Block_S479_APPROVED.html in the Certification Page design folder (the block as the server rendered it at 0.707.942, written by tools/fold_back.py), and an S478 and S479 section in that folder's DSRD 6 record. The folder holds no build sheet; the whole-page prototype is still the S364 one.
+
 ## 2. What is built
 
 The page to open: https://achologytest.com/certification/#stance (theme 0.707.941; commits d635d2df and 99685b39, pushed; deploy.py's three proofs passed on both).
