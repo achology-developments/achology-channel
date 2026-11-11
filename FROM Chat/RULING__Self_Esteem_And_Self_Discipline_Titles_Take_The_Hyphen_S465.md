@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S495: DONE. The two titles and descriptions are on courses 020 and 025 on the build site, read back equal; both pages read 84; 028 stores "start a business course" again and reads 71 (DONE__Course_Page_Evening_Rulings_Placed_And_Three_Scores_S495.md in TO Chat).
 > CODE DISPOSITION, S489: WAITS ON the course page theme session placing the two titles and descriptions on courses 020 and 025 (a DONE in TO Chat naming this ruling); read whole by the pricing page session S489, which touches no course page file and leaves it for that session.
 
 **For Code, the course page theme session. What this needs:** place the two changed search titles and descriptions on courses 020 and 025, then read their scores again. Chat, Session 465, 11 November 2026. It settles section 1 item 2 of RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465.
