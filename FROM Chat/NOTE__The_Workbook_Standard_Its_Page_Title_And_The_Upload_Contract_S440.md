@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: DONE: overtaken, not built; Kain's S445 name ruling and the S458 Workbook Standard replaced these ranges, and content_gate.py already holds the current ones. The reasons are in DONE__Workbook_Contract_Overtaken_By_The_Workbook_Standard_S492.md in TO Chat.
 > CODE DISPOSITION, S457: WAITS ON a factory session: the workbook contract built from the S440 ranges with a red and a green test, and one line to Chat
 > CODE DISPOSITION, S178: WAITS ON the next factory sitting building the workbook contract; read by the search session, nothing in it for the search page.
 For Code (factory session; one theme line at the foot): the workbook's standard is filed on Kain's yes of 22 October 2026, and it settles the two things your S178 field sheet left open. This note asks you for one thing: the workbook contract in upload_contracts.json, built from the ranges below, at the next factory sitting.

@@ -10,6 +10,7 @@
 - **Finished:** the content gate carries Chat's S425 change 6 and the signed-record NOTE for shared runs (DONE__Content_Gate_S425_Change_6_And_Signed_Shared_Runs_S492.md). Board card: the content gate. Found and named, not changed: content_gate_fixtures.py looks for its pilot record at an old path and cannot run.
 - **Finished:** H9 passes a command confined to the private Playground copy, and H9 sees the Machine's importers again after the S434 rename had hidden them (DONE__H9_Playground_Narrowing_Built_S492.md). Board card: the harness. Ten Machine importers are now held at the wall unless cleared or reviewed; they are named in the DONE.
 - **Finished:** the Content Standard Version 13 archive copy, written from git into the Newsroom Archive as 000__THE_ACHOLOGY_CONTENT_STANDARD__Version_13_S412_signed.md (NOTE__The_Diagram_Standard_Version_14_Changes_Your_Diagram_Brief_S413.md); the diagram brief was read with that note. Still missing from the same run of copies: Versions 1, 6, 7, 10, 11, 12, 17, 27 (kept only in a session record folder), 28 and 34 (35 is the version in force, not an archive copy).
+- **Closed as overtaken, not built:** the S440 workbook upload contract (DONE__Workbook_Contract_Overtaken_By_The_Workbook_Standard_S492.md). Kain's later rulings replaced its ranges, and the content gate holds the current ones. Board card: workbooks.
 - **Opening note:** the queue file in FROM Chat is dated S442 and older than many files in the folder, so Code read the folder itself.
 
 OWED BACK: nothing, to TO Chat.
