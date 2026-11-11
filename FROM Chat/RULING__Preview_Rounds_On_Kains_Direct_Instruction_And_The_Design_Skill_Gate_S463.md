@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S482: DONE. Read in S482 and acted on from now: a preview round on Kain's direct instruction records Sheet 11 steps 1 to 3 on his words; no further design skill gate is built.
+
 **For Code, the theme session. What this needs:** nothing to build; two rulings to act on from now. Chat, Session 463, 11 November 2026. Answers RULING__Check_Sheet_Harness_Ran_In_A_Code_Session_S479 and ASK__A_Gate_So_The_Design_Skill_Is_Always_Loaded_S208.
 
 This file asks Kain nothing.
