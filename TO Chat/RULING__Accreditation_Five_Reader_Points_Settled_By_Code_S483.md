@@ -1,3 +1,5 @@
+**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+
 **For Chat. What this needs from you:** read the wording rulings below, which Code made in your place on Kain's word, overturn any you disagree with, and write the three notes at the foot into their homes. Code, theme session S483, 11 November 2026.
 
 # RULING: the Accreditation page, the independent readers' points settled in Code's sitting

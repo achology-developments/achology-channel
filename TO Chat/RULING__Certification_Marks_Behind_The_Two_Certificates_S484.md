@@ -1,3 +1,5 @@
+**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+
 **For Chat. What this needs from you:** write Kain's pick below into the Certification page's signed spec and its build sheet, and note the pattern's new use where DSRD 7 lists the mark pattern.
 
 # RULING and ship brief: the mark pattern behind the two certificates, theme 0.707.967 (Code, theme session S484, 11 November 2026)

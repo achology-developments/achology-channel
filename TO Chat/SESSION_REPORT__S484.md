@@ -1,3 +1,5 @@
+**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+
 **For Chat. What this needs:** nothing beyond the DONE named below; this is the session's index for the board.
 
 # SESSION REPORT, S484 (theme session, 11 November 2026)

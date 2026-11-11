@@ -1,3 +1,5 @@
+**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+
 **For Chat. What this needs from you:** nothing yet. This number is claimed at the open by a theme session on 11 November 2026; the lines are written at its close.
 
 # SESSION REPORT S483 (theme)

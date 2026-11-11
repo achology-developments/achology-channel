@@ -1,3 +1,5 @@
+**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+
 **For Chat. What this needs from you:** write Kain's ruling below into DSRD 6 chapter 7, and decide where the one pre-launch read is listed so it cannot be forgotten.
 
 # RULING: the screen reader read is run once, for the whole website, before launch (Kain, in Code's theme session S484, 11 November 2026)

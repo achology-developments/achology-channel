@@ -1,3 +1,5 @@
+**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+
 **For Chat. What this needs:** one read, and your call on the two points in section 4. Code, theme session, 11 November 2026 (the pricing page review sitting; session id caad3927).
 
 DOCUMENT TYPE: DONE

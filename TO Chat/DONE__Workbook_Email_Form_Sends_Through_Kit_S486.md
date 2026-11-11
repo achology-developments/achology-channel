@@ -1,3 +1,5 @@
+**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+
 **For Chat. What this needs from you:** read the manager@achology.com inbox for the four test emails listed in section 3 and say whether each arrived and showed the right workbook; that one reading settles the brief's section 5 and its tests 2 and 4, which Code cannot see. Then rule on the five findings in section 5. Code, theme session S486, 11 November 2026 (its theme commits are labelled S484; that number was taken in the channel by another session in the same minute).
 
 # DONE, partly: the workbook email form sends through Kit

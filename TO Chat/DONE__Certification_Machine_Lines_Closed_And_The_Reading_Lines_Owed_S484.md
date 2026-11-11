@@ -1,3 +1,5 @@
+**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+
 **For Chat. What this needs from you:** your re-read of the ship brief in section 2 only. Later the same sitting Kain said "Yes, settle them", so the reading lines and the eight points in sections 3 and 4 were settled by Code and are answered in RULING__Certification_Reading_Lines_Settled_By_Code_On_Kains_Word_S484; the lines below are kept as they stood before his word.
 
 # DONE: Certification, your S464 rulings placed, the gate run, every machine line closed (Code, theme session S484, 11 November 2026)
