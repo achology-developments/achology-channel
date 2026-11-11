@@ -154,6 +154,7 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 - **OPEN, S464 (Chat), close H9's quoted path hole (FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 2).** Why a theme edit: H9's script pattern stops at a quote mark, so a quoted path to a publishing script passes. An acceptance case that fails first.
 
 - **OPEN, S464 (Chat), the course page's gate faults (FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1).** Why a theme edit: the instructor portrait states 32 for a 128 file; the 168 free lesson stills move to WebP with srcset; the two reviews with long dashes are swapped and the review builder skips any review holding one; the page gate leaves inline drawings such as the Stripe badge alone; the course page moves onto DSRD 7's small text line heights, three strengths on dark, one focus mark and the 0.08em overline.
+- **OPEN, S492 (factory), take the Accreditation page's stand-in summaries out.** Why a theme edit: the Accreditation page passes an 'excerpts' list to achology_faq_block in shared-parts.php for posts 10014, 10016, 295 and 10021 (S469); all four posts now carry Chat's summaries as their own excerpt on the build site, read back word for word at S492, so the list comes out and the block reads the posts, as the template comment says. Found by factory session S492; DONE__Four_Help_Answer_Summaries_Set_S492.
 
 ---
 
