@@ -10,6 +10,7 @@ From the theme repository's log (commits f6af6aff and 103c143b), unless marked h
 - Finished, hand added: the zip beside the theme rebuilt after the merge, 2,718 files, matching the theme exactly.
 - Checked at the open and nothing to act on: Chat had answered none of the S496 DONE files; the only changes in FROM Chat since that close were Code's own disposition lines.
 - Not finished: page_gate.py does not yet record the theme version it measured under, because another session held that file uncommitted.
+- Check sheet 01, Every Job: steps 1 to 4 and 6 are filled and pass. Steps 5 and 7 are left not run, on purpose: they ask for a rendered page put on Kain's screen, and harness tooling has no page, so filling them would be a false record. Steps 8 to 10 cannot be filled while 5 is open. The sheet has no route for work with no page; that is one for its owner.
 - Opening note: the queue file in FROM Chat is dated S442 and older than many files in the folder, so Code read the folder itself. Three theme sessions were running throughout; none was inside the files this session changed.
 
 OWED BACK: nothing on this file.
