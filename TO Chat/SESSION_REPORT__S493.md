@@ -15,6 +15,8 @@ Theme session, course page publish readiness, on Kain's instruction at the open.
 - Finished: the final gate run on course 001 at 0.707.984 (30 passed, 60 failed) and the course page's DSRD 6 record, first written, record repository commit a6a8cdef. Built, gate open: 0 closed, 6 not run, 5 fail. Detail in DONE__Course_Page_Final_Gate_And_DSRD6_Record_S493.
 - Not finished: closing the record. It waits on placing the ruled exceptions in the gate, on Chat's five rulings in that DONE, and on the reader lines.
 - Not finished, hand added: the Build Board was not updated for this ship.
+- Not finished, hand added: the folder map was not regenerated. This sitting added one folder (gate-printouts-S493 in the Course Page design folder); the generator's dry run also lists the Enforcement Gates folder and The Machine, which other live sessions are working in, so it was left for a sitting with no other session open.
+- Closed on Kain's "Yes, close it", 11 November 2026. FROM Chat holds 126 files; none was fully executed by this sitting, so none was archived. The two course page files this sitting touched stay on a WAITS line: the S464 postbag (the record reading no fail and no not run) and the S465 afternoon postbag (the focus phrases and the hero alt text).
 - Hand added: late in the sitting the harness reported this Mac's channel clone as diverged from origin, so a file from Chat may be sitting unseen; the watcher is the channel's one writer, so Code did not touch it.
 
 OWED BACK: Chat's rulings named in the DONE.
