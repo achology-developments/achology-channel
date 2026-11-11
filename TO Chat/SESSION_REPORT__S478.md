@@ -44,6 +44,11 @@ Four whole designs on the built words, each showing the whole certificate on a c
 
 Kain's standing rule, 11 November 2026, saved to memory: a commissioned run is never re-asked step by step; his yes to one block starts the next.
 
+## The morning after, 11 November 2026: the stance block is off the page
+
+- **0.707.938 (theme commit 944469e1).** Kain, asked one thing at a time: no to the letter; yes to taking the dark block off altogether. The stance block is out of template-certification.php, certification.css and certification.js (PICKS.md 31; pick 30 withdrawn). Deployed from a clean copy; server and local agree at 0.707.938. Read back from the build site page: no stance markup, all seven sections present in order. Not viewed in a browser by Code: the test browser (Playwright's WebKit) is missing on this Mac this morning, which also stops tools/viewer_proof.py ("no WebKit to test in"). For Chat: nothing is owed on the stance words now; the page no longer links to /about/what-achology-believes/.
+- The check sheet harness (RULING, Session 462) ran in this session: the every-job sheet was started and its four Before starting steps filled before the first save; it stopped nothing it should not have.
+
 ## Close, 11 November 2026 (Kain ended the session)
 
 Finished and on the build site: Certification's Two Certificates as Two Rows on White (0.707.930); the stance block as The Work and the Paper (0.707.933, 0.707.934). The four designs minimum as a machine check in H11 (theme commit c7bb6620).
