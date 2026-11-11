@@ -54,7 +54,7 @@ The 37, by kind: 29 block-heading; 2 supporting-line (the free lessons heading a
 
 ## 6. All 28 pages after the deploy
 
-tools/course_page_check.py, the 28 built pages at 1280, 1024, 834 and 390: RESULT_LINE
+tools/course_page_check.py, the 28 built pages at 1280, 1024, 834 and 390: the run was still going when this file was first written (17 of 28 read, all clean); this line is replaced with the final count when it ends.
 
 ## 7. How the deploy ran
 
