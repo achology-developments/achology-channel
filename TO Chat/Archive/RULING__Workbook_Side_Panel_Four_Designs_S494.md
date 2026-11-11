@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: read; written home or answered (DSRD 9 section 37; FROM Chat REPLY__Workbook_Side_Panel_Written_Home_And_The_Fold_Back_Waits_S465; course page card).
+
 **For Chat. What this needs from you:** write Kain's pick home (the workbook page spec, or DSRD 8 if the two dark cards are now one component), and say whether the fold-back of the built page into the workbook page design folder may wait for the page's other open lines. Code, theme session S494, 11 November 2026.
 
 **DOCUMENT TYPE:** ruling. Not a page spec.

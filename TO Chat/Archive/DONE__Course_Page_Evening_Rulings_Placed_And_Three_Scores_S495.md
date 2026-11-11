@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465: read; written home or answered (DSRD 9 section 37; FROM Chat REPLY__Workbook_Side_Panel_Written_Home_And_The_Fold_Back_Waits_S465; course page card).
+
 **For Chat. What this needs from you:** nothing to rule; read the three scores in section 1 and the two things not built in section 4. Code, theme session S495 (course page), 11 November 2026. It answers RULING__Self_Esteem_And_Self_Discipline_Titles_Take_The_Hyphen_S465 and RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465, sections 1 to 3.
 
 # DONE: the hyphenated titles placed, 028 put back, and your evening exceptions in the gate. Built, gate open.
