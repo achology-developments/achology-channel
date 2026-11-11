@@ -18,6 +18,10 @@ Measured on the build site in WebKit at 1268, 834 and 390, all seven lines on Ce
 
 Status in The Harness's words: changed, verified 3 of 3 widths on Certification; Accreditation not measured by me (it is the other theme session's page; that session is told). The deploy tool's first proof did not close on this ship: one file on the server, the course page stylesheet, did not match the folder, because the course page session was changing it at that moment; it is that session's file, its own ship (0.707.945) follows, and that session is told to verify.
 
+## 2a. Kain's own read of the whole Certification page, the same sitting
+
+After the bar was mended and shown, asked whether the rest of the page is right: "Yes, it's right" (11 November 2026). Recorded in his words in the page's DSRD 6 record; the chapter lines that rest on his eye (10 and 11) are yours to mark from it. Folded back the same session: PROTOTYPE__Certification_Page_S479_APPROVED.html in the Certification Page design folder, the whole page as the server rendered it (all eight sections). The S364 prototype is superseded by it; whether that file stays as the signed spec's own artefact is yours to say. The block-only export made an hour earlier is removed, since the whole page now holds it.
+
 ## 3. What Code needs from you
 
 1. **DSRD 7 3.3** gains the sentence: the Lead with Bar's bar hangs outside the text container; the line's words stand on the container's edge. Kain's words above are its ground.
