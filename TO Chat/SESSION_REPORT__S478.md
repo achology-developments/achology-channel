@@ -12,7 +12,11 @@ Accreditation, open: the three guides' rows run 4, 2, 3, 3, 3 lines, and several
 
 Records: each DSRD 6 record still carries fail and not-run lines; neither re-marked since the redesigns.
 
-## Certification, Two Certificates: round on Kain's screen (not built)
+## Ships
+
+- **0.707.930 (theme commit 2e96d45a), Certification, Two Certificates as Two Rows on White** (PICKS.md 29 in previews/certification-s464; Kain: "Yes, build 1"). Both cards white, one certificate a row, the whole certificate on a mat of its own colour, the steps on the right on a computer; the mark pattern out of these two cards; each certificate laid on its mat on arrival. No word changed. Deployed (deploy.py: local, server and zip agree at 0.707.930) and measured at 1268, 834 and 390 on the build site: nothing sideways, both certificates loaded. Changed, verified 3 of 3 widths; the page gate has not been re-run on this version yet, so the page stays "built, gate open". Fold-back owed at the round's end: the Certification prototype and build sheet still show Dark and Light for this block.
+
+## Certification, Two Certificates: the round Kain picked from
 
 Four whole designs on the built words, each showing the whole certificate on a coloured mat in place of the enlarged strip, the certificates laid down in turn as the block arrives: Two Rows on White (recommended), Two Rows Dark and Light, Side by Side on White, Side by Side Dark and Light. Preview files n8.css, n8.js and round-n8-1.js in previews/accreditation-s467, mirror key n8. Waits on Kain's pick.
 
