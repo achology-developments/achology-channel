@@ -29,9 +29,17 @@ The free lessons block keeps 48 between its supporting line and the Day 1 band. 
 3. **The focus mark.** It is drawn seven ways on this page (2px orange at 2, 3 or 4 off; 3px dark; a white inset ring; 3px peach). Section 5.3 says a ring radius "never had a rule to follow"; the ring itself has no rule either.
 4. **Small capital labels** are spaced three ways (0.48, 0.96 and 1.44px) against section 3.1's Overline row (0.08em).
 
-## 4. Decisions still to be put to Kain, one at a time, each to become a rule
+## 4. What became of the four further decisions (updated the same sitting; ship brief for 0.707.932)
 
-Card corners (12, 16, 20 and 24 on one page, against 5.3's cards 12 and panels 16); how a small white card is edged (three ways today); text on a phone (3.0's phone rule says headings 21 and reading text 14, the page keeps 24 and 16); how wide a supporting line runs (616, 720, 800 and full width). Each yes will arrive as its own line added to this file.
+The main course page session, running the sessions for Kain, asked that he be brought only what he would clearly notice. Code built each of the first two as a Before and After, looked at them in WebKit, and judged them too fine to see at a glance (Kain's own lesson at pick 288, on a corner change: "I can't see any difference whatsoever"). So they were made and are named here, at theme 0.707.932 (commit f9ce1f80, pick 307):
+
+1. **Card corners, as DSRD 7 5.3 already says:** every small card 12 (outcome cards were 20, question cards 16), every big full-width panel 16 (the curriculum panel was 24). No change to the standard. **A rule 5.3 could carry in plain words:** "A card that sits in a grid with others is a card (12). A box that runs the width of its block is a panel (16)."
+2. **One edge for every small white card:** the outcome cards' faint orange line (the brand orange at 18 per cent, 1px) with `--shadow-card`. The question cards already copied it; the review cards now carry it too. The pricing cards keep the Firmer Edge (pick 253). **Not in any standard today:** DSRD 7 5.4 names the card shadow and nothing names the line. Chat to rule whether this is the site's card edge.
+
+Two are left with Chat, because nothing in them would be clearly noticed at a computer and each is a clash inside the standard, not a fault on the page:
+
+3. **Text on a phone.** Section 3.0's phone rule says headings 24 to 21 and reading text 16 to 14 below 768. The course page keeps 24 and 16, and its free lessons title drops 33 to 24. Code's view: 14 is small for a course page's paragraphs on a phone; the rule may want "reading text never under 16".
+4. **How wide a supporting line runs.** 616, 720, 800 and, by Kain's own S215 choice, full width on pricing. Section 3.3 names the line's type and space and no width.
 
 ## 5. Also new in the theme
 
