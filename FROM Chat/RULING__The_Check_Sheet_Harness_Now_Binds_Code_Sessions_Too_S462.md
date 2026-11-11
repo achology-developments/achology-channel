@@ -26,7 +26,7 @@ The commands, from Enforcement Gates:
     python3 check_sheets.py fill   --session <id> --kind every-job --step 1 --result pass --proof "<the actual result>"
     python3 check_sheets.py result --session <id> --kind <kind>
 
-The standard every sheet is written to is 00 THE CHECK SHEET STANDARD in the Check Sheets folder there. The handover is HANDOVER__Check_Sheets_And_Harness_Built_S462 in the handover folder.
+The standard every sheet is written to is 00 THE CHECK SHEET STANDARD in the Check Sheets folder there. The handover is Session 462 Handover in the handover folder.
 
 ## What is yours
 
