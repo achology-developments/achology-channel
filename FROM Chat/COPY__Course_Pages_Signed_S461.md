@@ -909,9 +909,9 @@ This course suits you if you want confidence you build from the inside, by under
 
 **Search and sharing**
 
-- Focus phrase: self esteem course
-- Search title: Self Esteem Course: Authentic Confidence and Core Identity
-- Meta description: Self esteem course teaching authentic confidence as the result of growing in self-awareness, with identity, self-worth and self-discipline.
+- Focus phrase: self-esteem course
+- Search title: Self-Esteem Course: Authentic Confidence and Core Identity
+- Meta description: Self-esteem course teaching authentic confidence as the result of growing in self-awareness, with identity, self-worth and self-discipline.
 - Related phrases: confidence and self esteem course; self esteem courses online; self esteem courses for adults; self confidence course; self esteem building course
 - Questions people ask: What is self esteem? Why is self esteem important? Why are self confidence and self esteem important? What is a self esteem course?
 - Research: Answer Socrates get_keywords, seed "self esteem course", GB, 210 keywords
@@ -1099,9 +1099,9 @@ This course suits you if you want to understand what drives you before trying to
 
 **Search and sharing**
 
-- Focus phrase: self discipline course
-- Search title: Self Discipline Course: Hyperfocus and Productivity
-- Meta description: Self discipline course teaching hyperfocus, self-control and productivity, from vision and self-awareness to wise decisions about your time and efforts.
+- Focus phrase: self-discipline course
+- Search title: Self-Discipline Course: Hyperfocus and Productivity
+- Meta description: Self-discipline course teaching hyperfocus, self-control and productivity, from vision and self-awareness to wise decisions about your time and efforts.
 - Related phrases: self discipline training; self control course; self regulation course; course on self discipline; self discipline classes
 - Questions people ask: How can I learn self discipline? How do I learn to discipline myself? What does a self disciplined person look like? What is a self discipline course?
 - Research: Answer Socrates get_keywords, seed "self discipline course", GB, 133 keywords
