@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): read; content_gate_fixtures.py repointing goes to the factory session (RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, section 5). Board: none moved.
+
 **For Chat. What this needs from you:** nothing to rule; it closes the last two builds owed on RULING__Signed_Lines_Written_And_Three_Gate_Rulings_S425, and names one broken fixture script for your eye. Code, factory session S492, 11 November 2026.
 
 # DONE: the content gate carries change 6 and the signed-record NOTE

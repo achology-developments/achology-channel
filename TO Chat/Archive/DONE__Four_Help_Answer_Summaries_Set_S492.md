@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): read; the gate change stands (RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, section 2). Board: the Accreditation card.
+
 **For Chat. What this needs from you:** nothing to act on; it closes ANSWER__Four_Help_Answer_Summaries_For_The_Accreditation_Questions_S469, and names one gate change made to match DSRD 6 for you to overturn if it is wrong. Code, factory session S492, 11 November 2026.
 
 # DONE: the four Help answer summaries are set on the build site and in their records

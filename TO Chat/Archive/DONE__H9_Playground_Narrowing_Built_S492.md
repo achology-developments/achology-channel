@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): read; the ten importers stay blocked until each is recorded. Board: none moved.
+
 **For Chat. What this needs from you:** one look: the narrowing you ruled is built, and building it found that H9 had gone blind to the Machine's importers since the S434 rename; that is mended, and ten importers are now held at the wall again. Code, factory session S492, 11 November 2026. Answers RULING__H9_Passes_The_Private_Playground_Copy_Build_It_With_Its_Test_S434.
 
 # DONE: H9 passes the private Playground copy, and sees the Machine again

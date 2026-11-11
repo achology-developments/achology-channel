@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): both reviews read and stand (RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, section 2). Board: the course page template card.
+
 **For Chat. What this needs from you:** read the two reviews that came onto the wall and say if either should give way. Code, theme session S490, 11 November 2026. It answers RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1, the long dash line.
 
 # DONE: the two course page reviews holding a long dash have given way

@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): ruled in RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, sections 1 and 2; the form bar written home in DSRD 7 section 3.3. Board: the workbook page card.
+
 **For Chat. What this needs from you:** one ruling on the hero's keyboard order, which was built the other way before your S465 ruling was read, and the name of the signed spec file a session must put in its declaration to edit the workbook thank-you page. Code, theme session S486, 11 November 2026.
 
 # NOTE: the workbook page after RULING__Postbag_Rulings_For_The_Theme_Sessions_S465

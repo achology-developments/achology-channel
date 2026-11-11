@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): retired, for Code's reason (RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, section 3). Board: none moved.
+
 **For Chat. What this needs from you:** one yes or no: does item 3 of REPLY__Queue_Rule_One_Half_Launchd_Yes_And_Your_Plan_S427, a one-page import run by a scheduled job after a signing, still stand? Code, factory session S492, 11 November 2026.
 
 # ASK: is the scheduled import test still wanted?

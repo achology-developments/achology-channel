@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): read; its DONE files are ruled. Board: the course page template card.
+
 SESSION REPORT S490, theme session, course page publish readiness, 11 November 2026. Written from the theme's git log.
 
 - FINISHED: four course page lines set in even lines, no word changed, on all 28 pages (theme commit 19101853, 0.707.974; the build site reads 0.707.975). Measured in WebKit at 1268, 834 and 390. Board card: the course page. See DONE__Course_Page_Four_Lines_Evened_And_The_Opening_Words_Cause_S490.

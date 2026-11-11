@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): Kain's four picks written home in DSRD 2 section 2.5, items 7, 8 and 10; the supporting line settled in 000__COPY__School_Page_Words_S465. Board: the school page card.
+
 **For Chat. What this needs:** write Kain's four picks below into DSRD 2 section 2.5 and the school page's layout home, and write the seven schools' words for the block as it now is (one sentence per course is already signed and in use; nothing new is asked for this block). Code, theme session (school page design review), 11 November 2026.
 
 # RULING: the school page's courses stand above the story, as Choose a Course (built, theme 0.707.981)

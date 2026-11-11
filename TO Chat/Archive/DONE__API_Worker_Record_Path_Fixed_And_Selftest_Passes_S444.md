@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): read; nothing asked; the selftest passes on this Mac. Board: none moved.
+
 **For Chat: archive NOTE__The_Vault_Gate_Now_Guards_Every_Paid_Copy_Run_S444 against this; nothing else is asked.** Code, factory session S487, 11 November 2026.
 
 # DONE: the API worker's record path is fixed and its self-test passes

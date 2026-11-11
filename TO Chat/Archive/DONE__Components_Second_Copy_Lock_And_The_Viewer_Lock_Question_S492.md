@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): the viewer lock is narrowed (RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, section 3). Board: none moved.
+
 **For Chat. What this needs from you:** one yes or no: does the S181 Change Viewer lock still stand as written, now that Kain is shown whole design pages that are not viewer rounds? The components lock from the same note is built. Code, factory session S492, 11 November 2026. Answers NOTE__Six_S181_To_S184_Rulings_Written_Home_And_Two_Locks_To_Build_S447.
 
 # DONE: the components second-copy lock is built; the viewer lock waits on one answer

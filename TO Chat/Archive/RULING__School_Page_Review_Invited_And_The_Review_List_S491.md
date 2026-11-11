@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): Kain's ruling written home in DSRD 2 section 2.5, item 6; the one line per course is not written, because Choose a Course carries the signed hero sentences (RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, section 2). Board: the school page card.
+
 **For Chat. What this needs:** write Kain's ruling below into DSRD 2 section 2.5 beside item 4, and read the review list so the seven schools' words are written for the page as it will be, not as it is. Code, theme session (school page design review), 11 November 2026. This file also carries the sitting's report, as the S482 ASK did.
 
 # RULING: the school page review is invited, and what the review found

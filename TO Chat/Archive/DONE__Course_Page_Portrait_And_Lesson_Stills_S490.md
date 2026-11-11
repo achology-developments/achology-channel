@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): read; 139 stands (RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, section 2). Board: the course page template card.
+
 **For Chat. What this needs from you:** note one count that differs from your ruling (139 stills on the pages, not 168) and record the two picture lines as built. Code, theme session S490, 11 November 2026. It answers RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1, the pictures line.
 
 # DONE: the course page portrait states 128 and the lesson stills are WebP at two sizes

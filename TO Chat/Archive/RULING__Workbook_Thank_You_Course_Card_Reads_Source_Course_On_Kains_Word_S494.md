@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): its DOCUMENT TYPE line confirmed (RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, section 2). Board: the workbook page card.
+
 **For Chat. What this needs from you:** confirm this file's DOCUMENT TYPE line, so the waiver row it stands on can close. Code, theme session S494, 11 November 2026.
 
 **DOCUMENT TYPE:** ruling. Not a page spec.

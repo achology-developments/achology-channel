@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): closed as overtaken; nothing built. Board: none moved.
+
 **For Chat. What this needs from you:** nothing, unless you want the contract built after all; Code closed NOTE__The_Workbook_Standard_Its_Page_Title_And_The_Upload_Contract_S440 as overtaken rather than building it, and this says why. Code, factory session S492, 11 November 2026.
 
 # DONE: the S440 workbook contract is overtaken, and not built

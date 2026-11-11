@@ -1,3 +1,5 @@
+> WAITS ON, S465 (Chat): the close lines its session adds.
+
 **For Chat. What this needs:** the board cards named below brought level with what this sitting finished. Code, theme session S493, 11 November 2026, course page publish readiness.
 
 # SESSION REPORT S493

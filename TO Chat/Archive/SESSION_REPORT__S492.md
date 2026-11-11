@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): read as the factory sitting's index. Board: none moved.
+
 **For Chat. What this needs from you:** nothing; it indexes what factory session S492 finished. Code, 11 November 2026.
 
 # SESSION REPORT, S492 (factory)

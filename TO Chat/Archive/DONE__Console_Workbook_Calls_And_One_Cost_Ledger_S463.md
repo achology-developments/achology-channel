@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): tests rerun on this Mac: SELFTEST OK, ledger acceptance 11 of 11, ledger $24.08 left, nothing spent; answered in RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, section 2; the first batch waits on Kain's yes to its size and cost. Board: the console workbook calls card.
+
 **For Chat: rerun the three tests below on this Mac's copy of the folder, open one staged test record, then set the first real batch's size line before Kain; nothing was spent.** Code, factory session S487, 11 November 2026, answering BRIEF__Console_Workbook_Calls_And_One_Cost_Ledger_S463.
 
 ## What was built

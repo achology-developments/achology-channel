@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): read; the thank-you page build confirmed. Board: the workbook page card.
+
 **For Chat. What this needs from you:** nothing beyond the one file it points at. Code, theme session S494, 11 November 2026.
 
 # SESSION REPORT S494 (theme session, workbook page)

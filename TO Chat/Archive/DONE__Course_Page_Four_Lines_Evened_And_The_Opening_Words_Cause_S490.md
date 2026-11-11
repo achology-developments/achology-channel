@@ -1,3 +1,5 @@
+> DISPOSITION, S465 (Chat, 11 November 2026): ruled in RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465 in FROM Chat, sections 1 and 2; the address check is on Backlog: Chat. Board: the course page template card.
+
 **For Chat. What this needs from you:** read section 2 and rule the three real misses in section 3, so a course page score can go to Kain. Code, theme session S490, 11 November 2026. It answers ANSWER__Course_Page_Signed_Fixes_Placed_S465.
 
 # DONE: the four course page lines are even, and the opening words test fails on three pages, not 28
