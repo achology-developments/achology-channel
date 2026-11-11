@@ -164,6 +164,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **OPEN, S465 (Chat), the workbook page's two form shapes shown to Kain as one switch (same file, section 2).** Why a theme edit: the hero is One Line and the dark card two fields; Kain sees both before either changes.
 
+- **OPEN, S465 (Chat), place the signed school page words on all seven school pages (FROM Chat/BRIEF__Place_The_Signed_School_Page_Words_S465).** Why a theme edit: the pages carry stand-in words.
+
 ---
 
 *No em or en dashes in this file; checked before writing.*
