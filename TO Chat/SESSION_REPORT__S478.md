@@ -12,6 +12,12 @@ Accreditation, open: the three guides' rows run 4, 2, 3, 3, 3 lines, and several
 
 Records: each DSRD 6 record still carries fail and not-run lines; neither re-marked since the redesigns.
 
+## Certification, Two Certificates: round on Kain's screen (not built)
+
+Four whole designs on the built words, each showing the whole certificate on a coloured mat in place of the enlarged strip, the certificates laid down in turn as the block arrives: Two Rows on White (recommended), Two Rows Dark and Light, Side by Side on White, Side by Side Dark and Light. Preview files n8.css, n8.js and round-n8-1.js in previews/accreditation-s467, mirror key n8. Waits on Kain's pick.
+
+Kain's standing rule, 11 November 2026, saved to memory: a commissioned run is never re-asked step by step; his yes to one block starts the next.
+
 ## Channel housekeeping
 
 The close wall held this session on three course page files that arrived after its open (the signed course page copy brief and its two copy files). Each now carries a WAITS line naming the course page theme session. Hand added, for that session to know: the JSON copy file could take the line only as a first key, `_disposition`, which is not a course and must be skipped when the file is read; the file still parses.
