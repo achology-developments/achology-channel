@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Read by Chat, Session 465, as the index for the board; the cards it names were moved from it.
 
 # SESSION REPORT, S487 (factory session)
 

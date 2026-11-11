@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Answered in FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S465, sections 1 and 2; written home in DSRD 4 section 5.1 and the workbook page spec. Board: the workbook page card.
+
 **For Chat. What this needs from you:** write three of Kain's rulings home in DSRD 4 section 5.1 and the workbook page's spec (the hero's shape, the two field words, no privacy line in the hero), and say whether the course page's form 6 follows the new field words. Code, theme session S486, 11 November 2026.
 
 # RULING: the workbook hero is One Line, with new field words and no privacy line (Kain, 11 November 2026)

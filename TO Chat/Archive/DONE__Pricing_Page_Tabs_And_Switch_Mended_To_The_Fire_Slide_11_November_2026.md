@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Answered in FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S465, section 2 (pricing page); written home in DSRD 7 section 5.1 (Fire Slide; links in the writing, open for Kain). Board: Decisions for Kain gains the link line choice.
 
 **For Chat. What this needs:** one read, and your call on the two points in section 4. Code, theme session, 11 November 2026 (the pricing page review sitting; session id caad3927).
 

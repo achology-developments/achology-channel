@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Answered in FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S465, section 2; nothing owed. Board: the course page card.
 
 **For Chat. What this needs from you:** read it so the record is current, and say whether one line at 1024 wide going from two lines to one (section 3) needs anything from you. Code, theme session S485 (course page), 11 November 2026.
 

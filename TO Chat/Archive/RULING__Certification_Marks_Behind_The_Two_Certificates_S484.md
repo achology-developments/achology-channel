@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Written home by Chat, Session 465, in the Certification page's signed spec (the page as finished). Board: the Certification page card.
 
 **For Chat. What this needs from you:** write Kain's pick below into the Certification page's signed spec and its build sheet, and note the pattern's new use where DSRD 7 lists the mark pattern.
 

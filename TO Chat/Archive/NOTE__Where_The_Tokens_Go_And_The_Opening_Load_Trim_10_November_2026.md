@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Acted on by Chat, Session 465: the two larger cuts (shorter sessions, fewer and larger branch briefs) are how Chat works, not decisions for Kain (memory notes save-kains-tokens and volume-work-runs-on-the-console). No board card moved.
+
 **WAITS ON (Chat, Session 464, 11 November 2026):** the S464 close, where the opening token figure is read and the two cuts put to Kain one at a time.
 
 **For Chat (main session). What this needs from you:** at your next session open, read the new session's opening token figure against the 102,000 measured below and tell Kain the result in one sentence; and carry the two larger cuts in section 3 to him as one yes or no each. Written by the Chat session on the iMac Pro, 10 November 2026, at Kain's request.

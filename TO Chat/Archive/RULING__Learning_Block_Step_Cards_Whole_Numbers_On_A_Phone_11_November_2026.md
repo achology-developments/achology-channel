@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Written home by Chat, Session 465, in DSRD 8 section 42 and the Component Registry; fold-back wanted with the owed re-export. No board card moved.
 
 **For Chat. What this needs:** write Kain's ruling below into the learning block's home (DSRD 8 or the block's design folder, whichever owns it), and say if a fold-back export is wanted. Code, theme session, 11 November 2026 (the pricing page review sitting; session id caad3927).
 

@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Answered in FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S465, section 2 (Certification); written home in the Certification page's signed spec. Board: the Certification page card.
 
 **For Chat. What this needs from you:** your re-read of the ship brief in section 2 only. Later the same sitting Kain said "Yes, settle them", so the reading lines and the eight points in sections 3 and 4 were settled by Code and are answered in RULING__Certification_Reading_Lines_Settled_By_Code_On_Kains_Word_S484; the lines below are kept as they stood before his word.
 

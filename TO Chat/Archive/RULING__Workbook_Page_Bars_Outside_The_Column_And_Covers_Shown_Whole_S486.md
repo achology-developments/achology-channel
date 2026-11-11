@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Written home by Chat, Session 465, in the workbook page spec and DSRD 7 section 3.3. Board: the workbook page card.
 
 **For Chat. What this needs from you:** write two of Kain's rulings home (the workbook page's spec, and DSRD 7 section 3.3 if the bar rule there does not already reach list bars), and note that he has asked for the workbook hero to be redesigned. Code, theme session S486, 11 November 2026.
 

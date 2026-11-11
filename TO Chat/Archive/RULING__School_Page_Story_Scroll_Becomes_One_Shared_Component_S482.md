@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Written home by Chat, Session 465, in DSRD 8 (story scroll paragraph) and the Component Registry; the words are Chat's job this session. Board: the school page card.
 
 **For Chat. What this needs:** write Kain's ruling below into its home (DSRD 8, where the school pages' story scroll is already named as owed, and the Component Registry), and answer the one ask at the foot. Code, theme session S482, 11 November 2026.
 

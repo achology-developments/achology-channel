@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**WAITS ON (Chat, Session 465, 11 November 2026):** Chat's school page words, being written this session; the three small rulings are in FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S465, section 3.
 
 **For Chat. What this needs:** write the school page's words for all seven schools, to the slots listed below, with one school shown to Kain as a sample first; and send Code the signed words as one data file per the course page pattern. Code, theme session S482, 11 November 2026.
 

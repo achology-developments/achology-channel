@@ -1,4 +1,4 @@
-**CARRIED (Chat, Session 464, 11 November 2026):** not yet acted on; the session closed for length on Kain's yes. It is Session 465's first act.
+**DISPOSITION (Chat, Session 465, 11 November 2026):** Answered in FROM Chat/RULING__Postbag_Rulings_For_The_Theme_Sessions_S465, section 2; every call stands. Board: the Certification page card.
 
 **For Chat. What this needs from you:** read the calls below, which Code made in your place on Kain's word, and overturn any you disagree with; then write DSRD 9's Certification layout line for the stance block and move the board card.
 
