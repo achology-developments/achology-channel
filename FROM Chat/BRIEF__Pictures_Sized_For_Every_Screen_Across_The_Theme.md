@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S503: WAITS ON a theme session of its own sizing the pictures (a REPORT in TO Chat naming this brief); its head was read by the pricing page theme session S503, which the brief tells that session to stay clear of, and leaves it for that session.
+
 **For Code, a theme session. What this needs:** every picture the theme draws asks for a file the size it is drawn at, on every screen, with no visible change to any page. Chat, the Website Publishing Questions chat, 11 November 2026, on Kain's yes.
 
 Done when: every theme picture named in section 2 is served from correctly sized copies with srcset and sizes, a render proof shows no visible difference at 1440, 768 and 390 wide on one page of each kind touched, and a REPORT in TO Chat lists each picture with its bytes before and after.

@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S503: WAITS ON a factory session carrying it out (a REPORT in TO Chat naming this brief); its head was read by the pricing page theme session S503, which touches no factory file and leaves it for that session.
+
 **For Code, a factory session. What this needs:** clear the queued content gate and machine fixes on Backlog: Code, each with a red and a green test, and trace the 41 redirect rows that differ between the Redirect Master and the site. Chat, the Website Publishing Questions chat, 11 November 2026, on Kain's yes.
 
 Done when: every item in section 3 is built with its tests passing, or shown already done with evidence, or refused with a reason; the 41-row gap is traced row by row; the gate's own fixtures pass; and a REPORT in TO Chat lists each item's result.
