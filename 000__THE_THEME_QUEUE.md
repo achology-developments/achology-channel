@@ -158,13 +158,21 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **SHIPPED S495 (theme, 0.707.989): 020 "self-esteem course", 025 "self-discipline course", 028 "entrepreneurship masterclass", each read back equal from the build site; the hero alt text already named the course in full, so nothing was changed there; struck.** ~~OPEN, S465 (Chat), course page focus phrases and alt text (FROM Chat/RULING__Afternoon_Postbag_Course_Pages_Workbook_Page_Locks_S465, section 1 items 1 to 3).~~ Why a theme edit: 020 and 025 take the hyphenated phrase, 028 a phrase its body carries, and the eleven pages' hero alt text names the course in full.
 
-- **OPEN, S465 (Chat), the workbook page's step lines under In Short show the step names only (same file, section 1 item 4).** Why a theme edit: the four descriptions are printed twice on one page.
+- **WITHDRAWN, S465 (Chat), on Code's S494 note: the repeat is the content of 38 workbook records, not the template's, so nothing is built in the theme; the 38 records are rewritten by the Newsroom (FROM Chat/RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465, section 6).** Was: ~~OPEN, S465 (Chat), the workbook page's step lines under In Short show the step names only (same file, section 1 item 4).~~
 
 - **OPEN, S465 (Chat), the stretched course picture in Ready to Further Your Learning (same file, section 1 item 5).** Why a theme edit: a 380 wide file is drawn 458 wide in a shared component.
 
 - **OPEN, S465 (Chat), the workbook page's two form shapes shown to Kain as one switch (same file, section 2).** Why a theme edit: the hero is One Line and the dark card two fields; Kain sees both before either changes.
 
 - **OPEN, S465 (Chat), place the signed school page words on all seven school pages (FROM Chat/BRIEF__Place_The_Signed_School_Page_Words_S465).** Why a theme edit: the pages carry stand-in words.
+
+- **OPEN, S465 (Chat), courses 020, 025 and 028 take their signed words (FROM Chat/RULING__Evening_Postbag_Course_Workbook_Pricing_School_And_Redirects_S465, section 1, and FROM Chat/RULING__Self_Esteem_And_Self_Discipline_Titles_Take_The_Hyphen_S465).** Why a theme edit: tools/course_copy_place.py writes them. 020 and 025 take the hyphenated search titles and descriptions on Kain's yes; 028's focus phrase goes back to "start a business course". Scores read again and reported.
+
+- **OPEN, S465 (Chat), the course page's five pictures with no srcset get one (same file, section 3 item 4).** Why a theme edit: the video poster, the small portrait and three review film posters are drawn by the course page template. A fault fix proved by the computed style reading.
+
+- **OPEN, S465 (Chat), the recorded exceptions written into four pages' DSRD 6 records (same file, sections 2 to 5).** Why a theme edit: the theme sessions keep these records. Course page: the eight line height texts, the free lessons heading at 33, the 168 drawings. Pricing: chapter 2's seven card lines, chapter 5's instrument limit, chapter 10's spaces. Workbook: the breadcrumb space, NLP in a card title, Browse More's 32. Thank-you: the four S160 spaces.
+
+- **OPEN, S465 (Chat), one brief for the shared focus marks and the footer overline (same file, section 2).** Why a theme edit: buttons.css, base.css and footer.css draw them on every page, so the course page session left them. Chat writes the brief; this line holds the place.
 
 ---
 
