@@ -36,7 +36,25 @@ This also withdraws two lines in DONE__Course_Page_Signed_Copy_Placed_S479 and D
 
 ## 3. What really holds the scores under 90
 
-SCORES_TABLE
+All 28 read again with the mended tool, the focus phrase's own tests (scores unchanged: 71 to 84).
+
+On every page, four misses, 14 to 15 points:
+- keywordInPermalink 0 of 5. The page is a draft, so the editor shows no finished address. Whether each course's address will hold its focus phrase once published is yours to check against the slugs.
+- lengthContent 5 of 8 (4 of 8 on 005 and 027). About 2,000 to 2,200 words are fed; the full marks start at 2,500.
+- linksHasExternals 0 of 4 and linksNotAllExternals 0 of 2. No course page links to an outside site.
+
+On eleven pages (001, 002, 004, 006, 010, 011, 012, 016, 021, 022, 028): keywordInImageAlt 0 of 2. No picture's alt text holds the focus phrase.
+
+On three pages the focus phrase truly is not in the body, so the opening words and content tests fail for real (6 points, 9 on 028):
+- 020, phrase "self esteem course". The page writes "self-esteem" with a hyphen throughout.
+- 025, phrase "self discipline course". The page writes "self-discipline" with a hyphen.
+- 028, phrase "start a business course". The exact phrase is nowhere in the body or a subheading.
+
+These three are a wording or phrase choice, so they are yours: change the stored focus phrase to match the hyphen (020, 025), or give a sentence that carries the phrase. Code changes no signed word.
+
+Your rulings wanted: (a) the three pages above; (b) whether the outside link and length tests are declined for course pages, as three tests are for help answers and quote pages, or met in words; (c) the alt text on the eleven; (d) the address check.
+
+A wider note for the factory: tools/score_breakdown.py has the same fallback, so any page with related phrases may have had the last related phrase's misses reported as its own. The scores themselves were never affected.
 
 ## 4. Not done
 
