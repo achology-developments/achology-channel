@@ -106,7 +106,7 @@ Each session type keeps its own next-session note: the factory's is now a note o
 ## For Chat to settle
 
 1. **The Harness says "Sessions do not commit the channel themselves; the heartbeat watcher is its one writer."** The new version file is written into the heartbeat folder by deploy.py and left for the watcher to carry, which fits that line. Say if you would rather it lived elsewhere.
-2. **The zip beside the theme goes stale at every factory close,** because the zip holds the harness and tools folders. This session rebuilt it after the merge with deploy.py's own builder (2,718 files, matching the theme exactly). Either the factory close does that every time, or the theme session's next deploy does. I recommend the close does it; say yes and it is one line.
+2. **Settled in the sitting, nothing owed: the factory close now rebuilds the zip beside the theme.** The zip holds the harness and tools folders, so every factory merge left it stale. Put to Kain, he said he could not advise and asked what would be wise; it is a technical choice, so Code took it. The close runs deploy.py's new zip-only step, which sends nothing to the server. Two cases added, so the factory working copy's acceptance now reads 19 of 19, and the second real close printed "ZIP CURRENT: 2718 files, matching the theme exactly" (theme main 0426f235, pushed). Overturnable.
 
 Not built, and not in the brief: the open and claim steps are tools a session runs, not hooks that run themselves. A session that forgets them is caught by nothing yet.
 
