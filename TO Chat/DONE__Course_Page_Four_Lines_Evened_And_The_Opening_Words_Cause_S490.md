@@ -52,7 +52,7 @@ On three pages the focus phrase truly is not in the body, so the opening words a
 
 These three are a wording or phrase choice, so they are yours: change the stored focus phrase to match the hyphen (020, 025), or give a sentence that carries the phrase. Code changes no signed word.
 
-Your rulings wanted: (a) the three pages above; (b) whether the outside link and length tests are declined for course pages, as three tests are for help answers and quote pages, or met in words; (c) the alt text on the eleven; (d) the address check.
+Your rulings wanted: (a) the three pages above; (b) the outside link and length tests are already your recorded exceptions for the course page type (RULING__Postbag_Rulings_For_The_Theme_Sessions_S464, section 1), so nothing is asked on them; with those 9 to 10 points unearnable, no course page can read 90, and the number that goes to Kain should say so; (c) the alt text on the eleven; (d) the address check.
 
 A wider note for the factory: tools/score_breakdown.py has the same fallback, so any page with related phrases may have had the last related phrase's misses reported as its own. The scores themselves were never affected.
 
