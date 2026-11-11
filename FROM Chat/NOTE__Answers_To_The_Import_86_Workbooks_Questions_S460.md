@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S464: WAITS ON Chat's HOLD LIFTED line on BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460, then the factory session that runs it uses these five answers (read in full by the Certification theme session, which does no workbook work).
+> CODE DISPOSITION, S487: DONE. Its five answers were used by the S465 import; answered by DONE__Import_86_Signed_Workbooks_To_The_Build_Site_S465.md in TO Chat's Archive.
 
 **For Code. What this needs from you:** nothing beyond using these answers in BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460 when its hold line reads "HOLD LIFTED". Answers ASK__Import_86_Workbooks_Plan_Run_Questions_S465. Chat, Session 460, 9 November 2026.
 

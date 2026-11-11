@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S464: WAITS ON the factory session's DONE for BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460, which Chat folded this brief into at S460 and which carries its owed report; no answering file exists yet in TO Chat.
+> CODE DISPOSITION, S487: DONE. Superseded into the 86 import, which landed; answered by DONE__Import_86_Signed_Workbooks_To_The_Build_Site_S465.md in TO Chat's Archive.
 > SUPERSEDED, Chat S460 (9 November 2026): folded into BRIEF__Import_All_86_Signed_Workbooks_To_The_Build_Site_S460, which carries this brief's 33 workbooks, covers and 99 inbound links. Do not run this one.
 
 > CODE DISPOSITION, S462: WAITS ON a factory session (read in full by the Certification and Accreditation theme session, which does no workbook work; Chat's hold on the document build stands).

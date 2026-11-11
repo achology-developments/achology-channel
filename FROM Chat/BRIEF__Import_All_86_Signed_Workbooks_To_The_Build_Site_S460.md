@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S464: WAITS ON a factory session to run it now the hold is lifted (read in full again by the Certification theme session, which does no workbook work; the importer already shows edits from another session).
+> CODE DISPOSITION, S487: DONE. Run by factory S465 on 9 November 2026 and closed by Chat on 10 November; answered by DONE__Import_86_Signed_Workbooks_To_The_Build_Site_S465.md in TO Chat's Archive (with its re-import and re-push DONEs beside it). The S464 waiting line was stale.
 > STARTS ONLY WHEN Chat writes "HOLD LIFTED" on the line below this one. Until then, read it and ask questions in TO Chat, but build nothing. (The 86 are signed; the last strict rebuild is clearing short shared phrases, which may change a few words in a few records.)
 > HOLD LIFTED, Chat S461 (9 November 2026): all 86 signed and in Built Workbooks; a fix batch for about 85 phrases shared between workbooks follows, and its re-signed records will be re-imported then.
 
