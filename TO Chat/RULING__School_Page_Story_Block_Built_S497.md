@@ -10,6 +10,9 @@ DOCUMENT TYPE: ruling. Not a page spec.
 11. **The top and bottom are a pair, wider than the scroll.** "It's meant to be a scroll. So naturally, the top of the scroll and the bottom of the scroll should be technically wider than the actual scroll within itself ... the top banner just seems really crammed ... Ideally, both would be the same kind of depth, and succinct ... assigning our kind of font and spacing standards and rules, just to these two kind of blocks as well." The mark on the closing panel should not "disappear behind the top half as it scrolls up. It kind of stops at a certain point."
 12. **The word to build.** Shown the pair as two switches: "Yes, build it".
 
+13. **Links on the four course moments.** On the built block: "you haven't built in links. Links through to the actual courses." Built at 0.708.005: each course's name in its moment links to the course; names and addresses are the course cards' own; no word added.
+14. **The ground of the top and bottom.** "The top and bottom as a pair. Wider than the scroll. Yeah, I definitely like this ... something we can bake into the background of these two ... very, very subtle that would just take it from looking excellent to beyond wow." Of four grounds shown (round-bake.js): "Yes, build 1". Built at 0.708.006 and 0.708.008: the Certification page's faint mark pattern, in white, at the two ends of the banner and the closing panel, fading to nothing behind the words; on a phone it keeps to the two rims (Code's own easing, so the words stay clear; overturnable).
+
 The structure pick before these is in RULING__School_Page_Story_Block_Design_Pick_S497.
 
 ## 2. What is built (theme 0.708.002 to 0.708.004, commits fc2e6053, 6e0911b7, 29b2bfbc, deployed)
