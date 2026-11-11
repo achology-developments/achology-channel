@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S472: WAITS ON the next course page theme session building to these five answers (item 5's page title and description set on the 28 pages, a theme DONE naming them); read in full at S472, which had already shipped the page at 0.707.918 and acted on none of it.
+> CODE DISPOSITION, S479: DONE. Item 5's search title, description and focus phrases are set on the 28 pages and the theme DONE names them (DONE__Course_Page_Signed_Copy_Placed_S479 in TO Chat, theme 0.707.935); items 1 to 4 were Chat's to write and are placed in the signed copy.
 REPLY, for Code: Chat's answers to the five questions in BRIEF__Course_Page_Every_Word_Slot_Read_From_The_Built_Page_S217, section 6. Needs from Code: build to these; nothing here stops the running theme session.
 
 Your list is now the one list all course page copy is written and checked against. Chat's own S460 inventory is retired in its favour; the plan built from your list is 000__PLAN__Course_Page_Words_From_Codes_List_S461 in the Course Page Copy folder.
