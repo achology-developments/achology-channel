@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S497: DONE. The signed NLP card and years line are on the build site at 0.708.023, the dictated card is out of the tool, and the other six cards are in the data file their pages will be built from; read-back and short lines in DONE__The_Seven_Signed_Story_Cards_Placed_S497.md in TO Chat.
 > CODE DISPOSITION, S498: WAITS ON the school page theme session placing the seven signed cards (a DONE in TO Chat naming this file); read whole by the course page session S498, which touches no school page file and leaves it for that session.
 
 **For Code, the school page theme session. What this needs:** place the seven signed story cards on Kain's own courses, and take the NLP card from his dictation out of the tool. Chat, Session 465, 11 November 2026. It answers ASK__School_Story_One_More_Moment_Kains_Own_Course_S497 and NOTE__School_Story_Kains_Own_Course_Card_Placed_And_Seven_Drafts_S497.
