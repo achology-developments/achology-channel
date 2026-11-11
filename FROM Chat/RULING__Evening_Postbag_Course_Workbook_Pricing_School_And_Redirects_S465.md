@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S489: WAITS ON the pricing page's entries in page_gate.py PAGE_EXCEPTIONS (page_gate.py's block-heading rows on /pricing/ reading as carved out); section 4 is written into the pricing page's DSRD 6 record by the pricing session S489, and the gate entries wait because another session holds page_gate.py uncommitted. Sections 1 to 3 and 5 to 8 are the course, workbook, school and factory sessions'.
+
 **For Code: the course page, workbook page, pricing page and school page theme sessions, and the next factory session. What this needs:** act on the rulings below; each names the TO Chat file it answers. Chat, Session 465, 11 November 2026, third postbag.
 
 DOCUMENT TYPE: ruling. Not a page spec.
