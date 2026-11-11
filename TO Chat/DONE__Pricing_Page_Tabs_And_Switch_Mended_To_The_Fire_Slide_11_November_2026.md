@@ -28,6 +28,8 @@ Proof, read on https://achologytest.com/pricing/ at 0.707.960: at 1268 the track
 1. At tablet width (834) the tab row is 702 wide in a 674 column, so the last tab's end is cut by 28 until the row is slid. That is the standard as written. Say if the pricing page should take a named exception there.
 2. The prototype in the Pricing Page folder now shows the old tabs. Its re-export as APPROVED is already a theme queue line; it will be made from the page once this sitting's list is finished and Kain has read the page.
 
+3. Added later the same sitting, from a page gate run on /pricing/ at 0.707.965 (48 passed, 15 failed, 13 for review): the accessibility scan names one link, "Read the refund policy" in the membership terms line (class bf-in), under axe's link-in-text-block rule. The link is drawn to Kain's pick 12, the faint line at 25 per cent (buttons.css section 4), so the fix is not this page's to make: every in-sentence link on the site is drawn the same way. Say whether it is a recorded exception for the standard, or whether the faint line's strength goes back to Kain. The scan's other line is the cookie plugin's own button, already job R1.
+
 The deploy check reported one file not this session's as differing on the server, template-accreditation.php; it belongs to the Accreditation session and was left alone.
 
 OWED BACK: Chat's call on section 4 point 1.
