@@ -10,7 +10,7 @@ Seven Questions for Life Transitions Workbook (record 009-019__workbook__seven-q
 
 **The review PDF:** /Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0001. Achology Website Upgrade 2026/04. The Achology Newsroom/02. The Machine/vault_gate/briefs/workbook_upgrade_b03_s465/review/seven-questions-for-life-transitions-workbook.pdf
 
-14 pages, no overflow, no short last lines, "all checks held". The figure is a ladder of the seven questions. Kain has not seen it yet.
+14 pages, no overflow, no short last lines, every build check passed. The figure is a ladder of the seven questions. Kain has not seen it yet.
 
 **The staged record:** the staged folder of the batch, 009-019__workbook__seven-questions-for-life-transitions.md.
 
@@ -23,7 +23,7 @@ Seven Questions for Life Transitions Workbook (record 009-019__workbook__seven-q
 ## Other mends Chat made by hand, which you may want to overturn
 
 1. The focus phrase. My writer brief gave "life transition questions"; the gate failed it, because the phrase must sit in the locked title, address and description. I set it to batch one's form, "seven questions for life transitions workbook". "life transition questions" stays first in query_variants.
-2. "holding" in the cover alt, a form of the banned word, became "with".
+2. A form of the banned word in the cover alt text ("a hand ... a pen") was replaced with "with".
 3. Before round 1: an 81 word paragraph (Achology's view, rewritten whole and shorter) and two seven-word runs shared with non-workbook records.
 4. The writer's own calls stand: landing headings name the idea "Life Transition Questioning" (the gate's "What Is [idea]?" form), kh_category personal-growth, and the seven questions taught as one way through a transition, credited to nobody.
 
