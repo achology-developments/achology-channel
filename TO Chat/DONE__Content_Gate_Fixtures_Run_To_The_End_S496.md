@@ -6,7 +6,7 @@
 
 1. **"structured training" (call 1).** The test now reads the vault's word list note, The Word Lists Keep Every Banned, Flagged And Watched Word In One Place, and a word the standards file bans that the note marks "never written" is not a drift. The line holds and prints: "ahead of Part 16 by the vault's word list: structured training".
 2. **"holds" (call 2).** For the machine tells list the test compares the words and drops anything in brackets beside one, so Kain's S450 words no longer read as a drift. The line holds.
-3. **The plants (call 4).** Nine plants sat on sentences the pilot no longer carries. Each now sits on a sentence in today's body, with the same fault:
+3. **The plants (call 4).** Twelve plants sat on sentences the pilot no longer carries. Each now sits on a sentence in today's body, with the same fault:
 
 | Fault planted | The sentence it sits on today |
 |---|---|

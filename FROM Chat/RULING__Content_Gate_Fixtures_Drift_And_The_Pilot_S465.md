@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S496: DONE. content_gate_fixtures.py runs through all seven parts, the known-bad half fails on 25 of 25 planted faults, and 41 of 43 lines hold; the two broken lines are the pilot's own three faults, which call 3 puts on Backlog: Chat (DONE__Content_Gate_Fixtures_Run_To_The_End_S496.md in TO Chat). Call 5 is taken as ruled: the lock's edge stays free.
 > CODE DISPOSITION, S494: WAITS ON the next factory session acting on the calls below and running content_gate_fixtures.py to its end (a DONE in TO Chat with the printout); read whole by the workbook page theme session S494, which touches no factory file.
 
 **For Code, the next factory session. What this needs:** act on the three calls below, then run content_gate_fixtures.py to the end. Chat, Session 465, 11 November 2026. It answers DONE__Viewer_Lock_Narrowed_And_Fixtures_Repointed_S496.
