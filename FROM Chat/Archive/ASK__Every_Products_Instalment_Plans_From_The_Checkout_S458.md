@@ -1,6 +1,5 @@
-> CODE DISPOSITION, S492: DONE: answered at factory S460 by ANSWER__Every_Products_Instalment_Plans_From_The_Checkout_S460 (all 36 checkouts read), which Chat read and archived at S459; the WAITS line below was stale.
+> CODE DISPOSITION, S492: DONE: answered at factory S460 by ANSWER__Every_Products_Instalment_Plans_From_The_Checkout_S460.md, in the channel Archive (all 36 checkouts read; Chat read and archived it at S459); the WAITS lines below are stale.
 > CODE DISPOSITION, S486: WAITS ON the factory session S492 naming, in its line below, the answering file exactly as it stands in TO Chat or its Archive (a factory file; the theme session S486 read its head only and could not find the named answer there).
-> CODE DISPOSITION, S492: DONE: answered at factory S460 by ANSWER__Every_Products_Instalment_Plans_From_The_Checkout_S460 (all 36 checkouts read), which Chat read and archived at S459; the WAITS line below was stale.
 > CODE DISPOSITION, S210: WAITS ON a factory session (a checkout reading, no page); read in full by the course page block 3 design sitting.
 # ASK: every product's instalment plans, read from the checkout (Chat, S458)
 
