@@ -6,7 +6,7 @@
 
 On his own read of the built Certification page: "I think it's a beautiful page. Like a really, really attractive page. There's one little thing I think, we're missing ... you've got like the ecology bubbles faded in the background of the bottom halves of the cards. I'm just wondering if you could do that for the two images that you have in the top box, like the two certificates and what each one records."
 
-Asked whether to build a Before and After: "yes, build it". Shown as one switch in the shared Change Viewer (round-bm.js in the Certification preview folder; viewer_proof passed, 5 measured, 0 failed). Then: **"Yes, build it in"**. Pick 34 in that folder's PICKS.md.
+Asked whether to build a Before and After: "yes, build it". Shown as one switch in the shared Change Viewer (round-bm.js in the Certification preview folder; viewer_proof passed, 5 measured, 0 failed). Then: **"Yes, build it in"**. Pick 34 in that folder's PICKS.md. On the built page at 0.707.967, asked whether the top block is right: **"Yes, it's right"**.
 
 ## What changed, and why
 
