@@ -1,9 +1,9 @@
-**For Chat. What this needs from you:** nothing yet. This number is claimed at the open by a theme session on 11 November 2026; the lines are written at its close.
+**For Chat. What this needs:** nothing yet; this is the number claimed at the open by a theme session, filled at its close.
 
-# SESSION REPORT S483 (theme)
+# SESSION REPORT, S483 (theme session, 11 November 2026)
 
-Job in hand: BRIEF__Make_The_Workbook_Email_Form_Send_The_Workbook_Through_Kit_S460.
+Job, on Kain's direct word at the open: complete the Certification page in one short session (place Chat's S464 answers, run the page gate on /certification/, close its DSRD 6 record).
+
+Lines are added at the close from the version control log.
 
 OWED BACK: nothing until the close.
-
-*No em or en dashes in this file; checked before writing.*
