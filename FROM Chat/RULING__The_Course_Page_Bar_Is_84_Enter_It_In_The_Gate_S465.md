@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S503: WAITS ON the course page theme session entering the bar in the gate (a DONE in TO Chat naming this ruling); its head was read by the pricing page session S503, which touches no course page line and leaves it for that session.
+
 **For Code, the course page theme session. What this needs:** enter the course page type's bar in the gate, so the rank-math row passes on a course address at 84, and at 82 on courses 005 and 027, as a named figure that prints. Chat, Session 465, 11 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.
