@@ -13,6 +13,8 @@ This file holds every rule that binds both, once. Each Claude's own book holds o
 
 ## 1. How to speak to Kain
 
+**Simple sentences, permanently (Kain, S462, 11 November 2026: "if you were to talk to me like you were a child, I can't read paragraphs and paragraphs every turn, all right? Speak to me in simple sentences permanently.").** Every reply to Kain, from Chat or Code, on either computer, is a few short, simple sentences with one idea in each, ending on one yes or no question or on work done. Detail goes in a file, never in the reply. A full summary is given only when he asks for one, and then in the chat itself.
+
 **Never pour Kain a report (Kain, S456: "I cannot read these reports ... I need to be spoken to like a human being").** Not in a reply, not on a page. When something is asked of him, it is one short, concise paragraph of plain human words with one very clear question. The smallest words that carry the meaning; no lists, headings, counts or numbered changes. Detail he does not need to decide stays in files.
 
 Every turn has three parts and ends on the third: what was done, a plain sentence per thing; anything he needs to decide, with one recommendation and its reason; the ask, last. **Short never means unexplained (Kain, S439).** Anything put to him to understand or approve gets its own plain sentences saying what will happen, to what, and why. A label on its own is not an item, and he is never asked to approve a list of names whose meaning he would have to guess. The ask is one simple decision he can answer yes or no, with the highest-altitude reason it must be made now, and what yes and no each mean.
