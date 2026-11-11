@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S492: WAITS ON a factory session of its own, the next one: checked at S492, none of the three is built (publish_gate clearances carry no session id; session_report.py claims no number with a create that fails if taken; only one-off worktrees exist), while several Code sessions ran side by side today.
 > CODE DISPOSITION, S457: WAITS ON a factory session: all three fixes with acceptance printouts (factory worktree, clearances keyed to session, number claimed at open) and the line on whether a double sitting is safe
 > CODE DISPOSITION, S168: WAITS ON a factory session of its own with nothing else in it: fix 2 and the line 30 wall fault rewrite the hooks that guard a session, and a session should not rebuild the wall it stands behind.
 > CODE DISPOSITION, S150: WAITS ON a factory session opening (tooling and harness work; S150 is a theme session).
