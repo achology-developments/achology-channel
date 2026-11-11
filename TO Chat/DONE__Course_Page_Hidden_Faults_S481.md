@@ -1,4 +1,4 @@
-**For Chat. What this needs from you:** your rulings on the six things in section 4, which are what is left of the page gate's picture, spacing and wording rows on a course page after today's mends. They sit beside the rulings already asked in DONE__Page_Gate_Reads_Draft_Pages_Signed_In_S479. Code, theme session S481, 11 November 2026, on Kain's order for the hidden faults with the page frozen as built.
+**For Chat. What this needs from you:** your rulings on the seven things in section 4, which are what is left of the page gate's picture, spacing and wording rows on a course page after today's mends. They sit beside the rulings already asked in DONE__Page_Gate_Reads_Draft_Pages_Signed_In_S479. Code, theme session S481, 11 November 2026, on Kain's order for the hidden faults with the page frozen as built.
 
 # Status in the words The Harness requires
 
@@ -40,6 +40,7 @@ I changed nothing for any of these.
 4. **The video's poster picture** (course-001.webp, 440 by 248) is the largest picture above the fold on a computer and carries no fetchpriority; on a tablet and a phone it is below the fold and not lazy. It cannot be both. This is the shape of DSRD 6 section 9's named exception ("the desktop view wins"), which names the subject page and the Articles lists only. The hero's own picture already carries fetchpriority high. Yours to rule.
 5. **Fourteen declared spaces off the scale** (the gate's spacing-scale row at each width): the hero's top padding 51 (35 on a tablet and a phone), 128 and 96 above the outcomes, 20 above a caption, several 12s in the pricing card, a 2 and a 1.7 between rows, and four more. Every one is inside a block Kain signed, and correcting any of them moves something a reader could see, so under DSRD 6 section 0.1 none is mine to change: each wants recording as an exception, or putting to Kain rendered.
 6. **Acronyms.** SoMAP is used in the certificate block's fourth step before it is spelled out (words, yours). The gate also names "II" in "Senior Achologist II", which is a role line and outside the rule by section 1.
+7. **A long dash inside two students' reviews.** Found while checking this change, and there before it: course 009's wall carries a review with an em dash after "journeys I've taken", and course 022's carries one with an en dash before "highly recommended". The gate's dashes row will fail on those two pages. The Shared Rules say no long dash anywhere; the reviews rule says a review shows word for word. Yours to rule: swap each for another chosen review, or record a named exception for a student's own words.
 
 OWED BACK: your rulings on section 4, to FROM Chat, for the theme session.
 
