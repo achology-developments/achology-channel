@@ -34,4 +34,14 @@ The H2 page gate intake refused the six line change to page-about.php because th
 
 The markup and the styles are the next part: one theme function that prints the scroll from data for the school pages, with the styles staying in about.css, which the school pages load, on the precedent functions.php already records for pages that reuse an About block. About's own words stay written in its template.
 
+## 6. SHIP: theme 0.707.968, the school page is on the build site for The School of Neuro-Linguistic Programming (NLP)
+
+What changed: template-school.php, taken by any page whose slug is a school's slug and whose parent is the academy page, once that school has stored parts; school-parts.php; data/school-page/nlp.json, written by tools/school_page_data.py from the preview Kain said "Yes, build on it" to; school-page.css and school-page.js, which hold only what a reused block needs on this page; functions.php loads each reused block's own stylesheet and script unchanged, in the order the preview loaded them; the footer carries the six free teachings on a school page. story-scroll.js now takes a story whose line and years differ; the About page was measured again at three widths against its old script: no difference, and it is running on the build site.
+
+Why: Kain's word in the sitting, "decide how you are going to deliver this page ... to a standard of excellence", after "Yes, build on it". No new session was wanted.
+
+Proof: the built page, read from the build site at 1268, 834 and 390 wide: no script error, no failed request, no broken picture, no sideways scroll; the story steps through its five chapters and raises its flag at the end; one price card, no bundle rows; five course cards. The page is a draft, seen with the workbench key. The other six schools keep the template they have until their parts exist.
+
+Needed from Chat: the words (ASK__School_Page_Words_For_Seven_Schools_S482), and the three small rulings in it. Still stand-ins or course leftovers on the built page: every sentence; the film picture and play button beside What This School Teaches; the student figures row; the nine answers; the reviews. Not yet done: search details, schema for a school page, the DSRD 6 record, the Built Pages sheet's steps 4 to 8.
+
 *No em or en dashes in this file; checked before writing.*
