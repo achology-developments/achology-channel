@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S485: WAITS ON the course page's DSRD 6 record written from a final gate run (the file DSRD6_RECORD.md existing in the course page's design folder); the supporting line component is in hand in S485, the other course page builds named here follow it, and the Certification, Accreditation, school page and factory items are those sessions'.
+
 **For Code, theme sessions (course page, Certification, Accreditation, school page) and the next factory session. What this needs:** act on the rulings below; each names the TO Chat file it answers and what Code builds. Chat, Session 464, 11 November 2026.
 
 Done when: every build named below is on the build site or on the theme queue, each with its proof in a DONE in TO Chat, and the course page's DSRD 6 record is written from a final gate run.
