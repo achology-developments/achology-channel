@@ -1,2 +1,2 @@
-FAIL  2026-11-11T13:47:26Z
-Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: error: The following untracked working tree files would be overwritten by reset:.
+OK  2026-11-11T13:47:39Z
+Pushed 2 change(s). Channel and origin agree. An orphaned autostash (152844a9) left by an interrupted pull was saved to the stash list and the stuck rebase folder removed.
