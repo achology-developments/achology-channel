@@ -41,6 +41,13 @@ Two are left with Chat, because nothing in them would be clearly noticed at a co
 3. **Text on a phone.** Section 3.0's phone rule says headings 24 to 21 and reading text 16 to 14 below 768. The course page keeps 24 and 16, and its free lessons title drops 33 to 24. Code's view: 14 is small for a course page's paragraphs on a phone; the rule may want "reading text never under 16".
 4. **How wide a supporting line runs.** 616, 720, 800 and, by Kain's own S215 choice, full width on pricing. Section 3.3 names the line's type and space and no width.
 
+## 4a. Two later changes Kain asked for himself in the sitting (ship briefs for 0.707.936 and 0.707.937)
+
+1. **The free lesson pictures are frosted (0.707.936, pick 308).** Kain: "they just need to be frosted maybe by like 10%", then of the first round "a little bit too subtle ... lighter, brighter", then of four strengths "2, Frosted 35". Each of the six pictures sits behind a pane of white at 35 per cent, the picture sharp; the small ones clear when pointed at. A new look he chose: for the course page signed spec, section on the free lessons block.
+2. **The review cards are fitted (0.707.937, pick 309). Not Kain's pick.** Kain: "remove a little bit of white space out of this block". Shown four options he said "i dont know"; the master course page session, running the sessions at his request, chose Fitted Cards for him. Each card now holds the room of the longest review showing, not the longest in the pool (cards 366 down to about 341 at computer width); a turn that brings a longer review grows the wall once and it stays. One switch in course-page.js (FITTED) restores the old cards. Kain may overturn.
+
+Still owed to Kain from the same message and not started: a hint that the outcome cards can be clicked.
+
 ## 5. Also new in the theme
 
 tools/course_page_measure.py: reads a built course page whole and writes every block's spaces, every text style, every edged box, every control, contrast under AA, motion left under reduced motion, the heading order and each Tab stop's focus mark. It reads; it changes nothing. The site-wide standards session has the same findings.
