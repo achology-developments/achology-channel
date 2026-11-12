@@ -10,6 +10,14 @@ Assembled from the version control log. Board card: the Pricing page.
 
 Deployed: 0.708.025. A fresh gate run after it is owed at the next sitting.
 
-OWED BACK: nothing beyond the DONE file's own line.
+6. Finished: the pricing page's Rank Math score read (85) and Kain's bar of 85 entered in the search gate (theme commit e708091b). Its own file: RULING__Pricing_Page_Score_Bar_S503.
+7. Finished: Chat's two chapter 7 faults mended: card prices whole at 320 (0.708.031, 0.708.032), and the shared question row's title darkens to the AA-safe orange under the pointer (0.708.034, help.css). Chat re-marked chapter 7 pass.
+8. Finished: the inbound link map built (1,945 pages link to the pricing page), and the search gate's orphan row passes where the map names sources though the crawl missed pages (theme commit fb06b6c8). The gate read 51 passed, 0 failed at 0.708.035.
+9. Finished: pick 13, the questions block Side by Side, and pick 14, even space round the sand bands (0.708.041, 0.708.042). Its own file: RULING__Pricing_Page_Questions_Side_By_Side_And_Even_Band_Spacing_S503.
+10. Not finished: after picks 13 and 14 the gate reads 51 passed, 4 failed, one supporting-line reading of the questions heading; it waits on Chat's ruling in that file's section 4. Then a fresh export of the APPROVED prototype, and Kain's walk.
+
+Hand added, no file in the repository: Kain's walk of the page in Safari began on 12 November; his two picks above came from it. He has not yet given the page his final word.
+
+OWED BACK: nothing beyond each file's own line.
 
 *No em or en dashes in this file; checked before writing.*
