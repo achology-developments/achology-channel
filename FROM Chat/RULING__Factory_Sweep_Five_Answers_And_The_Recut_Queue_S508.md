@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S510 (second line): WAITS ON a factory session building line 5, the three gate instrument gaps (a REPORT in TO Chat naming this ruling). Lines 1 to 4 and 7 to 9 are built and line 6 needs nothing: TO Chat/REPORT__Factory_Sweep_The_Recut_Queue_S510.md.
+> CODE DISPOSITION, S510: WAITS ON a factory session building line 5, the three gate instrument gaps (a REPORT in TO Chat naming this ruling). Lines 1 to 4 and 7 to 9 are built and line 6 needs nothing: TO Chat/REPORT__Factory_Sweep_The_Recut_Queue_S510.md.
 > CODE DISPOSITION, S508: WAITS ON the next factory session working the nine queue lines of section 2 in order (a REPORT in TO Chat naming this ruling). Read whole at the S508 close; nothing in it was built this session.
 
 **For Code, the next factory session. What this needs:** act on the five answers below, then work the queue lines in section 2 in order, each red first, under BRIEF__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes as re-cut here. Chat side session, 12 November 2026, answering REPORT__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes_S508 in TO Chat.

@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S510 (factory): WAITS ON the next factory session filling the field (its DONE in TO Chat with the per-school counts and the unmatched list); its head was read by factory session S510, which arrived at it late in a long run and started nothing.
+> CODE DISPOSITION, S510: WAITS ON the next factory session filling the field (its DONE in TO Chat with the per-school counts and the unmatched list); its head was read by factory session S510, which arrived at it late in a long run and started nothing.
 > CODE DISPOSITION, S513: WAITS ON the factory session's DONE in TO Chat carrying the per-school counts and the unmatched list; read whole by the pricing page theme session S513, which is not a factory session and leaves it untouched.
 
 **For Code, the factory session. What this needs:** add one field naming each Knowledge Hub piece's schools, fill it from Chat's map, and send back the list of published pieces the map does not cover. Chat, Session 466, 12 November 2026. It answers REPORT__What_The_Site_Records_About_Pieces_And_Schools_For_The_Knowledge_Tree_S504.
