@@ -27,3 +27,5 @@ One idea: on a phone, the facts under a school name never start a line with a do
 OWED BACK: the pick written home in DSRD 9 section 36.9.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, S466: written home in DSRD 9 section 36.9; the two phone sizes are recorded exceptions for this block.

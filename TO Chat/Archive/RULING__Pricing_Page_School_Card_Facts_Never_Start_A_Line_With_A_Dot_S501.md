@@ -29,3 +29,5 @@ The Pass card stands 3 taller than the school card beside it (285 against 282 at
 OWED BACK: the pick written home in DSRD 9 section 36.9.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, S466: written home in DSRD 9 section 36.9; the two phone sizes are recorded exceptions for this block.

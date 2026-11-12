@@ -22,3 +22,5 @@ In the same message: "this is going really slow ... One decision at a time seems
 OWED BACK: the pick written home, and your answers to section 3.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, S466: written home in DSRD 9 section 36.9; the two phone sizes are recorded exceptions for this block.
