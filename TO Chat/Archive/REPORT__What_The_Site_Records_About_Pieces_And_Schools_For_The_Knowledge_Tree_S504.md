@@ -65,3 +65,5 @@ The hidden idea tag (your S458 brief) was not found among the fields Code search
 OWED BACK: your word on how the map is made and when; and whether the tree waits for the whole map or opens with what the site already records.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, S466: answered by BRIEF__Knowledge_Tree_Fill_Each_Pieces_Schools_From_The_Map_S466; the map is in the School Page folder.

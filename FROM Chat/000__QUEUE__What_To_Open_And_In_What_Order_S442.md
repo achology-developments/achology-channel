@@ -1,3 +1,5 @@
+**Added at Chat S466 (12 November 2026), factory, on Kain's yes:** BRIEF__Knowledge_Tree_Fill_Each_Pieces_Schools_From_The_Map_S466 (add a schools field to the four Knowledge Hub kinds, fill it from Chat's map of 1,075 pieces, and send back the published pieces the map does not cover).
+
 **Added at Chat S466 (12 November 2026), theme, the About, Testimonials and Reviews session and the school page session:** RULING__Testimonial_Member_Levels_And_Stacey_S466 (Kain's yes: three Master Achologists, six Senior, and Stacey with an e).
 
 **Added at Chat side session of Code's S503 sitting (12 November 2026), theme, the pricing page session S503, open first:** RULING__Pricing_Page_Questions_Heading_Is_A_Listing_Mend_The_Check_S503 (answers both S503 pricing RULING files: the four supporting-line rows are a mend to the check's reading, not an exception; the mend in words, six proof cases, the line for chapter 2; picks 13 and 14 and Kain's "Yes, it's right" written home).
