@@ -1,4 +1,4 @@
-{
+{"_disposition": "CODE DISPOSITION, S502: DONE. The 17 descriptions are placed in data/courses.json by tools/course_copy_place.py at 0.708.040 and read back equal on all 28 built pages; answered by DONE__Course_Page_Membership_Clause_17_Descriptions_And_012_Line_S502.md in TO Chat. The tool reads this file again after any regeneration, so keep it. This key is not a course: skip it when reading.",
  "003": "The cover of this NLP practitioner course shows a dark-bearded man in profile, a small bulb glowing orange in his mind.",
  "005": "The cover of this mindset course shows a woman in profile, her hair a cloud of orange around a small lit bulb.",
  "007": "The cover of this CBT practitioner course shows a woman in profile, a large pale bulb in her mind beneath orange curls.",
