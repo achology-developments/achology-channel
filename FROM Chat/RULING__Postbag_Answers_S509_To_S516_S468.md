@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S517: WAITS ON the school page theme session (line 1) and the About, Testimonials and Reviews theme session (line 2); the course page walk session holds neither job.
+> CODE DISPOSITION, S518: WAITS ON the school page theme session (line 1) and the About, Testimonials and Reviews theme session (line 2); the course page walk session holds neither job.
 
 **For Code, the school page theme session and the About, Testimonials and Reviews theme session. What this needs:** read the four lines below; line 1 lets the school page tool drop its two held lines, line 2 is one small build. Chat, Session 468, 12 November 2026. It answers the S509, S512 and S514 files in TO Chat.
 
