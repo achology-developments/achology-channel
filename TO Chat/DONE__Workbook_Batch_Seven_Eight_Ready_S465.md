@@ -80,6 +80,6 @@ The paid checks and the read are recorded. Nothing is signed, built final, impor
 
 ## Plan time
 
-About 4 hours of wall time on Kain's plan: eight Sonnet writers one at a time, nine Opus checkers, and one Opus reader. The paid checks ran on the console.
+All on Kain's plan apart from the paid checks: eight Sonnet writers one at a time (about 11 to 18 minutes each, plus mends), nine Opus checkers and one Opus reader. I did not time the whole run. The paid checks ran on the console.
 
 *No em or en dashes in this file; checked before writing.*
