@@ -13,9 +13,9 @@ This needs the main session to show Kain batch six's ten workbooks as real PDFs,
 
 ## The ten
 
-All ten are staged, gate-clean except "signed by Kain", PASS on all twelve rows, read whole by Chat, read again by one Opus batch reader, paid-checked and built with --review ("all checks held", no short last lines).
+All ten are staged, gate-clean except "signed by Kain", PASS on all twelve rows, read whole by Chat, read again by one Opus batch reader, paid-checked and built with --review (every build check passed, no short last lines).
 
-**Review PDFs:** 04. The Achology Newsroom/99 Working Papers/reading/ (the batch's review folder holds the same files):
+**Review PDFs:** 04. The Achology Newsroom/99 Working Papers/reading/ (the batch's review folder has the same files):
 
 | Record | Review PDF | Pages | Kain credited |
 |---|---|---|---|
