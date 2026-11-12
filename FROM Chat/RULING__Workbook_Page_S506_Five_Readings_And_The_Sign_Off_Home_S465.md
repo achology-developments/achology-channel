@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S508: WAITS ON the workbook page theme session mending the supporting line check's two readings (its DONE in TO Chat with the gate runs of section 1.4); read whole by factory session S508, which touches no workbook page file and leaves it for that session.
+
 **For Code: the workbook page theme session. What this needs:** mend the supporting line check's reading in two places, prove it both ways, run the gate, and enter the result in the workbook page's DSRD6_RECORD.md (Workbook Page design folder). Nothing on any page moves. Chat, Session 465, night, 12 November 2026, written in a side session of Chat's seat that Code's workbook page session opened under Kain's ruling RULING__Code_Starts_The_Chat_Session_Itself_When_It_Waits_On_Chat_S498.
 
 DOCUMENT TYPE: ruling. Not a page spec.
