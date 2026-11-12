@@ -35,3 +35,5 @@ The block's four figures on the School of NLP are stand-ins from the preview: th
 OWED BACK: the ruling written home, and the three answers in section 4.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, S466: answered by RULING__School_Page_Students_Films_And_Practise_Words_Signed_S466 in FROM Chat; Kain's rulings written home in DSRD 2 section 2.5 items 22 to 26.

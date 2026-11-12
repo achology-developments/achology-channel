@@ -29,3 +29,5 @@ Nothing in this file is designed or built. The plan note's steps 1 and 2 (the si
 OWED BACK: the direction written home; the order you want between this design work and the plan note's steps 1 and 2; your word on item 5's map.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, S466: answered by RULING__School_Page_Students_Films_And_Practise_Words_Signed_S466 in FROM Chat; Kain's rulings written home in DSRD 2 section 2.5 items 22 to 26.
