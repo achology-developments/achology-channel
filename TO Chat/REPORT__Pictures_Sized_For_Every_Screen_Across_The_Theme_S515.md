@@ -40,7 +40,26 @@ Not changed because they are drawn by stylesheets other sessions hold, and are d
 
 ## 4. Bytes before and after
 
-NUMBERS_GO_HERE
+Measured on 16 pages, one of each kind touched plus the workbook and course pages as controls, each at 1440, 768 and 390 (48 page views), in WebKit at 2x on a computer and tablet and 3x on a phone. Each picture's chosen file is weighed by its size on the server. Only the pictures whose chosen file changed are listed.
+
+| Page | Width | Picture | Drawn | Before | After | Was | Now |
+|---|---:|---|---:|---:|---:|---|---|
+| /learn/ | 1440 | 32 banner faces | 129 | 801 KB | 418 KB | carl-jung-480.webp and the rest | carl-jung-320.webp and the rest |
+| /learn/ | 390 | 19 banner faces | 96 | 433 KB | 229 KB | the 480 copies | the 320 copies |
+| /learn/ | 390 | search button logo | 87 | 15.6 KB | 7.2 KB | kyp-logo.webp | kyp-logo-320.webp |
+| /learn/mental-wellness/ | 390 | 13 wall tiles | 161 | 423 KB | 223 KB | the 1536 wide copies | the 768 wide copies |
+| /learn/psychology/book-notes/mans-search-for-meaning/ | 390 | hero book | 104 | 565 KB | 51 KB | mans-search-for-meaning-1.jpg | mans-search-for-meaning-1-480.webp |
+| /learn/mental-wellness/book-notes/ | 1440 and 768 | lead cover | 203, 162 | 185 KB | 107 KB | the-tao-of-fully-feeling-634x1024.jpg | the-tao-of-fully-feeling-480.webp |
+| /learn/mental-wellness/book-notes/ | 390 | lead cover | 133 | 257 KB | 107 KB | the-tao-of-fully-feeling-768x1240.jpg | the-tao-of-fully-feeling-480.webp |
+| /learn/mental-wellness/articles/rick-hanson/ | 1440 and 768 | Resilient cover | 240 | 199 KB | 17 KB | resilient-1.jpg | resilient-1-480.webp |
+| article and quote pages | 1440 | side panel course cover | 238 | 57 to 59 KB | 27 to 29 KB | course-quote-cover-NNN.webp (800 wide) | course-quote-cover-NNN-480.webp |
+| /about/manifesto/ | 1440 | document cover | 206 | 102 KB | 53 KB | manifesto-document-640.webp | manifesto-document-420.webp |
+| /about/instructors/kain-ramsay/ | 1440 and 768 | avatar | 116 | 14.9 KB | 5.2 KB | kain-ramsay.webp | kain-ramsay-256.webp |
+| The two renamed articles | all | hero picture | | the same file | the same file | -v2 name | clean name |
+
+Picture bytes per page view, totals over the 48: **22,821 KB before, 20,778 KB after, 2,043 KB less.** That figure undercounts by 125 KB: the two renamed pictures' old addresses no longer answer, so the tool weighs them at nothing before and at their true size after (25.6 KB and 16.1 KB, three widths each). The fair saving is about 2,170 KB. The biggest single pages: the book note on a phone, 722 KB to 208 KB; the Learn home on a computer, 1,622 KB to 1,238 KB; the Rick Hanson article on a computer, 367 KB to 155 KB. The workbook, course, Help, tag and Testimonials pages are unchanged in bytes, as they should be (nothing of theirs was touched, or, on the tag page, its tiles already let the browser read their drawn width).
+
+Files added to the theme: 191 WebP copies, 3.1 MB in the repository and the zip.
 
 ## 5. The render proof
 
