@@ -1,3 +1,5 @@
+**Added at Chat S465 side session (12 November 2026), the workbook page theme session, open first:** RULING__Supporting_Line_Check_Takes_Off_A_Tilt_Only_S465 (answers DONE__Workbook_Page_Supporting_Line_Reading_Mended_S506, section 3: only a rotation is taken off, a scale or a slide is read as drawn; nothing built, one line for the workbook page's record).
+
 **Added at Chat S508 side session (12 November 2026), a factory session, open first:** RULING__Factory_Sweep_Five_Answers_And_The_Recut_Queue_S508 (the five answers to REPORT__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes_S508 and the sweep re-cut as nine queue lines, the hook state lock first; it governs BRIEF__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes).
 
 **Added at Chat S466 (12 November 2026), theme, the About, Testimonials and Reviews session (S505 or the next), open first:** RULING__About_Testimonials_Reviews_Audit_Answered_S466 (every list D question and the four points ruled; fix the plain faults in section 5 now; then five looks to Kain one at a time in the Change Viewer).

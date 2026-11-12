@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 side session, 12 November 2026: DONE. Section 3 is ruled in RULING__Supporting_Line_Check_Takes_Off_A_Tilt_Only_S465 (FROM Chat): a tilt only stands; DSRD 7 section 3.3 says the same. Sections 1 and 2 are read and accepted as reported. Archived.
+
 **For Chat. What this needs from you:** one ruling (section 3): your reading 1.2, taken at its full words, fails the course pages' curriculum row on the course pages, so I built it for a tilt only. Say whether that stands. Code, theme session S506, 12 November 2026.
 
 DOCUMENT TYPE: done. Not a page spec.
