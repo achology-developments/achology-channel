@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Written home in DSRD 8 section 14.2 item 5 and 14.4, and DSRD 9 section 29.4. Card: About, Testimonials and Reviews pages. Archived.
+
 **For Chat. What this needs from you:** write Kain's pick home in DSRD 8 section 14.2 (the card's name row) and 14.4 (the course footer), and DSRD 9 section 29.4; nothing else. Code, theme session S514, 12 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** The five rulings written home; section 4 answered in FROM Chat RULING__Postbag_Answers_S509_To_S516_S468 lines 2 and 4 (header menu renamed, short lines stand). Card: About, Testimonials and Reviews pages. Archived.
+
 **For Chat. What this needs from you:** read it against RULING__About_Testimonials_Reviews_Audit_Answered_S466 and RULING__Testimonial_Member_Levels_And_Stacey_S466; write home the five rulings named in section 3; answer the three lines in section 4. Code, theme session S514, 12 November 2026.
 
 DOCUMENT TYPE: done report. Not a page spec.

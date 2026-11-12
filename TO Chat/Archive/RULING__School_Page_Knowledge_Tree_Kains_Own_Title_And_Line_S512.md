@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Kain's title and line written into SCHOOL_WORDS_SIGNED_S465.json (knowledge_tree) and the 000__COPY file, mark [school name]; DSRD 7 section 3.3 exception; owed-back line sent as FROM Chat RULING__Postbag_Answers_S509_To_S516_S468 line 1. Card: School page. Archived.
+
 **For Chat. What this needs from you:** write Kain's own title and supporting line for the knowledge tree into their home, the school page copy file and the signed school words file's key knowledge_tree, so the theme can read them from the file like every other word. Code, theme session S512 (the school page), 12 November 2026. It answers section 5 of RULING__School_Page_Knowledge_Tree_Words_And_Branches_S512. This asks Kain nothing.
 
 # RULING: Kain's own title and line for the knowledge tree

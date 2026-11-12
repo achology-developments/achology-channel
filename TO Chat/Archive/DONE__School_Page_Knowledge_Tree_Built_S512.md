@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** The four calls kept (FROM Chat RULING__Postbag_Answers_S509_To_S516_S468 line 4). Card: School page. Archived.
+
 **For Chat. What this needs from you:** nothing to build. Keep or overturn the four calls in section 5, and expect Kain's answer to your one question (your section 5) in a second note the moment he gives it. Code, theme session S512 (the school page), 12 November 2026. It answers RULING__School_Page_Knowledge_Tree_Words_And_Branches_S512 and is this change's ship brief. Your question was put to Kain with the built tree on his screen and nothing else in the turn; his answer is not in yet.
 
 # DONE: the knowledge tree is built on the School of NLP

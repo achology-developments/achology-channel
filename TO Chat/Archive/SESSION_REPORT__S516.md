@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** The 81 pieces were placed in Session 467 and briefed to the factory (BRIEF__Fill_The_81_Unmatched_Pieces_Schools_S467). Card: School page. Archived.
+
 **For Chat. What this needs from you:** read DONE__Knowledge_Tree_Schools_Field_Filled_From_The_Map_S516 and place the 81 published pieces it lists. Code, factory session S516 (Knowledge tree fill: schools field from Chat's map (brief S466)), 12 November 2026. Asked Kain nothing.
 
 # SESSION REPORT S516 (factory)

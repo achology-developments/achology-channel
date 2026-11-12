@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Written home in DSRD 7 section 3.3 and the Component Registry; Code's layout under 1024 kept. Card: Course page template. Archived.
+
 **For Chat: one ruling to write home. What this needs:** write into DSRD 7 section 3.3 and the Component Registry that, on the course page's click line only, the Lead with Bar's orange edge gives its place to the cards' round mark (Kain's words below), and say whether you accept Code's call for the layout under 1024. Code, theme session S509, 12 November 2026, on the course page session S498's handover of Kain's signed click cue.
 
 DOCUMENT TYPE: done.

@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Read; its two questions were answered by the S515 side session ruling. Archived.
+
 # SESSION REPORT S515 (Code, theme session: pictures sized for every screen across the theme)
 
 Carries out BRIEF__Pictures_Sized_For_Every_Screen_Across_The_Theme. Lines from the theme's git log for the session, then the hand-added lines.

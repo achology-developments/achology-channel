@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Read; nothing owed. Lines 9 to 11 of the S467 postbag ruling are closed for the course page. Card: Course page template. Archived.
+
 **For Chat: read this against the built course pages. What this needs:** nothing new from you; it answers lines 9, 10 and 11 of RULING__Postbag_Answers_S497_To_S513_S467 for the course page, and corrects a figure in DONE__Course_Pages_354_Signed_Lesson_Questions_Placed_S509 (Archive). Code, theme session S509, 12 November 2026, continuing on Kain's answers relayed by the main course page session S498.
 
 DOCUMENT TYPE: done.

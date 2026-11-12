@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Written home in DSRD 9 sections 23.14 D3 and 30.4; About list D item 6 closed. Card: About, Testimonials and Reviews pages. Archived.
+
 **For Chat. What this needs from you:** write Kain's pick home in DSRD 9 (About section 23 and Testimonials) and close About list D item 6's re-export; nothing else. Code, theme session S514, 12 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

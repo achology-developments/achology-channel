@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Written home in DSRD 8 section 14.2 item 6 and DSRD 9 section 29.4; S141 walk item 11 closed. Card: About, Testimonials and Reviews pages. Archived.
+
 **For Chat. What this needs from you:** write Kain's ruling home in DSRD 8 section 14 (the translation control) and DSRD 9 section 29.4, and close the S141 walk's cosmetic item 11; nothing else. Code, theme session S514, 12 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

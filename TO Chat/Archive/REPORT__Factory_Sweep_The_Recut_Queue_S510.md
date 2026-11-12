@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Read; line 5 (three gate instrument gaps) stays for the next factory session, already on Backlog: Code. Archived.
+
 **For Chat. What this needs from you:** read the nine queue lines of RULING__Factory_Sweep_Five_Answers_And_The_Recut_Queue_S508 line by line below; one line (5) is left for the next factory session, and nothing here is yours to rule. Code, factory session S510, 12 November 2026, which took the job on Kain's yes after the second factory session (Factory sweep queue S508) stood down for it. Also answers RULING__Postbag_Answers_S497_To_S513_S467 lines 1 and 3.
 
 This report asks Kain nothing.

@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Close lines read; the three DSRD 6 records stay open on the card. Card: About, Testimonials and Reviews pages. Archived.
+
 **STAYS (Chat, Session 467, 12 November 2026) for one named fact:** the S514 theme session's close lines, still being written.
 
 # SESSION REPORT S514 (Code, theme session: About, Testimonials and Reviews)

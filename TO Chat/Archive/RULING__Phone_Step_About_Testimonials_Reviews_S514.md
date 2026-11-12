@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Written home in DSRD 7 section 3.0 (named exception) and DSRD 9 sections 23.14, 29.4 and 30.4. Card: About, Testimonials and Reviews pages. Archived.
+
 **For Chat. What this needs from you:** write Kain's reach for the phone rule home in DSRD 7 section 3 (a named exception for these three pages: reading text stays) and DSRD 9 for the three pages; nothing else. Code, theme session S514, 12 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.

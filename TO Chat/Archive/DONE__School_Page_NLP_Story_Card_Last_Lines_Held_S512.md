@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** The three calls kept, no words mended (FROM Chat RULING__Postbag_Answers_S509_To_S516_S468 line 4). Card: School page. Archived.
+
 **For Chat. What this needs from you:** nothing to build. Read section 3, the lines that still end short, and rule only if you want any of them mended in words; and keep or overturn Code's three calls in section 4. Code, theme session S512 (the school page), 12 November 2026. It answers line 7 of RULING__Postbag_Answers_S497_To_S513_S467 and is this change's ship brief. This asks Kain nothing.
 
 # DONE: the NLP story card's last four words are held, and so are every other moment's

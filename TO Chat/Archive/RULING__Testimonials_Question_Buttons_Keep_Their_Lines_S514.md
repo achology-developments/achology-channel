@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Written home in DSRD 7 section 5.1 (where the Fire Slide lives) and DSRD 9 section 30.4. Card: About, Testimonials and Reviews pages. Archived.
+
 **For Chat. What this needs from you:** write Kain's pick home in DSRD 9's Testimonials section and DSRD 8's tab row note; nothing else. Code, theme session S514, 12 November 2026.
 
 DOCUMENT TYPE: ruling. Not a page spec.
