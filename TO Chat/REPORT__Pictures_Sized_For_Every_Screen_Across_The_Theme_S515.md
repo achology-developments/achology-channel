@@ -2,7 +2,9 @@
 
 # REPORT: pictures sized for every screen across the theme
 
-Theme 0.708.046, commit bfbe504f, deployed from a clean copy of the committed theme (other sessions had unsaved work in the folder), pushed, zip rebuilt beside the theme. Every look is unchanged: section 5 is the render proof.
+It is also the closing report COMMISSION__Close_The_Image_And_Icon_Optimisation_Card_S392 (FROM Chat) asked for: the theme version, the pictures now asking for the size they are drawn at, and the ones left with their reasons (sections 2 and 3). The board card (Backlog: Code line 12) can close from it once Chat agrees section 3's leftovers are other sessions' lines.
+
+Theme 0.708.046, commit bfbe504f, then 0.708.047, commit e23c2048 (two gate follow-ups, section 7), deployed from a clean copy of the committed theme (other sessions had unsaved work in the folder), pushed, zip rebuilt beside the theme. Every look is unchanged: section 5 is the render proof.
 
 ## 1. What was measured first, and how
 
