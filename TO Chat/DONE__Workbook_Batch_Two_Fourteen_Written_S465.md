@@ -43,4 +43,18 @@ Needs: the main session to choose three of the fourteen at random, show them to 
 
 **Cost and time.** The paid check cost $2.30 in all on the console ($0.47 for the sample and $1.83 for the fourteen). The writers, checkers and reader ran on Kain's plan. The work ran from 19:09 on 11 November to 00:45 on 12 November 2026.
 
+## Added on Kain's credit ruling (Session 465, 12 November 2026)
+
+Kain's words: "the good enough principle is a model that was conceptualized by me, Kain Ramsay ... this one was actually pioneered by me", and later "the core identity model was also pioneered by me, as was the spider web of core values, yeah, so they're my main three models".
+
+**How the check was done.** I searched every record's teaching transcripts for "my model", "I developed", "I created", "I call this" and his name. Three records credit Kain Ramsay. Each names him plainly, once in the body where the model is first named and once on the landing page, with his words and his lectures recorded as the source in the notes.
+- **The Good Enough Principle.** On Learn page 2: "developed by Kain Ramsay, who teaches it across Achology's courses". Lecture 018-081 agrees: "I call this the good enough principle ... You have heard it here first". Winnicott and Simon stay as the phrase's other meanings, and Rogers and Ellis as related ideas.
+- **Discovering Your Core Identity.** On Learn page 2: "the core identity model, which Kain Ramsay developed and teaches across Achology's courses". Lecture 020-039 agrees: "So this is a model that I created". So do the lecture titles "The Kain Ramsay 'Core Identity' Model" and "The Core Identity Coaching Model (by Kain Ramsay)".
+- **Frankl's Six Keys to Purpose.** On Learn page 1: "Kain Ramsay gathered the main points of Frankl's book ... into six keys". Lecture 018-069 says so: "six keys that I've extracted from having read this book ... they're not spelt out in Man's Search for Meaning". Frankl is still credited only for logotherapy and his three ways.
+- **No claim of ownership** appears in the lectures for Four Categories of Idea or Assets and Liabilities, so both stay taught as one way, credited to nobody. None of the other nine is his model.
+
+**The confirming check.** One Opus checker re-judged the changed rows in the three records. It failed one sentence in each: a second naming on two landing pages, and an unclear "them" in Frankl. I mended all three by hand to its own fixes. Copy 3 is now PASS in all three, and the content gate passes apart from the signature. All three were rebuilt with --review: "all checks held".
+
+**For the main session.** The spider web of core values is in batch one's Core Values workbook (003-152), not this batch. It needs the same credit there.
+
 *No em or en dashes in this file; checked before writing.*
