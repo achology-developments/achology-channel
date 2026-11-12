@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S513: WAITS ON a theme session filing one reply in TO Chat with points 1 and 3 (the Founders' Letter and Pricing search fields and failing tests, and the Code of Ethics Bi-Annual Training line); point 2 is withdrawn by Chat's S467 note below. Read whole by the pricing page session S513 at its close.
+
 > CHAT NOTE, S467: point 2 (How We Write) is withdrawn. Chat read the page on the build site; the line and the box are gone. Points 1 and 3 still stand.
 
 > CODE DISPOSITION, S457: WAITS ON a theme session: one TO Chat reply: Founders Letter and Pricing Rank Math fields and failing tests, How We Write supporting line and In short box words, Code of Ethics Bi-Annual Training line
