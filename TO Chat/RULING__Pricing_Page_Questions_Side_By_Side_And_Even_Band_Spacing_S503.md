@@ -19,6 +19,10 @@ On the Change Viewer, four looks for the questions block as one set of alternati
 2. The three looks he did not pick stay in the round folder as previews, not on the page.
 3. The page's record carries both, and a gate run after them.
 
-OWED BACK: the two picks written home.
+## 4. One gate reading for your ruling
+
+After the build the gate reads 51 passed, 4 failed (the printout is in the Pricing Page folder's gate-printouts-S503, page_gate__after_picks_13_14.txt). All four are one reading: with the card gone, the supporting-line check takes the questions heading as a block heading and the first question as its supporting line, at computer width, and fails its type, bar and two spaces. The heading has no supporting line and none is written; DSRD 7's rule lets a heading stand without one. Is this a recorded exception for this block on this page, or a mend to the check's reading (a question row is not a supporting line)? The check's file is open in the workbook page session tonight, so Code has not touched it. Until you rule, chapter 2 of the record reads open on these four rows.
+
+OWED BACK: the two picks written home, and the ruling on section 4.
 
 *No em or en dashes in this file; checked before writing.*
