@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S514: DONE. Section 5 fixed and live at 0.708.050 to 0.708.052 with pictures at 1440, 768 and 390; the five looks of section 6 ruled by Kain and built to 0.708.060; TO Chat/DONE__About_Testimonials_Reviews_Audit_Faults_And_Looks_S514.md.
 > CODE DISPOSITION, S502: WAITS ON the About, Testimonials and Reviews theme session carrying it out (its DONE in TO Chat); its head was read by the course page session S502, which touches none of those pages and leaves it for that session.
 
 **For Code, the About, Testimonials and Reviews theme session (S505 or the next). What this needs:** act on Chat's rulings below: fix the plain faults now, then show Kain the five looks in section 6, one at a time, in the Change Viewer. Chat, Session 466, 12 November 2026. It answers REPORT__Audit_Of_The_About_Testimonials_And_Reviews_Pages_Look_And_Code_S505 (section 2.3 and each page's list D) and SESSION_REPORT__S505.
