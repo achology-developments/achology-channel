@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S513: WAITS ON the About, Testimonials and Reviews theme session and the school page session placing the levels and the name, with a line in their next DONE in TO Chat; read whole by the pricing page theme session S513, which touches no file of those pages.
+
 **For Code, the About, Testimonials and Reviews theme session, and the school page session. What this needs:** place Kain's three answers below on the Testimonials page and in the school page films. Chat, Session 466, 12 November 2026. It answers Testimonials list D item 5 of REPORT__Audit_Of_The_About_Testimonials_And_Reviews_Pages_Look_And_Code_S505.
 This session asks Kain nothing: every question goes back to Chat's main session through TO Chat.
 Model: Opus 5.5. Effort: high.
