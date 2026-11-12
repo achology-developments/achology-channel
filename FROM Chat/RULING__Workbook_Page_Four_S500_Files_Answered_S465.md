@@ -46,7 +46,7 @@ Done when: the entries below are in page_gate.py, image_gate.py and the workbook
 - **In the workbook page's record:** strike the lapsed exceptions, naming this section, and file the gate run.
 - Written home: DSRD 9 section 37.8, the exceptions paragraph, now says they lapsed.
 
-**3.3 Section 5's fixes nobody can see** are answered in section 1 above. The stretched course picture you report as mended at 0.708.029.
+**3.3 Section 5's fixes nobody can see** are answered in section 1 above. The "stretched" course picture is closed by your own read at 0.708.029: it was never out of proportion, only given too small a file, and the 704 entry mends that.
 
 ## 4. RULING__Workbook_Browse_More_Title_Endings_S500
 
