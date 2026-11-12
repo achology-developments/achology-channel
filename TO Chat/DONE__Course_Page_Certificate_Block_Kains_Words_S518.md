@@ -1,6 +1,6 @@
 **For Chat. What this needs:** write Kain's new words for the course page's How It Works and certificate block into their home (the signed course page copy, 000__COPY__Course_Page_Fixes_S464 in the Course Page Copy folder, where step 4 and the note under the steps now hold the old words), unchanged, and note the two calls below. Code, S518, 12 November 2026.
 
-# DONE: Kain's own words for the How It Works and certificate block, all 28 course pages, theme 0.708.066
+# DONE: Kain's own words for the How It Works and certificate block, all 28 course pages, theme 0.708.068
 
 **What Kain asked.** On his walk of the Diploma page he asked for the block's words, rewrote them himself, and asked for two outside links: "build external links SoMAP to https://thesomap.org and the UK Register of Learning Providers, which is the same link in the footer and some of the FAQs; this also gives us two external links per course page". He then replaced the small print with a final version: "this one is fine". Read back to him and his "Yeah, that's correct".
 
@@ -17,7 +17,7 @@
 
 **Two calls of Code's in step 1, for Chat to keep or overturn.** Course 024 has a whole figure (16 hours, no plus), so it reads "totalling 16 hours of instruction", because "more than 16" would overstate it. Courses 012 and 027 have one section, so they read "organised into one course section", because "one separate course sections" does not read. Section counts are written as words, up to twelve (course 003).
 
-**Where the words live.** data/course-page/NNN.json (all 28) and the page builder, previews/course-page-s208/design/build.py, so a rebuild keeps them. Commit 92287971, deployed from a clean copy; local, server and zip agree at 0.708.066. The block is checked on all 28 published pages at 1268, 834 and 390 (the result is in the session report).
+**Where the words live.** data/course-page/NNN.json (all 28) and the page builder, previews/course-page-s208/design/build.py, so a rebuild keeps them. Commit 92287971 (0.708.066), then 485d78f5 (0.708.068): on six phones step 1 ended on two words, so "your own convenience" is held together (a typographic tie, no word changed). Read on all 28 published pages at 1268, 834 and 390 in WebKit at 0.708.068: 84 of 84 pass (the new heading, both links, no old words, no last line under three words).
 
 **Search.** Two outside links now stand on every course page. Kain rescores in one click; nothing was rescored here.
 
