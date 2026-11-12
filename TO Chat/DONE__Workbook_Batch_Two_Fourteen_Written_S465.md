@@ -43,6 +43,23 @@ Needs: the main session to choose three of the fourteen at random, show them to 
 
 **Cost and time.** The paid check cost $2.30 in all on the console ($0.47 for the sample and $1.83 for the fourteen). The writers, checkers and reader ran on Kain's plan. The work ran from 19:09 on 11 November to 00:45 on 12 November 2026.
 
+## Signed and built (Session 465, 12 November 2026)
+
+**What happened.**
+- All fourteen were signed through the vault gate with Kain's words, quoted in full in the signature: "SIGNED 14 of 15 pages into their records". The sample had been signed already, and its staged copy was set aside first so its own signature stands.
+- Each was built final into Built Workbooks with "all checks held". Nothing was imported, and nothing was filed to Drive.
+- The batch's reading page is workbook_upgrade_batch_two_fourteen_reading_page_S465.html, in 99 Working Papers/reading.
+
+**Changes made after Kain's yes.** At signing the gate refused nine records whose sentences shared seven-word runs with other workbooks. Most of those were written today by batches one, three and four, and two were old drafts. I reworded those sentences only, with the meaning unchanged:
+- **Carl Rogers' Three Core Conditions:** the six conditions, congruence and empathy put in fresh words, with Rogers's "as if" in quotation marks.
+- **Humanistic Psychology:** Rogers's seven marks in another order, and Maslow's phrase in quotation marks.
+- **Discovering Your Core Identity:** the three areas named in another order in the summary lines.
+- **Six others:** short lines reworded, including two Apply leads and the actualising tendency line in both Rogers workbooks.
+
+Nothing Kain saw changed in substance. The reading page records every change, and each record's Check history line names it.
+
+**What the next batch needs.** Other batches will keep hitting the same collisions at signing. A batch that signs after a neighbour has written on the same idea will need the same pass.
+
 ## Added on Kain's credit ruling (Session 465, 12 November 2026)
 
 Kain's words: "the good enough principle is a model that was conceptualized by me, Kain Ramsay ... this one was actually pioneered by me", and later "the core identity model was also pioneered by me, as was the spider web of core values, yeah, so they're my main three models".
