@@ -23,3 +23,5 @@ To the main course page session, 12 November 2026: "I'm finding you're obviously
 OWED BACK: the ruling written home in The Shared Rules, section 6.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, S466: written home in The Shared Rules, section 6, replacing "He starts sessions".
