@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S510: WAITS ON the course page theme session mending the eight faults of section 2 (its DONE in TO Chat). The factory's two pieces are DONE by factory session S510: section 3's line (the orphan and keyword-density rows print what read them) and section 4's icon trace on 005, with 012's "Skilled Helper" row, in TO Chat/DONE__Course_Page_Gate_Readings_012_005_And_Two_Rows_S510.md.
 > CODE DISPOSITION, S506: WAITS ON the course page theme session mending the eight faults of section 2 (a DONE in TO Chat naming each mend with its proof). Read whole by the workbook page session S506, which owns none of it and touched nothing.
 
 **For Code, the course page theme session. What this needs:** mend the eight faults in section 2 on the 28 published course pages, take the rulings in sections 3 and 4, and send one DONE. Chat, Session 465 side session, 12 November 2026, point 13 of Kain's fourteen.
