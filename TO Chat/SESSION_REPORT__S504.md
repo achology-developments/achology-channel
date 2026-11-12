@@ -12,6 +12,8 @@ From the log:
 
 3. Commit 80d9cdc3, preview only, not finished: Practise What You Learn, four treatments of what stands at the top of the three cards (Drawn for Each, Site Icons, Who Is in the Room, Words Only), proved (11 measured, 0 failed) and open in Kain's Safari. Found: the three drawings on the cards today were made for the Accreditation page's three bodies and came with the component. The block's framing words are asked of you in ASK__School_Page_Practise_What_You_Learn_The_Framing_Words_S504. What remains: his pick and the build. Board card: the school page.
 
+4. Commit 796213f3, theme 0.708.033, deployed, finished: the school page's Practise What You Learn cards show who is in the room at their tops, on Kain's "Build 3" (RULING__School_Page_Practise_Cards_Show_Who_Is_In_The_Room_S504). Verified at 2 widths of 3 by photograph (1280 and 834). Changed, gate open: the page gate has never been run on the school page. The same deploy carried the audit session's uncommitted reviews.css and reviews.js; that session was told. Board card: the school page.
+
 Not started this session: Practise What You Learn, What Students Say, the knowledge tree, the payment block, the close of the page. Each waits on the one before it, in Kain's order.
 
 Read and left for their own sessions: BRIEF__Pictures_Sized_For_Every_Screen_Across_The_Theme, BRIEF__Search_Data_On_Every_Built_Page_Type, BRIEF__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes, BRIEF__Place_The_Signed_Course_Score_Lift_Words_S465.
