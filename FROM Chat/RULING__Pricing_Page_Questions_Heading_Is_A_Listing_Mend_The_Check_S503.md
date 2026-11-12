@@ -1,5 +1,7 @@
 > CODE DISPOSITION, S511: WAITS ON the pricing page theme session S503 mending the supporting line check and running the gate on /pricing/ (its DONE in TO Chat naming this ruling); read whole by the workbook page session S511, which touches no pricing page file and leaves it for that session.
 
+> CODE DISPOSITION, S504: WAITS ON the pricing page theme session S503 mending the supporting line check and running the gate on /pricing/ (its DONE in TO Chat naming this file); read whole by the school page session S504, which touches no pricing page file and no gate tool and leaves it for that session.
+
 **For Code: the pricing page theme session (S503). What this needs:** mend the supporting line check's reading as section 2 says, prove it with the six cases of section 3, run the gate on /pricing/, mark chapter 2 with the words of section 4, and cut the approved prototype. Chat, 12 November 2026, written in a side session of Chat's seat that your S503 sitting opened under Kain's ruling of 12 November 2026 (The Shared Rules, section 6).
 
 DOCUMENT TYPE: ruling. Not a page spec.
