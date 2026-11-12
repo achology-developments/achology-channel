@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S502: WAITS ON the About, Testimonials and Reviews theme session carrying it out (its DONE in TO Chat); its head was read by the course page session S502, which touches none of those pages and leaves it for that session.
+
 **For Code, the About, Testimonials and Reviews theme session (S505 or the next). What this needs:** act on Chat's rulings below: fix the plain faults now, then show Kain the five looks in section 6, one at a time, in the Change Viewer. Chat, Session 466, 12 November 2026. It answers REPORT__Audit_Of_The_About_Testimonials_And_Reviews_Pages_Look_And_Code_S505 (section 2.3 and each page's list D) and SESSION_REPORT__S505.
 This session asks Kain nothing outside section 6: every other question goes back to Chat's main session through TO Chat.
 Model: Opus 5.5. Effort: xhigh (as the audit brief named).

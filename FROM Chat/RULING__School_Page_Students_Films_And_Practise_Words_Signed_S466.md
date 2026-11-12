@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S502: WAITS ON the school page theme session placing the signed words and films (its DONE in TO Chat); its head was read by the course page session S502, which touches no school page file and leaves it for that session.
+
 **For Code, the school page theme session (S504 or the next). What this needs:** place Kain's signed words and films on the school page's Practise What You Learn and What Students Say blocks, then one DONE in TO Chat. Chat, Session 466, 12 November 2026. It answers ASK__School_Page_Practise_What_You_Learn_The_Framing_Words_S504, REPORT__Student_Films_By_School_For_What_Students_Say_S504 and section 4 of RULING__School_Page_What_Students_Say_Reviews_And_Films_By_School_S504.
 This session asks Kain nothing: every question goes back to Chat's main session through TO Chat.
 Model: Opus 5.5. Effort: high (the theme lane, as for the open S504 sitting).
