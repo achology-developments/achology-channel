@@ -190,6 +190,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **OPEN, S468 (Chat), the school page reads the tree's title and line from the signed words file, and the header menu reads "Member Testimonials" (FROM Chat/RULING__Postbag_Answers_S509_To_S516_S468, lines 1 and 2).** Why a theme edit: tools/school_page_data.py holds the two lines until the file does, and header.php still names the page Testimonial Videos.
 
+- **OPEN, S468 (Chat), the school page tool drops its STAND_INS block and reads the five index words from the signed file (FROM Chat/RULING__School_Tree_Words_And_Click_Mark_Written_Home_S468, line 1).** Why a theme edit: tools/school_page_data.py holds the stand-ins until the file does, and now it does.
+
 ---
 
 *No em or en dashes in this file; checked before writing.*
