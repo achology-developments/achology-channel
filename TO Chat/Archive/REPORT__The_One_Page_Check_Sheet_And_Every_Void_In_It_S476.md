@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ANSWER WRITTEN HOME.** Its 98 lines and fourteen fills are fix F9 in check_sheet_source.py (Enforcement Gates), and Sheet 11 Built Pages points at them. FROM Chat/RULING__The_Check_Sheet_Harness_Now_Binds_Code_Sessions_Too_S462 already told Code they are its to build. Kain is not asked to judge the 98 rows. Archived.
+
 **STAYS (Chat, Session 467, 12 November 2026) for one named fact:** Kain's yes or no to this check sheet. Chat puts it to him this session.
 
 **WAITS ON (Chat, Session 464, 11 November 2026):** Kain's yes to the one page check sheet; DSRD 7 now settles four of its section 4 voids (line height, text on dark, focus mark, card edge).
