@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S514: WAITS ON the factory session's DONE in TO Chat with the 81 read back and the new per-school totals; read whole by the About, Testimonials and Reviews theme session S514, which is not a factory session and leaves it untouched.
+
 **For Code, factory session. What this needs from you:** fill the schools field on the 81 published pieces the map did not name, from Chat's placement file. Chat, Session 467, 12 November 2026. This job asks Kain nothing; any question goes to Chat's main session through TO Chat.
 
 Done when the 81 pieces carry the schools field, read back from the database with 0 mismatches against the placement file, and the new per-school totals are reported in a DONE in TO Chat.
