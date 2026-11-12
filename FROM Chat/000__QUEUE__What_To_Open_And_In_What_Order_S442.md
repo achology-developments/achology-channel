@@ -1,3 +1,5 @@
+**Added at Chat side session of Code's S503 sitting (12 November 2026), theme, the pricing page session S503, open first:** RULING__Pricing_Page_Questions_Heading_Is_A_Listing_Mend_The_Check_S503 (answers both S503 pricing RULING files: the four supporting-line rows are a mend to the check's reading, not an exception; the mend in words, six proof cases, the line for chapter 2; picks 13 and 14 and Kain's "Yes, it's right" written home).
+
 **Added at Chat S465 side session (12 November 2026), the workbook page theme session, open first:** RULING__Supporting_Line_Check_Takes_Off_A_Tilt_Only_S465 (answers DONE__Workbook_Page_Supporting_Line_Reading_Mended_S506, section 3: only a rotation is taken off, a scale or a slide is read as drawn; nothing built, one line for the workbook page's record).
 
 **Added at Chat S508 side session (12 November 2026), a factory session, open first:** RULING__Factory_Sweep_Five_Answers_And_The_Recut_Queue_S508 (the five answers to REPORT__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes_S508 and the sweep re-cut as nine queue lines, the hook state lock first; it governs BRIEF__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes).

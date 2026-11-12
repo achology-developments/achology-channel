@@ -47,13 +47,13 @@ The file was clean in git when I read it (last commit 3b41623d, the workbook pag
 
 ## 3. The proof cases, red first
 
-In the check's own test file, beside the S506 cases. Cases 1 and 5 must be seen red before the mend and green after it. The others are guards and must be green both before and after.
+In the check's own test file, beside the S506 cases. Case 1 must be seen red before the mend and green after it. The others are guards and must be green both before and after; case 5 is the guard against the wrong mend.
 
 1. **A list beside its heading.** The heading in a left column, a list of rows in a right column, level with it, the first row's second line starting under the heading's foot (the /pricing/ shape). Wanted: no line; the heading counted with the reason of section 2 item 3, naming the list. Red today: the row's second line is read as the line and fails type, bar and both spaces.
 2. **The same markup stacked.** The heading above the list. Wanted: no line, "the next thing is" the list, as today.
 3. **A real line under the heading, a list beside both.** The heading and a `lead-bar` line in the left column, the list in the right. Wanted: the line is found and passes all five checks.
 4. **A picture beside the heading, a real line after it in the markup.** Wanted: the line is found and passes, as today.
-5. **The check can still fail.** The heading in the left column with a paragraph under it at Mulish 16, weight 400, no bar, and a list beside both. Wanted: that paragraph is the line and fails line-type and line-bar. Run it against a cut that stops at the first holder to see it red; the cut of section 2 is green.
+5. **The check can still fail.** The heading in the left column with a paragraph under it at Mulish 16, weight 400, no bar, and a list beside both. Wanted: that paragraph is the line and fails line-type and line-bar, before the mend and after it. A mend that made this heading read as having no line would be wrong.
 6. **The real page.** /pricing/ at all three widths: "Achology Pricing: Commonly Asked Questions" is counted with no line at each width, and no supporting-line row fails or is carved out for it. The three section lines still pass, and the opening cards' and the learning block's rows still print as their named carve-outs.
 
 **One wider read, so nothing moves unseen.** Run the check before and after the mend on /pricing/, one course page, /certification/ and one workbook page, and compare the two reports row by row. The only rows that may move are the four of section 4. Any other row that moves is reported to Chat by page, heading and figure, and is not given an exception.

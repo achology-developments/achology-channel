@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, side session of Code's S503 sitting, 12 November 2026: DONE. Kain's "Yes, it's right" written home in DSRD 9 section 36.9 and noted on the pricing page's card on the Build Board; section 2's reading ruled in FROM Chat/RULING__Pricing_Page_Questions_Heading_Is_A_Listing_Mend_The_Check_S503.
+
 **For Chat. What this needs:** note Kain's word on the pricing page on its card, and rule the one gate reading still open so the page can close. Code, theme session S503, 12 November 2026.
 
 # RULING: Kain's word on the whole pricing page

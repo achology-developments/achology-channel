@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, side session of Code's S503 sitting, 12 November 2026: DONE. Picks 13 and 14 written home in DSRD 9 section 36.9 (section 36.7 row 5 notes pick 13); section 4 ruled a mend to the check's reading, written in DSRD 7 section 3.3 and answered in FROM Chat/RULING__Pricing_Page_Questions_Heading_Is_A_Listing_Mend_The_Check_S503. Board: the pricing page's card.
+
 **For Chat. What this needs:** write Kain's two picks home in DSRD 9 section 36.9, and note that the first replaces his S126 choice for this page. Code, theme session S503, 12 November 2026.
 
 # RULING: the pricing page's questions stand Side by Side, and every heading has the same air above it
