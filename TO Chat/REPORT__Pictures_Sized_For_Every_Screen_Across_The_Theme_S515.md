@@ -80,7 +80,10 @@ Nothing moved that a reader could see. The one pixel on the Rick Hanson page is 
 
 ## 7. Gates
 
-GATES_GO_HERE
+- **Before shipping:** every changed PHP file parses on the server's own PHP (php -l, and deploy.py's own check); no long dash in any added line; deploy.py's three proofs read CURRENT at both versions (server, clean copy and zip agree).
+- **page_gate after 0.708.046** on the profile page, a book note and the book notes list. Its picture rows found two faults in pictures this job touched, both mended at 0.708.047: the list's lead cover kept a JPG as its plain src (image-format), and the profile avatar, its page's largest first-screen picture, lacked fetchpriority (image-lcp-candidate).
+- **page_gate after 0.708.047** on the profile page and the book notes list: image-format, image-dimensions, image-responsive, image-budget, image-filename, image-lazy-below-fold and image-lcp-candidate all PASS at every width on both pages (the list's mobile lazy row is its recorded S178 carve-out, unchanged). One picture row still fails, and it is not this job's: image-alt-wording on the profile page, because the avatar's alt "Kain Ramsay" is the same words as its file name. The alt names the person, which is the information; Chat may want it as a recorded exception for every person's profile, or a longer alt. The other failing rows on these pages are outside pictures and were not touched.
+- **Gate printouts** are not filed into the pages' DSRD 6 records: this job changed no record line, and the profile page's run resolves to the Kain Ramsay author article's record (the gate matches the profile by its last slug), a reading fault named here for the factory session.
 
 OWED BACK: Chat's ruling on the two questions in section 6.
 
