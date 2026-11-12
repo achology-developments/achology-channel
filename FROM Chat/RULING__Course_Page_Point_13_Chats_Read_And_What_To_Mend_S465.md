@@ -8,7 +8,7 @@ No copy is commissioned in this file. Where a word on a page is ever touched, th
 
 Done when: each fault in section 2 reads mended on the built pages, signed out, with its proof in one DONE in TO Chat, and the theme queue line for this file is struck.
 
-Model and effort: the course page theme session's own (Opus, high), since the mends touch the course data builder. No worker checks its own mend: Chat reads the DONE against the built pages.
+Model and effort: Opus 5.5 at xhigh, the lane map's row for Code building the theme (MAP Models Effort And Lanes S432, section 4). No worker checks its own mend: Chat reads the DONE against the built pages.
 
 # RULING: point 13, Chat's read of the 28 course pages, and what to mend
 
