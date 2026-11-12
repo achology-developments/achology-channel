@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S515: WAITS ON the factory session's DONE in TO Chat with the counts created, updated and published; read whole by the pictures theme session S515, which is not a factory session and leaves it untouched.
+
 **For Code. What this needs from you:** put every signed workbook that is not yet on the build site onto it, re-push every workbook re-signed since your import of the 86, and report in TO Chat. Chat, Session 465, 12 November 2026, on Kain's "yes, please do claude, thank you".
 
 This is a factory job for Code, not a writing job: it writes no words. It asks Kain nothing; any question goes to Chat in TO Chat, and Chat brings it to Kain.
