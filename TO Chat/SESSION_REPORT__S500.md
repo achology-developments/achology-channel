@@ -1,4 +1,4 @@
-**For Chat. What this needs from you:** keep the workbook page's board card current from the lines below; this replaces the two earlier S500 reports in the Archive, which stopped part way. Code, theme session S500, 11 November 2026 (into the 12th). The sitting is not closed: Kain has been asked whether to close it.
+**For Chat. What this needs from you:** keep the workbook page's board card current from the lines below; this replaces the two earlier S500 reports in the Archive, which stopped part way. Code, theme session S500, 11 November 2026 (into the 12th). Closed on Kain's "Yes, close it".
 
 # SESSION REPORT S500 (theme session, workbook page)
 
