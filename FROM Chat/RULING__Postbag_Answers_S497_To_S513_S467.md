@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S512: WAITS ON the factory session's DONE in TO Chat for lines 1 to 3 and each named theme session's DONE for lines 4 to 6 and 9 to 11; read whole by the school page theme session S512, which holds lines 7 and 8 and names line 7 in its own DONE once the NLP story card is read in WebKit at 1268, 834 and 390.
+
 **For Code, factory session first, then the theme sessions named. What this needs from you:** act on the numbered lines below; each names its session. Chat, Session 467, 12 November 2026. Every answer here is Chat's call under Project Instructions section 5; Kain may overturn any of them. This ruling asks Kain nothing.
 
 Done when lines 1 to 11 are each built or entered and named in a DONE file in TO Chat, and the Master reads 2,406 verified rows.
