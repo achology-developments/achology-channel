@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S503: WAITS ON a factory session carrying it out (a REPORT in TO Chat naming this brief); its head was read by the pricing page theme session S503, which touches no factory file and leaves it for that session.
+> CODE DISPOSITION, S508: WAITS ON Chat's answers to section 5 of TO Chat/REPORT__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes_S508.md (a FROM Chat file naming that report), then a factory session for what its section 4 lists as not reached. Built at S508: items 1, 7, 8 and 10; already done: 3, 6, most of 5, half of 2; refused: exception (q), the 29 name, item 4 as worded.
 
 **For Code, a factory session. What this needs:** clear the queued content gate and machine fixes on Backlog: Code, each with a red and a green test, and trace the 41 redirect rows that differ between the Redirect Master and the site. Chat, the Website Publishing Questions chat, 11 November 2026, on Kain's yes.
 
