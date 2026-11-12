@@ -58,13 +58,13 @@ Six notes on placing them.
 
 | School | Pieces in the map | Branches with the floor alone | Pieces on none of the ten largest |
 |---|---|---|---|
-| Neuro-Linguistic Programming | 142 | 11 | 0 |
-| Cognitive Behavioural Psychology | 200 | 12 | 5 |
-| Life Coaching | 173 | 12 | 1 |
-| Person-Centred Counselling | 194 | 9 | 1 |
-| Mindfulness | 318 | 19 | 3 |
-| Mental Health | 389 | 22 | 3 |
-| Personal Growth | 498 | 23 | 7 |
+| The School of Neuro-Linguistic Programming (NLP) | 142 | 11 | 0 |
+| The School of Cognitive Behavioural Psychology (CBP) | 200 | 12 | 5 |
+| The School of Life Coaching and Professional Helping | 173 | 12 | 1 |
+| The School of Person-Centred Counselling and Psychology | 194 | 9 | 1 |
+| The School of Mindfulness, Applied Insight and Wisdom (MIW) | 318 | 19 | 3 |
+| The School of Mental Health, Wellness and Emotional Resilience | 389 | 22 | 3 |
+| The School of Personal Growth and Development (PGD) | 498 | 23 | 7 |
 
 These are the records' counts, not the build site's, and yours will differ a little once the field is filled; the rule is what governs. The few pieces on no shown branch are still found by the search, which reads every piece in the school.
 
@@ -91,8 +91,8 @@ Nothing else here is his. The branch rule and the names of the kinds are written
 
 These are looks, not words, so they are yours and, where he would see a difference, his in the Change Viewer.
 
-1. **The largest schools are far bigger than the one he saw.** Personal growth has 498 pieces in the map and one branch of 278; mental health has 389 and a branch of 216. Read the tree at 1280 and 390 on the largest school before all seven ship.
-2. **Quotes outnumber everything on four schools** (304 of 498 on personal growth, 222 of 389 on mental health), so most leaves there are orange. That is true to what Achology has published and needs no change to the words.
+1. **The largest schools are far bigger than the one he saw.** The School of Personal Growth and Development (PGD) has 498 pieces in the map and one branch of 278; The School of Mental Health, Wellness and Emotional Resilience has 389 and a branch of 216. Read the tree at 1280 and 390 on the largest school before all seven ship.
+2. **Quotes are the largest kind on five of the seven schools** (304 of 498 on The School of Personal Growth and Development (PGD), 222 of 389 on The School of Mental Health, Wellness and Emotional Resilience), so most leaves there are orange. That is true to what Achology has published and needs no change to the words.
 3. **Three record tags sit outside the 36** on one record each (history-of-psychology, applied-psychology, cognitive-behavioural-psychology). That is a fault in Chat's records and is Chat's to mend; the rule in section 3 already keeps them off the tree.
 
 ## 7. The factory queue
