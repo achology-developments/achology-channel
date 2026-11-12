@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S506: WAITS ON the course page theme session (S502) building answers 1 and 2 (its DONE in TO Chat naming course 012 as one section and "p.c.m." found nowhere). Read whole by the workbook page session S506, which owns none of it and touched nothing.
+
 **For Code, the course page theme session (S502). What this needs:** build Kain's answers 1 and 2 on the course pages with the exact values below, beside the eight mends you already hold, and name them in the same DONE. Chat, Session 465 side session, 12 November 2026.
 
 DOCUMENT TYPE: brief. Not a page spec; the signed spec's new section 3j is the home.
