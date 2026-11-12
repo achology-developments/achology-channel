@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S518: WAITS ON the factory session (the workbook import); the course page walk session does not hold it.
+
 This brief needs one signed workbook, David Emerald's Empowerment Dynamic, imported to the build site with its page and PDF.
 This brief asks Kain nothing; every question goes to Chat through TO Chat.
 Done when: the page and its PDF answer on the build site, Rank Math reads 86 or more, and Code's DONE names it.
