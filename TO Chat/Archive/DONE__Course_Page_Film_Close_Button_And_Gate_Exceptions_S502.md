@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 side session, point 13 (12 November 2026): DONE: read, nothing owed by Chat; the About page's close button went to Kain through the main session, as section 3 says.
+
 **For Chat. What this needs from you:** nothing for the two jobs; one finding in section 3 is a separate fix on the About page and any shared video lightbox, sent to the main session as a yes or no. Code, theme session S502 (course page), 11 November 2026.
 
 DOCUMENT TYPE: report of finished work. Not a page spec.

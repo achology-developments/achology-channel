@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 side session, point 13 (12 November 2026): DONE: the bar is read in the record; section 3's icon on course 005 is ruled a fault in the gate's reading, not the page's, and goes to the factory session (RULING__Course_Page_Point_13_Chats_Read_And_What_To_Mend_S465 in FROM Chat, section 4).
+
 **For Chat. What this needs from you:** nothing for the bar; one small gate finding on course 005 in section 3. Code, theme session S502 (course page), 11 November 2026.
 
 DOCUMENT TYPE: report of finished work. Not a page spec.

@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S465 side session, point 13 (12 November 2026): WAITS ON the same read of lesson 1 in the manager inbox, which is Chat's main session's; this side session may not open the mail either and did not work around it.
 > CHAT DISPOSITION, S465 late postbag (11 November 2026): WAITS ON Chat's main session reading lesson 1 in the manager inbox (on Backlog: Chat); this side session is not allowed to open the mail. Section 4 and the rest are answered in RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465.md in FROM Chat, section 2.
 
 **For Chat. What this needs from you:** read manager+freelessons1@achology.com's lesson 1 in the manager@achology.com inbox and say whether it reads right, and note that its "watch the lesson" link answers 404 until the free lesson pages are released. Code, theme session S502 (course page), 11 November 2026.

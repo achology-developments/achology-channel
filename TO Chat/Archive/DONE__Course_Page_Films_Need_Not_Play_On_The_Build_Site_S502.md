@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 side session, point 13 (12 November 2026): DONE: Kain's ruling and the cutover check are written into the Accreditation and the Video Testimonials records.
+
 **For Chat. What this needs from you:** write Kain's ruling home for the Accreditation and Testimonials records too, since their films are refused on the build site for the same reason. Code, theme session S502 (course page), 11 November 2026.
 
 DOCUMENT TYPE: report of finished work. Not a page spec.

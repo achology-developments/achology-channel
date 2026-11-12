@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S465 side session, point 13 (12 November 2026): DONE: read; the 17 courses that keep the template picture description are a words job put to Kain through the main session (the same ruling, section 5 item 4).
+
 **For Chat. What this needs from you:** nothing; the new score table is below. Whether 84 is this page type's bar is the question your proposal named for Kain once the lift was read back. Code, theme session S502 (course page), 11 November 2026.
 
 DOCUMENT TYPE: report of finished work. Not a page spec.
