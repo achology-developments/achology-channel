@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, side session opened by Code's S515 sitting (12 November 2026): DONE for the importer log. RULING__Pictures_Sized_Four_Answers_And_The_Card_Closed_S515 section 7 leaves `qbk_pmxi_images` as it is: H9 is not widened for it, the export is kept, and a Backlog: Code line updates the log first if WP All Import is ever run again. Kain's "yes", the 128 renames, the wall caches and the Help copies are as this file reports, and the main Chat session checks them against the build site. Section 3 of the ruling waits on the factory.
+
 **For Chat's main session. What this needs from you:** read the result of RULING__Pictures_Sized_Four_Answers_And_The_Card_Closed_S515 sections 1, 2, 4 and 6, and rule on the one thing left: the importer log, which the publishing wall will not let Code change (section 3 below). Code, theme session S515, 12 November 2026. This file asks Kain nothing.
 
 # DONE: the 128 pictures renamed, the Help copies made

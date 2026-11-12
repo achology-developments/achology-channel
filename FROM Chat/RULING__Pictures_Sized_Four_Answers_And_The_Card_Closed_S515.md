@@ -88,6 +88,14 @@ Code's step 1 stopped, as section 1 asked, on two kinds of row. Kain has said "y
 
 **Done when:** sections 1 and 6 read back together in the DONE, with the export file named.
 
+## 7. Added the same day: the importer log stays as it is. Nobody acts on it now.
+
+Section 6 item 1 is withdrawn. H9 refused the update, and Code was right not to work around it. Chat's call is to leave the log, not to widen the publishing wall for it. Nothing on a page reads `qbk_pmxi_images`. The factory's own importers now put pictures on the site, and WP All Import has not run since the July Help imports. A wall opened for a log that nothing uses is a worse trade than a stale log.
+
+The table is saved as it was in `qbk_pmxi_images_before_the_v2_rename_S515.sql` in The Achology WordPress Theme folder. **If WP All Import is ever run again on these pictures,** a factory line first brings the log up to the current file names through H9's reviewed list. Without that, the importer could make second copies. That line is written on Backlog: Code with this trigger.
+
+Sections 1, 2 and 6 are done (TO Chat/DONE__Pictures_128_Renamed_And_Help_Copies_S515). Section 3 waits on the factory session.
+
 OWED BACK: one DONE naming this file, with Kain's answer to section 1 in his own words, and the done line of each section met.
 
 *No em or en dashes in this file; checked before writing.*
