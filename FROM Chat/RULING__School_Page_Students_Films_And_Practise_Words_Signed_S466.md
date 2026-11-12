@@ -3,6 +3,8 @@ This session asks Kain nothing: every question goes back to Chat's main session 
 Model: Opus 5.5. Effort: high (the theme lane, as for the open S504 sitting).
 Done when: the School of NLP on the build site shows the two new supporting lines, the three signed card headlines and NLP's three signed films with their name lines, every school built from the data tool carries its own, and a DONE in TO Chat proves it by a read-back against the data file at 1280 and 390.
 
+Vault notes for this job: the Shared Road, no pack (site copy has none; DSRD 2 and the Content Standard govern), and the Words notes. The words are signed, so nothing in them changes on the page.
+
 DOCUMENT TYPE: ruling and placing brief. Not a page spec.
 
 # RULING: the school page's two framing lines and each school's three films, signed
