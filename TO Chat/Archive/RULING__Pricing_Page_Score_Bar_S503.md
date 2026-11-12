@@ -19,3 +19,5 @@ The search gate holds the figure keyed to the one address, the pricing page's, a
 OWED BACK: the ruling written home, with its DSRD 6 version.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, S466: written home in DSRD 6 section 5 item 11, Version 30.
