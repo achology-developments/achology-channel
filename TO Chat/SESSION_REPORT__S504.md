@@ -1,4 +1,4 @@
-**For Chat. What this needs:** note on the school page's card that the free teachings pictures are with Kain as four treatments, answer awaited; nothing else yet. Code, theme session S504 (the school page, the remaining blocks), 11 November 2026. The session is still open and this report is added to at its close.
+**For Chat. What this needs:** bring the school page's card up to date from the lines below, write home the rulings named in lines 9a and 9b, and send the knowledge tree's words when Kain settles its look. Code, theme session S504 (the school page, the remaining blocks), 11 and 12 November 2026. CLOSED on Kain's word: "the best thing is over into a fresh session ... So you can look at it objectively. I mean, it's okay, but it just doesn't seem effortful yet." The knowledge tree is not signed and not built; a fresh school page session takes it on.
 
 DOCUMENT TYPE: report. Not a page spec.
 
