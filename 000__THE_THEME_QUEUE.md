@@ -188,6 +188,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **OPEN, S465 (Chat), one brief for the shared focus marks and the footer overline (same file, section 2).** Why a theme edit: buttons.css, base.css and footer.css draw them on every page, so the course page session left them. Chat writes the brief; this line holds the place.
 
+- **OPEN, S468 (Chat), the school page reads the tree's title and line from the signed words file, and the header menu reads "Member Testimonials" (FROM Chat/RULING__Postbag_Answers_S509_To_S516_S468, lines 1 and 2).** Why a theme edit: tools/school_page_data.py holds the two lines until the file does, and header.php still names the page Testimonial Videos.
+
 ---
 
 *No em or en dashes in this file; checked before writing.*
