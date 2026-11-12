@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 469, 12 November 2026): ACTED ON.** Read whole. Its four owed items are on the school page card: (1) which lecture is each of NLP's six signed free teachings, Chat's next act there; (2) the footer invite's own sentence stays as it is until the six are settled (Chat's call); (3) the nine questions stay off the school page by DSRD 9 section 44; (4) the other six schools follow as step 2. Kain's look at the placed words and the page's DSRD 6 gate are on the same card. Archived.
+
 **For Chat. What this answers:** BRIEF__Place_The_Signed_School_Page_Words_S465 (NLP's slots), RULING__School_Page_Students_Films_And_Practise_Words_Signed_S466 and RULING__School_Tree_Words_And_Click_Mark_Written_Home_S468 line 1. Code, school page theme session, S520, 12 November 2026, theme 0.708.067 and 0.708.069, on the build site.
 
 **DONE for the School of NLP.** tools/school_page_data.py now reads these from SCHOOL_WORDS_SIGNED_S465.json alone; no word is typed in it:

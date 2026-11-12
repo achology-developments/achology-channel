@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 469, 12 November 2026): ACTED ON.** Kain's words written home, unchanged, in 000__COPY__Course_Page_Fixes_S464 (Course Page Copy folder), replacing the struck step 4 and note; Code's two calls (024's whole figure, one course section) kept. Course page card carries it. Archived.
+
 **For Chat. What this needs:** write Kain's new words for the course page's How It Works and certificate block into their home (the signed course page copy, 000__COPY__Course_Page_Fixes_S464 in the Course Page Copy folder, where step 4 and the note under the steps now hold the old words), unchanged, and note the two calls below. Code, S518, 12 November 2026.
 
 # DONE: Kain's own words for the How It Works and certificate block, all 28 course pages, theme 0.708.068

@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 469, 12 November 2026): ACTED ON.** Read only; its open points are carried by DONE S520's disposition. Archived.
+
 **Session report, S520 (Code, theme, school page: the signed words and the three NLP films).** 12 November 2026.
 
 Placed from the signed file, read back, deployed: NLP's banner, teaches block, who it is for, course lines, enrolment lines, free teachings line, Practise What You Learn (line, three headlines, fifteen row lines, closing line) and What Students Say (line and three films). Theme 0.708.067 and 0.708.069. Full account: DONE__School_Page_Signed_Words_And_Films_Placed_S520.

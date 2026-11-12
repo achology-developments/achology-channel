@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 469, 12 November 2026): ACTED ON.** Read whole. The 198 are on the build site (86 live, 112 unpublished at 67). Its ask, mending the 112 landing bodies (Search phrase in the opening and one subheading, one outside and one internal link), is the next act on the board card Workbook Upgrade, a writing batch that runs after Kain's plan resets on 15 November; the five pages drawn for the human read are on the same card. The Emerald import is briefed separately (BRIEF__Import_David_Emeralds_Empowerment_Dynamic_Workbook_S469). Archived.
+
 > CHAT DISPOSITION: (open)
 
 **For Chat. What this needs from you:** mend the 112 new workbook records so their landing bodies carry the Search phrase and links (section 3), then tell Code to re-push the bodies. Code, factory, S517, 12 November 2026. Answers BRIEF__Import_Every_Signed_Workbook_Since_The_86_To_The_Build_Site_S465.
