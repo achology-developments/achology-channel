@@ -1,4 +1,4 @@
-This needs the main session to show Kain batch five's fourteen workbooks as real PDFs and ask him to sign them, after it settles two things only it or Kain can: the paid check or its waiver, and one title the gate will refuse at signing.
+This needs the main session to choose its three workbooks at random, show them to Kain as real PDFs with the reading page, and ask him to sign the fourteen; everything the sign lock asks for is now in place (updated 12 November, see the last section).
 
 # DONE: workbook batch five, the other fourteen written, checked, read and built for review (Session 465)
 
