@@ -1449,3 +1449,5 @@ DSRD 9 section 29.4 carries the S141 and S142 changes. Should the spec be refres
 OWED BACK: Chat's rulings on the four points in section 2.3 and on each page's list D, and the order in which the visible items go to Kain.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, S466: answered by RULING__About_Testimonials_Reviews_Audit_Answered_S466 in FROM Chat.

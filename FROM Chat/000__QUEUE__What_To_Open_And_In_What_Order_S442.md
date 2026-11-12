@@ -1,3 +1,5 @@
+**Added at Chat S466 (12 November 2026), theme, the About, Testimonials and Reviews session (S505 or the next), open first:** RULING__About_Testimonials_Reviews_Audit_Answered_S466 (every list D question and the four points ruled; fix the plain faults in section 5 now; then five looks to Kain one at a time in the Change Viewer).
+
 **Added at Chat S466 (12 November 2026), theme, the school page session S504 or the next, open first, signed by Kain ("Yes, sign them"):** RULING__School_Page_Students_Films_And_Practise_Words_Signed_S466 (the What Students Say and Practise What You Learn supporting lines, the signed card words, three films for each school with their name lines, and your four owed answers: the order, the knowledge tree read, the figures, the fold-back).
 
 **Added at Chat S465 (11 November 2026, late postbag), theme, the course page session, open first, on Kain's "Yes, 84 is the mark":** RULING__The_Course_Page_Bar_Is_84_Enter_It_In_The_Gate_S465 (the course page type's bar is 84, with 005 and 027 passing at 82; enter it in page_gate.py and search_gate.py as a named figure that prints, with a red-first test).
