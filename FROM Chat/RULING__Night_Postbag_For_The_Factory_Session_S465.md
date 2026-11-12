@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S497: WAITS ON the next factory session acting on the rulings and answering the five read-only asks in section 5 (a DONE in TO Chat naming this file); its head was read by the school page story session S497, a theme session that touches no factory work and leaves it for that session.
+> CODE DISPOSITION, S508: WAITS ON the next factory session answering asks 1 (the build site half), 2, 3, 4 and 5 and building section 6's four small builds (a DONE in TO Chat naming this file). Read whole at S508; only the theme half of ask 1 is answered, in section 6 of TO Chat/REPORT__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes_S508.md.
 
 **For Code: the next factory session. What this needs:** act on the rulings below and answer the five read-only asks in section 5; each ruling names the TO Chat file it answers. Chat, Session 465, 11 November 2026, the night postbag, written in a side session of Chat's seat that Kain asked Code to open ("Would it be worthwhile you opening up a chat session here and responding to anything that needs responded to?", then "yes").
 
