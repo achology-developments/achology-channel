@@ -14,6 +14,8 @@ From the log:
 
 4. Commit 796213f3, theme 0.708.033, deployed, finished: the school page's Practise What You Learn cards show who is in the room at their tops, on Kain's "Build 3" (RULING__School_Page_Practise_Cards_Show_Who_Is_In_The_Room_S504). Verified at 2 widths of 3 by photograph (1280 and 834). Changed, gate open: the page gate has never been run on the school page. The same deploy carried the audit session's uncommitted reviews.css and reviews.js; that session was told. Board card: the school page.
 
+5. No commit (read only), finished, hand added: every student film on the site read and set against the seven schools for What Students Say (REPORT__Student_Films_By_School_For_What_Students_Say_S504). Finding: none of the 45 films names a school or subject; the written reviews can be matched exactly by the reviews file's Primary School column. Board cards: the school page; the About, Testimonials and Reviews card (the 14 new videos).
+
 Not started this session: Practise What You Learn, What Students Say, the knowledge tree, the payment block, the close of the page. Each waits on the one before it, in Kain's order.
 
 Read and left for their own sessions: BRIEF__Pictures_Sized_For_Every_Screen_Across_The_Theme, BRIEF__Search_Data_On_Every_Built_Page_Type, BRIEF__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes, BRIEF__Place_The_Signed_Course_Score_Lift_Words_S465.
