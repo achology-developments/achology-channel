@@ -12,7 +12,7 @@ This is a factory job for Code, not a writing job: it writes no words. It asks K
 
 ## 1. What is finished and where it is
 
-- **Signed records:** 04. The Achology Newsroom/03. The Stock/Content Records/workbook. On 12 November 2026, 180 records carry Kain's signature. Count them yourself from the signed line; the files whose names start CHECK, DRAFT or LANE_C are old working files and are never imported.
+- **Signed records:** 04. The Achology Newsroom/03. The Stock/Content Records/workbook. On 12 November 2026, 198 records carry Kain's signature. Count them yourself from the signed line; the files whose names start CHECK, DRAFT or LANE_C are old working files and are never imported.
 - **Final documents:** 03. The Stock/Built Workbooks, one PDF and HTML pair per signed record, named by its post_name. Never rebuild from records and never use an older copy. Batch six's eleven were being rebuilt from their signed records on 12 November; take the files as they stand when you start, and check each PDF's date is later than its record's signature.
 - **The design** is The Workbook Design Standard, unchanged since the 86.
 
@@ -20,7 +20,7 @@ This is a factory job for Code, not a writing job: it writes no words. It asks K
 
 1. **About 94 new workbooks** signed in Session 465 (batches one to seven and batch eight's sample). They have no posts yet.
 2. **Re-signed records already on the site.** 22 workbooks gained one sentence crediting Kain's own model, Core Values was rewritten to teach his spider web of core values, and From Sympathy to Empathy gained his credit line. Re-push each one whose signed line differs from the one you imported: its post_content, Rank Math fields and a new PDF, replacing the old attachment.
-3. **Still to come, a second pass of this same job:** batch eight's other 18 (waiting on Kain's signature this afternoon) and David Emerald's Empowerment Dynamic (003-046, waiting on FROM Chat BRIEF__Workbook_Build_Reads_The_Recorded_Gate_Exception_S465). Run the first pass now on what is signed; Chat writes one line in FROM Chat when those 19 are signed and built, and you run the same steps on them.
+3. **Batch eight's other 18 are now signed and built** (Kain's "Yes, sign them", 12 November afternoon), so 198 records carry his signature and all 18 go in this pass. **Still to come, a second pass:** only David Emerald's Empowerment Dynamic (003-046, waiting on FROM Chat BRIEF__Workbook_Build_Reads_The_Recorded_Gate_Exception_S465). Chat writes one line in FROM Chat when it is built, and you run the same steps on it.
 4. **Five blank records are never imported:** 001-094 (dropped as a duplicate of 005-033), 004-047, 005-021 and 013-011 (skipped as duplicates of signed workbooks), and any record whose signed line is empty.
 
 ## 3. The job, in order
