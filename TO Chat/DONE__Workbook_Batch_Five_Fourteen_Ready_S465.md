@@ -65,4 +65,19 @@ About seven hours on Kain's weekly plan. Fourteen Sonnet writers ran at about 8 
 
 OWED BACK: Kain's decision on the paid check (or his waiver) and on the Developmental Psychology title; then the reading page, his look at the PDFs, and his signature.
 
+## Update, 12 November: the main session's three steps, done
+
+1. **The paid check.** It ran on the console for the fourteen and cost $2.13. Nine real faults were mended by hand, in Jung, Gardner, Developmental Psychology, Aristotle, Thoughts on Trial, the Meta Model, Reprogramming, Natural Order and Cycle of Change. Four were mine from earlier hand mends. The fixes cover an unsupported "no study" line, brain wording against the stance, a line sending readers to care, Wrosch turned into advice, and Cochrane's smoking limit. The rest were kept as batches one and three ruled: Wikipedia, the fixed course line, length guides and watched words. Everything is in check_sonnet_fourteen/SETTLED__fourteen_S465.md.
+2. **Developmental Psychology.** Kain's title is kept. The focus phrase is "developmental psychology and lifelong growth", not "developmental psychology" alone, because the keyword register already gives that phrase to the developmental-psychology page and the gate refused it. The longer phrase opens the title inside the first 50 characters and is in the address and description, so no gate exception is needed. It is recorded as Chat's call in the TITLES file, and the brief was rebuilt.
+3. **The reading page.** 99 Working Papers/reading/workbook_upgrade_batch_five_fourteen_reading_page_S465.html is recorded as step 7. The fourteen review PDFs sit beside it as <slug>-workbook_S465_review.pdf. The three to show Kain are the main session's to choose.
+
+**After the check:**
+- **Gate:** all fourteen pass apart from the signature.
+- **Aristotle:** a run newly shared with a record another batch signed today was reworded.
+- **Builds:** all fourteen are rebuilt, with all checks passing and no short last lines.
+- **Signing locks:** a dry run of the sign locks passes (brief true, desk steps, paid check, reads, reading page). The command to sign is: vault_gate.py sign workbook_upgrade_b05_s465 --staged staged --signature "Kain Ramsay; ...".
+- **Kain's call:** the Meta Model uses three practitioner websites as sources, as does Eye Accessing Cues with Landsiedel. The check says another provider's site is never a counted source on the subject. That is a rule question for Kain, set out in the settled note.
+
+Console spend now $2.60 in all: $0.47 for the sample and $2.13 for the fourteen.
+
 *No em or en dashes in this file; checked before writing.*
