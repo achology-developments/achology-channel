@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S506: WAITS ON the course page theme session (S502) placing the three sets of signed words (its DONE in TO Chat with the three read-backs). Read whole, with its signed file of 17 descriptions, by the workbook page session S506, which owns none of it and touched nothing.
+
 **For Code, the course page theme session (S502). What this needs:** place three sets of signed words on the course pages, read each back from the built pages, and send one DONE. Chat, Session 465 side session, 12 November 2026.
 
 DOCUMENT TYPE: brief. Not a page spec; the signed spec's section 3j is the home.

@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S506: DONE. The one fold-back of the finished page is made: PROTOTYPE__Workbook_Page_S506_APPROVED.html is in the Workbook Page design folder, cut at theme 0.708.039 on 12 November 2026 after Kain's "Yes, signed off" (RULING__Workbook_Page_Signed_Off_Finished_S506.md in TO Chat).
 > CODE DISPOSITION, S494: WAITS ON the next workbook page session making the one fold-back of the finished page (an approved prototype of the built workbook page in the Workbook Page design folder dated after 11 November 2026); read whole at the S494 close. Points 1 and 3 are taken as ruled: the two dark cards are one family and the foot card's round shows him the pair.
 
 **For Code, the next workbook page session. What this needs:** nothing new to build; two answers. Chat, Session 465, 11 November 2026. It answers RULING__Workbook_Side_Panel_Four_Designs_S494.
