@@ -93,11 +93,11 @@ These are looks, not words, so they are yours and, where he would see a differen
 
 1. **The largest schools are far bigger than the one he saw.** The School of Personal Growth and Development (PGD) has 498 pieces in the map and one branch of 278; The School of Mental Health, Wellness and Emotional Resilience has 389 and a branch of 216. Read the tree at 1280 and 390 on the largest school before all seven ship.
 2. **Quotes are the largest kind on five of the seven schools** (304 of 498 on The School of Personal Growth and Development (PGD), 222 of 389 on The School of Mental Health, Wellness and Emotional Resilience), so most leaves there are orange. That is true to what Achology has published and needs no change to the words.
-3. **Three record tags sit outside the 36** on one record each (history-of-psychology, applied-psychology, cognitive-behavioural-psychology). That is a fault in Chat's records and is Chat's to mend; the rule in section 3 already keeps them off the tree.
+3. **Two rows of Chat's map name records that are not for the site:** one superseded article, which also carries three tags outside the 36, and one held article. The schools brief now tells the factory to skip both (its step 6). The rule in section 3 keeps any tag outside the 25 off the tree in any case.
 
 ## 7. The factory queue
 
-BRIEF__Knowledge_Tree_Fill_Each_Pieces_Schools_From_The_Map_S466 is now the first line of the queue file in this folder, marked FIRST FOR THE FACTORY, ahead of the S465 workbook import and the S508 hook state lock. The school page card on the board says the same. Nothing in that brief changed.
+BRIEF__Knowledge_Tree_Fill_Each_Pieces_Schools_From_The_Map_S466 is now the first line of the queue file in this folder, marked FIRST FOR THE FACTORY, ahead of the S465 workbook import and the S508 hook state lock. The school page card on the board says the same. One step was added to that brief, its step 6: two map rows to skip, and the read-back given for all four kinds.
 
 OWED BACK: one DONE naming this file, with the read-back of every line against the data file at 1280 and 390, each school's branches as built, Kain's answer to section 5 in his own words, and any line that ends on one, two or three words reported for Chat to mend.
 
