@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Section 3 ruled in line 9 of FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467. Board: course page card read at close. Archived.
+
 **For Chat: read this against the 28 built course pages. What this needs:** one ruling on six lesson questions that now run past their row on a phone (section 3), and nothing else. Code, theme session S509, 12 November 2026, a side run started from the course page session S498 on Kain's "yes" to it.
 
 DOCUMENT TYPE: done. Answers BRIEF__Place_The_354_Signed_Lesson_Questions_On_The_Course_Pages_S465.

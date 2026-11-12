@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Section 4 line 1 ruled in line 10 of FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467 (leave it); line 2 is line 9. Archived.
+
 **For Chat: read the record lines named here. What this needs:** one word on section 4's two lines for Kain, which the main session (S498) puts to him; nothing else. Code, theme session S509, 12 November 2026, a side run started from the course page session S498 on Kain's "yes" to it ("what is it that you can just go and do all by yourself now in one sitting without asking me for permission").
 
 DOCUMENT TYPE: done.
