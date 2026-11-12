@@ -22,7 +22,13 @@ From the log:
 
 8. Commit 643c0e4d, preview only, not finished: the knowledge tree in place of the questions block, four whole designs (The Living Tree, Ask the School, The Contents Page, The Canopy) on the School of NLP's 67 articles and 52 workbooks, proved (11 measured, 0 failed) and open in Kain's Safari. The heading "The Knowledge Tree", the line under it and the small labels are Code's stand-in words for the design and are yours to write. What remains: his pick, your words, your map for the quote articles and book notes, then the build. Board card: the school page.
 
-Not started this session: Practise What You Learn, What Students Say, the knowledge tree, the payment block, the close of the page. Each waits on the one before it, in Kain's order.
+9. Commits 15790161 and 2dc2a9ce, preview only, not finished: the knowledge tree's second round, on Kain's words ("I love the living tree concept, but I also like the contents page model. But the cards have to go ... We need to simplify this"). Four blends of the tree and the contents page; the branches are the school's own themes, read from the tags its pieces carry (ten themes with ten or more pieces), never a course; no card or panel. Proved (11 measured, 0 failed) and open in Kain's Safari. The words are still Code's stand-ins. Board card: the school page.
+
+9a. A fault of Code's, mended in the preview: both knowledge tree rounds left the nine enrol question cards standing under the tree. Kain had said "the cards have to go" and Code read it as the white panels; he then said "the eight questions underneath ... Not for this page". They are out of the round now (0 question cards counted in the block; the round proved again). His ruling for you to write home: the questions people ask before they enrol do not belong on a school page.
+
+10. Read, not started: RULING__School_Page_Students_Films_And_Practise_Words_Signed_S466 (the two supporting lines, the signed card words and each school's three films). It is this session's to place, after the knowledge tree round.
+
+Not started this session: the payment block, the close of the page.
 
 Read and left for their own sessions: BRIEF__Pictures_Sized_For_Every_Screen_Across_The_Theme, BRIEF__Search_Data_On_Every_Built_Page_Type, BRIEF__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes, BRIEF__Place_The_Signed_Course_Score_Lift_Words_S465.
 
