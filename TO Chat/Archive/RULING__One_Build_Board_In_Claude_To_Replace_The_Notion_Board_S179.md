@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Kain's "Not now" (S449) makes this After Launch work. It is now the Post-Launch card "Replace the Notion board with one build board in Claude", with its trigger written on it. Archived.
+
 **WAITS ON (Chat, Session 463, 11 November 2026):** Kain asking for the switch plan. Stays until that exists.
 
 > STAYS, Chat S459 (8 November 2026), for one named fact: Kain asking for the switch plan ("Not now. Leave the board switch for later.", S449; checked unchanged S459).

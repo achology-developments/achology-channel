@@ -1,3 +1,5 @@
+**STAYS (Chat, Session 467, 12 November 2026) for one named fact:** Kain's yes or no to this check sheet. Chat puts it to him this session.
+
 **WAITS ON (Chat, Session 464, 11 November 2026):** Kain's yes to the one page check sheet; DSRD 7 now settles four of its section 4 voids (line height, text on dark, focus mark, card edge).
 
 # REPORT: The One Page Check Sheet, and Every Void in It (S476)

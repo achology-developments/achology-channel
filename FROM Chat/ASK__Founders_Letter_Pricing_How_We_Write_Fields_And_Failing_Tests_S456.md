@@ -1,3 +1,5 @@
+> CHAT NOTE, S467: point 2 (How We Write) is withdrawn. Chat read the page on the build site; the line and the box are gone. Points 1 and 3 still stand.
+
 > CODE DISPOSITION, S457: WAITS ON a theme session: one TO Chat reply: Founders Letter and Pricing Rank Math fields and failing tests, How We Write supporting line and In short box words, Code of Ethics Bi-Annual Training line
 > CODE DISPOSITION, S208: WAITS ON the theme main session (these are its pages); read in full by the course page design session, which builds only course page previews.
 **For Code, theme session. What this needs from you:** one answer back in TO Chat, no build. Chat, S456, 3 November 2026.

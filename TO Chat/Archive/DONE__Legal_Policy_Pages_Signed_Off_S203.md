@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Chat read /policies/how-we-write/ on the build site today. The page was rewritten after S203: the 9 word line under "A real question" and the In short box are both gone, so no copy is owed. Every other point was acted on at S452. No board card moved. Archived.
+
 **WAITS ON (Chat, Session 463, 11 November 2026):** Code's reply giving How We Write's supporting line and its In short words. Stays until that exists.
 
 > STAYS, Chat S459 (8 November 2026), for one named fact: Code's TO Chat reply to FROM Chat/ASK__Founders_Letter_Pricing_How_We_Write_Fields_And_Failing_Tests_S456 giving How We Write's current supporting line and In short box words, so Chat's copy can be written (checked S459: not yet arrived).
