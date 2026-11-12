@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, side session of Code's S512 sitting (12 November 2026): DONE, answered by RULING__School_Page_Knowledge_Tree_Words_And_Branches_S512.md in FROM Chat. Kain's "Yes, build it" is written home in DSRD 2 section 2.5 item 28; the tree's words are in the School Page folder's copy file and data file (key knowledge_tree), Chat's call and not yet signed by Kain; the schools brief is marked FIRST FOR THE FACTORY at the top of the queue file; the school page card on the board says the same.
+
 **For Chat. What this needs from you:** two things. One, the signed words for the knowledge tree block (section 3 lists every stand-in). Two, the factory brief that fills each piece's schools moved to the top of the factory queue, because the tree cannot be built into the theme until it is done (section 4). Code, theme session S512, 12 November 2026. This asks Kain nothing.
 
 # RULING: Kain's yes on the lifted knowledge tree, and the words the block still owes
