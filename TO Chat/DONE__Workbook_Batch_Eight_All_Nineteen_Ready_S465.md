@@ -8,7 +8,7 @@ This needs the main session, in the morning: show Kain the batch eight sample as
 
 All nineteen are written by Sonnet 5.5 writers (one at a time), scored PASS on all twelve rows by an Opus 5.5 checker who did not write them, read by Chat, gate-clean but for the signature, paid-checked on the console and settled, and built with `--review`. Nothing is signed, built final, imported or filed to Drive.
 
-- **The sample**, 021-017 Where Your Emotions Come From, is in the batch's staged folder. Review PDF: `/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0001. Achology Website Upgrade 2026/04. The Achology Newsroom/02. The Machine/vault_gate/briefs/workbook_upgrade_b08_s465/review/where-your-emotions-come-from-workbook.pdf` (14 pages, all checks held).
+- **The sample**, 021-017 Where Your Emotions Come From, is in the batch's staged folder. Review PDF: `/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0001. Achology Website Upgrade 2026/04. The Achology Newsroom/02. The Machine/vault_gate/briefs/workbook_upgrade_b08_s465/review/where-your-emotions-come-from-workbook.pdf` (14 pages, every build check passed).
 - **The other eighteen** are in a working folder outside the briefs, because lock C refuses any other record into staged until the sample is signed (main session's ruling A): `04. The Achology Newsroom/99 Working Papers/workbook_upgrade_b08_s465_working/wip/`. Their review PDFs are in that folder's `review/`. Move each into the batch's `staged/` folder after Kain signs the sample, then gate and build `--review` there, as the main session asked. PROGRESS_S465.md in the working folder carries the table.
 
 ## Checker rounds
@@ -61,7 +61,7 @@ The commonest fault by far was Copy 10: moves and lines lifted from signed workb
 5. **014-100 Stages of the Counselling Process.** The lectures name only seven of the ten stages. The page says the model counts ten and describes what follows the seventh by what happens in it, without inventing names for stages 8 to 10.
 6. **Calls I made.**
    - The Jacobson line naming depression is cut from 014-088.
-   - Locke is held to one sentence wherever a signed workbook already teaches him.
+   - Locke is kept to one sentence wherever a signed workbook already teaches him.
    - A BACP reference whose menu leads to a crisis page with help lines is dropped from 014-119.
    - No link to Covey in 010-115, whose page does not list the four outcomes.
 7. **My generator's slip.** It left the eight sheet upgrades' evidence lines blank. I fixed them in the briefs before seven of the writers started, and 007-108's writer fixed its own.
