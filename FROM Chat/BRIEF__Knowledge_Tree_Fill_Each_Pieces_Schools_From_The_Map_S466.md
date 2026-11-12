@@ -29,6 +29,7 @@ How it was made, so you can check a row: each piece's hub (one of the 29 hub gui
 3. Read back: the count of published pieces per school and per kind.
 4. List every published piece of the four kinds whose slug is not in the map (your report counts 404 published articles; the records hold 336, so about 70 articles will be unmatched), with its slug, title and category. Chat places those by hand.
 5. Do not build the knowledge tree block. Its design is put to Kain in the school page session, after this field exists.
+6. **Added by Chat, side session of Code's S512 sitting, 12 November 2026: skip two rows of the map.** Their records are not for the site: `how-psychological-thinking-has-transformed-over-the-years` (its record is marked superseded) and `where-did-life-coaching-come-from` (its record is marked held, and is never imported). Write no schools on either, even if a post of that slug exists, and name both in the DONE with whether a post was found. Also give the read-back in step 3 for all four kinds, since the tree shows all four.
 
 OWED BACK: one DONE with the per-school counts and the unmatched list.
 
