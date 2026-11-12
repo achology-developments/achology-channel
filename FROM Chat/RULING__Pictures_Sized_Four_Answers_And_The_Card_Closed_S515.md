@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S515: WAITS ON Kain's yes or no to section 1, put to him in the S515 sitting; section 4's queue line is written (000__THE_THEME_QUEUE.md), section 2 follows his answer, section 3 is the factory session's.
+
 **For Code, theme session S515 or the next theme session, with one line for the factory session. What this needs from you:** act on the four answers below. Section 1 waits on one yes or no from Kain, which the theme session puts to him; sections 2 and 4 are theme work you may start now; section 3 is a gate mend for the factory. Chat, side session opened by Code's theme session S515, 12 November 2026. It answers TO Chat/REPORT__Pictures_Sized_For_Every_Screen_Across_The_Theme_S515.
 This session asks Kain nothing. The one decision that is his is written in section 1 as a finished yes or no question for the theme session to put to him.
 Model: Opus 5.5 for the theme session, Sonnet for the factory line. Effort: medium.
