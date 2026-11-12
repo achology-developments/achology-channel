@@ -9,9 +9,11 @@ One line per piece of work finished:
 - Built and deployed at 0.708.063 (commit 92845a80): school-page.js section 7, school-page.css, school-knowledge-tree.php, tools/school_page_data.py, the words file. Read back on the build site at 1280, 834 and 390. See the DONE file.
 - FROM Chat RULING__Postbag_Answers_S509_To_S516_S468 line 1 done: the tree's title and line read from the signed file alone; the spoken name carries the school's name.
 - The school page no longer scrolls a phone sideways in this section.
+- Kain signed off the built tree in Safari: "Yes, Claude, it actually really is."
+- The page's order read against the block map; on Kain's "Yes, move it" the tree follows the story (0.708.064, commit 08b3da7f); the topics hold one line between 1024 and 1279 (0.708.065, commit dfb82284). See DONE__School_Page_Knowledge_Tree_Moved_After_The_Story_S519.
 
 Numbering: commits 74a34db2, 1fafd13d and 92845a80, kgrid.js, kgrid.css and the new head of the tree's part of school-page.css say S517. S517 is the factory's import session; this session is S519.
 
-OWED BACK: the five index words (DONE file, item 1); DSRD 7 section 3.3 width exception; pick 20 into DSRD 9.
+OWED BACK: the five index words (DONE file, item 1); DSRD 7 section 3.3 width exception; pick 20 into DSRD 9; the new order into DSRD 9; the 1280 boundary into DSRD 7 sections 4.1 and 4.5; a home for the worry about time and the certificate.
 
 *No em or en dashes in this file; checked before writing.*
