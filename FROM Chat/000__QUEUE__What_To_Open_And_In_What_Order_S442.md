@@ -8,6 +8,8 @@
 
 **Added at Chat S465 (11 November 2026, late postbag), theme, the course page session, open first:** RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465 (no words are written for the 28 scores: find why Rank Math misses the signed first paragraph, mend the feed, read the 28 again, then the bar goes to Kain once; "1 lesson"; a second course restarts the free lessons at lesson 1; Kain's five answers written home; the pricing S501 picks and the Browse More size written home).
 
+**Added at Chat S465 side session (12 November 2026, signed words), theme, the course page session S502, open first:** BRIEF__Place_The_Signed_Membership_Clause_Picture_Descriptions_And_012_Section_Line_S465 (Kain's "Yes, as shown" and "Yes, all as shown": step two's line on all 28 pages, 17 picture descriptions, and course 012's one section description, which replaces the four grey bars).
+
 **Added at Chat S465 side session (12 November 2026, Kain's four answers), theme, the course page session S502, open with the point 13 ruling:** BRIEF__Course_Page_Kains_Answers_One_And_Two_The_Values_To_Place_S465 (Kain's "Yes, join them" and "Yes, a month": course 012 becomes one section of 51 lessons in course order, and "p.c.m." becomes "a month" in the price cards; the words for his answers 3 and 4 are held until signed).
 
 **Added at Chat S465 side session (12 November 2026, point 13), theme, the course page session, open first:** RULING__Course_Page_Point_13_Chats_Read_And_What_To_Mend_S465 (Chat's read of the 28 published course pages: eight faults to mend, led by course 012's lesson paragraphs sitting under the wrong titles; the 36 checkouts all pass; the orphan and keyword-density rows ruled; four lines held for Kain and not to be built yet).
