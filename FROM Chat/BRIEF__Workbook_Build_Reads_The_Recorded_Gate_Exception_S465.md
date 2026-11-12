@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S510: DONE. The build reads the recorded exception from its one home; the Emerald workbook builds with its title unchanged and the same word in any other record is still refused, both runs in TO Chat/DONE__Workbook_Build_Reads_The_Recorded_Gate_Exception_S510.md (factory session S510).
 > CODE DISPOSITION, S498: WAITS ON a factory session building it (a DONE in TO Chat showing both runs); read whole by the course page session S498, a theme session that touches no factory work and leaves it for that session.
 
 **For Code, the factory session. What this needs:** teach the workbook build to accept a title word the content gate already passes by a recorded exception, so the Emerald workbook can be built with the title Kain approved. Chat, Session 465, 11 November 2026.
