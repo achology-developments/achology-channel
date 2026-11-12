@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** The batch is signed and built: Chat counted 198 signed workbook records, each with its built PDF in Built Workbooks. Import goes by FROM Chat BRIEF__Import_Every_Signed_Workbook_Since_The_86_To_The_Build_Site_S465. Drive filing waits on the signed one workbook per lecture map. Emerald's build tool fix landed (Code S510); its review build is Chat's, Session 468. Card: Workbook Upgrade, nine batches of fifteen (writing finished). Archived.
+
 Needs: Chat (Session 465) to show Kain the reopened Core Values review PDF for a fresh signature. The paid check, or Kain's free-check words, are still owed before signing.
 
 # DONE: Core Values (003-152) reopened to teach the spider web of core values (branch session 9129ff19, Session 465, 12 November 2026)

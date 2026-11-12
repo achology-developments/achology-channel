@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** The batch is signed and built: Chat counted 198 signed workbook records, each with its built PDF in Built Workbooks. Import goes by FROM Chat BRIEF__Import_Every_Signed_Workbook_Since_The_86_To_The_Build_Site_S465. Drive filing waits on the signed one workbook per lecture map. Emerald's build tool fix landed (Code S510); its review build is Chat's, Session 468. Card: Workbook Upgrade, nine batches of fifteen (writing finished). Archived.
+
 Needs: Chat (Session 465) to put batch one's 14 workbooks to Kain for signing, with the seven over-long locked titles. Nothing is signed.
 
 # DONE: workbook batch one, the 14 unsigned workbooks, written, checked, read and paid-checked (branch session 9129ff19, Session 465, 11 November 2026)

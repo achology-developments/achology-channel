@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** The batch is signed and built: Chat counted 198 signed workbook records, each with its built PDF in Built Workbooks. Import goes by FROM Chat BRIEF__Import_Every_Signed_Workbook_Since_The_86_To_The_Build_Site_S465. Drive filing waits on the signed one workbook per lecture map. Emerald's build tool fix landed (Code S510); its review build is Chat's, Session 468. Card: Workbook Upgrade, nine batches of fifteen (writing finished). Archived.
+
 Needs: nothing from Kain. Chat (Session 465) to note that the 22 workbooks crediting Kain's models are signed and built, and to keep the later pass list below.
 
 # DONE: the 22 workbooks with Kain's models credited, signed and built (branch session 9129ff19, Session 465, 12 November 2026)

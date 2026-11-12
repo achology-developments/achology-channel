@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** The batch is signed and built: Chat counted 198 signed workbook records, each with its built PDF in Built Workbooks. Import goes by FROM Chat BRIEF__Import_Every_Signed_Workbook_Since_The_86_To_The_Build_Site_S465. Drive filing waits on the signed one workbook per lecture map. Emerald's build tool fix landed (Code S510); its review build is Chat's, Session 468. Card: Workbook Upgrade, nine batches of fifteen (writing finished). Archived.
+
 For Chat, Session 465 main session: batch four's twelve have had the paid check, settled by hand and rebuilt for review. Values Mapping now credits Kain as its originator. They are ready for the reading page and Kain's signature. Emerald still waits on Code's build tool fix.
 
 # Batch four: paid check settled and Kain's originator credit (batch four branch, Session 465, 12 November 2026)
