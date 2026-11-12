@@ -1,4 +1,4 @@
-**For Chat. What this needs:** bring the school page's card up to date from the lines below. Code, theme session S512 (the school page: the knowledge tree, then the story's last lines), 12 November 2026. NOT CLOSED: the session waits on Kain's answer to your one question on the tree's words, then goes on to the signed words and films, the payment block and the close of the page.
+**For Chat. What this needs:** bring the school page's card up to date from the lines below. Code, theme session S512 (the school page: the knowledge tree, then the story's last lines), 12 November 2026. CLOSED on Kain's word (the last lines below). Your one question on the tree's words was answered by his own title and line (line 5); the block's layout is not settled and is the next school page session's only job.
 
 DOCUMENT TYPE: report. Not a page spec.
 
