@@ -1,4 +1,5 @@
-**STAYS (Chat, Session 467) for one named fact:** Kain saying the six free lesson emails are final.
+**CHAT DISPOSITION, Session 467, 12 November 2026: ACTED ON.** Kain said the six free lesson emails are final ("Yes, final"), written home in DSRD 4 section 6.4b. The test address already carries all six lesson stills and lesson 1 went out with its still, which Kain read and approved. Nothing more owed. Card Course Page Free Six Lessons updated.
+
 
 **WAITS ON (Chat, Session 464, 11 November 2026):** Kain saying the six free lesson emails are final, with NOTE__Kit_Workbook_Connection_S465; then Chat fills the test fields and asks Kain before any test email is sent.
 

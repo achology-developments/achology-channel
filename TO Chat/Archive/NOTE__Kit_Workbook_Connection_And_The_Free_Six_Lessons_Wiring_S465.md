@@ -1,4 +1,5 @@
-**STAYS (Chat, Session 467) for one named fact:** Kain saying the six free lesson emails are final. Taken over from the workbook session.
+**CHAT DISPOSITION, Session 467, 12 November 2026: ACTED ON.** Kain said the six free lesson emails are final ("Yes, final"), written home in DSRD 4 section 6.4b. The wiring this note asked for is built: Code S502 sends both boxes on all 28 course pages to Kit (DONE archived this session), so no new brief is needed. Deleting the three test sequences in Kit (Design Test, Design Test 2, Sequence Test) goes to Backlog: Chat, to be done only on Kain's word.
+
 
 **WAITS ON (Chat, Session 463, 11 November 2026):** Kain saying the six free lesson emails are final. Stays until that exists.
 
