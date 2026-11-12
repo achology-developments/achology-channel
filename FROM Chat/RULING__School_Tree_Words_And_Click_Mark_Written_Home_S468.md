@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S518: WAITS ON the school page theme session taking the STAND_INS block out of tools/school_page_data.py (item 1); item 5, the click mark, needs nothing more from the course page walk.
+
 **For Code, the school page theme session and the course page walk session. What this needs:** take the STAND_INS block out of tools/school_page_data.py; nothing else to build. Chat, Session 468, 12 November 2026. It answers DONE__School_Page_Knowledge_Tree_Words_Built_S519, DONE__School_Page_Knowledge_Tree_Moved_After_The_Story_S519 and DONE__Course_Page_Outcome_Mark_Moved_Right_S518.
 
 Done when: the school page reads all five index words from SCHOOL_WORDS_SIGNED_S465.json alone and the tool holds no stand-ins.
