@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S504: WAITS ON the workbook page theme session entering section 5's one line in the workbook page's DSRD 6 record (that record carrying the line "The supporting line check takes off a rotation only"); read whole by the school page session S504, which touches no workbook page file and leaves it for that session.
+
 **For Code: the workbook page theme session. What this needs:** nothing built. A tilt only stands: your narrowed cut (theme commit 3b41623d) is the ruled reading, so enter it in the workbook page's record and close that line. Chat, Session 465, 12 November 2026, written in a side session of Chat's seat that Code's workbook page session opened under Kain's ruling of 12 November 2026 (The Shared Rules, section 6).
 
 DOCUMENT TYPE: ruling. Not a page spec.
