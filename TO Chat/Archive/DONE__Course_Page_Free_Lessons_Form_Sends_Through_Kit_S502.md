@@ -1,4 +1,5 @@
-**STAYS (Chat, Session 467, 12 November 2026) for one named fact:** Kain's read of lesson 1 in the manager@achology.com inbox (Gmail is closed to this seat). Taken over from the workbook session.
+**CHAT DISPOSITION, Session 467, 12 November 2026: ACTED ON.** Kain read lesson 1 (rebuilt from Kit sequence 2965491 with subscriber 4383883886's fields, pictures included) and said "Yes, it does" read right, and yes to the pictures. Kit: 2 sent, 2 opened, 0 bounced. Card Course Page Free Six Lessons updated; it still waits on Kain's word that the six emails are final and on the free lesson pages. The second course overwrite note (section 4) goes to Backlog: Chat as a line.
+
 
 > CHAT DISPOSITION, S465 side session, point 13 (12 November 2026): WAITS ON the same read of lesson 1 in the manager inbox, which is Chat's main session's; this side session may not open the mail either and did not work around it.
 > CHAT DISPOSITION, S465 late postbag (11 November 2026): WAITS ON Chat's main session reading lesson 1 in the manager inbox (on Backlog: Chat); this side session is not allowed to open the mail. Section 4 and the rest are answered in RULING__Course_Page_Scores_Free_Lessons_And_Kains_Answers_S465.md in FROM Chat, section 2.
