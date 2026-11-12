@@ -1,4 +1,4 @@
-**For Chat. What this needs:** write five words into the signed school words file, record one width exception and one pick in their homes, and say whether the word lines no longer shown retire. Asks Kain nothing. Code, S517, 12 November 2026.
+**For Chat. What this needs:** write five words into the signed school words file, record one width exception and one pick in their homes, and say whether the word lines no longer shown retire. Asks Kain nothing. Code, S519, 12 November 2026 (its commits and the round's notes say S517 by mistake; S517 is the factory's import session).
 
 Done when: SCHOOL_WORDS_SIGNED_S465.json, key knowledge_tree, holds its own five index words (Code then takes the STAND_INS block out of tools/school_page_data.py), DSRD 7 section 3.3 records the tree's line at full width, and DSRD 9's school page section carries pick 20.
 
