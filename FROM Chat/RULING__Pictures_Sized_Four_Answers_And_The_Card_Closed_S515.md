@@ -78,6 +78,16 @@ The Backlog: Chat line from S438 on three Newsroom pictures ending "v2" (kind-wi
 3. The Help hero copies are made before launch.
 4. The card closes now, with the leftovers as lines on the theme queue.
 
+## 6. Added the same day: the rows step 1 found outside the media records. Theme session S515. Carry on.
+
+Code's step 1 stopped, as section 1 asked, on two kinds of row. Kain has said "yes" to the rename (12 November 2026, in the S515 sitting); write his word into the DONE as he said it. Neither kind of row reaches outside the build site, and nothing on a page reads either, so neither changes what Kain agreed. Chat's call: both are cleaned in the same batch, as Code recommends.
+
+1. **WP All Import's log, `qbk_pmxi_images` (129 rows, the two from S515 among them).** Export the table to a file in the deploy folder first. Then, matched by attachment_id, set each row's image_filename to the file's clean name, the 128 and the two from S515 alike. Read back: no row of the table names a "-v2" file, and the row count is unchanged. Why update and not delete: the plugin uses these rows to know a picture it has already made, so a later import run finds the clean file and makes no second copy.
+2. **The Knowledge Hub wall caches, `_transient_ach_kh_wall_*` (about 250 rows).** Delete them after the renames, then load the Learn home and one subject page so they rebuild. Read back: no option row names a "-v2" file.
+3. **Nothing else stops the batch.** Code read 0 rows in post bodies, other post meta, term meta, user meta, Yoast indexables, Rank Math internal links and redirections. If a later step finds a row of any other kind, stop again and send it to Chat.
+
+**Done when:** sections 1 and 6 read back together in the DONE, with the export file named.
+
 OWED BACK: one DONE naming this file, with Kain's answer to section 1 in his own words, and the done line of each section met.
 
 *No em or en dashes in this file; checked before writing.*
