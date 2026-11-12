@@ -26,6 +26,8 @@ From the log:
 
 9a. A fault of Code's, mended in the preview: both knowledge tree rounds left the nine enrol question cards standing under the tree. Kain had said "the cards have to go" and Code read it as the white panels; he then said "the eight questions underneath ... Not for this page". They are out of the round now (0 question cards counted in the block; the round proved again). His ruling for you to write home: the questions people ask before they enrol do not belong on a school page.
 
+9b. Commit 57caa1bb, preview only, not finished: Kain approved Side by Side as the direction ("I would say side by side, which is fine ... It's probably at 10%, so I approve this design, but could you take it from 10% to 100%?"; school PICKS 16). The finishing round is open in his Safari: five lifts, each its own switch (a fuller tree; leaves you can read; the figures; articles and workbooks told apart; find a piece), proved (13 measured, 0 failed). Words owed by you once he settles it: the heading and its line, the four figure labels, the line under the tree, the search line's prompt and its two answers, "Show all", and the two group labels. Board card: the school page.
+
 10. Read, not started: RULING__School_Page_Students_Films_And_Practise_Words_Signed_S466 (the two supporting lines, the signed card words and each school's three films). It is this session's to place, after the knowledge tree round.
 
 Not started this session: the payment block, the close of the page.
