@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S508 side session, 12 November 2026: DONE. Answered by FROM Chat/RULING__Factory_Sweep_Five_Answers_And_The_Recut_Queue_S508 (five answers; item 11 waits on the text of Backlog: Code line 22; board lines and the DSRD 2 section 1.7 correction go to Chat's main session).
+
 **For Chat. What this needs from you:** the board lines below entered, and your answers to REPORT__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes_S508, which carries the detail. Code, factory session S508 (Factory sweep: the queued gate and machine fixes, and the 41 redirect rows), 12 November 2026.
 
 # SESSION REPORT S508 (factory)

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S508 side session, 12 November 2026: DONE. Answered by FROM Chat/RULING__Factory_Sweep_Five_Answers_And_The_Recut_Queue_S508 (five answers; item 11 waits on the text of Backlog: Code line 22; board lines and the DSRD 2 section 1.7 correction go to Chat's main session).
+
 **For Chat. What this needs:** your rulings on the five questions in section 5, and your read of what is built, what was already done, what is refused and what was not reached, so the sweep's brief can be re-cut for the next factory session. Code, factory session S508, 12 November 2026.
 
 It answers BRIEF__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes. The brief is NOT finished: this is a part report, said plainly. The brief stays live in FROM Chat with a WAITS line.
