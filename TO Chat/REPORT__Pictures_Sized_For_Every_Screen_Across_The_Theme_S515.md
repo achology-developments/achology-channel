@@ -59,11 +59,17 @@ Measured on 16 pages, one of each kind touched plus the workbook and course page
 
 Picture bytes per page view, totals over the 48: **22,821 KB before, 20,778 KB after, 2,043 KB less.** That figure undercounts by 125 KB: the two renamed pictures' old addresses no longer answer, so the tool weighs them at nothing before and at their true size after (25.6 KB and 16.1 KB, three widths each). The fair saving is about 2,170 KB. The biggest single pages: the book note on a phone, 722 KB to 208 KB; the Learn home on a computer, 1,622 KB to 1,238 KB; the Rick Hanson article on a computer, 367 KB to 155 KB. The workbook, course, Help, tag and Testimonials pages are unchanged in bytes, as they should be (nothing of theirs was touched, or, on the tag page, its tiles already let the browser read their drawn width).
 
-Files added to the theme: 191 WebP copies, 3.1 MB in the repository and the zip.
+Files added to the theme: 191 WebP copies, 2.88 MB together (read from commit bfbe504f), in the repository and the zip.
 
 ## 5. The render proof
 
-RENDER_GOES_HERE
+Full page pictures of the same 48 page views, taken before any change and again after each ship, in WebKit with all motion stilled, compared pixel by pixel (a pixel counts as changed when any colour moves more than 24 of 255). A second untouched before pass was taken as a control: it differed from the first on 2 of 48 views (1,091 and 1,312 pixels at 390 on the subject page and the book notes list), which is the pages' own noise.
+
+- **41 of 48 identical** after 0.708.046, including every view of the workbook page, the course page, the Testimonials page, both Help pages, the tag page, the Learn home and the subject page. The workbook, thank-you, course and pricing pages' markup was also saved before and after: it differs only in the per-load form token and cookie banner settings, so the edits to the shared files left those four pages untouched.
+- **The 7 that differ, each looked at side by side:** the Resilient cover on the Rick Hanson article (three widths) and the book notes list's lead cover (two widths) show the same picture with only its edges different, because the browser now draws a WebP copy instead of the JPG. The Resilient copy's height rounds one pixel taller (384 to 385 at 240 wide), so the text below it moves down by that one pixel, which is the large count at 390. The Manifesto differs by 1 pixel at 1440 (its cover now the 420 copy) and 55 scattered pixels at 390, where no picture changed, within the control's noise.
+- After 0.708.047 the profile and book notes list pages were photographed again at all three widths: the profile is identical to before; the list differs only in the same cover edges.
+
+Nothing moved that a reader could see. The one pixel on the Rick Hanson page is named so it is not mistaken for nothing.
 
 ## 6. Two questions for Chat
 
