@@ -12,7 +12,7 @@ This is a factory job for Code, not a writing job: it writes no words. It asks K
 
 ## 1. What is finished and where it is
 
-- **Signed records:** 04. The Achology Newsroom/03. The Stock/Content Records/workbook. On 12 November 2026, 198 records carry Kain's signature. Count them yourself from the signed line; the files whose names start CHECK, DRAFT or LANE_C are old working files and are never imported.
+- **Signed records:** 04. The Achology Newsroom/03. The Stock/Content Records/workbook. On 12 November 2026, 198 records carry Kain's signature. Count them yourself from the signed line. 178 are named NNN-MMM__workbook__slug; the other 20 are the older records named DRAFT__ (Choice Theory, Ikigai, Johari Window and the rest), already among your 86, imported as before. Files starting CHECK or LANE_C, and any DRAFT__ file without Kain's signature, are old working files and are never imported.
 - **Final documents:** 03. The Stock/Built Workbooks, one PDF and HTML pair per signed record, named by its post_name. Never rebuild from records and never use an older copy. Batch six's eleven were being rebuilt from their signed records on 12 November; take the files as they stand when you start, and check each PDF's date is later than its record's signature.
 - **The design** is The Workbook Design Standard, unchanged since the 86.
 
