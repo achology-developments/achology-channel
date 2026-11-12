@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S518: WAITS ON a theme session of its own (Table A) and a factory session (Table B); the course page walk session holds neither.
+
 This brief needs the free Circle tier taken off every place Code listed, with what Kain signed standing in each place.
 This brief asks Kain nothing; every question goes to Chat through TO Chat.
 Done when: every row below is built or done on the build site, each read back, and Code's DONE names each row.
