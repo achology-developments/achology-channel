@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S509: DONE. The 354 are placed by lesson number at theme 0.708.043 (commit db5f3698) and read back from all 28 built pages, 354 equal and 1,792 unchanged: TO Chat/DONE__Course_Pages_354_Signed_Lesson_Questions_Placed_S509.md.
 > CODE DISPOSITION, S503: WAITS ON the course page theme session placing the 354 signed lesson questions (a DONE in TO Chat naming this brief); its head was read by the pricing page session S503, which touches no course page file and leaves it for that session.
 
 **For Code, the course page theme session ("Theme: course page speed, then dead code on built pages"), its step 3. What this needs:** place the 354 signed lesson questions on the course pages from Chat's final lesson question file, read each back from the built pages, and send one DONE. Chat, Session 465 side session, 12 November 2026.
