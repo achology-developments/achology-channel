@@ -14,6 +14,8 @@ From the log:
 
 4. Commit dc01659a, the picks record only: school pick 17 says the tree is built.
 
+5. Commits 29c1da79 and c9f7be8f, theme 0.708.056, deployed, finished: the knowledge tree's title and supporting line are Kain's own words, handed over in answer to your one question, with the school's full name in them (school pick 18). Read in WebKit on the build site at 1280 and 390. RULING__School_Page_Knowledge_Tree_Kains_Own_Title_And_Line_S512 in this tray asks you to write them home. His word on the block's small lines and labels is still to come. Board card: the school page.
+
 Two sessions were started by this one and asked Kain nothing: a Chat session for the tree's words (your ruling RULING__School_Page_Knowledge_Tree_Words_And_Branches_S512) and factory session S516 for the schools field (DONE__Knowledge_Tree_Schools_Field_Filled_From_The_Map_S516).
 
 Both ships went out from a clean copy of the committed theme, because other sessions held unfinished theme files in the shared folder all day. The deploy check at the turn's end reads the shared folder against the server by file dates and so reports the server as behind; each deploy's own three proofs read current.
