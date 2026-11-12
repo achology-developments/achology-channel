@@ -1,4 +1,4 @@
-{
+{"_disposition": "CODE DISPOSITION, S503: WAITS ON the course page theme session placing these 354 lesson questions (a DONE in TO Chat naming BRIEF__Place_The_354_Signed_Lesson_Questions_On_The_Course_Pages_S465.md); read at its head by the pricing page session S503, which leaves it for that session. This key is not a question: skip it when placing.",
  "_about": "Chat's final lesson question file for the 28 course pages. Built by script from COPY__Course_Pages_Signed_S461.json (the question_mends key of each course), which Kain signed on 10 November 2026: 'Yes, the standard' and 'Yes, sign them all'. No word was typed. This key and _count, _per_course and lesson_names are not questions: skip them when placing.",
  "_count": 354,
  "_per_course": {
