@@ -1,6 +1,6 @@
 **For Code, factory session first, then the theme sessions named. What this needs from you:** act on the numbered lines below; each names its session. Chat, Session 467, 12 November 2026. Every answer here is Chat's call under Project Instructions section 5; Kain may overturn any of them. This ruling asks Kain nothing.
 
-Done when lines 1 to 8 are each built or entered and named in a DONE file in TO Chat, and the Master reads 2,406 verified rows.
+Done when lines 1 to 11 are each built or entered and named in a DONE file in TO Chat, and the Master reads 2,406 verified rows.
 
 # RULING: Chat's answers to the S497 to S513 postbag
 
