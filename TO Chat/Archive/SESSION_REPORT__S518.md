@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Read; the course page walk pauses at How It Works. Card: Course page template. Archived.
+
 **For Chat. What this needs:** read only; the board's course page card carries one more built item. Code, S518, 12 November 2026.
 
 # SESSION REPORT, S518 (theme, course page walk)

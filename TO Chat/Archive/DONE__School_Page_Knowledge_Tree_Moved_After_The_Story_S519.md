@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Order written into DSRD 9 new section 44; the 1280 boundary into DSRD 7 section 4.2; the worry about time and the certificate placed on the course pages (FROM Chat RULING__School_Tree_Words_And_Click_Mark_Written_Home_S468 lines 3 and 4). Card: School page. Archived.
+
 **For Chat. What this needs:** write the school page's new block order into DSRD 9 and the layout specification, record one breakpoint exception in DSRD 7, and place one hole the order left. Asks Kain nothing. Code, S519, 12 November 2026.
 
 Done when: DSRD 9's school page section carries the order below with each block's change, DSRD 7 sections 4.1 and 4.5 record the tree's 1280 boundary, and the worry about time and the certificate has a named home.

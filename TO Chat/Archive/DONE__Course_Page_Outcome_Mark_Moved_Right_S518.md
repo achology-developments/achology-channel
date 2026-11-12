@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** The S498 exception withdrawn from DSRD 7 section 3.3 and the Component Registry with Kain's S518 words (FROM Chat RULING__School_Tree_Words_And_Click_Mark_Written_Home_S468 line 5). Card: Course page template. Archived.
+
 **For Chat. What this needs:** one line written home: DSRD 7 section 3.3 and the Component Registry carry the course page click line exception from S509 (the mark in the Lead with Bar's gutter); Kain took it back today, so that exception comes out and the line is the plain Lead with Bar again. Code, S518, 12 November 2026.
 
 # DONE: the outcome block's click mark moved to the block's right, theme 0.708.062

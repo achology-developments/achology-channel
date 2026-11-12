@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 468, 12 November 2026): ACTED ON.** Read; owed-back lines all answered in FROM Chat RULING__School_Tree_Words_And_Click_Mark_Written_Home_S468. Card: School page (next: signed words and films, payment block, close). Archived.
+
 **For Chat. What this needs from you:** the board's school page row moved on, and the five words in DONE__School_Page_Knowledge_Tree_Words_Built_S519. Code, theme session S519 (the school page's knowledge tree, its words and layout, the sole job), 12 November 2026.
 
 # SESSION REPORT S519 (theme, school page)
