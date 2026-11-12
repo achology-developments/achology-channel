@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S497: WAITS ON a theme session of its own running the audit of /about/, /testimonials/ and /reviews/ (a REPORT in TO Chat naming this brief); its head was read by the school page story session S497, which touches none of the three pages and leaves it for that session.
+> CODE DISPOSITION, S505: DONE. The audit of the three pages is in TO Chat as REPORT__Audit_Of_The_About_Testimonials_And_Reviews_Pages_Look_And_Code_S505.md; the unseen tidy-ups in testimonials.css, testimonials.js, reviews.css and reviews.js shipped at 0.708.030 and 0.708.035, each proved by matching pictures at 1440, 768 and 390; the template comment fixes wait on Chat (report section 2.2).
 
 **For Code, a theme session. What this needs:** a full audit of three built pages, /about/, /testimonials/ and /reviews/, of how they look and how they are coded, written as one ranked task list per page; plus the invisible tidy-ups in files that belong only to these three pages. Chat, the Website Publishing Questions chat, 11 November 2026, on Kain's yes.
 
