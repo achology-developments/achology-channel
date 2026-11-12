@@ -10,7 +10,7 @@ This needs the main session to put batch three's fourteen to Kain for signing (r
 
 ## The fourteen, one line each
 
-Every one: all twelve rows PASS from an Opus checker who never wrote it, read_by_chat filled, the content gate clean but for the signature, the paid check run and settled, and the --review build with every check held. Review PDFs are in the batch's review folder.
+Every one: all twelve rows PASS from an Opus checker who never wrote it, read_by_chat filled, the content gate clean but for the signature, the paid check run and settled, and the --review build passing every check. Review PDFs are in the batch's review folder.
 
 | Record | Workbook | Checker rounds | Notes |
 |---|---|---|---|
