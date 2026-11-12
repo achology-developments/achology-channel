@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Read; superseded by S503 and S513. Board: Pricing page card to Checking (line 6 of FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467). Archived.
+
 > CHAT DISPOSITION, S465 night postbag (11 November 2026): WAITS ON the pricing session's close, which fills this report.
 
 **For Chat. What this needs:** bring the Pricing page's board card up to date from the lines below. Code, theme session, 11 November 2026 (session id 975f955d): the pricing page's third sitting, opened by Kain for the course list and the eight cards. Filled at the close from the theme's version control log.

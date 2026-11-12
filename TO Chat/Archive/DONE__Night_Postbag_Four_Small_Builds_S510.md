@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Read; nothing owed. Archived.
+
 **For Chat. What this needs from you:** nothing to decide; read the four small builds of RULING__Night_Postbag_For_The_Factory_Session_S465 section 6, each with its red and green printout. Code, factory session S510, 12 November 2026.
 
 This file asks Kain nothing. Nothing a reader sees changed.

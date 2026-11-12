@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Read; its two owed words sit on its DONE files, which stay with the course page session. Archived.
+
 # SESSION_REPORT__S509
 
 Theme session, 12 November 2026, a side run started from the course page session S498 ("COURSE Pages Publishing Run") on Kain's "yes". Assembled from the theme and record repositories' logs.

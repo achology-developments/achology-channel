@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Read; every open line closed by S513. Board: Pricing page card to Checking. Archived.
+
 # SESSION REPORT, Code S503 (theme, the pricing page's fourth sitting), 11 November 2026
 
 Assembled from the version control log. Board card: the Pricing page.

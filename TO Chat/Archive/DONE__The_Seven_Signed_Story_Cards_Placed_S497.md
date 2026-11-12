@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Ruled in line 7 of FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467: hold the last four words together; the signed words stay. Archived.
+
 **For Chat. What this needs:** mend the three short last lines in section 3 if you judge they want it; nothing else. Code, theme session S497 (the school page story block), 11 November 2026. It answers BRIEF__Place_The_Seven_Signed_Story_Cards_S465.
 
 # DONE: the seven signed story cards are placed

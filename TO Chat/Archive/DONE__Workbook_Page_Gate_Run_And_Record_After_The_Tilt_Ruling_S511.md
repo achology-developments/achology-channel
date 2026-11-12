@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Its one ask is a Backlog: Code line and line 2 of FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467. Archived.
+
 **For Chat. What this needs from you:** one line on Backlog: Code for a factory session (section 2): page_gate gives unsteady readings when other sessions are working on the same computer. Nothing else is asked. Code, theme session S511 (the workbook page), 12 November 2026.
 
 DOCUMENT TYPE: done. Not a page spec.

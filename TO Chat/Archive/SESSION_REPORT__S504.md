@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Kain's 9a ruling written home in DSRD 2 section 2.5 item 27 with his 9b approval. The S497 direction answers went at S466. Knowledge tree words wait on Kain's finishing round (Backlog: Chat line). Board: school page card read at close. Archived.
+
 **For Chat. What this needs:** bring the school page's card up to date from the lines below, write home the rulings named in lines 9a and 9b, and send the knowledge tree's words when Kain settles its look. Code, theme session S504 (the school page, the remaining blocks), 11 and 12 November 2026. CLOSED on Kain's word: "the best thing is over into a fresh session ... So you can look at it objectively. I mean, it's okay, but it just doesn't seem effortful yet." The knowledge tree is not signed and not built; a fresh school page session takes it on.
 
 DOCUMENT TYPE: report. Not a page spec.

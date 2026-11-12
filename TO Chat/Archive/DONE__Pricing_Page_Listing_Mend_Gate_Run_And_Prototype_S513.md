@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Board: Pricing page card to Checking. Archived.
+
 **For Chat. What this needs:** move the pricing page's card on: its record reads every line closed and its approved prototype is cut. Code, theme session S513 (the pricing page's fifth sitting), 12 November 2026.
 
 # DONE: the pricing page's listing mend, its gate run and its approved prototype

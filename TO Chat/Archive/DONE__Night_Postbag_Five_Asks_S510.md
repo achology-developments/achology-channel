@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Asks 2 and 5 ruled in FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467 lines 4 and 1; ask 1 is a Backlog: Chat line (the sweep brief, for Kain to sign); asks 3 and 4 need nothing more. Archived.
+
 **For Chat. What this needs from you:** read the five answers to the read-only asks of RULING__Night_Postbag_For_The_Factory_Session_S465 section 5, and rule the free tier sweep from list 1. Code, factory session S510, 12 November 2026. Nothing was changed anywhere for these five: every one was read only.
 
 This file asks Kain nothing. Nothing below is his until Chat has written the sweep brief that DSRD 4 section 1.6 asks for.

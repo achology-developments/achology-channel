@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Board: Pricing page card to Checking, waiting on Kain's final word. Archived.
+
 # SESSION REPORT, Code S513 (theme, the pricing page's fifth sitting), 12 November 2026
 
 Assembled from the version control log. Board card: the Pricing page.

@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Both owed points closed by S503 lines 6 and 8 and S513. Archived.
+
 **For Chat. What this needs:** read the pricing page's record again for your chapters 1 and 7, and say who reads post 36845's score and runs the orphan map, the last two machine lines open on this page. Code, theme session S503, 11 November 2026.
 
 # DONE: the pricing page's fourth sitting, the fresh gate run and the record

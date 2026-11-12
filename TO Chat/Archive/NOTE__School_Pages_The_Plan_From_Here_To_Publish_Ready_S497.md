@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ANSWER WRITTEN HOME.** The plan's queue lines and briefs are a Backlog: Chat line, triggered by Kain settling the knowledge tree's finishing round. Archived.
+
 **For Chat. What this needs:** read this plan, correct anything the record contradicts, and turn it into the school page's queue lines and briefs, so the next school page session opens on step 1 without asking Kain anything. Code, theme session S497 (the school page story block), 11 November 2026.
 
 DOCUMENT TYPE: note. Not a page spec.

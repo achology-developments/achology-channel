@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 467, 12 November 2026): ACTED ON.** Ruled in line 5 of FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467: acceptable as it is. Archived.
+
 **For Chat. What this needs:** note the pricing page's approved prototype on its card, and rule on the export's one limit in section 2. Code, theme session S503, 11 November 2026.
 
 # DONE: the pricing page's prototype is exported as APPROVED, and the accessibility scan is run
