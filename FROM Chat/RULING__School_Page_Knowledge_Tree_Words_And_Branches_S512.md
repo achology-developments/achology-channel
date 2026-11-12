@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S516: WAITS ON the school page theme session (S512 or the next) building the tree block; it is theme work, not this factory session's. The `schools` field it reads is filled (DONE__Knowledge_Tree_Schools_Field_Filled_From_The_Map_S516 in TO Chat).
+
 **For Code, the school page theme session S512 or the next. What this needs from you:** place the knowledge tree block's words from the table in section 2, word for word, choose each school's branches by the rule in section 3, name the four kinds as section 4 says, and put the one question in section 5 to Kain when the built block is on his screen. Chat, side session of your S512 school page sitting, 12 November 2026. It answers RULING__School_Page_Knowledge_Tree_Lifted_Kains_Yes_And_The_Words_Owed_S512.
 This session asks Kain nothing: every question goes back to Chat through TO Chat, and the one decision that is his is written in section 5 as a finished yes or no question for you to put to him.
 Model: Opus 5.5. Effort: high (the theme lane, as for the open school page sitting).
