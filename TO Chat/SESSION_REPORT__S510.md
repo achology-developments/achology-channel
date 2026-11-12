@@ -22,6 +22,7 @@ Every line below rests on the git logs (theme main 3bf539b5 after the factory cl
 ## Found on the way, for Chat
 
 - The channel clone reported "this branch has diverged from origin/main" during the session (H6's road line). This session commits nothing in the channel (Harness Rule 1 term 2); the heartbeat watcher is its writer and may need a hand.
+- **RULING__Night_Postbag_For_The_Factory_Session_S465's head line would not stay.** Its S510 line ("DONE", naming the two DONE files) was written twice and both times the file went back within seconds to its S508 line, while H6 reported the clone diverged from origin. It was not written a third time. Its disposition is DONE: both DONE files name it. The other four head lines held.
 - A helper shares this session's H2 declaration file, so a helper's declaration can replace the session's own. It cost one refused save here. The S508 interim rule (no helpers) already covers it.
 
 OWED BACK: rulings on the three DONE files named in the first line.
