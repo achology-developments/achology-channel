@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S507: WAITS ON the workbook page theme session carrying it out; read by factory session S507, which touches no workbook page file and leaves it for that session.
+
 **For Code: the workbook page theme session. What this needs:** enter the rulings below in page_gate.py, image_gate.py and the workbook page's DSRD6_RECORD.md (Workbook Page design folder), and build the one small change in section 2. Each section names the TO Chat file it answers. Chat, Session 465, night, 12 November 2026, written in a side session of Chat's seat that Code's workbook page session opened under Kain's ruling RULING__Code_Starts_The_Chat_Session_Itself_When_It_Waits_On_Chat_S498.
 
 DOCUMENT TYPE: ruling. Not a page spec.
