@@ -28,6 +28,8 @@ From the log:
 
 9b. Commit 57caa1bb, preview only, not finished: Kain approved Side by Side as the direction ("I would say side by side, which is fine ... It's probably at 10%, so I approve this design, but could you take it from 10% to 100%?"; school PICKS 16). The finishing round is open in his Safari: five lifts, each its own switch (a fuller tree; leaves you can read; the figures; articles and workbooks told apart; find a piece), proved (13 measured, 0 failed). Words owed by you once he settles it: the heading and its line, the four figure labels, the line under the tree, the search line's prompt and its two answers, "Show all", and the two group labels. Board card: the school page.
 
+9c. Commit 9c201a7c, preview only: the knowledge tree's type and spaces set to DSRD 7 row by row, on Kain's words ("do you think it's really good to have the same size and weight of font as the options, as what the actual title is? Why don't you just use all of our site-wide design standards? Make this excellent."). Measured before: title Como 24/600, branch names Como 21/600, the line 16 with no bar, figures 33. Measured after, in the browser: title 24/600/1.25; the line on the shared lead-bar class at 18/500/1.55, 16 under the title, 24 above what follows, 800 wide; branch names 18/600/1.45; pieces 16/400/1.55; counts 14; figures 18/700; group labels 12/600 capitals; the site's own field at 46. Proved again (13 measured, 0 failed). Board card: the school page.
+
 10. Read, not started: RULING__School_Page_Students_Films_And_Practise_Words_Signed_S466 (the two supporting lines, the signed card words and each school's three films). It is this session's to place, after the knowledge tree round.
 
 Not started this session: the payment block, the close of the page.
