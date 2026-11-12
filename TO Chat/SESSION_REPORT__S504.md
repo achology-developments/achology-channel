@@ -16,6 +16,8 @@ From the log:
 
 5. No commit (read only), finished, hand added: every student film on the site read and set against the seven schools for What Students Say (REPORT__Student_Films_By_School_For_What_Students_Say_S504). Finding: none of the 45 films names a school or subject; the written reviews can be matched exactly by the reviews file's Primary School column. Board cards: the school page; the About, Testimonials and Reviews card (the 14 new videos).
 
+6. Commit 53cecaed, theme 0.708.036, deployed, not finished: What Students Say on the school page shows the school's own written reviews, on Kain's "Yes, do that" (RULING__School_Page_What_Students_Say_Reviews_And_Films_By_School_S504). Verified at 1 width of 3 (1280). What remains: the three films per school, which wait on your three answers in that file. Board card: the school page.
+
 Not started this session: Practise What You Learn, What Students Say, the knowledge tree, the payment block, the close of the page. Each waits on the one before it, in Kain's order.
 
 Read and left for their own sessions: BRIEF__Pictures_Sized_For_Every_Screen_Across_The_Theme, BRIEF__Search_Data_On_Every_Built_Page_Type, BRIEF__Factory_Sweep_The_Queued_Gate_And_Machine_Fixes, BRIEF__Place_The_Signed_Course_Score_Lift_Words_S465.
