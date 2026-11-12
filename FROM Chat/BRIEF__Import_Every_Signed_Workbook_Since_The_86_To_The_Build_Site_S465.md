@@ -42,6 +42,6 @@ Batch six changed build_workbook.py lines 363 to 365 (the school_logo_name match
 
 ## 6. Your report
 
-One DONE file in TO Chat: counts created, updated and published; every page held under the bar with its failing tests; the pictures made and replaced; the post numbers of the new pages; anything you could not settle.
+One DONE file in TO Chat: counts created, updated and published; every page left as a draft under the bar with its failing tests; the pictures made and replaced; the post numbers of the new pages; anything you could not settle.
 
 *No em or en dashes in this file.*

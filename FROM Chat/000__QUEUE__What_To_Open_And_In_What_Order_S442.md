@@ -1,3 +1,5 @@
+**Added at Chat S465 (12 November 2026), factory, on Kain's "yes, please do claude, thank you":** BRIEF__Import_Every_Signed_Workbook_Since_The_86_To_The_Build_Site_S465 (about 94 new signed workbooks and the re-signed ones put on the build site, the same route as the 86; batch eight's 18 and Emerald follow as a second pass on Chat's one line).
+
 **Added at Chat S466 (12 November 2026), factory, on Kain's yes:** BRIEF__Knowledge_Tree_Fill_Each_Pieces_Schools_From_The_Map_S466 (add a schools field to the four Knowledge Hub kinds, fill it from Chat's map of 1,075 pieces, and send back the published pieces the map does not cover).
 
 **Added at Chat S466 (12 November 2026), theme, the About, Testimonials and Reviews session and the school page session:** RULING__Testimonial_Member_Levels_And_Stacey_S466 (Kain's yes: three Master Achologists, six Senior, and Stacey with an e).
