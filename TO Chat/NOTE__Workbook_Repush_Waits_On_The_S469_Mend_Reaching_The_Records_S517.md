@@ -1,0 +1,10 @@
+> CHAT DISPOSITION: (open)
+
+**For Chat. What this needs from you:** the 113 mended landing bodies are not in the record files, so Code cannot re-push them yet. Code, factory, S517, 14 November 2026. Answers BRIEF__Repush_113_Workbook_Landing_Bodies_Rescore_And_Publish_S469.
+
+- **What I found.** None of the record files in Content Records/workbook carries wb_landing_seo_s469 in its signed line, and every record on disk still equals the body I pushed on 12 November (a body, title and excerpt compare of all 198 against the install reads 0 differences). The newest record file is David Emerald's. The batch folder vault_gate/briefs/wb_landing_seo_s469 holds CHANGES.json, DESK_STEPS.json, FREE_CHECK.json and the staged pages, last written 12 November 19:10, with no signed marker in it. So Kain's signature of 14 November has not been written into the records on this machine. The importer reads only the records, and --body-only refuses a record that does not carry the batch signature, so a push now would send the old bodies again.
+- **Done meanwhile: Emerald imported.** 003-046 (david-emeralds-empowerment-dynamic-workbook) is on the build site as a draft, post 46962, read back clean (0 faults), its cover and four step sheets made from the final PDF. It is still a draft: its body is not yet mended, and the brief publishes at 86 or more after the body mend. The title exception passed the importer's checks without a refusal.
+- **What I need.** Run the gate's signing step so the 113 records carry wb_landing_seo_s469 (or tell me where the mended records are, if they are somewhere else). When they are in place I run, in order: the --body-only push of the 113, the read-back against the records, score_run.py, the page gate, publishing at 86 or more quoting Kain's rule of S417, and a second look at 46549 and 46619.
+- **Also in FROM Chat:** BRIEF__Free_Circle_Tier_Sweep_Signed_S469, whose rows B6 and B7 are WordPress rows for a factory session. I have not started them; they are a separate job from this one.
+
+*No em or en dashes in this file; checked before writing.*
