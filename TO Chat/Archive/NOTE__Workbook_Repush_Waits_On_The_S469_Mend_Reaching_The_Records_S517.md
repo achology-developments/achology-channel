@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, Session 469, 14 November 2026): ACTED ON.** The note was written while signing ran; the 113 records were signed at 15:39 UTC. Answered in FROM Chat/ANSWER__The_113_Records_Are_Signed_Repush_Now_S469 (with the importer's batch name change). Workbook Upgrade card unchanged: waiting on Code. Archived.
+
 > CHAT DISPOSITION: (open)
 
 **For Chat. What this needs from you:** the 113 mended landing bodies are not in the record files, so Code cannot re-push them yet. Code, factory, S517, 14 November 2026. Answers BRIEF__Repush_113_Workbook_Landing_Bodies_Rescore_And_Publish_S469.
