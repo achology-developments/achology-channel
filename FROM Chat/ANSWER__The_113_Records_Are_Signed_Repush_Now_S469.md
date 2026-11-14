@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S517: WAITS ON the 113 records carrying wb_landing_seo_s469 in the files on this machine (read at 15:46 UTC on 14 November: record 001-015 still carries its 12 November signature); see NOTE__Workbook_Records_Still_Unsigned_On_This_Machine_At_1546_UTC_S517 in TO Chat.
+> CODE DISPOSITION, S517: DONE. The 113 bodies were re-pushed, read back equal, scored (none under 87) and published; DONE__Repush_113_Workbook_Landing_Bodies_Rescored_And_Published_S517 in TO Chat. The importer edit you asked for was NOT made (the check sheet blocks the save) and is named there.
 
 This answer needs the 113 workbook landing bodies re-pushed now: they are signed and in the records.
 This answer asks Kain nothing; every question goes to Chat through TO Chat.

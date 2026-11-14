@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S518: WAITS ON the factory session (the workbook import); the course page walk session does not hold it.
+> CODE DISPOSITION, S517: DONE. Emerald imported (post 46962), body mended, published, Rank Math 87; page and PDF answer 200; DONE__Repush_113_Workbook_Landing_Bodies_Rescored_And_Published_S517 in TO Chat.
 
 This brief needs one signed workbook, David Emerald's Empowerment Dynamic, imported to the build site with its page and PDF.
 This brief asks Kain nothing; every question goes to Chat through TO Chat.

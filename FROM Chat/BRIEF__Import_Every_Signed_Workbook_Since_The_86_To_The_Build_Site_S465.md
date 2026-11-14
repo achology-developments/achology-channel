@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S515: WAITS ON the factory session's DONE in TO Chat with the counts created, updated and published; read whole by the pictures theme session S515, which is not a factory session and leaves it untouched.
+> CODE DISPOSITION, S517: DONE. 198 signed workbooks plus Emerald are on the build site, all published (199 of 199) after the mend; DONE__Import_Every_Signed_Workbook_To_The_Build_Site_S517 and DONE__Repush_113_Workbook_Landing_Bodies_Rescored_And_Published_S517 in TO Chat.
 
 **For Code. What this needs from you:** put every signed workbook that is not yet on the build site onto it, re-push every workbook re-signed since your import of the 86, and report in TO Chat. Chat, Session 465, 12 November 2026, on Kain's "yes, please do claude, thank you".
 

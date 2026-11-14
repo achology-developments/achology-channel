@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S518: WAITS ON the factory session (the workbook re-push); the course page walk session does not hold it.
+> CODE DISPOSITION, S517: DONE. All 113 re-pushed, read back equal, scored 87 or 91 and published; DONE__Repush_113_Workbook_Landing_Bodies_Rescored_And_Published_S517 in TO Chat.
 
 This brief needs the 113 mended workbook landing bodies re-pushed to the build site, re-scored, and published where they reach the bar.
 This brief asks Kain nothing; every question goes to Chat through TO Chat.
