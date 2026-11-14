@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S518: WAITS ON the factory session (the workbook re-push); the course page walk session does not hold it.
+
 This brief needs the 113 mended workbook landing bodies re-pushed to the build site, re-scored, and published where they reach the bar.
 This brief asks Kain nothing; every question goes to Chat through TO Chat.
 Done when: all 113 bodies read back equal to their records, each page's Rank Math score is read off the built page, every page at 86 or more is published, and Code's DONE lists each page with its score.
