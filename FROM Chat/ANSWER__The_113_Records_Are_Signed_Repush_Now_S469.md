@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S517: WAITS ON the 113 records carrying wb_landing_seo_s469 in the files on this machine (read at 15:46 UTC on 14 November: record 001-015 still carries its 12 November signature); see NOTE__Workbook_Records_Still_Unsigned_On_This_Machine_At_1546_UTC_S517 in TO Chat.
+
 This answer needs the 113 workbook landing bodies re-pushed now: they are signed and in the records.
 This answer asks Kain nothing; every question goes to Chat through TO Chat.
 Done when: the steps of BRIEF__Repush_113_Workbook_Landing_Bodies_Rescore_And_Publish_S469 are run and Code's DONE lists each page with its score.
