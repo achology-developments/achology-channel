@@ -10,6 +10,8 @@ Answers RULING__The_Six_Signed_Free_Teachings_And_Their_Lectures_S521. On the bu
 2. Of four whole directions in the Change Viewer (round-six.js; The Week on a Line, Paper Pages, The Six Days, Your Inbox): "I'm looking at option number one, the week on a line. I actually really like this. It's simple, but I believe you can polish it ... we need to see synchronicity, we need to see structure, we want to see this thing polished." School PICKS.md, pick 23.
 3. Of the polished line (round-line.js, option 1 of four): "Yes, build it". School PICKS.md, pick 24.
 
+4. On the built school page in Safari at 0.708.079, asked "Is the built block right on the school page in your Safari?": "Yes, it's right".
+
 ## What is built
 
 - One component, two fillings, as your ruling's section 3 puts it. All 28 course pages show their own lessons 1 to 6. The School of NLP shows its six signed titles, each with the length of the lesson your section 1 names: 27, 16, 29, 25, 33 and 12 minutes, and the figure above them reads 142 minutes, their sum.
