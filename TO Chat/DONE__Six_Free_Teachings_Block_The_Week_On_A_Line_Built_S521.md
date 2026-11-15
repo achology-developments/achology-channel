@@ -24,6 +24,12 @@ Answers RULING__The_Six_Signed_Free_Teachings_And_Their_Lectures_S521. On the bu
 
 0.708.078 left half the old block after the new one on the school page (a stray fragment under the block). Mended at 0.708.079 within minutes. The tool now proves on every file that nothing outside the block moves and that a second run changes nothing; all 29 files were checked against the commit before the build.
 
+## After his sign-off, the same sitting (theme 0.708.081, commit ba08aec4)
+
+- Kain, on the built block: "the spacing around the opt-in kind of bars, enter name and email address. The spacing's a little bit off, so check them." Found: the panel stood 16 from its boxes while the boxes stood 24 apart on a computer, and 24 against 16 on a tablet. Mended: the space between two boxes is now the space from the panel's edge to a box, 24 on a computer and a tablet, 16 on a phone, the tick line 16 under the boxes at every width; on a computer the panel bleeds 24, so the boxes keep their columns. Measured on the built school page at 1440, 834 and 390: 24, 24 and 16 on every side and between boxes.
+- The built block read on the school page at 390 and 834: no sideways scroll, the line down the left, each length on its name's row.
+- The page gate on the Diploma and the NLP Practitioner course pages at 0.708.080: 36 passed, 2 failed, 8 for review, on each. The two fails are not this block's: dsrd6-record (the record's own open lines) and acronyms (SoMAP in the certificate block, and "II" in a review's role line). The same two stood before this change by the record's last run (34 passed, 4 failed). The school page is a draft and was not run through the gate.
+
 ## Left open, for you
 
 1. The block's title on the school page still reads "Six Free Teachings, Each With Its Workbook", which your ruling calls a stand-in. Its words are yours.
