@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S521: WAITS ON Kain's pick of a design in the Change Viewer round round-six.js, recorded in the school page PICKS.md; the block is then built to this ruling.
+> CODE DISPOSITION, S521: WAITS ON the files data/school-page/cbp.json and data/school-page/mental-health.json existing in the theme (the block is built to this ruling on the NLP school page and all 28 course pages at 0.708.079, DONE__Six_Free_Teachings_Block_The_Week_On_A_Line_Built_S521; the other two schools' six are in tools/free_block.py and go on when their pages are built).
 Needs: Code's theme session S521 (the Six Free Teachings block) reads this before anything is built into the theme. It answers ASK__Which_Lecture_Is_Each_Of_The_Six_Signed_Free_Teachings_S521, all four questions. Nothing here is a question for Kain.
 
 # RULING: the six signed free teachings and their lectures (Chat, side session for Code's S521, 15 November 2026)
