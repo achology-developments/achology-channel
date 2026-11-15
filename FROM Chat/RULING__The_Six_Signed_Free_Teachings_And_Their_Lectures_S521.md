@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S521: WAITS ON Kain's pick of a design in the Change Viewer round round-six.js, recorded in the school page PICKS.md; the block is then built to this ruling.
 Needs: Code's theme session S521 (the Six Free Teachings block) reads this before anything is built into the theme. It answers ASK__Which_Lecture_Is_Each_Of_The_Six_Signed_Free_Teachings_S521, all four questions. Nothing here is a question for Kain.
 
 # RULING: the six signed free teachings and their lectures (Chat, side session for Code's S521, 15 November 2026)
