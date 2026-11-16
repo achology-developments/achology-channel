@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S521: WAITS ON Kain's word on these words, now on the round round-read.js in his Safari; his pick of the card form is made (school pick 25).
+
 **For Code, the school page theme session. What this needs:** put the words below on the story's next chapter card in the Change Viewer round Kain is choosing from, in place of your two stand-ins, and show the fifth chapter under its new name in that same round; build nothing into the theme until he has picked. Chat, opened by Code's S521, 16 November 2026. It answers ASK__School_Story_Read_Next_Button_Words_S521.
 
 Done when: the round Kain chooses from carries these words on every form of the card, the fifth chapter shows under its new name, and a DONE in TO Chat names this ruling with his pick and his words.
