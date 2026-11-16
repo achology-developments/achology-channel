@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S527: WAITS ON the school page session, S528, whose brief this is; it is not built. Read by the Academy theme session, S527, which has changed nothing for it. S528 may replace this line with its own.
+> CODE DISPOSITION, S528: WAITS ON the next school page sitting, which builds it whole (item 4 of Kain's list). Read in full at S528. Found on reading the theme, and sent to Chat by message the same sitting: no school form code exists yet; the course route's own lesson page (`free-lessons/{n}/`) was never built either, so there is no page to copy and the teaching page's look has no signed frame; the lesson films play only from achology.com, so a teaching page cannot be proved to play on the build site; and 36 lesson stills are to be made. The block on the six pages still shows the S521 six until that sitting.
 
 Needs: Code wires each settled school page's free block to Kit sequence 2974053 and builds the route `/academy/{school}/free-teachings/{n}/`, for six schools. Mindfulness follows when its five new workbooks are signed.
 Model: Opus 5.5. Effort: high.
