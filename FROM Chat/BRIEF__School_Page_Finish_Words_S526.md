@@ -30,7 +30,20 @@ Chosen under DSRD 2 section 2.5 item 3, from Kain's signed workbooks, across as 
 - **Mindfulness:** The Nine Attitudes of Mindfulness (015-014); The Buddha’s Four Noble Truths (015-018); Facing Your Inner Critic (015-059); The Six Stages of Personal Reflection (015-066); The Five Levels of Human Experience (001-015); Discovering Your Core Identity (001-082). Only two of its courses have signed workbooks, so these are drawn again when more are signed.
 - **Personal growth:** Reflecting on Your Life Story (019-024); Where Your Emotions Come From (021-017); Playing the Reframing Game (024-032); Charting Your Pathway to Progress (025-004); The Elephant and the Rope (026-024); The Good Enough Principle (001-137).
 
-The block switches on on these four when their pages are built from data. Its form must not be wired to the course pages' Kit sequence; that wiring still waits on its own brief.
+The block switches on on these four when their pages are built from data. Its form is never wired to the course pages' Kit sequence; its own wiring is the next section.
+
+## The school form and Kit (added at your S526 ask: "wire the free teachings form to Kit")
+
+**What Kit holds today, read by Chat through the Kit connector, 16 November 2026:** no school sequence, no school tag and no school field. The only live sequences are Website Course Free Six Lessons (2965491), Website Workbook Delivery (2965204) and Website Workbook Follow-Ups (2965261), plus test sequences. So the site side can be built now and nothing can send yet.
+
+**The Kit side, Chat's technical call on DSRD 4 section 5's pattern (overturnable):**
+
+1. **One sequence for all seven schools,** "Website School Free Six Teachings", as form 6 runs one for all 28 courses. It does not exist. Never send a school sign-up into 2965491: its emails name a course and its fields would overwrite a reader's course lessons.
+2. **Two tags,** on DSRD 4's `Website` prefix: `Website School Free Teachings` on every sign-up, and `Website Free Teachings: {school key}` as the second (seven tags, keys as the words file: nlp, cbp, mental-health, life-coaching, person-centred, mindfulness, personal-growth). None exists yet.
+3. **The fields,** their own set, so a school sign-up never touches a reader's course fields: school_name (the full DSRD 5 name), school_link, school_cover (the school's square artwork), school_checkout (DSRD 4 section 1.2), school_price, free_teachings_link (the school page's own free teachings address, ending in "/"), and for n from 1 to 6: teaching_n_name (the signed title from `free_six`), teaching_n_still, teaching_n_workbook (the workbook page's address on the build site, read from its slug in `free_six_lessons`), teaching_n_minutes (read from the lesson key's lecture, as the block reads it). The first name goes in Kit's own first name field and the box's words in a field consent_text, as form 6 does (Kain's ruling, DSRD 4 section 5). None of these fields exists yet. Every value takes the non-breaking space between its last two words, as form 6's do.
+4. **A second sign-up** follows Chat's S469 rule for form 6: a reader still inside the sequence keeps their first school's fields, and only the second school's tag is added.
+
+**Who makes what.** You build the site side on course-kit.php's pattern, with the sequence and tag ids as constants left empty, so the form answers with its retry line and sends nothing until they land. **The nine emails are not written.** Chat writes them under the email check sheet, shaped as Kain's signed course sequence ("Yes, this shape": the six one a day, then the school, learning together, and the $7 first month), the shape put to Kain as part of their signing; Kain signs them; then Chat builds the sequence, the eight tags and the fields in Kit and sends you their ids in one NOTE. **The video each email links to** needs a page on the site where it plays, as the course free lesson pages do, and those pages still wait on Kain's frame (DSRD 4 section 6.4b). The school's free teachings page waits on the same frame; until it exists, free_teachings_link is a page to come, not a fault.
 
 ## The one question for Kain, when the NLP page is on his screen
 
