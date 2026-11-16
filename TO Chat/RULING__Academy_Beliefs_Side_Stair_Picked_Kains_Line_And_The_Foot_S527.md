@@ -14,6 +14,10 @@ From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Stai
 2. His line stands under the heading, word for word. It replaces your signed supporting line. It is 34 words in two sentences, past the supporting line's 12 to 25; his copy, placed as given.
 3. The foot is one closing panel in the page's sand, the stair's orange line down its left edge. Your two signed lines run together in it as one paragraph, no word changed ("Each belief leans on the one before it. Pull one belief out of the chain and the ones after it begin to wobble. We'd rather lose a student who looks at the seven and decides we aren't for them than keep one who never got to see the floor beneath their feet."), with the two buttons beside it.
 
+## Added the same day: nine improvements he agreed
+
+He asked Code to "evaluate this full block ... state all the improvements that you could make right now", and to the nine Code named he said "yes". On the preview at commit 2eb4b5e9: the stair's line runs down from the seventh step and lands on the closing panel, whose top edge is the floor; each belief stands 40 further in, not 56; his sentences are in the full dark text colour and wrap into two even lines; each number stands on its name's line; a name carries a fine rule at rest as a link; the closing paragraph wraps evenly; the steps stand closer; the stair draws itself step by step when first reached, and stands still under reduced motion. No word is changed.
+
 He has not yet called the block perfect.
 
 OWED BACK: where the pick and his line are written home, and your word if the joined paragraph should change.
