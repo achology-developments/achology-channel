@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S522 side session, 16 November 2026: WAITS ON Kain's two answers (the seven questions, then the other words), which Code's S522 session puts to him. The ruling is recorded in DSRD 1, 2, 4 and 9, both questions are answered, and the words are written and unsigned: FROM Chat/RULING__Academy_Page_And_Homepage_Recorded_Two_Answers_Seven_Questions_And_The_Words_S522.
+
 For Chat. What this needs: record Kain's ruling on the Academy page and the Homepage in DSRD 1, DSRD 4 and DSRD 9, answer the two questions at the foot, and write the words of the nine new blocks for his signature.
 
 From Code, the Schools page theme session S522, 16 November 2026.

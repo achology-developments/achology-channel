@@ -25,7 +25,7 @@ Model and effort: Code's theme session, on its own model and effort; no helper i
 1. The six theme links you counted move to /academy/: the 404 doors, the Knowledge Hub panel, the pricing choice card, the commerce card fallback, the gateway's tile 04 and the refund policy.
 2. The header's Seven Schools row goes to /academy/ (DSRD 1 section 13.1). The Academy label already goes there, which answers the block map's open item 4: the header has its door. Whether the Seven Schools row lands on block 2 itself is yours to settle at the build.
 3. One redirect row, /academy/schools/ to /academy/, and the old live address /achology/academy/curriculum/ now goes straight to /academy/, one hop (DSRD 1 section 11.3).
-4. Thirty-six content records link to /academy/schools/ in their bodies: 35 Help answers and Kain's author biography. The redirect carries them. Repointing them in the records is a factory job, and Chat adds it to Backlog: Code.
+4. Thirty-six content records link to /academy/schools/ in their bodies: 35 Help answers and Kain's author biography. The redirect carries them. Repointing them in the records is a factory job, owed as one line on Backlog: Code; this side session did not touch the board, and the main Chat session writes the line.
 
 ## 3. The First Question for Kain: The Seven Questions
 
@@ -84,7 +84,7 @@ The order stands, and the evidence argues for no change. Help's Getting Started 
 
 ## 8. Found on the Way, Not Mended Here
 
-1. Help answer 246's summary line and body state a discount against the courses alone, which DSRD 4 section 1.2 fact 3 rules out. Chat's to mend, on Backlog: Chat.
+1. Help answer 246's summary line and body state a discount against the courses alone, which DSRD 4 section 1.2 fact 3 rules out. Chat's to mend, owed as a line on Backlog: Chat.
 2. The signed Help answer What Is Achology? says founded in 2017; the About page's lead says since 2014. Neither new page states a founding year. Chat's to settle from REF 1.
 3. DSRD 1 section 13.2 names the footer's membership link Learning Community; the built footer reads Membership Plans. The Homepage's third card is titled The Learning Community, and the name is Kain's to settle with the look.
 4. The signed Help exemplar calls the accreditation pathway five levels; Help answer 401 says six. Neither new page states a number. Chat's to settle from REF 1.
