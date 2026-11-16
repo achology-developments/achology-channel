@@ -22,8 +22,18 @@ Kain: "do you really think these questions just need to be like 5, 6, 7 words lo
 
 Code showed four loose and sharp pairs and asked whether that was the bite he meant: "yes, that is the bite i mean - thank you claude".
 
+## Round four: 29 questions, a moment with a tension, 11 to 13 words. Not signed.
+
+Kain: "we're going to slow this down. You're tackling all these questions at once, and this isn't working ... One unit of questions at a time from here on in ... I'm not approving anything apart from one block of questions at a time ... NLP, why do people hear something different from what I meant to say? That question makes no fucking sense."
+
+Then, asking for another model: "I simply need 4 or 5 questions, ideally 7 lots of 5 questions that make sense, that people ask, that are just, they're generic, but they're not vague. They have a little bit of bite. The questions that pretty much all human beings would be able to relate to. They're not disempowered. They're literally just questions that most human beings would simply ask." And: "I don't want the questions rewritten. I want the questions to be literally thought through and just presented."
+
+## Round five: five a school from a fresh Opus 5.5 session; he saw the NLP five only. Not signed.
+
+Kain: "These questions they aren't real. These questions should sound like the private questions people genuinely ask themselves, but don't always know how to articulate ... This session's going nowhere ... We have two pages to literally map out and create a full plan for ... we need to restart here."
+
 ## Where it stands
 
-Round four, the 29 questions of RULING__Academy_Page_Questions_With_Bite_For_Kain_S522, was put to him the same day with the reading page open in his Safari. His answer is owed and comes back in its own file.
+No question is signed, and it is not settled that the block uses questions. The sitting is closed; see SESSION_REPORT__S522.
 
 *No em or en dashes in this file; checked before writing.*

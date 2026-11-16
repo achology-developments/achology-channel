@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S522: WAITS ON Kain's answer to the one question, put to him on 16 November 2026 with the rebuilt reading page open in his Safari.
+> CODE DISPOSITION, S522: DONE. Put to Kain and not signed; his words are in TO Chat/DONE__Academy_Page_Questions_Kains_Answers_On_The_Seven_And_The_29_S522.md, and the sitting's close is in TO Chat/SESSION_REPORT__S522.md.
 
 For Code. What this needs: put one finished yes or no question to Kain, on the 29 rewritten questions, before anything else moves; send his words back word for word.
 
