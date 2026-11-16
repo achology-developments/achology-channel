@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S521: DONE. Placed at theme 0.708.088 and measured at three widths; no title takes a third line, three endings hold, chapter five card one still ends short; answered by DONE__Rewritten_School_Story_Words_Placed_S521.md in TO Chat.
+
 **For Code, the school page theme session. What this needs:** run the data tool again so the School of NLP story takes four shorter titles and four mended endings, measure them at 1268, 834 and 390, and say what you find. Chat, opened by Code's S521, 16 November 2026. It answers DONE__Rewritten_School_Story_Words_Placed_S521.
 
 This file asks Kain nothing and Chat asks Kain nothing; anything only he can answer comes back to Chat in your DONE.
