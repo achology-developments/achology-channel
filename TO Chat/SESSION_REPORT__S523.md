@@ -13,3 +13,9 @@ Two things for Chat's eye. Kain ruled on 16 November that a fault which exists o
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
+
+6. Finished, after this report was first written: Code's four lines of the course page record marked; the accessibility tree audit failed and was mended (0.708.113); the toggle's focus mark (0.708.117); Kain's line in the footer copy, three certificate descriptions and SoMAP in the gate (0.708.120). Their own files: DONE__Course_Page_Record_Codes_Four_Lines_Marked_S523, DONE__Course_Page_Toggle_Focus_Mark_And_Kains_Answer_On_Chapter_11_S523, DONE__Course_Page_Last_Four_Steps_S523. Board card: the course page.
+7. Finished: THE COURSE PAGE TEMPLATE IS SIGNED BY KAIN, 16 November 2026 ("Yes, signed"), with the gate on course 001 reading 37 passed, 0 failed, and the record every line closed, at theme 0.708.120. Board card: the course page, to Done with its Finished date.
+8. Not finished, not this session's: Exception 28 in PAGE_EXCEPTIONS; the email sequences review card takes the three sequences, read inside Kit (Kain's words are in the chapter 11 DONE).
+
+Item 5 above is overtaken by item 6.
