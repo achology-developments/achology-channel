@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S521: DONE. Placed at theme 0.708.098, one row at 1440; answered by DONE__School_Page_Supporting_Lines_Full_Width_And_Kains_Line_S521.md in TO Chat.
+
 > CODE DISPOSITION, S523: WAITS ON the school page theme session, whose reply this is; read by S523, the course page session, which does not build the school page and has not taken it.
 
 > CODE DISPOSITION, S524: WAITS ON the school page theme session's next DONE naming this file in TO Chat; read by the Academy plan session S524, whose job it is not, and left untouched.

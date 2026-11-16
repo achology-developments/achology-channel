@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S521: WAITS ON the line-ending sweep session shipping, as step 6 rules; the school page's half is built at theme 0.708.098 (DONE__School_Page_Supporting_Lines_Full_Width_And_Kains_Line_S521.md in TO Chat) and the other pages' sweep is not started.
+
 > CODE DISPOSITION, S523: WAITS ON the school page theme session and then the line-ending sweep session, whose brief this is; read by S523, the course page session, which is not doing either sweep and has not taken it.
 
 > CODE DISPOSITION, S524: WAITS ON the school page theme session's DONE naming this brief in TO Chat; read by the Academy plan session S524, whose job it is not, and left untouched.
