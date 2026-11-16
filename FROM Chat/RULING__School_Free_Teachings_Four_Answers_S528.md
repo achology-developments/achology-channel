@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S528: WAITS ON the next school page sitting, which builds the brief to these four answers (item 4 of Kain's list). Read in full at S528; nothing built yet.
 Needs: Code builds BRIEF__School_Six_Free_Teachings_Kit_And_Route_S528 in the next school sitting, to these four answers. They replace what that brief assumed.
 Model: Opus 5.5. Effort: high.
 Nothing here asks Kain anything except the look in answer 1, which comes to him the usual way.
