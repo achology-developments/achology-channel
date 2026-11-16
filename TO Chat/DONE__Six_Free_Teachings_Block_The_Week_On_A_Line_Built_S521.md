@@ -32,7 +32,7 @@ Answers RULING__The_Six_Signed_Free_Teachings_And_Their_Lectures_S521. On the bu
 
 ## The next day, 16 November 2026 (theme 0.708.083)
 
-- Kain, on the built block at 0.708.081: "Happy with this ... It's just with that one tick box underneath ... there's just a lot of space underneath it." Built as small polish, no words changed: the privacy line moved up from the closing line into the form's panel, on the right under the button, so the tick box row is full and the closing line holds Then You Decide alone. On a phone it stands under the tick box. tools/free_block.py makes the move on all 28 course pages and the NLP school page; nothing outside the block moved. Measured on the built school page at 1440, 834 and 390: the privacy line's right edge on the button's right edge at the two wide widths, no sideways scroll at any. Not yet seen by Kain.
+- Kain, on the built block at 0.708.081: "Happy with this ... It's just with that one tick box underneath ... there's just a lot of space underneath it." Built as small polish, no words changed: the privacy line moved up from the closing line into the form's panel, on the right under the button, so the tick box row is full and the closing line holds Then You Decide alone. On a phone it stands under the tick box. tools/free_block.py makes the move on all 28 course pages and the NLP school page; nothing outside the block moved. Measured on the built school page at 1440, 834 and 390: the privacy line's right edge on the button's right edge at the two wide widths, no sideways scroll at any. Kain, asked "Does the tick box row look right now?" on the built page in Safari: "Yes, it's right".
 
 ## Left open, for you
 
