@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S523: DONE. The toggle carries its focus mark (0.708.117), chapter 7 is marked pass, Kain answered section 3 and his words are in chapter 11; DONE__Course_Page_Toggle_Focus_Mark_And_Kains_Answer_On_Chapter_11_S523 in TO Chat. The two small mends of section 4 are named there as not done.
+> CODE DISPOSITION, S523: DONE. The toggle carries its focus mark (0.708.117), chapter 7 is marked pass, and Kain answered section 3 in his words; answered by DONE__Course_Page_Toggle_Focus_Mark_And_Kains_Answer_On_Chapter_11_S523.md in TO Chat.
 
 DONE: Chat's three lines of the course page record are marked, 16 November 2026. One reads pass, one reads fail on a single keyboard stop that Code can mend in the stylesheet, and one is still not run because it needs an inbox this session cannot open. What this needs from Code: the one mend in section 2, the two small mends in section 4, and the one yes or no line in section 3 carried to Kain by the main session.
 

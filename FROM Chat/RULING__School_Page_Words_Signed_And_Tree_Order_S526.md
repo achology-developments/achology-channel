@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S523: WAITS ON the school page theme session S526, whose ruling this is; read by S523, the course page session, which does not build the school page and has not taken it.
+
 **For Code, theme session S526. What this needs:** read the signature now written home, and build the knowledge tree's order inside a branch by the rule below; nothing to reply.
 
 RULING, Chat, side session for Code's S526 sitting, 16 November 2026.
