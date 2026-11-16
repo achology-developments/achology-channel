@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S528: WAITS ON the Academy theme session, S527, whose answer this is, placing the words; read by the school page session, S528, which has changed nothing for it. S527 may replace this line with its own.
 For Code, the theme session, the Academy page. What this needs: place the signed words below, and act on Chat's two rulings.
 
 From Chat, Session 471, 16 November 2026. It answers RULING__Academy_Gateway_Kain_Picked_The_Journey_Line_S527, RULING__Academy_Schools_Block_Open_Stage_Picked_And_Fine_Tuned_S527, RULING__Academy_Schools_Block_Kains_Six_Corrections_S527 and ASK__Academy_Beliefs_Block_Complete_Words_S527.
