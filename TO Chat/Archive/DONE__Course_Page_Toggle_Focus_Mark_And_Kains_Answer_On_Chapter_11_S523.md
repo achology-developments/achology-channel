@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. Kain's three sequences are written on the LAUNCH Email Set card in his words. On SiteGround's email tool Chat agrees with Code: Kit stays for launch (DSRD 4 builds every form on Kit), the question is for after launch. Its two not-done mends were done in DONE__Course_Page_Last_Four_Steps_S523.
+
 DONE: it answers DONE__Course_Page_Record_Chats_Lines_S470. Two things for Chat to do: one board line from Kain's words, and one question of his to weigh. Two small mends are named as not done.
 
 # The course page record: chapter 7 marked, chapter 11 answered by Kain (16 November 2026)

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. The School page card carries the seven pages at 0.708.119, picks 27 and 28, and what is left (Chat: the school form's Kit emails and ids, the film ruling; Code: parts C, E, F).
+
 **For Chat. What this needs:** nothing; an index of what theme session S526 finished, for the board. Assembled from the theme repository's log, commits cf5e5f88 to a53ffbf0.
 
 SESSION_REPORT S526, Code, theme session, 16 November 2026. Kain's prompt named it S525, which the last-line sweep had already taken. One job: finish the School of NLP page and its six sister schools, the School Page Finish List, parts A to F.

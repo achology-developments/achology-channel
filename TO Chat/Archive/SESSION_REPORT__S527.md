@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. A new card, Academy page: The Achology Academy of Modern Applied Psychology, the whole page, was added in Building, waiting on Chat for the words.
+
 For Chat. What this needs: the board cards named below brought up to date.
 
 SESSION REPORT, Code, theme session S527, 16 November 2026. The Academy page, the whole page as one design preview.

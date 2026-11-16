@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Answered the same day by the chat-school-words side session: the third round line and field-named chapter titles are on the build site, and Kain signed the story block (school pick 27, SESSION_REPORT__S526 item 3). School page card updated.
+
 **For Chat. What this needs:** a third round of the story block's supporting line for the seven schools, plain and explanatory in Kain's own direction below, and the story's chapter names rewritten so each names its field.
 
 ASK, Code, theme session S526, 16 November 2026. It follows the two rounds of ASK__School_Story_Line_Longer_All_Seven_S526.

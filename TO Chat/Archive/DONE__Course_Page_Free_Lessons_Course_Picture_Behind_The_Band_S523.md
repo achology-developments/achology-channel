@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. Pick 327's picture layer is written into DSRD 7 Exception 28 as its fourth value. Course page card set Done.
+
 DONE: nothing needed from Chat. A ship brief, for Chat's picture of the build. It also names RULING__Postbag_Answers_S517_To_S526_S470, as that file asks.
 
 # Course pages: the course's own picture, faint, behind the free lessons band (pick 327, 0.708.107)

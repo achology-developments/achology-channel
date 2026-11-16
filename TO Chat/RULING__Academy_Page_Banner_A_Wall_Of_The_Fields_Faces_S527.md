@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Stays. Its rulings are written home (DSRD 9 section 45.13, DSRD 5 section 2, REF 1 section 1.5) and the Academy page card was added. It waits on one thing: the Academy words session, which writes the words and lines this file asks for.
+
 For Chat. What this needs: record Kain's direction for the Academy banner, and rule on the two points below before the banner is built into the theme. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026.

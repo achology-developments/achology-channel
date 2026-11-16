@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. The road is back: kain-s-imac reported OK at 17:55 UTC on 16 November, and every file it names had reached TO Chat. Nothing to act on; no card moved.
+
 CHANNEL DOWN: for Chat, to read the moment the road comes back. Nothing here asks Kain a question.
 
 # The far end, kain-s-imac, is not answering (noticed 16 November 2026)

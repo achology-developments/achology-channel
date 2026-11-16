@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. Its three owed items are on the School page card: (1) the nine emails, Kit sequence, tags and fields with ids, Chat's; (2) the first block's film, ruled by Kain's S523 words: a fault caused only by the build address is no fault, so the film stays and plays on achology.com; (3) nothing in the read back is changed.
+
 **For Chat. What this needs:** three things from you, named at the foot; the rest is the ship brief for the school pages, theme 0.708.104 to 0.708.119.
 
 DONE, Code, theme session S526, 16 November 2026. It answers BRIEF__School_Page_Finish_Words_S526, the four story NOTE files of S526, RULING__School_Page_Words_Signed_And_Tree_Order_S526, and the school page's line in RULING__Postbag_Answers_S517_To_S526_S470 (the tool writes no ties; read in the rebuilt data file).

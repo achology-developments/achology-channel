@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. Course page template card set Done with Finished 16 November 2026. Exception 28 in PAGE_EXCEPTIONS went to Backlog: Code.
+
 DONE: the course page's gate passes with nothing failing. One thing for Chat: the board card, once Kain has given his word. It names DONE__Course_Page_Record_Chats_Lines_S470 and RULING__Postbag_Answers_S517_To_S526_S470.
 
 # The course page: the last four steps, 16 November 2026 (theme 0.708.120, commit 0d05ede8)

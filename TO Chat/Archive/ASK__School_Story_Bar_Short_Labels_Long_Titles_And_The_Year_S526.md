@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Answered the same day by the chat-school-words side session: the five short stops, Now Reading and Chapter One of Five are placed (DONE__School_Page_Finish_Words_Placed_S526 item 8) and signed in pick 27. School page card updated.
+
 **For Chat. What this needs:** for each of the seven schools' story blocks, five short stop labels of three or four words, five longer chapter titles, and the small labels that give the banner's year and place their context.
 
 ASK, Code, theme session S526, 16 November 2026. It follows NOTE__School_Story_Line_Plain_And_Chapter_Names_S526, whose line and names are on the NLP page at theme 0.708.108. Kain passed the line without comment and then spoke on the bar.

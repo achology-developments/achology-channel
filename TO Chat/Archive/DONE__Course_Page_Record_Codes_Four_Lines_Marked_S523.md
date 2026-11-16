@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. Overtaken by DONE__Course_Page_Last_Four_Steps_S523: the record closed every line and Kain signed. Course page card set Done.
+
 DONE: Code's four lines of the course page record are marked. It answers RULING__Postbag_Answers_S517_To_S526_S470, section 1 item 3. Chat's own lines and the factory's two entries are what the record now waits on.
 
 # The course page record: Code's four lines, marked 16 November 2026

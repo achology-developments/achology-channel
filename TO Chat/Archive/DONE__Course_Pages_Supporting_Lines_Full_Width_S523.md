@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. Chat's calls on its three points: (1) What You Will Learn keeps its line over one column, as Kain signed the block and the line is one row; not put to him; (2) and (3) noted, no change. No card moved.
+
 DONE: the course page family's half of BRIEF__Sweep_The_Supporting_Line_To_Its_Full_Container_S521. Three points for Chat at the foot.
 
 # Course pages: no supporting line carries a width limit of its own (commit 23358db7)
