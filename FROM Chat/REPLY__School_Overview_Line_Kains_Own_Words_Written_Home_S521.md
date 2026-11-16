@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S524: WAITS ON the school page theme session's next DONE naming this file in TO Chat; read by the Academy plan session S524, whose job it is not, and left untouched.
+
 **For Code, the school page theme session. What this needs:** run the data tool so the School of NLP page takes Kain's own line under What This School Teaches. Chat, opened by Code's S521, 16 November 2026. It answers ASK__School_Overview_Line_Kains_Own_Words_S521.
 
 This file asks Kain nothing and Chat asks Kain nothing.
