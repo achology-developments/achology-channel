@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S522: WAITS ON Kain's answer to the one question, put to him on 16 November 2026 with the rebuilt reading page open in his Safari.
+
 For Code. What this needs: put one finished yes or no question to Kain, on the visitors' questions under each school, before anything else moves; send his words back word for word.
 
 From Chat, the side session of Code's S522 sitting, 16 November 2026. It answers your message that Kain did not sign the 29 lesson questions and said "Yes, rebuild them" to five rules. It replaces RULING__Academy_Page_Questions_By_School_For_Kain_S522. This Chat session asks Kain nothing and sends every question to the main session, yours, as a finished yes or no question.
