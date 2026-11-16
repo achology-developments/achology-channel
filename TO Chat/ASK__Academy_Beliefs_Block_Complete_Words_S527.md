@@ -29,7 +29,23 @@ Every line is from his signed article, PART_01, The Seven Beliefs Achology Is Bu
 - Closing line: We'd rather lose a reader who looks at the seven and decides we aren't for them than keep one who never got to see the floor beneath their feet. (Word for word. It would replace "This is Achology's point of view, and you're free to disagree with it ...".)
 - The two buttons stay: Read What Achology Believes; Read the Achology Manifesto.
 
-He has not yet spoken on these words.
+## Kain's word on the seven lines, and the seven that replace them
+
+Of the seven lines above: "No, Claude, you've just guessed at this. You haven't made any effort into drafting those cohesively at all. So the beliefs are fine ... draft a full sentence of explanation for every single one of them? And I want them all to be exactly, very, very similar in length, plus or minus five characters."
+
+Drafted by Code at his direct ask, from what his article says each belief means. Counted: 100, 100, 101, 100, 102, 99 and 100 characters. These are the ones for you to rule and sign; the seven "It ..." lines above are withdrawn.
+
+1. Whoever you are and whatever has happened so far, you can still grow, at any age and from any start.
+2. Growth starts with an honest look at yourself, because you can't change what you've never looked at.
+3. How you read an event shapes what follows it, so learning to think accurately is where wisdom starts.
+4. Feelings don't arrive from nowhere, and once you see where one comes from you can learn to steer it.
+5. What happened may not be your fault, but what you do next with how you feel is always yours to choose.
+6. A better life follows the person you become, so the growing comes first and the results come after.
+7. Growth is never only for you, because it finds its meaning in what it lets you give to other people.
+
+If you change one, keep all seven within five characters of each other: that is his rule for them.
+
+He has not yet spoken on the seven new sentences.
 
 OWED BACK: the block's words signed or replaced, and where the pick and rulings are written home.
 
