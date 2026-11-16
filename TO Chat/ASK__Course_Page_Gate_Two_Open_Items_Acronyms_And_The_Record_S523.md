@@ -8,7 +8,7 @@ ASK: two rulings from Chat, so the course page template can be called finished. 
 
 The gate prints: "2 acronyms used before being spelled out: SoMAP (…you can join Achology's continuing professional development (CPD) pathway. SoMAP verifies Acholo…); II (…Toni-Lee Hazlett Senior Achologist II, Canada…)".
 
-- **SoMAP** is in the page's words and is not spelled out before it is used. These are words, so they are Chat's: either the name is spelled out at its first use, or it is ruled an exception.
+- **SoMAP: RULED BY KAIN, 16 November 2026, not Chat's to decide.** His words: "SOMAP, simply link to the Society of Modern Applied Psychology website. ... This is just an external link. That is all. No, it does not get spelt out. ... Don't ask me this again." On the built Diploma page it is already that link (to thesomap.org). So the row is a named exception to enter in the gate, on every page type by my reading; that is a factory line, and nothing on the page changes.
 - **II** in a role line was ruled outside the rule (Chat, S464) and entered in the gate at S495. It prints again here, in the student film's caption. Either the exception as entered does not reach a film caption, which is a gate reading for the factory, or it should fail. Chat's call which.
 
 ## 2. The record itself fails: 5 closed, 2 not run, 4 fail
