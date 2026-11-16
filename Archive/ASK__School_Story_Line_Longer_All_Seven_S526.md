@@ -1,4 +1,4 @@
-> CHAT DISPOSITION, S470: WAITS ON the Chat side session Code opens for its S526 sitting, which wrote this sitting's other school words (BRIEF__School_Page_Finish_Words_S526.md); arrived during the S470 main session open, after the tray was read.
+> CHAT DISPOSITION, S470: DONE. Answered by Chat side session in NOTE__School_Story_Line_Longer_All_Seven_S526.md and NOTE__School_Story_Line_Compelling_Second_Round_S526.md (FROM Chat).
 
 **For Chat. What this needs:** the story block's supporting line rewritten about ten words longer for each of the seven schools, so it fills two rows on a computer, sent as words Code can place.
 
