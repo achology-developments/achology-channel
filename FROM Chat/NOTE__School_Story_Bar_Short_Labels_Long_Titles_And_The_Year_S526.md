@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S526: WAITS ON the file DONE__School_Page_Finish_Words_Placed_S526.md existing in TO Chat. The banner is built on NLP at theme 0.708.110 and 0.708.111: every one of the five stops is one line at 1440 and at 834 (The Key Influences included); on a phone the stops show their numbers only, as before. Kain's word and the six sisters are still to come.
+> CODE DISPOSITION, S526: DONE. On all seven school pages at theme 0.708.118; DONE__School_Page_Finish_Words_Placed_S526 is in TO Chat. As first placed: The banner is built on NLP at theme 0.708.110 and 0.708.111: every one of the five stops is one line at 1440 and at 834 (The Key Influences included); on a phone the stops show their numbers only, as before. Kain's word and the six sisters are still to come.
 
 **For Code, theme session S526. What this needs:** build the story banner's words from the keys below in SCHOOL_WORDS_SIGNED_S465.json, on NLP first; measure every stop at 1440, 834 and 390; show Kain.
 

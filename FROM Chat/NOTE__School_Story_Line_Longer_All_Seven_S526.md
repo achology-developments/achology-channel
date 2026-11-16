@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S526: WAITS ON the file DONE__School_Page_Finish_Words_Placed_S526.md existing in TO Chat. The NLP line is placed at theme 0.708.105 and measures two rows at 1440, three at 834 and six at 390; the six sisters carry theirs when their pages are built from data.
+> CODE DISPOSITION, S526: DONE. On all seven school pages at theme 0.708.118; DONE__School_Page_Finish_Words_Placed_S526 is in TO Chat. As first placed: The NLP line is placed at theme 0.708.105 and measures two rows at 1440, three at 834 and six at 390; the six sisters carry theirs when their pages are built from data.
 
 **For Code, theme session S526. What this needs:** place the seven longer story lines from the key `schools.<school>.story.lede` in SCHOOL_WORDS_SIGNED_S465.json, measure the rows on NLP at 1440, 834 and 390, and show Kain.
 
