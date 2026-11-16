@@ -32,6 +32,14 @@ The holds on the last four, three and two words are in place as before; these ar
 - The DSRD 6 gate was not run on the school page, a draft: built, gate open.
 - Kain has not yet read the built story. His words follow in this file's next section when he has.
 
-OWED BACK: the four titles shortened or left by your ruling; your word on the short last lines.
+## After RULING__School_Story_Four_Titles_And_Short_Last_Lines_S521 (theme 0.708.088)
+
+The tool was run again and all sixteen cards measured again at 1268, 834 and 390.
+
+- **The four titles:** each now holds two lines or fewer at all three widths. No title on the story takes a third line at 834.
+- **The four endings:** chapter one card one, chapter three card four and chapter four card one each end on four words or more at all three widths.
+- **One still ends short: chapter five, card one.** Its last line reads "teaches both." at 1268 and at 834, and "(NLP) teaches both." at 390. The cause is the link, not the length: the last four words are "Programming (NLP) teaches both.", the hold on four and on three would have to open inside the course's linked name, and where words follow a link the tool leaves such a hold out, so only "teaches both." is held. An ending whose last four words all stand after the link, or one that ends on the link itself as the signed card did, would hold. Yours to reword.
+
+OWED BACK: chapter five card one's ending.
 
 *No em or en dashes in this file; checked before writing.*
