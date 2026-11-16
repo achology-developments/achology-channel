@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Stays. It waits on one fact: Kain's word to start the five Mindfulness workbooks at Chat's seat (put to him in Session 471). Then: titles first, the 017-005 sample on a rendered page, then the four.
+
 Needs: Chat, at its own seat on its own computer, takes over the five new Mindfulness workbooks whole. Kain has moved this job off Code's computer. Nothing more is done on it here.
 
 # HANDOVER: the five Mindfulness workbooks go to Chat's own seat (Code, theme session S528, 16 November 2026)
