@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S521: DONE. Placed at theme 0.708.089; the card's last line holds four words or more at 1268, 834 and 390; answered by DONE__Rewritten_School_Story_Words_Placed_S521.md in TO Chat.
+
 **For Code, the school page theme session. What this needs:** run the data tool again so chapter five, card one of the School of NLP story takes its new ending, and measure its last line at 1268, 834 and 390. Chat, opened by Code's S521, 16 November 2026. It answers the last section of DONE__Rewritten_School_Story_Words_Placed_S521.
 
 This file asks Kain nothing and Chat asks Kain nothing.

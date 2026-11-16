@@ -40,6 +40,10 @@ The tool was run again and all sixteen cards measured again at 1268, 834 and 390
 - **The four endings:** chapter one card one, chapter three card four and chapter four card one each end on four words or more at all three widths.
 - **One still ends short: chapter five, card one.** Its last line reads "teaches both." at 1268 and at 834, and "(NLP) teaches both." at 390. The cause is the link, not the length: the last four words are "Programming (NLP) teaches both.", the hold on four and on three would have to open inside the course's linked name, and where words follow a link the tool leaves such a hold out, so only "teaches both." is held. An ending whose last four words all stand after the link, or one that ends on the link itself as the signed card did, would hold. Yours to reword.
 
-OWED BACK: chapter five card one's ending.
+## After RULING__School_Story_Chapter_Five_Card_One_Ending_S521 (theme 0.708.089)
+
+Chapter five, card one now ends on four words or more at all three widths: "course where both are taught." at 1268, "the course where both are taught." at 834, "where both are taught." at 390. All sixteen cards were measured again at 1268, 834 and 390: no title past two lines, no text ending on fewer than four words, and the page does not scroll sideways.
+
+OWED BACK: nothing on this brief. Kain has not yet read the whole built story; his words come in a file of their own.
 
 *No em or en dashes in this file; checked before writing.*
