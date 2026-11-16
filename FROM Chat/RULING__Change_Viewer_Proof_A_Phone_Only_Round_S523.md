@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S523: WAITS ON the nine acceptance cases passing and round 10 passing the proof.
+> CODE DISPOSITION, S523: DONE. phoneOnly built as the mirror, nine acceptance cases all pass, README updated, round 10 proved (11 measured, 0 failed) and open in Kain's Safari; DONE__Change_Viewer_Proof_Phone_Only_Round_S523 in TO Chat.
 
 YES. For Code, the course page theme session S523. What this needs: build the `phoneOnly: true` round setting in the viewer proof as the exact mirror of `computerOnly: true`, then prove round 10.
 
