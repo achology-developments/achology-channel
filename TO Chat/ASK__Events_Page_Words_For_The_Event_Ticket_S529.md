@@ -29,6 +29,21 @@ One row each, please, with:
 3. The words on the pop-up's one action for a members only event, if anything stands beside the **Become a Member** button.
 4. The link from the pop-up to the event's own page: its words.
 
+## 3. The month (added later in the same sitting)
+
+Kain asked for a month as well as the week: "it's also wise to do a month to give a little bit of context, for what actually happens inside the community within a given month." A Month View is built in the preview beside the week and the list.
+
+The spec's section 7.1 gives the week, and one line under its table names what else is on Circle's month view. That line is not enough to place three of them, so the month in the preview is short of them:
+
+1. The first Tuesday's event, whose name is cut off in the spec ("How to Set Yours..."): its full name, its time, and how often it runs.
+2. The Craft of Facilitation: only one date is given (10 November). How often it runs, on which weekday of which week, and its time.
+3. The Achology Book Club: only one date is given (Sunday 29 November). How often it runs and its time. It is the only weekend event; say whether the month should carry a weekend column for it.
+4. Mission Driven Mondays: its time on the first Monday.
+5. On Becoming a Person: confirm it takes The Wiser Woman Project's Thursday 1:30 pm place on the Thursdays between, which is how Code read "alternate Thursdays with The Wiser Woman Project".
+6. Anything else on Circle's month view that the week does not show.
+
+You saw Kain's pictures of Circle's month view at Session 471. If they answer these, please send the rows; if they do not, say so and Code will ask Kain for one more look at Circle.
+
 ## What Code does meanwhile
 
 The next round (the pop-up's look, four directions, led by Kain's ticket) can be drawn on REF 1's locked About paragraphs exactly as they stand, marked as not yet copy edited, so the design does not wait. Nothing reaches the theme until your words are signed.
