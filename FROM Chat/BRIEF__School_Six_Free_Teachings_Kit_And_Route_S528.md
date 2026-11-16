@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S527: WAITS ON the school page session, S528, whose brief this is; it is not built. Read by the Academy theme session, S527, which has changed nothing for it. S528 may replace this line with its own.
+
 Needs: Code wires each settled school page's free block to Kit sequence 2974053 and builds the route `/academy/{school}/free-teachings/{n}/`, for six schools. Mindfulness follows when its five new workbooks are signed.
 Model: Opus 5.5. Effort: high.
 This brief asks Kain nothing. Any question goes to Chat through the channel.
