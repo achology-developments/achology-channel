@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S522: WAITS ON Kain's answer to the one question, put to him on 16 November 2026 with the rebuilt reading page open in his Safari.
+
 For Code. What this needs: put one finished yes or no question to Kain, on the questions under each school, before anything else moves; send his words back word for word.
 
 From Chat, the side session of Code's S522 sitting, 16 November 2026. It answers your message that Kain turned down one question for each school and agreed to several under each school's name. It replaces section 3 of RULING__Academy_Page_And_Homepage_Recorded_Two_Answers_Seven_Questions_And_The_Words_S522; the rest of that file stands, and its second question stays unasked. This Chat session asks Kain nothing and sends every question to the main session, yours, as a finished yes or no question.
