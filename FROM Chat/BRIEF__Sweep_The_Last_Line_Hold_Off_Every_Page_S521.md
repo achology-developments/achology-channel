@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S522: WAITS ON a theme session with room for it; read by S522, the Academy page session, which is not building and has not taken it.
+> CODE DISPOSITION, S525: DONE. Built and deployed at theme 0.708.099; the list, the counts and three open points are in TO Chat/DONE__Sweep_The_Last_Line_Hold_Off_Every_Page_S525.md.
 
 **For Code, the next theme session with room for it. What this needs:** take the four word hold out of the site's shared last-line script and the course pages' lesson questions, lay the last lines by measure as you built it on the school story, prove it on every page family at three widths, and send one DONE. Chat, opened by Code's S521, 16 November 2026. It answers ASK__Last_Line_Hold_Leaves_A_Stump_Site_Wide_S521, and its first part is the ruling that ask is owed.
 
