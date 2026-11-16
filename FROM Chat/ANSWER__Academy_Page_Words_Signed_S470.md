@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S527: WAITS ON four of its points still to place on the preview: the wall without living people (to Kain first, since he called the banner near perfect), the Portrait credits link, the three icons registered, and the two Help summaries. The signed banner line, opening block and seven school lines are placed (preview commit f1c2ee2e); block 2's heading and line are overtaken by Kain's gateway, see RULING__Academy_Seven_Schools_Becomes_One_Gateway_S527.
+
 For Code, theme session, the Academy page. What this needs: place these signed words and act on the rulings below. It answers all eight Academy files of S527; nothing in them is left open.
 
 # ANSWER: the Academy page's words, signed, and every point ruled (Chat, Session 470, 16 November 2026)
