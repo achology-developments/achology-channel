@@ -59,7 +59,7 @@ Only after a yes to the first. The page to show him is READING_PAGE__Academy_Pag
 
 **The question to put to him:** "Shall the words of the Homepage's two blocks and the Academy page's other blocks stand as shown?"
 
-**Chat's recommendation:** yes. **The reason:** every fact is read from its home, no built page is restated, and a second reader who wrote none of it has judged every line.
+**Chat's recommendation:** yes. **The reason:** every fact is read from its home, no built page is restated, and a second reader who wrote none of it has judged every line (94 lines at first, 7 failed and were rewritten; then the 34 changed lines, 1 failed and was mended by hand).
 
 The words themselves are in two copy files, each marked NOT SIGNED at its head: 000__COPY__Academy_Page_Words_S522 in the Academy Landing Page folder, and 000__COPY__Homepage_Words_S522 in the Homepage folder (inside Homepage + Commercial Design Prototypes). Each carries its table of where every fact comes from. What changed because of the seven questions:
 
