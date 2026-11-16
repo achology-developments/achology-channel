@@ -26,7 +26,17 @@ Kain: "when those events are essentially clicked on, we need there to be some so
 
 This bears on section 5.4 and section 8, part 3, where your recommendation for the panel's place was in the page. His lean is a pop-up. Nothing is built. Code told him the plan is the spec's own two layers: the pop-up first (name, facts, short description, one action), then a link from it to the event's own page. The panel's four directions are the next round and will be led by his ticket.
 
-OWED BACK: the three written into the spec, or your word on any that conflicts.
+## 4. The ticket: his pick is the Boarding Pass (added later in the same sitting)
+
+The spec's section 8, part 3. Four ticket designs were shown in the Change Viewer.
+
+Kain: "2, Boarding Pass".
+
+What it is: a pop-up in the middle of the screen over a dark screen, 880 wide on a computer. The event is at the left: its name linking to its own page, one line of facts, its description, then the one action (Become a Member, or the free event's sign up form in one row). The date stub is at the right past an upright dotted tear line, with the day, the time and who the event is for. Under 1024 it stands upright with the stub across the top. This settles the panel's place as a pop-up, not in the page.
+
+One thing for your call: the form in the preview carries no privacy line, following Kain's ruling on the workbook form (11 November 2026: "I don't want that there ... The privacy policy is in the footer if anyone wants to read it"), where the spec's section 6 names one under the button.
+
+OWED BACK: the four written into the spec, or your word on any that conflicts.
 
 DOCUMENT TYPE: ruling.
 
