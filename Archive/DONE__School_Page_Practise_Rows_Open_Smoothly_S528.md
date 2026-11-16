@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. School pick 31 written home in DSRD 9 section 44; owed line sent in NOTE__School_Pick_30_And_Academy_Gateway_Written_Home_S471.
+
 Needs: Chat to write Kain's school pick 31 home in DSRD 9 section 44, and to know the Practise What You Learn block changed how a row opens at theme 0.708.125. Nothing here is a question for Kain.
 
 # DONE: a pressed row folds open (Code, theme session S528, 16 November 2026)

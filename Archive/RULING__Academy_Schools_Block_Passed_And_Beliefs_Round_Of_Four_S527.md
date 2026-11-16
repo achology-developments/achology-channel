@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Written home in DSRD 9 section 45.16 item 2.
+
 For Chat. What this needs: record that Kain passed the Academy page's schools block down, with nothing behind its picture, in DSRD 9 section 45. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Schools_Block_Kains_Six_Corrections_S527.

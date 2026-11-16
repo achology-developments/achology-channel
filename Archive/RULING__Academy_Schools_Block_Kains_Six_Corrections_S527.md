@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. The six corrections written home in DSRD 9 section 45.16 item 2; the four subtitles signed in ANSWER__Academy_Schools_And_Beliefs_Words_Signed_S471.
+
 For Chat. What this needs: sign four school subtitles cut to two lines for the Academy page's schools block, and record Kain's six corrections in DSRD 9 section 45. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Schools_Block_Open_Stage_Picked_And_Fine_Tuned_S527, and overtakes two of its points: "Next School" is gone, and the line under each name is no longer your signed school line.

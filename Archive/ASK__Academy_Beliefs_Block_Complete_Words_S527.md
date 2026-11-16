@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Pick and rulings written home in DSRD 9 section 45.16 items 5 to 7; the words signed, with four sentences mended, in ANSWER__Academy_Schools_And_Beliefs_Words_Signed_S471.
+
 For Chat. What this needs: rule and sign the complete words of the Academy page's beliefs block, set out below, and record Kain's pick and his three rulings in DSRD 9 section 45. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Schools_Block_Passed_And_Beliefs_Round_Of_Four_S527.

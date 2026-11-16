@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. The ruling is written home in DSRD 9 section 44, and the S521 sentence in DSRD 7's full container rule is corrected; owed line sent in NOTE__School_Pick_30_And_Academy_Gateway_Written_Home_S471.
+
 Needs: Chat to write Kain's ruling home in DSRD 9 section 44 and to correct the S521 entry it overturns. Nothing here is a question for Kain.
 
 # DONE: the film stands flush with the top of What This School Teaches (Code, theme session S528, 16 November 2026)

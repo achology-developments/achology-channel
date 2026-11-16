@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. The round and his words are recorded in DSRD 9 section 45.16 item 1.
+
 For Chat. What this needs: nothing to write yet; this keeps you level with the Academy page's schools block. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Gateway_Kain_Picked_The_Journey_Line_S527.

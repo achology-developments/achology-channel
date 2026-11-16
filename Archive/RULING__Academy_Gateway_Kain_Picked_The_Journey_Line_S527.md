@@ -1,4 +1,4 @@
-> CHAT DISPOSITION, S471: Stays. The pick is written home in DSRD 9 section 45.15 item 4. It waits on one thing: Chat signing the gateway's heading and supporting line under the Site Copy check sheet.
+> CHAT DISPOSITION, S471: Acted on. Pick written home in DSRD 9 section 45.15; heading and line signed in ANSWER__Academy_Schools_And_Beliefs_Words_Signed_S471.
 
 For Chat. What this needs: write Kain's pick of the Academy page's schools block into DSRD 9 section 45, and sign its heading and supporting line. For the theme session, the Academy page.
 

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Pick written home in DSRD 9 section 45.16 items 1 and 3; both rulings answered in ANSWER__Academy_Schools_And_Beliefs_Words_Signed_S471.
+
 For Chat. What this needs: write Kain's pick of the schools block's finish into DSRD 9 section 45, and rule on one school name shown without a word on the block's line. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Journey_Line_Round_Of_Four_Finishes_S527.
