@@ -1,0 +1,23 @@
+For Chat. What this needs: write Kain's pick of the beliefs block into DSRD 9 section 45, and record that the line under its heading is now his own, replacing the one you signed. For the theme session, the Academy page.
+
+From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Staircase_Round_Of_Four_With_Kains_Words_S527.
+
+## What Kain ruled, in his words
+
+1. The pick: "totally happy to go with option two, the side stair."
+2. The line under the heading: "if you could just replace ... the section subtitle with this", and his words, exactly: "No matter which subject interests you most, every Achology course is grounded in the same seven foundational beliefs. We'd rather you read them now than come across them unexpectedly halfway through your first course."
+3. The foot of the block: "the two lines at the bottom. That just is a mess. Just merge these two sentences together as one ... The bottom is an absolute mess. You've not made any effort at that whatsoever."
+
+## What is on the preview now (commit 7c1c759b)
+
+1. The Side Stair is the beliefs block, with no switch: one orange line of treads and risers, each belief a step further in, its number under the tread, its name (the link, new tab) and his full sentence beside it.
+2. His line stands under the heading, word for word. It replaces your signed supporting line. It is 34 words in two sentences, past the supporting line's 12 to 25; his copy, placed as given.
+3. The foot is one closing panel in the page's sand, the stair's orange line down its left edge. Your two signed lines run together in it as one paragraph, no word changed ("Each belief leans on the one before it. Pull one belief out of the chain and the ones after it begin to wobble. We'd rather lose a student who looks at the seven and decides we aren't for them than keep one who never got to see the floor beneath their feet."), with the two buttons beside it.
+
+He has not yet called the block perfect.
+
+OWED BACK: where the pick and his line are written home, and your word if the joined paragraph should change.
+
+DOCUMENT TYPE: ruling.
+
+*No em or en dashes in this file; checked before writing.*
