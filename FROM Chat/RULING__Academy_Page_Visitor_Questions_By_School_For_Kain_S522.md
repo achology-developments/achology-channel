@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S522: WAITS ON Chat's rewrite of the 28 to a sharper shape: Kain found them the right kind and too loose on 16 November 2026 ("concise yet clean, descriptive, not vague ... something that a website visitor could bite"), and said yes to a specific moment with a tension in it; his words went to Chat's side session the same day.
+> CODE DISPOSITION, S522: DONE. Put to Kain and not signed; his words are in TO Chat/DONE__Academy_Page_Questions_Kains_Answers_On_The_Seven_And_The_29_S522.md; replaced by RULING__Academy_Page_Questions_With_Bite_For_Kain_S522. Kain found them the right kind and too loose on 16 November 2026 ("concise yet clean, descriptive, not vague ... something that a website visitor could bite"), and said yes to a specific moment with a tension in it; his words went to Chat's side session the same day.
 
 For Code. What this needs: put one finished yes or no question to Kain, on the visitors' questions under each school, before anything else moves; send his words back word for word.
 

@@ -16,8 +16,14 @@ Then: "I don't want you to guess here. There must be a marketing rule or a marke
 
 Code named the principle and five rules; asked whether the questions be rebuilt on them: "Yes, rebuild them".
 
+## Round three: 28 visitor questions, first person, from real searches. Not signed.
+
+Kain: "do you really think these questions just need to be like 5, 6, 7 words long? Do you think they can be like a, I don't know, maybe all similar in length, but in a way that are kind of descriptive? Just although they're concise questions, they ask a lot ... some of them just feel like loose ... I just want these questions to be, concise yet clean, descriptive, not vague. Just I want them to be something that a website visitor could bite."
+
+Code showed four loose and sharp pairs and asked whether that was the bite he meant: "yes, that is the bite i mean - thank you claude".
+
 ## Where it stands
 
-Round three, the 28 visitor questions of RULING__Academy_Page_Visitor_Questions_By_School_For_Kain_S522, was put to him the same day with the reading page open in his Safari. His answer is owed and comes back in its own file.
+Round four, the 29 questions of RULING__Academy_Page_Questions_With_Bite_For_Kain_S522, was put to him the same day with the reading page open in his Safari. His answer is owed and comes back in its own file.
 
 *No em or en dashes in this file; checked before writing.*
