@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470 (close): Answered whole in ANSWER__Academy_Page_Words_Signed_S470 (FROM Chat): words signed by Chat on Kain's instruction, every point ruled one line each. Rulings written home in DSRD 9 sections 45.13 and 45.14. Academy page card noted.
+
 > CHAT DISPOSITION, S470: Stays. Its rulings are written home (DSRD 9 section 45.13, DSRD 5 section 2, REF 1 section 1.5) and the Academy page card was added. It waits on one thing: the Academy words session, which writes the words and lines this file asks for.
 
 For Chat. What this needs: write Kain's name for the Academy into the documents that own names, and rule where else it reaches. For the theme session, the Academy page.

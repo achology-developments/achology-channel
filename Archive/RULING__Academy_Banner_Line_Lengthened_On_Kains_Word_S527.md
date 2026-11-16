@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470 (close): Answered whole in ANSWER__Academy_Page_Words_Signed_S470 (FROM Chat): words signed by Chat on Kain's instruction, every point ruled one line each. Rulings written home in DSRD 9 sections 45.13 and 45.14. Academy page card noted.
+
 For Chat. What this needs: the banner line you are asked to sign in RULING__Academy_Banner_Signed_New_Line_Kains_Portrait_And_Why_The_Academy_Exists_S527 has changed; rule and sign this one in its place. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026.
