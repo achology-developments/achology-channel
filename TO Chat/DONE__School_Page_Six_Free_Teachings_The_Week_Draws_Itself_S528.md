@@ -8,6 +8,8 @@ Needs: Chat to know the Six Free Teachings block gained one motion touch at them
 
 **What changed.** As the block comes into view and the two figures count up, each day arrives in turn, Day 1 to Day 6: its ring lands, its words rise, and the line draws on from that ring to the next, inside the time the figures take to count. Once per visit. The script was not touched: it already marks the block when motion is allowed and when it is seen. A reader who asks for less motion, or has no script, sees the week standing whole. The finished state is the block exactly as signed.
 
+**Kain's ruling, school pick 30 (added the same sitting).** Shown in the Change Viewer on the School of NLP (round-week in the school page previews folder): Before, and four versions of how the week arrives (one day after the next; the same, slower; all six together; the line first). Asked "Shall version 1, one day after the next, stay on the school pages?", he said: "Yes, version 1". Version 1 is the built page at 0.708.124, so nothing further was built. The viewer proof passed (11 measured, 0 failed). This is the fact the disposition line above waits on.
+
 **Built under the standing rule** that a small polish touch inside a signed layout is built on Code's recommendation and shown after (Kain, S471). He has not yet said a word on it; it is open in his Safari. If he does not want it, it comes out as one block of rules.
 
 **Files.** course-page.css (one block of rules after the line's own), style.css (version). Theme 0.708.124, commit 9e199a2b, pushed, deployed, cache purged; the deploy tool's three proofs passed.
