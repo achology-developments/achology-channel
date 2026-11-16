@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Stays. The pick is written home in DSRD 9 section 45.15 item 4. It waits on one thing: Chat signing the gateway's heading and supporting line under the Site Copy check sheet.
+
 For Chat. What this needs: write Kain's pick of the Academy page's schools block into DSRD 9 section 45, and sign its heading and supporting line. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Gateway_Round_Of_Four_Shown_S527.

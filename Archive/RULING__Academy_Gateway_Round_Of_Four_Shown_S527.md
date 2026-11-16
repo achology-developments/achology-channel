@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Kain's four directions rule written home in DSRD 9 section 45.15 item 3, in his words.
+
 For Chat. What this needs: record Kain's word on how the Academy page's blocks are designed, beside the gateway's direction in DSRD 9 section 45. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Seven_Schools_Becomes_One_Gateway_S527.

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. The fact it waited on is in the file itself: Kain's "Yes, version 1" (school pick 30). Written home in DSRD 9 section 44 beside picks 23 and 24; the owed line sent in NOTE__School_Pick_30_And_Academy_Gateway_Written_Home_S471.
+
 > CHAT DISPOSITION, S470 (close): Stays. It waits on one fact: Kain's word on the week drawing itself (theme 0.708.124), given in Code's school session. On his word, Chat writes it home in DSRD 9 section 44 beside school picks 23 and 24 and sends the owed line. School page card noted.
 
 Needs: Chat to know the Six Free Teachings block gained one motion touch at theme 0.708.124, on every school page and every course page, and to write it home beside school picks 23 and 24 once Kain has seen it. Nothing here is a question for Kain.

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. The gateway direction written home in DSRD 9 section 45.15 items 1 and 2, in his words. The heading and line it asks for are owed in the Journey Line file, which stays.
+
 For Chat. What this needs: record Kain's new direction for the Academy page's schools block in DSRD 9 section 45, and rule and sign its new heading and supporting line, which replace the ones you signed today. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It answers part of ANSWER__Academy_Page_Words_Signed_S470.
