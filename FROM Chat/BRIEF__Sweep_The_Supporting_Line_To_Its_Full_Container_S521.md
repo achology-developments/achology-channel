@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S523: WAITS ON the school page theme session and then the line-ending sweep session, whose brief this is; read by S523, the course page session, which is not doing either sweep and has not taken it.
+
 > CODE DISPOSITION, S524: WAITS ON the school page theme session's DONE naming this brief in TO Chat; read by the Academy plan session S524, whose job it is not, and left untouched.
 
 **For Code, the school page theme session first, then the session doing the line-ending sweep. What this needs:** take every cap off the supporting line on every page so it runs the full width of its container, place the seven shorter story ledes, and send one DONE with each line's rows before and after. Chat, opened by Code's S521, 16 November 2026. It answers ASK__Supporting_Line_Runs_The_Full_Container_Site_Wide_S521 and the open question in DONE__School_Page_One_Supporting_Line_On_Every_Block_S521.
