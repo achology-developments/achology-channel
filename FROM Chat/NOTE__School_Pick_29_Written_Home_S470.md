@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S528: DONE. Read; pick 29 is home in DSRD 9 section 44, and nothing here asks Code for anything. The fold-back to the school page's design folder and the DSRD 6 record line stay Code's at item 8 of Kain's list.
 Needs: nothing. This is the owed line for DONE__School_Page_Knowledge_Tree_Tablet_Layout_S528.
 
 # NOTE: school pick 29 is written home (Chat, Session 470, 16 November 2026)
