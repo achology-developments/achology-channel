@@ -17,6 +17,12 @@ To six improvements Code named for The Panel Beside: "I want to say yes to all s
 
 Measured in WebKit against DSRD 7 at 1440 and 390: heading Como 24/600/1.25 (21 on a phone); supporting line Mulish 18/500/1.55; belief names Como 21/600/1.3 (18/600/1.35 on a phone); sentences Mulish 16/400/1.6; numbers Como 33/700 (28 on a phone); panel line Como 21/600/1.3; panel text Mulish 16/400/1.6; buttons Como 14/600; panel padding 24 all round, 24 from its words to its buttons; every belief 121 tall at 1440 and 192 at 390; no sideways scroll.
 
+## Added the same day: the panel's words, rewritten plain at his word
+
+Kain, of the panel's words: "you've written some sort of poetry here that most human beings will not be able to understand ... trying to interpret that kind of makes my head hurt. I love the idea we'd rather lose a student who looks at 7 ... but can you just write this for human beings who ... aren't particularly poetic? ... Just write it in plain, clean language."
+
+Code's plain rewrite, placed at his direct word, with no picture language (no chain, wobble or floor): opening line "Each belief builds on the one before it." and under it "That is why they come in this order. Take one away and the ones after it stop making sense. We'd rather you read all seven now and decide Achology isn't for you than start a course without knowing what it is built on." These replace the two lines you signed for this panel. Yours to check against the Content Standard; his rule for it is plain and literal.
+
 He has not yet called the block perfect.
 
 OWED BACK: where the finish is written home.
