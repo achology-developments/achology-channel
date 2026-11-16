@@ -36,7 +36,19 @@ What it is: a pop-up in the middle of the screen over a dark screen, 880 wide on
 
 One thing for your call: the form in the preview carries no privacy line, following Kain's ruling on the workbook form (11 November 2026: "I don't want that there ... The privacy policy is in the footer if anyone wants to read it"), where the spec's section 6 names one under the button.
 
-OWED BACK: the four written into the spec, or your word on any that conflicts.
+## 5. The label: his pick is the Lock, on a faint orange ground for free events (added later in the same sitting)
+
+The spec's section 8, part 2. Four label designs were shown in the Change Viewer.
+
+Kain: "we go with, number three, the lock, as you recommend." And: "We need another layer of distinction. So the background ... Very, very subtle. Very, very subtle orange, perhaps, for the free events."
+
+What it is: an open padlock in the link orange before the word Free; a closed padlock in soft grey before Members Only. Each free event stands on the brand orange at 6 over white. The words are unchanged.
+
+## 6. Still open with Kain, for your knowledge only
+
+He finds the calendar view's Morning, Afternoon and Evening rows "imbalanced" and "cluttered" and the list view "bland". Code is showing him four neat calendars, then a round for the list. Their picks will follow in a later file. Nothing here needs you yet.
+
+OWED BACK: sections 1 to 5 written into the spec, or your word on any that conflicts.
 
 DOCUMENT TYPE: ruling.
 
