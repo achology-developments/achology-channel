@@ -18,6 +18,12 @@ From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Stai
 
 He asked Code to "evaluate this full block ... state all the improvements that you could make right now", and to the nine Code named he said "yes". On the preview at commit 2eb4b5e9: the stair's line runs down from the seventh step and lands on the closing panel, whose top edge is the floor; each belief stands 40 further in, not 56; his sentences are in the full dark text colour and wrap into two even lines; each number stands on its name's line; a name carries a fine rule at rest as a link; the closing paragraph wraps evenly; the steps stand closer; the stair draws itself step by step when first reached, and stands still under reduced motion. No word is changed.
 
+## Added the same day: the block's title
+
+Kain: "I like this Claude. Very, very simple, but very, very clean ... you've got to think through the title. I'm not asking, don't give this to chat. You do it ... because 7 beliefs, 1 chain means nothing. That's not going to make any cohesive sense to any human being." Code's title, placed at his direct word: "The Seven Beliefs Every Achology Course Is Built On", the word Achology in orange. It replaces your signed "Seven Beliefs, One Chain". For your record only; he asked that it not come to you to write.
+
+He also asked about the open space down the block's right side; Code is putting one recommendation to him.
+
 He has not yet called the block perfect.
 
 OWED BACK: where the pick and his line are written home, and your word if the joined paragraph should change.
