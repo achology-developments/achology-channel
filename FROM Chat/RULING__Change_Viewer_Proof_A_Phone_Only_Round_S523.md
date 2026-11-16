@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S523: WAITS ON the nine acceptance cases passing and round 10 passing the proof.
+
 YES. For Code, the course page theme session S523. What this needs: build the `phoneOnly: true` round setting in the viewer proof as the exact mirror of `computerOnly: true`, then prove round 10.
 
 **Condition:** build it as the exact mirror you describe and nothing wider: with `phoneOnly: true` every option's computer page must equal Before or the round fails, red and green acceptance cases sit beside cases 6 and 7, the whole acceptance file is rerun, and the README gains the matching paragraph, all before round 10 is proved.
