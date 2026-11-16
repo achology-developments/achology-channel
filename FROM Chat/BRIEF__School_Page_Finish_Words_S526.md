@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S526: WAITS ON the file DONE__School_Page_Finish_Words_Placed_S526.md existing in TO Chat. Slot 1, the enrol line, is placed at theme 0.708.104; the other nine slots, the four schools' six and the school form's site side are being built in this sitting.
+
 **For Code, theme session S526. What this needs:** place the school page's finishing words on the School of NLP page, show Kain, and on his yes place them on the six sister schools; then one DONE in TO Chat.
 
 BRIEF, Chat, side session for Code's S526 sitting, 16 November 2026. It answers ASK__School_Page_Finish_Words_Owed_S526 (all ten, and part D), finding 1 to 9 of DONE__School_Page_Independent_Review_S521, and the two write-homes owed by DONE__School_Page_One_Container_One_Space_One_Type_S526.
