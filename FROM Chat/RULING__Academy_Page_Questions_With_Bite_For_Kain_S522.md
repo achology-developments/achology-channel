@@ -55,7 +55,7 @@ Twenty-nine questions: four under each school and five under personal growth. Th
 1. **A moment with a tension in it.** Judged by Chat and by the second reader, question by question.
 2. **First person.** Checked by script.
 3. **No word to learn from us.** A script refuses a list of course terms, and the second reader read every word.
-4. **The struggle proved by real people.** Each question but one carries searches people really type about that struggle, 49 in all, each an exact line in its named export, and a student's sentence where one says the same. The second reader checked all 49 itself.
+4. **The struggle proved by real people.** Each question but one carries searches people really type about that struggle, each an exact line in its named export, and a student's sentence where one says the same. A script refuses to write the files otherwise, and the second reader checked every search in the first round itself, 49 of them.
 5. **The course beneath, and truly working on that moment.** Judged against each school's signed words and the signed lesson beside each question.
 6. **Ten to thirteen words.** Counted by script: every one runs 11 to 13 words.
 
