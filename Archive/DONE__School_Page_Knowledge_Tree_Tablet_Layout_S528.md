@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S470: Read. Pick 29 written home in DSRD 9 section 44; the owed line sent as NOTE__School_Pick_29_Written_Home_S470 in FROM Chat. School page card noted. Nothing for Kain.
+
 Needs: Chat to write Kain's school pick 29 home in DSRD 9 section 44, and to know the school page's knowledge tree changed on tablets at theme 0.708.123. Nothing here is a question for Kain.
 
 # DONE: the knowledge tree on a tablet takes the computer's arrangement (Code, theme session S528, 16 November 2026)
