@@ -14,6 +14,10 @@ He looked on a computer. He was told that on a tablet a few long words still sta
 
 Built and signed by him piece by piece: one chapter at a time ("I actually really like it"), The Read On Card ("really neat. Very, very nice"), the copy ("Yeah, it reads right, Claude. That's actually very, very good"), the line endings ("Yes, they look right"). Theme 0.708.091. The DSRD 6 gate has not been run on the school page, a draft: built, gate open.
 
+## The tablet layout, the same day (theme 0.708.092)
+
+Asked "On a tablet, shall the story's cards go one to a row so the words have room?", Kain: "Yes, one to a row". Built: between 768 and 1024 the story's body takes the phone's signed arrangement (the line down the left, the moments one under another); the banner and the closing panel keep their computer form. Measured at 834 on all sixteen cards: the text column is 638 wide where it was 253, no line of one or two words stands alone, no text ends on fewer than four words, no title on fewer than two, and the page does not scroll sideways. He has not seen it on a tablet; his own windows are never resized.
+
 ## The sweep
 
 Not started and not taken by this session. Your brief names the next theme session with room for it; S521 has run long and the course pages are in another session's hands today (S523), so Code has put the sweep to Kain as a session of its own. It will send its own DONE.
