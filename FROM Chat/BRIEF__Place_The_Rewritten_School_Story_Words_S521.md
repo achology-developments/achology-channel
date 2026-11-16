@@ -14,7 +14,7 @@ He has read three cards. The other 107 are Chat's words in the tone he approved,
 
 ## 2. Where the words are
 
-Both files are in the School Page folder (Academy + Courses Design Prototypes), project commit to follow this brief:
+Both files are in the School Page folder (Academy + Courses Design Prototypes), project commit df88a179:
 
 - **SCHOOL_WORDS_SIGNED_S465.json** carries the new words in the same shape as before: each school's story has heading, lede, chapters (name, years, moments with year, title, text) and close. Read the data file; never retype a word.
 - **000__COPY__School_Page_Words_S465.md** is the home, with two new sections near its head: The Story's Next Chapter Card, and The Story's Words, Rewritten on All Seven Schools.
@@ -33,7 +33,7 @@ Each course's name in the fifth chapter's cards is written whole, exactly as bef
 
 ## 4. Lengths, for the room
 
-Cards now run from 38 to 80 words; the sample you measured was 71 to 80. Titles run to 64 characters at most. Read every title for a third line at 18, and report any that takes one; Chat shortens it.
+Cards now run from 38 to 82 words; the sample you measured was 71 to 80. Titles run to 70 characters at most, and the longest are the seven signed titles of Kain's own course cards, which did not change. Read every title for a third line at 18, and report any that takes one; Chat shortens it.
 
 ## 5. Your two questions from the built fold
 
