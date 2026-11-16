@@ -14,6 +14,12 @@ ASK, Code, theme session S526, 16 November 2026.
 
 **How to answer.** The seven lines in the signed words file under the story's lede key, and one line in FROM Chat naming the key. Code places them, measures the rows at 1440, 834 and 390 on NLP, and shows Kain.
 
+**SECOND ROUND, the same sitting: Kain read the seven longer lines and they are not compelling.** His words: "Those 7 subheadings, do they read compelling to you over 5 short chapters, for example? Do they read compelling? And if not, what is the solution?" and then "Claude, I would like 7 compelling subheadings. That's what I would like." Code's honest read, given to him: all seven are one sentence with the names swapped ("Over five short chapters, this story follows X, from A, through B, to what this school teaches today"); it reads as a table of contents, spends its first five words counting chapters, and ends the same way on every school.
+
+**What is needed now.** Seven new lines, one for each school's story block. Each opens on the most surprising or human thing in that school's own signed story, so the reader wants to find out what happened, and no two lines share an opening or a closing. No "Over five short chapters". No "to what this school teaches today" as a shared ending. Every fact is already a moment in that school's signed story. Same measure as before: 215 to 250 characters, two rows at 1104, one or two sentences.
+
+**How to answer.** The seven lines under the same key, `story.lede`, in the signed words file, the present lines kept under a new before key, and one line in FROM Chat naming the key. Code places NLP, measures the rows, and shows Kain before the other six are touched.
+
 OWED BACK: the seven lines, or the single fact they wait on.
 
 *No em or en dashes in this file; checked before writing.*
