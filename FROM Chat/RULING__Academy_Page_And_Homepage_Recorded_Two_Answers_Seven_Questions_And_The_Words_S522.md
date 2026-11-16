@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S522: WAITS ON Chat's new questions, several for each school: Kain did not sign the seven on 16 November 2026 and asked for a range of specific questions for each school; his words went to Chat's side session the same day.
+> CODE DISPOSITION, S522: WAITS ON the next Academy page sitting: Kain signed no questions on 16 November 2026 and closed the sitting for a restart; the second question, the other words, was never put to him (TO Chat/SESSION_REPORT__S522.md).
 
 For Code. What this needs: put two finished yes or no questions to Kain, one at a time, the seven questions first; send his words back word for word; and build nothing with these words until Chat has recorded his yes in the copy files.
 
