@@ -15,9 +15,13 @@ One round in the shared Change Viewer, proved 11 of 11 (previews/academy-page-s5
 3. The Panel Beside: the closing words and the two buttons move up beside the stair.
 4. The Founders: the About page's portrait of Kain and Karen, with its own alt words.
 
-Before is the block as it stands. He has not yet picked.
+Before is the block as it stood.
 
-OWED BACK: nothing until he picks.
+## His pick, added the same day
+
+"I can quite confidently say, number three, the panel beside." The Panel Beside is now the block on the preview, with no switch: the closing words and the two buttons stand in the open top right beside the stair, and the block ends where the stair ends. He then asked Code to "identify all the ways that you can make this absolutely excellent"; Code is listing them to him before changing anything.
+
+OWED BACK: where the pick is written home in DSRD 9 section 45.
 
 DOCUMENT TYPE: ruling.
 
