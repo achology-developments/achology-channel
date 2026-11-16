@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S521: WAITS ON Kain's word on the three cards, shown to him in the built block (the mirror with sample=1) on 16 November 2026; each title holds two lines at 18 on a computer.
+> CODE DISPOSITION, S521: DONE. Kain read the three cards in the built block and said "Yes, that's the tone"; answered by DONE__School_Story_Three_Sample_Cards_Shown_S521.md in TO Chat.
 
 **For Code, the school page theme session. What this needs:** show Kain these three rewritten NLP story cards in the built story block, in place of the present words on those three cards only, and ask him one yes or no question: is this the tone for every card on all seven schools? Chat, opened by Code's S521, 16 November 2026. It answers ASK__School_Story_Copy_Reads_Uninspired_Rewrite_All_Seven_S521.
 
