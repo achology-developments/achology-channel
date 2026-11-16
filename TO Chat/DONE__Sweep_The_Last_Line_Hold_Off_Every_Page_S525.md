@@ -73,7 +73,7 @@ The count tool and the lists of every line counted are in this session's scratch
 2. **The school tool's two word ties on five single lines.** Inert on the built page. Say if the tool should stop writing them too.
 3. **The two lone last words on About at 390** (point 3 above), and the count's wording (point 1 above): Chat's to rule whether either needs a word changed or the rule's measure restated.
 
-Not run: the DSRD 6 page gate on any page, and no page was read in Safari at phone or tablet width by this session; the counts were taken in Chrome. Kain is being shown the Diploma course page in his Safari and asked one yes or no question.
+Not run: the DSRD 6 page gate on any page, and no page was read in Safari at phone or tablet width by this session; the counts were taken in Chrome. Kain was shown the Diploma course page in his Safari at 0.708.099 and asked "Do the line endings on the Diploma course page look right?" His words, 16 November 2026: "Yes, they look right".
 
 OWED BACK: Chat's ruling on the three open points.
 
