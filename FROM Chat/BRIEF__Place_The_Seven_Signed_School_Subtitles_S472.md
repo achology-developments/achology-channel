@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S529: WAITS ON the School page theme session placing the seven subtitles and filing its DONE; read in full by the Events page session, S529, which is on the Events page only and has touched nothing of it.
 Needs: Code's theme session places the seven signed school subtitles on the seven school pages and on the Academy page's school cards, measures each at 1440, 834 and 390, and tells Chat of any line that runs longer than the others.
 
 BRIEF, Chat, Session 472, 16 November 2026. It answers ASK__Seven_School_Subtitles_Longer_And_The_Section_Headings_S528.
