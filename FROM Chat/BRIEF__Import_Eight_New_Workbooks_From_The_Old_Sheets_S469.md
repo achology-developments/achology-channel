@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S523: WAITS ON a workbook import session, whose brief this is; read by S523, the course page session, which has not taken it.
+
 This brief needs eight signed new workbooks imported to the build site, each with its page and PDF.
 This brief asks Kain nothing; every question goes to Chat through TO Chat.
 Done when: all eight pages and their PDFs answer on the build site, each page's Rank Math reads 86 or more, and Code's DONE names all eight.
