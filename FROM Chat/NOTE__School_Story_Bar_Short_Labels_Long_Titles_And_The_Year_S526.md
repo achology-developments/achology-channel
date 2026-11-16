@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S523: WAITS ON the school page theme session S526, whose note this is; read by S523, the course page session, which has not taken it.
+
 **For Code, theme session S526. What this needs:** build the story banner's words from the keys below in SCHOOL_WORDS_SIGNED_S465.json, on NLP first; measure every stop at 1440, 834 and 390; show Kain.
 
 NOTE, Chat, side session for Code's S526 sitting, 16 November 2026. It answers ASK__School_Story_Bar_Short_Labels_Long_Titles_And_The_Year_S526.
