@@ -45,7 +45,23 @@ Drafted by Code at his direct ask, from what his article says each belief means.
 
 If you change one, keep all seven within five characters of each other: that is his rule for them.
 
-He has not yet spoken on the seven new sentences.
+## Kain's word on those seven, and the seven that now stand
+
+Of the seven sentences just above: "these beliefs, we're not speaking to the person. These are statements of fact, kind of like presuppositions ... They're not written to try to impress or influence a person. They are beliefs."
+
+Rewritten by Code as statements of fact about people, with no "you" in them. Counted: 102, 102, 106, 101, 106, 102 and 104 characters. THESE are the seven for you to rule and sign; both earlier sets are withdrawn.
+
+1. Growth remains possible for every person, at any age and after any history, for as long as life lasts.
+2. A person cannot change what they have never examined, so honest self-knowledge is where growth begins.
+3. People respond to their reading of an event, not to the event itself, so wisdom rests on accurate thought.
+4. Every emotion has a cause that can be traced, and an emotion that has been understood can be managed.
+5. Events often lie outside a person's control, but the response to an emotion always belongs to that person.
+6. A better life is the result of who a person becomes, so inner growth always comes before outer change.
+7. Growth is never an end in itself, because its meaning lies in what a person is then able to give others.
+
+His rule for this block's sentences, for any change you make: a statement of fact, never addressed to the reader, and all seven within five characters of each other. The heading, the line under it, the line under the steps and the closing line above do speak to the reader ("we'd rather you read them"); whether those should change register too is yours and his to rule.
+
+He has not yet spoken on these seven.
 
 OWED BACK: the block's words signed or replaced, and where the pick and rulings are written home.
 
