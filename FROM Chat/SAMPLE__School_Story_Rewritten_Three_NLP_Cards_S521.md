@@ -32,7 +32,7 @@ These are Chat's words, not yet seen by Kain. Place them word for word; the year
 
 **Title:** The Structure of Magic Argues That Skill Can Be Learned
 
-**Text:** Bandler and Grinder publish The Structure of Magic I. Its preface argues that the skill of the therapists they studied has a structure, which means it can be studied, described and learned. The book then sets out an explicit meta model of language: a set of questions for noticing what a person has left out, generalised or distorted in what they say, and for asking them about it, so that both people understand more exactly what is meant.
+**Text:** Bandler and Grinder publish The Structure of Magic I. Its preface argues that the skill of the therapists they studied has a structure, which means it can be studied, described and learned. The book then sets out an explicit meta model of language: a set of questions for noticing what a person has left out, generalised or distorted in what they say, and for asking them about it, so that both people understand what is meant.
 
 ### Chapter Five, card one. Today
 
@@ -40,7 +40,7 @@ These are Chat's words, not yet seen by Kain. Place them word for word; the year
 
 **Title:** The Communication Model and the Assumptions Beneath It
 
-**Text:** This school is built on two foundations. The first is the communication model, which shows how you take in what happens, make sense of it and respond, including in the conversation you’re always having with yourself. The second is the set of assumptions the field rests on. You look at the assumptions you make about yourself and the world, and at how they decide your actions and the results that follow. Both are taught in A Beginner’s Guide to Neuro-Linguistic Programming (NLP).
+**Text:** This school is built on two foundations. The first is the communication model, which shows how you take in what happens, make sense of it and respond, including in the conversation you’re always having with yourself. The second is the set of assumptions the field rests on, and you look at how the ones you make about yourself and the world decide your actions and the results that follow. Both are taught in A Beginner’s Guide to Neuro-Linguistic Programming (NLP).
 
 The link stays on the course's name, as built.
 
