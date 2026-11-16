@@ -30,7 +30,7 @@ It came after his word on Code's second set ("These are statements of fact, kind
 ## For your ruling, none of it touched by Code
 
 1. Three beliefs have new names: 1 (was "Every human being can grow and mature"), 3 (was "Wisdom begins with accurate thinking") and 5 (was "Your emotional state is your responsibility"). The seven names stand across the site, the nine signed articles and the vault. Say whether the new names hold everywhere or on this page only.
-2. Sentence 6 reads "who a person becomes all that they can be": two phrasings appear to have run together. His to settle; Code is asking him.
+2. Sentence 6: SETTLED BY KAIN. He pasted the seven again with sentence 6 rewritten, and it now stands as: "A better life begins when a person becomes the best that they can be, so inner growth must come before outward change." (118 characters; "always" is gone from it.) The other six are unchanged. Read sentence 6 above as this one.
 3. Lengths: 118, 118, 121, 108, 124, 117 and 127 characters, a spread of 19 against his own rule of five. Sentence 4 is the short one and 7 the long one.
 4. Capitals and full stops differ between the seven names (four end in a full stop, belief 4 is in lower case, "is" and "their" are lower case in 5). The site rule is title case for every heading.
 5. Your points that these words now cross: 3 says "not to events themselves" (you softened that for Ellis); 6 says "must always" (you took "always" out).
