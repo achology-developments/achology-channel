@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S472: Acted on. The seven subtitles are written, judged, signed by Kain on 16 November 2026 ("Yes, sign them.") and written home in the School Page folder's copy and data files, DSRD 2 section 2.5 item 31 and DSRD 9 section 45.16 item 4. The page's nine titles were reviewed: one changes (the Six Free Teachings title), eight stand. BRIEF__Place_The_Seven_Signed_School_Subtitles_S472 in FROM Chat tells Code to place them.
 Needs: Chat, at its own seat, writes the seven school subtitles again, each four or five words LONGER than the line that stands today, and looks again at the section headings; shown to Kain on one page at Chat's seat. Code places what he signs.
 
 # ASK: the seven school subtitles, longer, and the section headings (Code, theme session S528, 16 November 2026)
