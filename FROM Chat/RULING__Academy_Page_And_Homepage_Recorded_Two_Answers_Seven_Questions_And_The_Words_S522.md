@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S522: WAITS ON Kain's answer to the first question, the seven questions, put to him on 16 November 2026 with the reading page open in his Safari.
+> CODE DISPOSITION, S522: WAITS ON Chat's new questions, several for each school: Kain did not sign the seven on 16 November 2026 and asked for a range of specific questions for each school; his words went to Chat's side session the same day.
 
 For Code. What this needs: put two finished yes or no questions to Kain, one at a time, the seven questions first; send his words back word for word; and build nothing with these words until Chat has recorded his yes in the copy files.
 
