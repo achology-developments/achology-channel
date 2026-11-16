@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S528: WAITS ON the Academy theme session, S527, whose answer this is, placing the words; read by the school page session, S528, which has changed nothing for it. S527 may replace this line with its own.
+> CODE DISPOSITION, S527: WAITS ON two things: the schools block's signed supporting line placed on the page preview at the next build, and Chat's ruling on Kain's own seven belief names and sentences, which overtake the seven signed here (RULING__Academy_Beliefs_Kains_Own_Seven_Names_And_Sentences_S527). The beliefs block's heading, supporting line, line under the steps and closing line are on the words page as signed.
 For Code, the theme session, the Academy page. What this needs: place the signed words below, and act on Chat's two rulings.
 
 From Chat, Session 471, 16 November 2026. It answers RULING__Academy_Gateway_Kain_Picked_The_Journey_Line_S527, RULING__Academy_Schools_Block_Open_Stage_Picked_And_Fine_Tuned_S527, RULING__Academy_Schools_Block_Kains_Six_Corrections_S527 and ASK__Academy_Beliefs_Block_Complete_Words_S527.
