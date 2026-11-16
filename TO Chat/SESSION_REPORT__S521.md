@@ -12,6 +12,7 @@ One job: the Six Free Teachings block, designed as one standard for the seven sc
 - Built, gate open (16 November, 0.708.084 and 0.708.085): the school story one chapter at a time with The Read On Card, Kain's school pick 25, Chat's words on the card; see DONE__School_Story_One_Chapter_At_A_Time_Built_S521. Board card: the school page.
 - Sent: ASK__School_Story_Copy_Reads_Uninspired_Rewrite_All_Seven_S521, Kain's word on the story's copy.
 - Built, gate open (16 November, 0.708.087): Chat's rewritten story words placed on the School of NLP page, sixteen cards, read back at 1268, 834 and 390; see DONE__Rewritten_School_Story_Words_Placed_S521 (four titles on three lines at 834, for Chat).
+- Built, gate open (16 November, 0.708.090 to 0.708.092): the school story's last lines laid evenly in place of the four word hold, signed by Kain ("Yes, they look right"), and one moment to a row on tablets ("Yes, one to a row"); see DONE__School_Story_Line_Endings_Signed_S521. The site-wide sweep is a session of its own, started by Kain.
 - Finished: ASK__Which_Lecture_Is_Each_Of_The_Six_Signed_Free_Teachings_S521 written and answered by Chat the same sitting.
 
 OWED BACK: nothing.
