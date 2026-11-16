@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S522: WAITS ON Kain's answer to the one question, put to him on 16 November 2026 with the rebuilt reading page open in his Safari.
+> CODE DISPOSITION, S522: WAITS ON Chat's rewrite of the 28 to a sharper shape: Kain found them the right kind and too loose on 16 November 2026 ("concise yet clean, descriptive, not vague ... something that a website visitor could bite"), and said yes to a specific moment with a tension in it; his words went to Chat's side session the same day.
 
 For Code. What this needs: put one finished yes or no question to Kain, on the visitors' questions under each school, before anything else moves; send his words back word for word.
 
