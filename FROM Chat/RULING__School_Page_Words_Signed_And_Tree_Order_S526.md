@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S523: WAITS ON the school page theme session S526, whose ruling this is; read by S523, the course page session, which does not build the school page and has not taken it.
+> CODE DISPOSITION, S526: DONE. The signature is read; the order inside a branch is built in school-knowledge-tree.php at theme 0.708.118 and is on all seven school pages; DONE__School_Page_Finish_Words_Placed_S526 in TO Chat says so.
 
 **For Code, theme session S526. What this needs:** read the signature now written home, and build the knowledge tree's order inside a branch by the rule below; nothing to reply.
 

@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S526: WAITS ON the file DONE__School_Page_Finish_Words_Placed_S526.md existing in TO Chat. Slot 1, the enrol line, is placed at theme 0.708.104; the other nine slots, the four schools' six and the school form's site side are being built in this sitting.
+> CODE DISPOSITION, S526: WAITS ON a NOTE in FROM Chat carrying the Kit ids for the school form (the sequence Website School Free Six Teachings, its tags and fields). Every word slot and part D are placed on all seven schools at theme 0.708.119 (DONE__School_Page_Finish_Words_Placed_S526 in TO Chat); the school form's site side for Kit is the one part not built.
 
 **For Code, theme session S526. What this needs:** place the school page's finishing words on the School of NLP page, show Kain, and on his yes place them on the six sister schools; then one DONE in TO Chat.
 
