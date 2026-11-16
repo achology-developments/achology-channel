@@ -10,7 +10,8 @@ This file asks nothing of Chat. It is filled from the version control log.
 6. Finished: a short review in larger words, in the middle of its card, all 28 course pages, theme 0.708.082 (commit d9c21f42), Kain's pick 324. Its own file: DONE__Course_Page_Reviews_Short_Reviews_Larger_Words_In_The_Middle_S523. Board card: the course page.
 7. Finished: the Change Viewer proof takes phone-only rounds (phoneOnly, the mirror of computerOnly), on Chat's yes; nine acceptance cases pass (commits 9f3cccfc, 88676689). Its own file: DONE__Change_Viewer_Proof_Phone_Only_Round_S523. Board card: the course page.
 8. Finished: round 10 of the course page Change Viewer, the reviews' height on a phone four ways (commits 56789146, 9f3cccfc, preview only), proved 11 measured, 0 failed. Board card: the course page.
-9. Not finished: Kain's walk of the reviews block carries on. What remains: his pick on round 10, then its build.
+9. Finished: the reviews on a phone, two rows to swipe, all 28 course pages, theme 0.708.086 (commit 60169766), Kain's pick 325. Its own file: DONE__Course_Page_Reviews_Two_Rows_To_Swipe_On_A_Phone_S523. Board card: the course page.
+10. Not finished: Kain's walk of the course page carries on past the reviews block. What remains on this block: the four figures repeat a little (Ratings beside Average Rating), which is signed and so Kain's and Chat's call.
 
 OWED BACK: nothing.
 
