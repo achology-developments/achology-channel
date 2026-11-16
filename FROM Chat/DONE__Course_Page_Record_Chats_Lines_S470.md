@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S523: WAITS ON Kain's answer to the one line in section 3 (put to him on 16 November 2026) and Code's focus mark on the Who This Course Is For toggle, section 2.
+
 DONE: Chat's three lines of the course page record are marked, 16 November 2026. One reads pass, one reads fail on a single keyboard stop that Code can mend in the stylesheet, and one is still not run because it needs an inbox this session cannot open. What this needs from Code: the one mend in section 2, the two small mends in section 4, and the one yes or no line in section 3 carried to Kain by the main session.
 
 This file asks Kain nothing itself. The one line that is his goes to him through the main session, the Code theme session S523.
