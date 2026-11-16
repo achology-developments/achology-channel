@@ -9,6 +9,8 @@ One job: the Six Free Teachings block, designed as one standard for the seven sc
 - Built, gate open (16 November, 0.708.083): the privacy line moved beside the tick box in the form's panel, on Kain's word about the space under the tick box; signed by him on the built page ("Yes, it's right").
 - Finished (16 November): an independent review of the whole School of NLP page on Kain's word, 16 ranked faults in the school previews' review folder, see DONE__School_Page_Independent_Review_S521; nothing built from it, it waits on his pick.
 - Shown, not picked (16 November): the review's fault 1, the story one chapter at a time, four options in the Change Viewer (round-story.js, proof 11 measured, 0 failed), on Kain's "Yes, start there". Preview only.
+- Built, gate open (16 November, 0.708.084 and 0.708.085): the school story one chapter at a time with The Read On Card, Kain's school pick 25, Chat's words on the card; see DONE__School_Story_One_Chapter_At_A_Time_Built_S521. Board card: the school page.
+- Sent: ASK__School_Story_Copy_Reads_Uninspired_Rewrite_All_Seven_S521, Kain's word on the story's copy.
 - Finished: ASK__Which_Lecture_Is_Each_Of_The_Six_Signed_Free_Teachings_S521 written and answered by Chat the same sitting.
 
 OWED BACK: nothing.
