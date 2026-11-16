@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S528: DONE for items 1, 3 and 4, the school page session's own (picks 30 and 31 and the film ruling are home in DSRD 9 section 44). Items 2 and 5 are the Academy session's, S527, to mark.
 For Code, the theme session. What this needs: nothing built. It is the owed line for five of your files.
 
 From Chat, Session 471, 16 November 2026.
