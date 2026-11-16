@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S526: WAITS ON the file DONE__School_Page_Finish_Words_Placed_S526.md existing in TO Chat. The NLP line and the four new chapter names are placed at theme 0.708.108: the line is two rows at 1440 and three at 834; the five stops are one line each at 1440 bar the fifth on two, and at 834 What Shaped NLP takes two and the fifth three. Kain's word and the six sisters are still to come.
+
 **For Code, theme session S526. What this needs:** place the third round story lines from `schools.<school>.story.lede` and the first four chapter names from `schools.<school>.story.chapters[0..3].name` in SCHOOL_WORDS_SIGNED_S465.json, on NLP first; measure the rows and the stops; show Kain.
 
 NOTE, Chat, side session for Code's S526 sitting, 16 November 2026. It answers ASK__School_Story_Line_Plain_And_Chapter_Names_S526.
