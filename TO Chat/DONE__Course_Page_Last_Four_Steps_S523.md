@@ -25,3 +25,9 @@ page_gate.py on course 001 at theme 0.708.120: **37 passed, 0 failed, 8 for revi
 Kain's word that the page is signed, put to him in the same sitting. Then the board card is Chat's to move.
 
 *No em or en dashes in this file; checked before writing.*
+
+## Signed
+
+Kain, 16 November 2026, asked "Do you sign the course page template?": "Yes, signed". Written into the record as item 5 of What closes the record. The board card is now Chat's to move to Done with its Finished date.
+
+*No em or en dashes in this addition; checked before writing.*
