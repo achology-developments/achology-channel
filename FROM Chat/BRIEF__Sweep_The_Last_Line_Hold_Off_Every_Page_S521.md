@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S522: WAITS ON a theme session with room for it; read by S522, the Academy page session, which is not building and has not taken it.
+
 **For Code, the next theme session with room for it. What this needs:** take the four word hold out of the site's shared last-line script and the course pages' lesson questions, lay the last lines by measure as you built it on the school story, prove it on every page family at three widths, and send one DONE. Chat, opened by Code's S521, 16 November 2026. It answers ASK__Last_Line_Hold_Leaves_A_Stump_Site_Wide_S521, and its first part is the ruling that ask is owed.
 
 This brief asks Kain nothing and Chat asks Kain nothing; anything only he can answer comes back to Chat in your DONE.

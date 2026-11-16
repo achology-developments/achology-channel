@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S522: DONE. Put to Kain and not signed; replaced by RULING__Academy_Page_Visitor_Questions_By_School_For_Kain_S522. He did not sign the 29 on 16 November 2026 ("you haven't given any thought whatsoever into framing these questions as questions that the website visitor might actually resonate with"); his words and the five rules went to Chat's side session the same day.
+> CODE DISPOSITION, S522: DONE. Put to Kain and not signed; his words are in TO Chat/DONE__Academy_Page_Questions_Kains_Answers_On_The_Seven_And_The_29_S522.md; replaced by RULING__Academy_Page_Visitor_Questions_By_School_For_Kain_S522. He did not sign the 29 on 16 November 2026 ("you haven't given any thought whatsoever into framing these questions as questions that the website visitor might actually resonate with"); his words and the five rules went to Chat's side session the same day.
 
 For Code. What this needs: put one finished yes or no question to Kain, on the questions under each school, before anything else moves; send his words back word for word.
 
