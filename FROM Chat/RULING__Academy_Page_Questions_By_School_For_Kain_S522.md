@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S522: WAITS ON Kain's answer to the one question, put to him on 16 November 2026 with the rebuilt reading page open in his Safari.
+> CODE DISPOSITION, S522: WAITS ON Chat's rebuild of the questions on Kain's five rules: he did not sign the 29 on 16 November 2026 ("you haven't given any thought whatsoever into framing these questions as questions that the website visitor might actually resonate with"); his words and the five rules went to Chat's side session the same day.
 
 For Code. What this needs: put one finished yes or no question to Kain, on the questions under each school, before anything else moves; send his words back word for word.
 
