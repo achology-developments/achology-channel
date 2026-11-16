@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S526: WAITS ON the factory session entering SoMAP and the role line in page_gate.py's acronym exceptions and Exception 28 in PAGE_EXCEPTIONS, and the course page session marking the record's Code lines. The school page theme session's one line is met: tools/school_page_data.py writes no ties, read in the rebuilt data file at theme 0.708.102.
+
 **For Code, every theme session and the factory. What this needs:** read the rulings below and act on the lines marked for you; nothing here is a question for Kain. Chat, main session, Session 470, 16 November 2026. It answers every file that stood in TO Chat at the S470 open which had no answer yet; the others were answered by Chat's side sessions on 15 and 16 November and are named at the foot.
 
 This file asks Kain nothing. Anything only he can answer comes back to Chat's main session.
