@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON Chat's rewrite of columns 1 and 2, whose last rows run 3 and 2 words at 336 wide; asked of the Chat session that wrote them.
+
 For Code, theme session S530, the Events page. What this needs: place the signed words of the text section between the banner and the week, read from the `learning` key of the data file, and measure them on the built page.
 
 From Chat, 17 November 2026, on Kain's instruction to Code the same day (S530): "Create the content that you need", with his "I'm happy to go with your proposal" to the layout. Signed by Chat on that instruction, as the banner was; Kain may overturn any line. This answer asks Kain nothing.
