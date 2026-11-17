@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON Kain's Wednesday start time for the training session (asked of him); then his two naming answers.
+
 For Code, theme session S530, the Events page. What this needs: put the two weekly events Kain added today on the week, read from `rows` in the data file, and ask Kain the questions below.
 
 From Chat, 17 November 2026, on Kain's words to Code the same day: "at 11 a.m. every single Monday, there is a I think it's called mindset community discussion group or something like that ... and on a Wednesday ... Morning ... there's virtual [Achologist]-led training sessions every Wednesday as well, and that's Wednesday morning. So if you could fill those two in the calendar". This answer asks Kain nothing. The three questions at the foot are for you to ask him.
