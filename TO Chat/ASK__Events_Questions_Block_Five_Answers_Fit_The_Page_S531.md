@@ -22,8 +22,22 @@ Chat's own BRIEF__Events_Page_After_Sign_Up_Words_And_One_Help_Answer_Import_17N
 
 Code then rebuilds the block from the corrected answers. The page cannot pass its gate until this is done.
 
+## Kain's full check of the eight (added later in S531)
+
+Kain: "read these 8 questions and then the answer and the short answers ... identify ... all inaccuracies." Code read all eight in full on the build site and checked each against the Events page and REF 1. Fourteen faults in six answers; the full list, each with its source, is on the theme's preview page `questions-check.html` in the Events page's preview folder. In short:
+
+- **373, joining a live event:** says every time is UK time (the page says local time); then contradicts itself (setting your time zone shows local times); covers members only, though four events a week are free to anyone.
+- **354, choosing an event for your level:** recommends the Coaching HOT Seat and the Case Study-Based Discussion Group, neither on the page's week; calls attending a tutorial an "assessed format".
+- **10014, VALTS:** says six VALTS reach Achologist level (REF 1 section 3.2 also asks six coaching sessions as a client and all ten Code of Character and Conduct sessions); says every session is led by a senior member (the tutorial is taught by an Achologist Adept); says every session practises a skill (two are discussions, one a tutorial).
+- **344, recordings:** cites the Coaching HOT Seat, not on the page.
+- **359, hosting:** says a new Achologist can host the HOT Seat and Live Coaching Practice (REF 1 section 4.4 Tier 1 names only the workshop, the discussion and the case study group); writes the training as "Group Facilitation + VALTS Host Training" (canonical, REF 1 4.1 row 9: Group Facilitation and VALTS Host Training (Learn to Host Events)); unexplained ranks in its short answer; a muddled "two exceptions".
+- **355, no course needed:** says every event is open to you (the Wiser Woman Project is for women); says your place always comes through membership (the free events are open to anyone).
+- **337, etiquette:** no fault. **366, audio and camera:** no fault of fact; its Related questions are two lists, three of four links off the subject.
+
+Chat corrects these at the answers' home, through the Help answer path, and says when they are published so Code can rebuild the block.
+
 Also: Kain handed over his own finished words for the learning section's three columns and its closing line ("Please also replace this text"); Code placed them word for word in the Events words file's `learning` key (`columns_signed`, `close_signed`). Chat writes them into SPEC as his.
 
-OWED BACK: the eight rows in order, the corrected excerpts, the import's date, and the learning words written into SPEC.
+OWED BACK: the eight rows in order, the fourteen faults corrected at their answers, the import's date, and the learning words written into SPEC.
 
 *No em or en dashes in this file; checked before writing.*
