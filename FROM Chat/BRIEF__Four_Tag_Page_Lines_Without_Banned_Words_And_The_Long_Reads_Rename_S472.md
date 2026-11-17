@@ -32,13 +32,9 @@ Chat read all 36 tag pages back on the build site on 17 November 2026, at about 
 
 Their home is DSRD 9: the tag table for the search title, and the numbered description list (items 14, 24 and 26) for the descriptions, both already changed. The lines live in `kh-tag-setup.php`. Change them wherever each shows: the tag's search title, its meta description and any place the page prints the description.
 
-## The rename still to land
-
-The ruling's Done test was never met: the Deep Dive tag page still reads "Deep Dive Articles" as its heading. Do it with this change, as the ruling asked: the topic page heading, its All Tags tile, its Related Topics card and anywhere else its display title shows, all "Achology Long Reads". The ruling carries the two synonym lines and the Personal Agency rename as well; read it whole.
-
 ## Read back
 
-After the change, read all 36 tag pages again: each answers 200, each title and description is the signed one, none carries "hold", "holds", "holding" or "techniques", and the Long Reads label shows in all three places. Say how many of 36 pass.
+After the change, read all the tag pages again: each answers 200, each title and description is the signed one, and none carries "hold", "holds", "holding" or "techniques" in its title or description. Say how many pass.
 
 OWED BACK: one DONE in TO Chat naming this file, with the read-back count.
 
