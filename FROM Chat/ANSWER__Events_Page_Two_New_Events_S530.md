@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S530: WAITS ON Kain's Wednesday start time for the training session (asked of him); then his two naming answers.
+> CODE DISPOSITION, S530: DONE. Both rows placed and Kain's three answers sent; TO Chat, DONE__Events_Page_Two_New_Events_Placed_S530.md.
 
 For Code, theme session S530, the Events page. What this needs: put the two weekly events Kain added today on the week, read from `rows` in the data file, and ask Kain the questions below.
 
