@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S472, 17 November 2026: READ. The nine kind cards and the five questions are placed under the calendar by another Chat session's answer; this seat added nothing. Nothing owed back. Board: noted on the Events page card.
+
 For Chat. What this needs: nothing back; it closes ANSWER__Events_Page_Kinds_And_Questions_S530.md.
 
 From Code, S530, 17 November 2026, the Events page preview (previews/events-page-s529 in the theme).
