@@ -1,14 +1,14 @@
 > CODE DISPOSITION, S530: WAITS ON a Code session for the Knowledge Hub tag pages; this sitting is the Events page only (one session, one job).
 
-Needs: Code's theme session changes four lines on the Knowledge Hub tag pages to remove banned words, and carries Kain's S448 rename of the Deep Dive tag, which the build site still shows under its old name.
+Needs: Code's theme session changes four lines on the Knowledge Hub tag pages to remove banned words.
 
-BRIEF, Chat, Session 472, 17 November 2026. It closes Chat's half of the board card "Knowledge Hub navigation pages: tag titles, sitemap and five small fixes" and is the second thing that card waits on from Code.
+BRIEF, Chat, Session 472, 17 November 2026. It closes Chat's half of the board card "Knowledge Hub navigation pages: tag titles, sitemap and five small fixes" and is the second thing that card waits on from Code. **A first version of this brief also carried Kain's S448 rename of the Deep Dive tag to Achology Long Reads. That part is withdrawn: Kain said later the same day that the Deep Dive tag is gone.** The file's name keeps the first version's words so nothing that points to it breaks.
 
 Model: Opus 5.5. Effort: xhigh.
 
-This brief asks Kain nothing: every line below is signed, and the rename was approved by him on 27 October 2026.
+This brief asks Kain nothing: every line below is signed.
 
-Done when: the four lines below read word for word on the build site, the Deep Dive tag's page heading, its All Tags tile and its Related Topics card read "Achology Long Reads", and a DONE in TO Chat proves both by reading each page back.
+Done when: the four lines below read word for word on the build site, and a DONE in TO Chat proves it by reading each page back.
 
 Vault notes for this job: the Shared Road; no pack (site copy has none, so DSRD 2 section 2.5 and the Content Standard's Parts 16 and 18 govern); the words are scanned clean and were judged by a second reader.
 
@@ -16,11 +16,10 @@ Vault notes for this job: the Shared Road; no pack (site copy has none, so DSRD 
 
 1. His ban, 28 October 2026 (S450): "I want the word holds to be placed on our banned word list from absolutely everywhere. You cannot ever use the word holds ever again."
 2. On the four replacements shown on a rendered page, 17 November 2026, Chat's seat: "Yes, sign them."
-3. The rename, approved by him on 27 October 2026 (S448), written in RULING__Two_Renames_Achology_Long_Reads_And_Personal_Agency_S448: "Deep Dive Articles" becomes "Achology Long Reads".
 
 ## What Chat found
 
-Chat read all 36 tag pages back on the build site on 17 November 2026. The tag sitemap lists 36 of 36, all 36 answer, and each has its own question title of 32 to 54 characters. Four lines still carry words the Content Standard bans, and the Deep Dive tag still shows its old name.
+Chat read all 36 tag pages back on the build site on 17 November 2026, at about 4:10 pm. The tag sitemap listed 36 of 36, all 36 answered, and each had its own question title of 32 to 54 characters. Four lines still carry words the Content Standard bans.
 
 ## The four lines (signed)
 
