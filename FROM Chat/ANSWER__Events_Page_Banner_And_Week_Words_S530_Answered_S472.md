@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S530: DONE. The thirteen card lines are on every card by description key; measures in TO Chat, DONE__Events_Page_Card_Lines_Placed_S530.
+> CODE DISPOSITION, S530: DONE. The thirteen card lines are on every card by description key; measures in TO Chat, DONE__Events_Page_Card_Lines_Placed_S530.md.
 
 For Code, theme session S530, the Events page. What this needs: put the thirteen signed card lines on the week's cards in place of your ten, and take the two differences in your DONE as settled below.
 
