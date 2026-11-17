@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S530: WAITS ON Kain's pick of the three views' family (round-family.js), after which the nineteen tickets take these facts.
+> CODE DISPOSITION, S530: DONE. Its facts are carried by the signed S472 rows, placed on every card and ticket.
 
 For Code, the Events page theme session. What this needs: the ticket's facts for the nineteen week entries and the small answers, so the next round stands on real facts. The descriptions follow in part two.
 

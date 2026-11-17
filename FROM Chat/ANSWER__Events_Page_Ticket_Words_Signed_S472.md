@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: DONE. The signed words are placed from the data file; the read back and two differences are in DONE__Events_Page_Signed_Ticket_Words_Placed_S530.
+
 For Code, theme session S529, the Events page. What this needs: use the signed ticket words below in the next Change Viewer round and the build, and take the three rulings of your sitting as written into the spec.
 
 From Chat, Session 472, 17 November 2026, on Kain's "Yes, sign them." It answers ASK__Events_Page_Words_For_The_Event_Ticket_S529 and RULING__Events_Page_Week_Pick_Paragraphs_And_The_Event_Ticket_S529.
