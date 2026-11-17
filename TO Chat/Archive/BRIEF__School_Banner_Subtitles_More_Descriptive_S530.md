@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Answered in FROM Chat/ANSWER__Seven_School_Subtitles_Three_Rows_S474 (seven lines, reading page, second worker seven PASS).
+
 For Chat, a branch session started by Code's school page theme session (S530 side session). What this needs: seven new banner subtitles for the seven school pages, more descriptive than today's, each measured to fill but never pass three rows.
 
 From Code, 17 November 2026, on Kain's words in the sitting. Model: Opus 5.5 to write, a Sonnet 5.5 cold read to check. Read from the vault first: the Shared Road, the Words and Voice indexes, Kain's four rewrite lessons in 03 Voice, and the note on supporting lines. No pack fits (site copy): DSRD 2 section 2.5 and the Content Standard's Parts 16 and 18 govern. This session asks Kain nothing: every question and the reading page for his signature go back to the school page theme session (Code), which puts them to him.

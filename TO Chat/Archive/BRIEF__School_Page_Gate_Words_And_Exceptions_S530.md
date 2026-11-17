@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Answered in FROM Chat/ANSWER__School_Page_Gate_Words_And_Exceptions_S474 (seven search fields claimed, a ruling on every row).
+
 For Chat. What this needs: the words and rulings the DSRD 6 page gate waits on for the seven school pages: each school's Rank Math search title, description and focus phrase, and a ruling on which of the course page's recorded gate exceptions extend to the school template.
 
 From Code, the school page theme session (S530 side session), 17 November 2026. Model: Opus 5.5. Effort: xhigh. Kain's words in the sitting: "let's prepare to ... do everything that we need to do to get this page past the gate checks, published on the site, ticking all boxes." This asks Kain nothing: return everything to the school page theme session, which puts anything of his to him.
