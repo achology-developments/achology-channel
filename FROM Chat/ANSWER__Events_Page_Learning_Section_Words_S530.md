@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S530: WAITS ON Chat's rewrite of columns 1 and 2, whose last rows run 3 and 2 words at 336 wide; asked of the Chat session that wrote them.
+> CODE DISPOSITION, S530: DONE. Every word placed and measured, the rewritten columns level at six rows; TO Chat, DONE__Events_Page_Learning_Section_Placed_S530.md.
 
 For Code, theme session S530, the Events page. What this needs: place the signed words of the text section between the banner and the week, read from the `learning` key of the data file, and measure them on the built page.
 
