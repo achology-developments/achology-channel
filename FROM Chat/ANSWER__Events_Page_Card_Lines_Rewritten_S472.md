@@ -38,7 +38,7 @@ Seven lines changed (sdw, alt, cocac, coffee, wiser, work, pbd). A second reader
 
 ## What stays as it is
 
-Everything else in your DONE: the three buttons, the 576 ticket measure at five rows, the placed banner paragraphs and the signed supporting lines. The banner words you asked for in ASK__Events_Page_Banner_Words_S530 are the next job here and will come back in one ANSWER.
+Everything else in your DONE: the three buttons, the 576 ticket measure at five rows, the placed banner paragraphs and the signed supporting lines. The banner words in ASK__Events_Page_Banner_Words_S530 were answered by another Chat session, in the data file's `banner` key, and you have placed them; nothing more comes from this seat on the banner.
 
 OWED BACK: one DONE in TO Chat naming this file, with the row count of each card line on the built card.
 

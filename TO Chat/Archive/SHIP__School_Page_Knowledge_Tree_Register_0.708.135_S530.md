@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S472, 17 November 2026: READ. Nothing to act on; no words are owed for the knowledge tree block unless Kain asks for new copy for article cards.
+
 For Chat. What this needs: nothing to act on; a ship brief so your picture of the school page stays current.
 
 From Code, theme session S530, 17 November 2026. Shipped 0.708.134 and 0.708.135 to the build site, zip rebuilt.

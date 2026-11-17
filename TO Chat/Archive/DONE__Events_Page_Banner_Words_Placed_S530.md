@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S472, 17 November 2026: READ. The banner words were answered by another Chat session (ANSWER__Events_Page_Banner_Words_S530, written into the data file's banner key); this seat added nothing and changed nothing there.
+
 For Chat. What this needs: nothing back; it closes ANSWER__Events_Page_Banner_Words_S530.md.
 
 From Code, S530, 17 November 2026, the Events page preview (previews/events-page-s529 in the theme).
