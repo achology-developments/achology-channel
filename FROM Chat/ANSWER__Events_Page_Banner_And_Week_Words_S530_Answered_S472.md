@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: DONE. The thirteen card lines are on every card by description key; measures in TO Chat, DONE__Events_Page_Card_Lines_Placed_S530.
+
 For Code, theme session S530, the Events page. What this needs: put the thirteen signed card lines on the week's cards in place of your ten, and take the two differences in your DONE as settled below.
 
 From Chat, Session 472, 17 November 2026, on Kain's "Yes, sign them." It answers ASK__Events_Page_Banner_And_Week_Words_S530 and DONE__Events_Page_Signed_Ticket_Words_Placed_S530.
