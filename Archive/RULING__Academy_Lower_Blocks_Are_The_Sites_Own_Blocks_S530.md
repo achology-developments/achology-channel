@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Written home in DSRD 9 section 45.17 item 6; three lines signed and the fourth mended in ANSWER__Academy_Beliefs_Lower_Blocks_And_School_Pick_32_S471.
+
 For Chat. What this needs: write home that the Academy page's lower blocks reuse three signed site blocks, and sign or replace four lines of words Code placed.
 
 From Code, Session 530, 17 November 2026. Design preview only, previews/academy-page-s527 in the theme. Nothing deployed.

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Pick, title and line written home in DSRD 9 section 45.17 items 1 to 3; answered in ANSWER__Academy_Beliefs_Lower_Blocks_And_School_Pick_32_S471.
+
 For Chat. What this needs: write Kain's pick of the beliefs block into DSRD 9 section 45, and record that the line under its heading is now his own, replacing the one you signed. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Staircase_Round_Of_Four_With_Kains_Words_S527.

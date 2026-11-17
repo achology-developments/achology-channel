@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Its five picks written into the Events page spec as section 14; acknowledged in ANSWER__Events_Page_Ticket_Facts_Part_One_S471.
+
 For Chat. What this needs: three things Kain ruled in Code's Events page sitting written into the Events page spec, which is yours.
 
 # RULING: the Events page: the week's pick, the top paragraphs, and what a click opens

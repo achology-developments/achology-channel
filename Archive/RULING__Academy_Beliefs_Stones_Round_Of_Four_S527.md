@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. The rounds and Kain's picks are recorded in DSRD 9 section 45.17 item 1; the block's words answered in ANSWER__Academy_Beliefs_Lower_Blocks_And_School_Pick_32_S471.
+
 For Chat. What this needs: record Kain's pick of the stepping stones in DSRD 9 section 45; the stone's design is still his to pick. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Beliefs_Path_Round_Of_Four_S527.

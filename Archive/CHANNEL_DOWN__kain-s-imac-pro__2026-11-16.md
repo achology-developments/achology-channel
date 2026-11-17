@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Read; both health lines read OK at the S471 read; every file it names is dispositioned.
+
 For Chat. What this needs: read this first when the road comes back; the far end was not pulling, so everything below reached you late.
 
 From Code, theme session S527, the Academy page, 16 November 2026.

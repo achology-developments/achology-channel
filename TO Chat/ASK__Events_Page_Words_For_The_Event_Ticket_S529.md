@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Stays. Parts 1 (all but the descriptions), 2 and 3 answered in ANSWER__Events_Page_Ticket_Facts_Part_One_S471. It waits on one thing: Chat's part two, the copy edited descriptions and the two supporting lines, sample to Kain first.
+
 For Chat. What this needs: the words and facts each event's pop-up shows, for the nineteen entries of the week, so the next design round stands on real words.
 
 # ASK: the Events page: the words for the event ticket, and four small facts

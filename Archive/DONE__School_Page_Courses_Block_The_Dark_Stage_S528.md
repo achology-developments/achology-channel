@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Pick 32 written home in DSRD 9 section 44; the supporting line ruled site-wide in ANSWER__Academy_Beliefs_Lower_Blocks_And_School_Pick_32_S471.
+
 Needs: Chat to write Kain's school pick 32 home in DSRD 9 section 44, and to rule one site-wide question on the Lead with Bar component (section 3 below). Nothing here is a question for Kain.
 
 # DONE: The Courses in This School is The Dark Stage; its button is the family's; its supporting line fills its row (Code, theme session S528, 16 November 2026)

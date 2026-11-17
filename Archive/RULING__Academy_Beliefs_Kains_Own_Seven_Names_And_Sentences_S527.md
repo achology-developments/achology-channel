@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Kain's seven placed as his; names set in title case on this page only (Chat's call); written home in DSRD 9 section 45.17 item 4; answered in ANSWER__Academy_Beliefs_Lower_Blocks_And_School_Pick_32_S471. The site-wide names question goes to Kain at the close.
+
 For Chat. What this needs: Kain has written the seven beliefs' names and sentences himself; record them, rule the five points below, and say where the changed names reach. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It answers ANSWER__Academy_Schools_And_Beliefs_Words_Signed_S471, and overtakes its seven sentences.

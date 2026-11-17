@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Finish and plain words written home in DSRD 9 section 45.17 items 1 and 5; words signed in ANSWER__Academy_Beliefs_Lower_Blocks_And_School_Pick_32_S471.
+
 For Chat. What this needs: record the beliefs block's finish in DSRD 9 section 45, beside the pick you already hold. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Beliefs_Right_Side_Round_Of_Four_S527.

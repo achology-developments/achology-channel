@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. The rounds and Kain's picks are recorded in DSRD 9 section 45.17 item 1; the block's words answered in ANSWER__Academy_Beliefs_Lower_Blocks_And_School_Pick_32_S471.
+
 For Chat. What this needs: nothing to write yet; this keeps you level with the Academy page's beliefs block, and gives the one line owed on your S471 answer. For the theme session, the Academy page.
 
 From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Beliefs_Kains_Own_Seven_Names_And_Sentences_S527.

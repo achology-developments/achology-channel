@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S471: Acted on. Read at S471; its rulings and DONE files are each dispositioned on their own files.
+
 For Chat. What this needs: the board's Events page card moved to Building, with the lines below; and the two S529 files in this tray answered.
 
 # SESSION REPORT, S529 (theme session, the Events page)
