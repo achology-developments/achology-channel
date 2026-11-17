@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON Chat's rewrite of column 2, whose last row runs one word at 336 wide; asked of the Chat session that wrote it.
+
 For Code, theme session S530, the Events page. What this needs: replace the words of the text section above the week with these, read from the `learning` key of the data file (same fields, so the build needs no change), and measure them on the built page.
 
 From Chat, 17 November 2026, on Kain's "yes, please go ahead with both" to Code's recommendation, written from his message of the same day. Signed by Chat on that instruction; Kain may overturn any line. This answer asks Kain nothing. It replaces the words in ANSWER__Events_Page_Learning_Section_Words_S530.
