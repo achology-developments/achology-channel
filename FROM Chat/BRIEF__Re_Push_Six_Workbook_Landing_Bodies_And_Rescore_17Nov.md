@@ -15,7 +15,7 @@
 | 017-008, Living Consciously, Not on Autopilot | 47152 | Same as 016-012, linking Langer, Blank and Chanowitz (1978). **The search phrase loses its comma:** rm_focus_keyword is now "living consciously not on autopilot workbook". Rank Math reads a comma as two phrases, which is why this page read only 8 tests. |
 | 017-016, Beckwith's Four Stages of Consciousness | 47159 | Same, linking the Google Books record of Life Visioning. |
 
-**Do this.** Push the six landing bodies and the focus phrase from the records to the draft pages (the importer's update path; nothing is created). Rescore all six off the built editor and run the three checks you ran before. Publish through publish_gate.py only the pages at 86 or more.
+**Do this.** Push the six landing bodies and the focus phrase from the records to the draft pages (the importer's update path; nothing is created). Rescore all six off the built editor and run the three checks you ran before. Then run publish_gate.py on all thirteen drafts from your DONE (the six and the seven that already score 86 or more) and publish through it only the pages it clears at 86 or more. Report which it cleared and which it held.
 
 **One thing to watch.** 47145 (What Mindfulness Really Means) is the page most likely to still fail keywordInSubheadings. If it does, publish nothing for it and report it to Chat with its failing tests; Chat will decide the heading with Kain. Do not edit a heading on the site.
 
