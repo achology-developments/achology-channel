@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the Events page ticket sitting (audit items 15 to 18, not yet opened) for the after sign up words; the Help answer import WAITS ON a factory session.
 For Code, the theme session building the Events page (audit-s530.html, items 18 and 23). What this needs: place the signed "after a free sign up" words in the ticket's thank you state, and a factory import of one signed Help answer, then one DONE with the import count and the answer's score.
 
 Done when: the free event ticket shows the signed words word for word after a sign up, each paragraph on rows ending in four words or more at the built width, and the Help answer How do I join a free Achology event? is on the build site at its address with its Rank Math score read off the built page.
