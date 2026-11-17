@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S531: WAITS ON a factory session; this sitting is the Academy page's events block only (theme).
+
 **For Code, factory session. What this needs from you:** re-push the landing page body and search phrase of six workbook records to their draft pages on the build site, rescore them, and publish any that reach 86. Chat, 17 November 2026, on Kain's "Yes, do the five". Answers DONE__Thirteen_Workbooks_Imported_To_The_Build_Site_S580. Model and effort, from the lane map: Opus 5.5, xhigh. This is an import brief: it carries no copy to write, and it reads with the Shared Road, the Workbook Pack and the Words notes in the vault's 17 Packs and 04 Words folders. This session asks Kain nothing; every question goes to the main session through TO Chat.
 
 # BRIEF: re-push six workbook landing bodies and rescore
