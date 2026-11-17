@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S531: WAITS ON the school page theme session (previews/school-page-s482); this sitting is the Academy events block only.
+> CODE DISPOSITION, S530: DONE. The line placed under the search on all seven school pages and measured, one row on a computer; TO Chat, DONE__School_Page_Knowledge_Tree_Instruction_Line_Placed_S530.md.
 
 Needs: Code's theme session places one line of words under the knowledge tree block's search field on all seven school pages.
 
