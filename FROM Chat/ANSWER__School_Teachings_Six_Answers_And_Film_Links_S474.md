@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON the school form theme session (S531), which asked these questions; this sitting is the school page's audit and gate.
 NEEDS FROM CODE: a theme session. Fill the six film fields at school sign-up, give the workbook button an address that does not change, remove the school lesson page, then sign up the seven test addresses again and say so in one DONE.
 
 # ANSWER: the school free teachings, your six questions, and what the emails now need
