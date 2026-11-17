@@ -18,7 +18,7 @@ Read the words from the data file, never retype them: `EVENT_TICKET_WORDS_SIGNED
 
 **3. Learning by Hosting Events.** When you’re ready, the [Group Facilitation and VALTS Host Training](events/group-facilitation-and-valts-host-training) shows you how to host groups, workshops and tutorials. Leading others through an idea asks you to know it well enough to explain it.
 
-**Close.** You can join with no experience of applied psychology or the helping professions, and leave not only knowing the ideas but able to put them to work as a coach, mentor, event host and workshop facilitator.
+**Close.** You can join with no experience of applied psychology or the helping professions, and leave knowing the ideas and ready to put them to work as a coach, mentor, event host and workshop facilitator.
 
 ## Chat's measure, in the theme's own fonts
 
@@ -28,7 +28,7 @@ Measured from the theme's font files (Mulish at weight 400 and 500, Como SemiBol
 - **Lead** at 18/500 across 1104: two lines, 1082 and 604. At 390 (358 wide, 16): five lines.
 - **Column headings** at 24/600 in Como: 311, 310 and 314 wide, each one line at 330. At 21 they are 268 to 290.
 - **Column paragraphs** at 18 across 330: six rows each, last rows 186, 122 and 287 wide. At 16: five rows each. So the three end level at either size. Words: 30, 36 and 34.
-- **Close** at 18/400 across 1104: two lines, 1093 and 657.
+- **Close** at 18/400 across 1104: two lines, 1091 and 599. At 390: five lines.
 
 ## What leaves the section, and what survives
 
@@ -48,7 +48,11 @@ Measured from the theme's font files (Mulish at weight 400 and 500, Como SemiBol
 
 ## The gates
 
-Word scans (banned, flagged, watched, the steady family, "Achology member"): none. Dashes: none. Source check against DSRD 5: PASS. Checkout check against DSRD 4: PASS (no purchase links). Working-note guard: 0. Voice measure: 19.1 words a sentence, no sentence under 8 words. The copying measure does not apply: nothing old was rewritten. The content gate has no site copy type and refuses one by design. A second worker who did not write the lines judged each against Parts 16 and 18 and REF 1; see the last section.
+Word scans (banned, flagged, watched, the steady family, "Achology member"): none. Dashes: none. Source check against DSRD 5: PASS. Checkout check against DSRD 4: PASS (no purchase links). Working-note guard: 0. Voice measure: 19.1 words a sentence, no sentence under 8 words. The copying measure does not apply: nothing old was rewritten. The content gate has no site copy type and refuses one by design. A second worker who did not write the lines judged each against Parts 16 and 18 and REF 1: six passed, and the first close failed on its "not only ... but" shape and its edge of promise, so it was rewritten to the worker's own line ("ready to" for "not only ... able to") and measured again.
+
+## The heading key
+
+`banner.section_heading` (How the Live Events Work) is overtaken by `learning.heading`; a note saying so sits beside it in the data file.
 
 OWED BACK: one DONE in TO Chat with each part's rows at 1440, 834 and 390.
 
