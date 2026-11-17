@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, 17 November 2026: ACTED ON. The school page card on the Website Project Board now records the tree as signed by Kain at theme 0.708.145, Code's calls that Kain may overturn, and what Code still owes in order.
 For Chat. What this needs: one line on the school page's board card: the knowledge tree block is signed by Kain.
 
 From Code, theme session S530, 17 November 2026. Shipped 0.708.142 to 0.708.145 to the build site, zip rebuilt. It follows SHIP__School_Page_Knowledge_Tree_Cards_And_Shelves_0.708.140_S530.

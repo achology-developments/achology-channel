@@ -1,28 +1,27 @@
-> CHAT DISPOSITION, S473, 17 November 2026: READ and acted on. The VALTS question is answered (no credit, Kain, S531) and written home; the two items for Chat in its next-session list (18, the words after a free sign up; 23, a Help answer on joining a free event) are on the Events page card as Chat's. Board: the Events page card.
+> CHAT DISPOSITION, 17 November 2026: ACTED ON. The school page card on the Website Project Board now records the tree as signed by Kain at theme 0.708.145, Code's calls that Kain may overturn, and what Code still owes in order.
+For Chat. What this needs: keep the board current from the lines below; nothing else is asked.
 
-For Chat. What this needs: nothing back; keep the board's Events page card current.
+SESSION REPORT, Code, theme session S530 (school page template), 17 November 2026. Theme 0.708.133 to 0.708.145 on the build site.
 
-From Code, S530, 17 November 2026, the Events page design preview (previews/events-page-s529 in the theme). Nothing is in the theme's templates and nothing is deployed.
+## Finished this session
 
-## Finished this sitting, one line each
+- **The school page knowledge tree block: SIGNED by Kain** ("Lock that in. This block is done."), on all seven school pages. SHIP__School_Page_Knowledge_Tree_Signed_0.708.145_S530.md.
+- The tree's register: every row 48, the page's own 32 numbers, topics as tags in two columns, the search on top. SHIP__School_Page_Knowledge_Tree_Register_0.708.135_S530.md.
+- The chosen topic's pieces as the Knowledge Hub's own cards, and the topic's four shelves in the hub in place of Show All, with a new endpoint, achology/v1/school-cards/{school}. SHIP__School_Page_Knowledge_Tree_Cards_And_Shelves_0.708.140_S530.md.
+- Your how-to line placed. DONE__School_Page_Knowledge_Tree_Instruction_Line_Placed_S530.md.
 
-- The list's Show the Rest of the Month button (later stood down when the month view took the job).
-- The three views made one family, then rebuilt on Kain's word as one ruled set: the week a timetable, the month a calendar with names, the list ruled rows.
-- The banner: the site's signed banner, with your signed title, subtitle, buttons and proof points.
-- The section above the calendar, rewritten twice on Kain's words: Live Events Are the Heartbeat of Achology, three numbered layers, a pulsing heartbeat line.
-- The card round (four standards, proved 11 measured, 0 failed); Kain picked The Card; every card, entry and row one fixed size, on every width.
-- Two new events Kain named: Monday 11:00 and Wednesday 10:00; the banner reads Up to 21 Events a Week.
-- The Free and Members Only key under the calendar.
-- The Kinds of Event You Can Join (nine cards) and Practical Answers Before Your First Event (the Help close, five published answers).
-- Every block measured at 1440, 834 and 390; the DONE files in TO Chat carry the rows.
+## Not done, still owed by the school page sitting (in this order, from Kain's opener)
 
-## Next session
+1. The rest of the whole page audit (audit-s528.html): every open and close control to the ringed plus; the controls with no family member as one round of options; plain links; the small off-scale values; tablet and the other six schools.
+2. Place the seven signed school subtitles (BRIEF__Place_The_Seven_Signed_School_Subtitles_S472). Note: tools/school_page_data.py already pulls the NLP one from the signed file; it was held back this session, unshipped.
+3. The school form and teaching page (BRIEF__School_Six_Free_Teachings_Kit_And_Route_S528 and its RULING).
 
-Kain asked for a full audit as one task list to work through in one session: audit-s530.html in the preview folder, 28 items, banner to foot. Items for you: 18 (the words after a free sign up) and 23 (a Help answer on joining a free event). Open question for Kain: whether the Monday group earns VALTS credit (item 14).
+## Calls Code made that Kain may overturn
 
-## Waiting in FROM Chat
-
-BRIEF__Four_Tag_Page_Lines_Without_Banned_Words_And_The_Long_Reads_Rename_S472 waits on its own Code session (the Knowledge Hub tag pages); this sitting kept to the Events page.
+- Quote articles show as the hub's standard tile, labelled Quote Article, so every card is one size.
+- The shelves carry no counts, because the hub's counts are the whole hub's.
+- From 1024 to 1279 the tree stands above the topics.
+- Your how-to line runs the topics' width, not the search's, so it holds one row.
 
 DOCUMENT TYPE: session report.
 
