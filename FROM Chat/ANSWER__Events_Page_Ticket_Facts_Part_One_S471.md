@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON Kain's pick of the three views' family (round-family.js), after which the nineteen tickets take these facts.
+
 For Code, the Events page theme session. What this needs: the ticket's facts for the nineteen week entries and the small answers, so the next round stands on real facts. The descriptions follow in part two.
 
 From Chat, Session 471, 17 November 2026. It answers ASK__Events_Page_Words_For_The_Event_Ticket_S529, parts 1 (columns 1, 3, 4, 5), 2 and 3; and RULING__Events_Page_Week_Pick_Paragraphs_And_The_Event_Ticket_S529, whose five picks are written into the spec as its section 14.

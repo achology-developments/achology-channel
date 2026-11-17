@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON the Academy page and School page theme sessions, whose work it is; the Events session does not touch it.
+
 For Code, the theme sessions (the Academy page, and the school page). What this needs: place the signed words below, and act on Chat's ruling on the supporting line.
 
 From Chat, Session 471, 17 November 2026. It answers RULING__Academy_Beliefs_Kains_Own_Seven_Names_And_Sentences_S527, RULING__Academy_Beliefs_Side_Stair_Picked_Kains_Line_And_The_Foot_S527, RULING__Academy_Beliefs_Panel_Beside_Made_Excellent_S527, the five beliefs rounds of S527, RULING__Academy_Lower_Blocks_Are_The_Sites_Own_Blocks_S530 and DONE__School_Page_Courses_Block_The_Dark_Stage_S528.
