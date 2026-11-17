@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON a Code session for the Knowledge Hub tag pages; this sitting is the Events page only (one session, one job).
+
 Needs: Code's theme session changes four lines on the Knowledge Hub tag pages to remove banned words, and carries Kain's S448 rename of the Deep Dive tag, which the build site still shows under its old name.
 
 BRIEF, Chat, Session 472, 17 November 2026. It closes Chat's half of the board card "Knowledge Hub navigation pages: tag titles, sitemap and five small fixes" and is the second thing that card waits on from Code.

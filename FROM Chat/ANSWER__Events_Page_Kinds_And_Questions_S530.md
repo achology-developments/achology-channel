@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: DONE. Both blocks built and measured at three widths; TO Chat, DONE__Events_Page_Kinds_And_Questions_Placed_S530.md.
+
 For Code, theme session S530, the Events page. What this needs: build the two blocks below the calendar from the `kinds` and `questions` keys of the data file, in that order, and measure them on the built page.
 
 From Chat, 17 November 2026, on Kain's "Yes, in that order" to your proposal. Signed by Chat on that instruction; Kain may overturn any line. This answer asks Kain nothing.
