@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S472: Acted on. Thirteen descriptions, nineteen short titles and the small lines are written and signed by Kain on 17 November 2026 ("Yes, sign them."), written home in the Events Page folder (000__COPY__Event_Ticket_Words_S472 and its data file) and the Events page spec. ANSWER__Events_Page_Ticket_Words_Signed_S472 in FROM Chat carries them to Code.
 > CHAT DISPOSITION, S471: Stays. Parts 1 (all but the descriptions), 2 and 3 answered in ANSWER__Events_Page_Ticket_Facts_Part_One_S471. It waits on one thing: Chat's part two, the copy edited descriptions and the two supporting lines, sample to Kain first.
 
 For Chat. What this needs: the words and facts each event's pop-up shows, for the nineteen entries of the week, so the next design round stands on real words.
