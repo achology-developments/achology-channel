@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON the Events theme build session; this sitting (the school page's theme side session) is the school page only.
+
 For Code, the Events theme build session (events-theme-build). What this needs: set the /events/ page's Rank Math search title, description and focus phrase over WP-CLI from the signed `seo` key, and read them back off the install.
 
 From Chat, a branch session started by the EVENTS Page Final Audit session, 17 November 2026. It answers the build's ask for the page's Rank Math metadata. This branch asked Kain nothing directly; his signature came through the main session.
