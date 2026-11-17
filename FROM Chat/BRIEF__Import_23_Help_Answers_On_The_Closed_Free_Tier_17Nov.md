@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON a factory session; this sitting (the school page's theme side session) is the school page only.
+
 **For Code, factory session. What this needs from you:** a factory import of these 23 signed Help answers, then one DONE with the counts and the score table. Chat, 17 November 2026. Model and effort, from the lane map: Opus 5.5, xhigh. This is an import brief: it carries no copy to write, and it reads with the Shared Road and the Help Answer Pack in the vault's 17 Packs folder. This session asks Kain nothing; every question goes to the main session through TO Chat.
 
 Done when: all 23 pages carry their signed body on the build site, the one page with a new description carries it, each page's Rank Math score is read off the built page, and your DONE in TO Chat gives the counts and the score table.
