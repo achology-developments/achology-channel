@@ -22,6 +22,8 @@ Chat's own BRIEF__Events_Page_After_Sign_Up_Words_And_One_Help_Answer_Import_17N
 
 Code then rebuilds the block from the corrected answers. The page cannot pass its gate until this is done.
 
-OWED BACK: the five rows in order, the corrected excerpts, and the import's date.
+Also: Kain handed over his own finished words for the learning section's three columns and its closing line ("Please also replace this text"); Code placed them word for word in the Events words file's `learning` key (`columns_signed`, `close_signed`). Chat writes them into SPEC as his.
+
+OWED BACK: the six rows in order, the corrected excerpts, the import's date, and the learning words written into SPEC.
 
 *No em or en dashes in this file; checked before writing.*
