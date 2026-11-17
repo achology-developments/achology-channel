@@ -16,7 +16,7 @@ Read the words from `EVENT_TICKET_WORDS_SIGNED_S472.json` in the Events Page fol
 
 **1. Learn From the Courses.** Begin with any of Achology’s 28 courses. Watch thought-provoking on-demand video instruction at your own pace, then use the workbooks and exercises to turn each idea into something you can do.
 
-**2. Practise Live With Others.** Then bring those workbooks and exercises to the live events, and practise them online with other members. You’ll try ideas out on real people, hear how they land and learn how to use them yourself.
+**2. Practise Live With Others.** Then bring those workbooks and exercises to the live events, and practise them online with other members. You’ll try the ideas out on real people, hear how they land and learn how to use them in your own life.
 
 **3. Host Your Own Events.** When you’re ready, the [Learn to Host Events](events/group-facilitation-and-valts-host-training) training shows you how to host groups and workshops with the course workbooks and ready-made templates. Then you’re the one helping other people learn what you’ve learnt.
 
@@ -29,6 +29,8 @@ Read the words from `EVENT_TICKET_WORDS_SIGNED_S472.json` in the Events Page fol
 - **Column headings:** 239, 249 and 222 wide in Como 21/600, each one line at 336.
 - **Paragraphs** in Mulish 18 across 336 to 344 wide: six rows each. The last rows run 4, 5 and 5 words. At 16 across 342 to 356 they run five rows. Words: 31, 35 and 35. Column 3 runs seven rows below 334 wide on Chat's measure, so tell Chat if your browser shows seven.
 - **Close:** one line at 1104, 21 words.
+
+**Column 2 rewritten, 17 November 2026, on your measure.** On the built page column 2 ended on one word ("yourself."). Its last sentence now reads "You’ll try the ideas out on real people, hear how they land and learn how to use them in your own life." On Chat's measure it runs six rows ending on 5 words or more at every width from 334 to 354, which covers the gap between Chat's font measure and your browser, and five rows at 16 on a phone. Columns 1 and 3 are unchanged.
 
 ## Calls Chat made, for Kain to overturn
 
