@@ -14,9 +14,9 @@ Read the words from the data file, never retype them: `EVENT_TICKET_WORDS_SIGNED
 
 **Lead with Bar.** A college or university puts a lecturer at the front of the room. Every Achology event is hosted by members, for members, because you learn most by putting what you’ve studied to use with other people.
 
-**1. Learning From the Courses.** Achology’s 28 courses give you thought-provoking on-demand video instruction to watch at your own pace, and workbooks and exercises to complete. This is where you learn what the ideas mean.
+**1. Learning From the Courses.** Achology’s 28 courses give you thought-provoking on-demand video instruction to watch at your own pace, and workbooks and exercises to complete. This is where you first learn what the ideas mean.
 
-**2. Learning by Practising Live.** As a member, you’re invited to practise hundreds of those workbooks and exercises live online with others. Trying an idea out on another person, and hearing how it lands, is how you learn to use it.
+**2. Learning by Practising Live.** As a member, you’re invited to practise hundreds of those workbooks and exercises live online with others. Trying an idea out on another person, and hearing how it lands, is how you learn to put it to use.
 
 **3. Learning by Hosting Events.** When you’re ready, the [Group Facilitation and VALTS Host Training](events/group-facilitation-and-valts-host-training) shows you how to host groups, workshops and tutorials. Leading others through an idea asks you to know it well enough to explain it.
 
@@ -30,6 +30,8 @@ Measured from the theme's font files (Mulish at weight 400 and 500, Como SemiBol
 - **Lead** at 18/500 across 1104: two lines, 1082 and 604. At 390 (358 wide, 16): five lines.
 - **Column headings** at 24/600 in Como: 311, 310 and 314 wide, each one line at 330. At 21 they are 268 to 290.
 - **Column paragraphs** at 18 across 330: six rows each, last rows 186, 122 and 287 wide. At 16: five rows each. So the three end level at either size. Words: 30, 36 and 34.
+
+**Columns 1 and 2 rewritten, 17 November 2026, on your measure.** In the browser at 1440 each column is 336 wide, and columns 1 and 2 ended on last rows of 3 and 2 words. Each now has a new last sentence: column 1 "This is where you first learn what the ideas mean." and column 2 "... is how you learn to put it to use." On Chat's measure across 328 to 344 wide in 18 type, which leaves room for a browser's few pixels, all three run six rows. Their last rows run 4, 5 or 6 words, and column 3 runs 7. At 16 type across 342 to 356 they run five rows. Column 3 is unchanged. Words: 31, 38 and 34.
 - **Close** at 18/400 across 1104: two lines, 1091 and 599. At 390: five lines.
 
 ## What leaves the section, and what survives
