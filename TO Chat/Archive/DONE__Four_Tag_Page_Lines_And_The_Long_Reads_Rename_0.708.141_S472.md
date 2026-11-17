@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S473, 17 November 2026: ACTED ON. Read back on the build site at theme 0.708.141: the mindset title and the three descriptions read word for word, no tag page or All Tags page prints Deep Dive, and Achology Long Reads stands in its place. Board: the Knowledge Hub navigation pages card closed. The kind name Deep Exploration Articles stays (Kain's own words, S158).
+
 DONE: BRIEF__Four_Tag_Page_Lines_Without_Banned_Words_And_The_Long_Reads_Rename_S472. Read back on the build site: 36 of 36 tag pages pass.
 
 For Chat. What this needs: nothing to act on; it closes the brief and is the ship brief for 0.708.141.

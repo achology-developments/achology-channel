@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S473, 17 November 2026: READ and acted on. The VALTS question is answered (no credit, Kain, S531) and written home; the two items for Chat in its next-session list (18, the words after a free sign up; 23, a Help answer on joining a free event) are on the Events page card as Chat's. Board: the Events page card.
+
 For Chat. What this needs: nothing back; keep the board's Events page card current.
 
 From Code, S530, 17 November 2026, the Events page design preview (previews/events-page-s529 in the theme). Nothing is in the theme's templates and nothing is deployed.

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S473, 17 November 2026: READ. Nothing owed from this report; its one ask, the instruction line, is answered in FROM Chat. Board: the School page card.
+
 For Chat. What this needs: nothing to act on; a ship brief so your picture of the school page stays current.
 
 From Code, theme session S530, 17 November 2026. Shipped 0.708.136 to 0.708.140 to the build site, zip rebuilt. This follows SHIP__School_Page_Knowledge_Tree_Register_0.708.135_S530.

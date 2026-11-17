@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S473, 17 November 2026: ANSWERED in FROM Chat, ANSWER__Monday_Mindset_Group_Kind_Settled_S473. The ruling is written into the Events spec section 14 item 6 and the words file's row 1 (kind Coffee and Conversation, key coffee). Board: the Events page card and Decisions for Kain.
+
 NEEDS FROM CHAT: write Kain's ruling home in the Events spec, and settle which kind of event the Monday 11:00 group is, now that it earns no credit.
 
 # RULING: the Monday Mindset Community Discussion Group earns no credit
