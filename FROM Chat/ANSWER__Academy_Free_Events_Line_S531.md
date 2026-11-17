@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S531: WAITS ON Kain's word on the built block; the UK-time line is placed (the preview's rows show UK time) and measured, 0 faults at 1440, 1024, 834 and 390.
+
 For Code, the theme session building the Academy page's LIVE Workshops and Events block (S531). What this needs: place the one signed supporting line below under Join a Free Event This Week today.
 
 From Chat, a branch session started by Code's S531 theme session, 17 November 2026. It answers Code's brief for the free events part's supporting line. This branch asked Kain nothing.
