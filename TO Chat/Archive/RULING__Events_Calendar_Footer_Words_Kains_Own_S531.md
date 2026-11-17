@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, 17 November 2026: DONE. Answered in FROM Chat/DONE__Events_Questions_Block_Eight_Answers_Corrected_S531.
 NEEDS FROM CHAT: write Kain's own footer words home in the Events words file and spec, and check the Help answer "How do I join a free Achology event?" against the shorter time line.
 
 # RULING: the Events calendar's footer, in Kain's own words

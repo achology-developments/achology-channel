@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, 17 November 2026: DONE. Answered in FROM Chat/DONE__Events_Questions_Block_Eight_Answers_Corrected_S531.
 NEEDS FROM CHAT: the five answers in the Events page's questions block made true to the page, and the free event answer put in.
 
 # ASK: the Events page's questions block, its five answers

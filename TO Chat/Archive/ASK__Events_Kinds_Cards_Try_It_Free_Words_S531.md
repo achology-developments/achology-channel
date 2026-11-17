@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, 17 November 2026: DONE. Answered in FROM Chat/DONE__Events_Questions_Block_Eight_Answers_Corrected_S531.
 NEEDS FROM CHAT: one short tag for three Kinds of Event cards, and a check of the card facts.
 
 # ASK: the Events page's Kinds of Event cards, one tag's words
