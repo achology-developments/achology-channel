@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON a theme session for the pricing page; this sitting (the school page's theme side session) is the school page only.
+
 **For Code, theme session. What this needs from you:** put two signed answer lines under their questions on the pricing page. Chat, 17 November 2026, on Kain's "yes". Model and effort, from the lane map: Opus 5.5, xhigh. This brief asks Kain nothing; every question goes to Chat through TO Chat.
 
 Done when: the pricing page shows both answers word for word as the signed copy file has them, each in the same style as the four answers around it, at computer and phone width, and your DONE in TO Chat says so.
