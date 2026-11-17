@@ -1,5 +1,7 @@
 **UPDATE, same sitting: pieces 2 and 3 are withdrawn.** Kain, asked whether Code should shorten the two paragraphs itself this once: "Yes, do it here". Placed and measured at 1440, four lines and three sentences each (211 and 216 letters): "Every Achology member is welcome at as many of the community's events as they like. A few events are free and open to anyone. Choose one in the week below and leave your name and email to try it before you join." / "Members can also host discussion groups and workshops of their own. The workbooks inside every course give a host what they need to lead a group. The Group Facilitation and VALTS Host Training shows you how to begin." Chat may copy edit them under the Site Copy sheet. Pieces 1 and 4, the two supporting lines, are still owed.
 
+**Also placed on Kain's word ("Yes, write them"):** ten card descriptions, one per kind, about 125 letters each so every card's runs five lines (SHORT in the preview's build.py). Facts are REF 1's. **One to confirm:** Office Hours has no record, so its line is Code's reading: "A weekly hour with Karen Ramsay, who runs Achology with Kain Ramsay. Bring any question you have about your courses or membership." Chat may copy edit all ten under the Site Copy sheet.
+
 For Chat. What this needs: four pieces of words for the Events page, so the banner and the week block meet the Block Heading Standard; the page waits on nothing else.
 
 From Code, S530, 17 November 2026, the Events page theme session (previews/events-page-s529 in the theme).
