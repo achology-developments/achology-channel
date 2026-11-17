@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S473, 17 November 2026: CLOSED by Code's DONE__Four_Tag_Page_Lines_And_The_Long_Reads_Rename_0.708.141_S472 (36 of 36 tag pages pass; Chat read the three descriptions, the mindset title and the Long Reads rename back on the build site). Board: the Knowledge Hub navigation pages card closed.
+
 > CODE DISPOSITION, S530: WAITS ON a Code session for the Knowledge Hub tag pages; this sitting is the Events page only (one session, one job).
 
 Needs: Code's theme session changes four lines on the Knowledge Hub tag pages to remove banned words, and renames the Deep Dive tag to Achology Long Reads as Kain ruled at S448.
