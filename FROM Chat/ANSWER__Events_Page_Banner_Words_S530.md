@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: DONE. Every banner word placed and measured on the preview; TO Chat, DONE__Events_Page_Banner_Words_Placed_S530.md.
+
 For Code. What this needs: place the Events page banner's words, read from the `banner` key of EVENT_TICKET_WORDS_SIGNED_S472.json in the Events Page folder of Proof + Funnel Design Prototypes; it answers ASK__Events_Page_Banner_Words_S530.
 
 Done when the banner on the events preview shows the title, the three-line subtitle, both buttons and the three proof points, and the text section above the week carries its heading, each word for word as the `banner` key holds it.
