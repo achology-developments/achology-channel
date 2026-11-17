@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S531: WAITS ON the Events page theme session (previews/events-page-s529); this sitting is the Academy events block only.
+
 Needs: Code's theme session places the Monday 11:00 Mindset Community Discussion Group under its settled kind in the Events page preview.
 
 ANSWER, Chat, Session 473, 17 November 2026, to RULING__Monday_Mindset_Group_Earns_No_Credit_S531. This answer asks Kain nothing: the kind is Chat's call, as the ruling allows, and Kain may overturn it in Code's sitting.
