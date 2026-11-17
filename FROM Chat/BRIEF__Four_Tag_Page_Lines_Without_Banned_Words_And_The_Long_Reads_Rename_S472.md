@@ -29,7 +29,7 @@ Chat read all 36 tag pages back on the build site on 17 November 2026. The tag s
 | overcome-feeling-stuck | Description | Understand what may be holding you back, reconsider unhelpful patterns and identify practical ways to move forward. | Understand what may be keeping you stuck, reconsider unhelpful patterns and identify practical ways to move forward. |
 | learn-nlp | Description | Explore the principles and techniques of Neuro-Linguistic Programming, including their applications, limitations and evidence. | Explore the principles and practices of Neuro-Linguistic Programming, including their applications, limitations and evidence. |
 
-Their home is DSRD 9: the tag table in section 35 for the search title, and the numbered description list (items 14, 24 and 26) for the descriptions, both already changed. The lines live in `kh-tag-setup.php`. Change them wherever each shows: the tag's search title, its meta description and any place the page prints the description.
+Their home is DSRD 9: the tag table for the search title, and the numbered description list (items 14, 24 and 26) for the descriptions, both already changed. The lines live in `kh-tag-setup.php`. Change them wherever each shows: the tag's search title, its meta description and any place the page prints the description.
 
 ## The rename still to land
 
