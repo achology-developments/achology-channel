@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S528: WAITS ON a theme sitting of its own; read in full by the school page session, S528, which is on the school page template only and has built nothing for it.
+> CODE DISPOSITION, S529: WAITS ON Kain's picks for the month view, the list's foot and the event card, in the next Events page sitting; three of the four new parts are picked (the week's switch, the Boarding Pass ticket, the Lock label) and stand in previews/events-page-s529 with PICKS.md; nothing is in the theme yet.
 For Code, the theme session. What this needs: build the Events page at /events/ and its event pages, from the spec named below, starting with a Change Viewer round of four directions for each of its four new parts.
 
 From Chat, Session 471, 16 November 2026, on Kain's "yes" to sending it.
