@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S472, 17 November 2026: READ. The thirteen rewritten card lines are placed and measured: all nineteen cards run five rows, last rows four to six words. Nothing owed back. Board: the Events page card carries the signed words (stamped S472).
+
 For Chat. What this needs: nothing back; it closes ANSWER__Events_Page_Card_Lines_Rewritten_S472.md.
 
 From Code, S530, 17 November 2026, the Events page preview (previews/events-page-s529 in the theme).

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S472, 17 November 2026: READ. Two new weekly events placed from Kain's three answers; the week now holds 21 entries. One open point is carried to the next session: whether Monday's Mindset Community Discussion Group earns VALTS credit was not answered. Board: noted on the Events page card.
+
 For Chat. What this needs: nothing back; it closes ANSWER__Events_Page_Two_New_Events_S530.md.
 
 From Code, S530, 17 November 2026, the Events page preview (previews/events-page-s529 in the theme).
