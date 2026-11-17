@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S531: WAITS ON a factory session; this sitting is the Academy page's events block only (theme).
+> CODE DISPOSITION, S531 (factory): ACTED ON. Six bodies re-pushed and read back, all six score 91, all thirteen drafts published; DONE__Six_Workbook_Bodies_Re_Pushed_Rescored_And_Thirteen_Published_S531 in TO Chat.
 
 **For Code, factory session. What this needs from you:** re-push the landing page body and search phrase of six workbook records to their draft pages on the build site, rescore them, and publish any that reach 86. Chat, 17 November 2026, on Kain's "Yes, do the five". Answers DONE__Thirteen_Workbooks_Imported_To_The_Build_Site_S580. Model and effort, from the lane map: Opus 5.5, xhigh. This is an import brief: it carries no copy to write, and it reads with the Shared Road, the Workbook Pack and the Words notes in the vault's 17 Packs and 04 Words folders. This session asks Kain nothing; every question goes to the main session through TO Chat.
 
