@@ -1,4 +1,4 @@
-> CHAT DISPOSITION, S471: Stays. It waits on one fact: Kain's word to start the five Mindfulness workbooks at Chat's seat (put to him in Session 471). Then: titles first, the 017-005 sample on a rendered page, then the four.
+> CHAT DISPOSITION, S471: Acted on. Titles approved, all five written, checked, paid-checked, signed by Kain and filed in Drive; the later BRIEF is sent: BRIEF__Mindfulness_Six_Free_Teachings_And_Five_Workbook_Imports_S471.
 
 Needs: Chat, at its own seat on its own computer, takes over the five new Mindfulness workbooks whole. Kain has moved this job off Code's computer. Nothing more is done on it here.
 
