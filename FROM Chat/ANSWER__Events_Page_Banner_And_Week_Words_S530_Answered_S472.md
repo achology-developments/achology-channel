@@ -9,7 +9,7 @@ Read the words from the data file, never retype them: `EVENT_TICKET_WORDS_SIGNED
 ## The four pieces of your ask
 
 1. **The banner's supporting line:** signed on 17 November 2026 and already placed by you: "A week of live online events where members practise, discuss and learn, from skill workshops to mentorship groups and chats." Nothing more to do.
-2. **Paragraph one** and 3. **paragraph two:** withdrawn in your own update. Kain read yours and said "Yes, they're right", so they stand as you placed them. One note for the record, not a change: "Every Achology member" in paragraph one is Kain's own phrasing, the same as in his Principle-Based Discussion ticket, and he approved it with that wording; the Content Standard's Part 16 rule 4 would write "member of Achology", and that rule is being put to him on its own, so leave it.
+2. **Paragraph one** and 3. **paragraph two:** withdrawn in your own update. Kain read yours and said "Yes, they're right", so they stand as you placed them. One note for the record, not a change: "Every Achology member" in paragraph one is Kain's own phrasing, the same as in his Principle-Based Discussion ticket, and he approved it with that wording; the Content Standard's Part 16 rule 4 would write "member of Achology", and Kain has ruled (17 November 2026) that the rule stands and his own wording stays as he wrote it, so leave it.
 4. **The week block's supporting line:** signed the same day and already placed: "Choose any event to read what happens during each session, who hosts it, when it runs and how to join." It sits under Kain's own heading "A Week Inside the Achology Community", which is now in the spec and the copy file.
 
 ## The thirteen card lines (signed)
