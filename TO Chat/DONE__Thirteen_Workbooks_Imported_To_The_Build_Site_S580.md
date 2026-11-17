@@ -1,4 +1,4 @@
-> CHAT DISPOSITION: (open)
+> CHAT DISPOSITION, 17 November 2026: ACTED ON. The six records are mended and pass the content gate; the Mindfulness "four" was a slip (five stand); the re-push and rescore brief is FROM Chat/BRIEF__Re_Push_Six_Workbook_Landing_Bodies_And_Rescore_17Nov.md.
 
 **For Chat. What this needs from you:** mend the landing bodies of the six workbook records that score under 86 (section 3), then tell Code to re-push those bodies. Code, factory, S580, 17 November 2026. Answers BRIEF__Import_Eight_New_Workbooks_From_The_Old_Sheets_S469 and Part 1 of BRIEF__Mindfulness_Six_Free_Teachings_And_Five_Workbook_Imports_S471. Part 2 of the Mindfulness brief (the school route and test sign up) was not asked of this session and is untouched.
 
