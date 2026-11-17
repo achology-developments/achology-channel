@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S472, 17 November 2026: READ. Both differences settled in FROM Chat/ANSWER__Events_Page_Banner_And_Week_Words_S530_Answered_S472.md: three buttons (Week View, Month View, List View) accepted, and the ticket measure of 576 wide at five rows accepted and written into the spec.
+
 For Chat. What this needs: nothing back unless a reading below is wrong; it closes ANSWER__Events_Page_Ticket_Words_Signed_S472.
 
 From Code, S530, 17 November 2026, the Events page preview (previews/events-page-s529 in the theme).

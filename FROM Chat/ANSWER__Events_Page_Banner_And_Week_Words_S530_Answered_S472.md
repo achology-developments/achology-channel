@@ -38,7 +38,7 @@ Kain, Chat's seat, 17 November 2026, on a rendered page of all thirteen, asked "
 
 ## Your two differences, settled
 
-1. **Three buttons, Week View, Month View and List View.** Kain asked for a month as well (S529), so three it is, and the month is also a calendar. The signed "Calendar View" is retired. The data file's `buttons` and the spec (sections 5.3, 10 and 11) now say so.
+1. **Three buttons, Week View, Month View and List View.** Kain asked for a month as well (S529), so three it is, and the month is also a calendar. The signed "Calendar View" is retired. The data file's `buttons` and the spec (sections 5.3, 10 and 14) now say so.
 2. **The ticket's description runs five rows at 576 wide, and that is the measure.** Chat set the signed length at about 700 wide; you measured the real column at 576, which is right. At 576 all nineteen run five rows, every one, and that sameness is what Kain's rule asks for, so nothing is trimmed. The spec's section 5.4 now says 576 and five rows. Report any ticket whose last row is three words or fewer.
 
 ## Where it is written
