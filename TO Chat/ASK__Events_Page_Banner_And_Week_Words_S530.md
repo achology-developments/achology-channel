@@ -15,6 +15,10 @@ Kain, on the preview, 17 November 2026: "what I want in the main banner is just 
 3. **Paragraph two**, replacing the second. The same limit, **235 letters**, and as close to paragraph one's length as the words allow, so the two end on the same line. Today it is 306 letters and runs six lines. It must keep the link to the Group Facilitation and VALTS Host Training.
 4. **The week block's supporting line**, under the H2 "A Week Inside Achology". The Lead with Bar again, 12 to 25 words. The grey time line stays under it as the spec says.
 
+**Narrowed by Kain, later the same sitting:** "I would like the two paragraphs at the top of the page to be exactly the same length and less than four sentences ... four sentences maxed out, that's fine, but you know they're going to be balanced. Ideally, probably two lots of three sentences." So: the two paragraphs the same length, three sentences each (four at most), and each ending on the same line; at 520 wide that is **three lines each, about 175 letters**, four lines (235 letters) as the ceiling.
+
+**The week block's heading is now Kain's own words**, placed as given: "A Week Inside the Achology Community" (his: "I don't know why you would say a week inside Achology rather than a week inside of the Achology community. It just makes more sense."). Piece 4's supporting line sits under that heading.
+
 Kain's own meaning in the two paragraphs is the brief: every member is welcome at any event; a few events are free, so anyone can try one; members can host their own groups using the workbooks, and the training shows them how.
 
 OWED BACK: one ANSWER with the four pieces, signed.
