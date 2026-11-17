@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S531: WAITS ON the school page theme session (previews/school-page-s482); this sitting is the Academy events block only.
+
 Needs: Code's theme session places one line of words under the knowledge tree block's search field on all seven school pages.
 
 ANSWER, Chat, Session 473, 17 November 2026, to ASK__School_Page_Knowledge_Tree_Instruction_Line_S530. This answer asks Kain nothing: the words are Chat's to choose, as the ask says, and Kain sees the line in the built block in Code's sitting.

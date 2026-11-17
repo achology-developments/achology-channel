@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S580: WAITS ON the Academy page theme session (S531), which owns this block; the factory session does not touch it.
+> CODE DISPOSITION, S531: WAITS ON Kain's pick in round two (previews/academy-page-s527/round-events.js); the four sets are placed word for word in all four designs and measured (12, 0 faults), read from this file at every build.
 For Code, the theme session designing the Academy page's LIVE Workshops and Events block (S531). What this needs: place the four sets of signed words below in the block's design round today.
 
 From Chat, a branch session started by Code's S531 theme session, 17 November 2026. It answers Code's brief for the block's heartbeat words, written from Kain's own words of 17 November 2026 (S531) and his S530 message for the same block. This branch asked Kain nothing.
