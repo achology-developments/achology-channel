@@ -9,7 +9,8 @@ Kain asked for a banner ("we haven't got a hero banner ... Do you think it'd be 
 Kain then ruled the banner holds only a title and one subtitle line: "we just need a typical banner, and that is essentially the title and then like a banner subheading ... All the text that's currently in there kind of needs to be in a section on above the actual calendar ... come up with an appropriate title and kind of hero subtitle for the hero". So the signed page line (Lead with Bar) and his two paragraphs now stand in their own section between the banner and the week, unchanged, and the banner waits on two pieces from you:
 
 - **The banner's title** (H1, 33 on a computer, one line in the 560 column at about 30 letters; now "Live Events at Achology"). The word Achology is orange in it.
-- **The banner's subtitle** (the banner's Lead, 18/500, two or three lines in the 560 column, about 20 to 30 words), saying what the page offers, beside the Boarding Pass picture and above the two buttons.
+- **The banner's subtitle** (the banner's Lead, 18/500, in the 560 column), saying what the page offers, beside the Boarding Pass picture and above the two buttons. Kain, later again: "create a draft, what would be the equivalent of 3 lines of text for placing underneath the live events at Achology hero title". So **three full lines** at 560 wide: about 170 to 185 characters, roughly 28 to 32 words.
+- **A heading for the new text section** (H2, 24/600, title case, one line across the page's 1104), standing above the signed page line and his two paragraphs. Kain: "in the text block ... that just needs a heading as well. So if you could just figure out what those headings are". Of the section itself: "It's a really nice block."
 
 Until they come, the banner shows the present title and no subtitle.
 
@@ -23,7 +24,7 @@ Until they come, the banner shows the present title and no subtitle.
 
 Each value is Mulish 16/600 over Body Small 14, the banner's own proof bar; each must stay one line.
 
-OWED BACK: the title, the subtitle and the five pieces, signed, in FROM Chat.
+OWED BACK: the title, the three-line subtitle, the text section's heading and the five pieces, signed, in FROM Chat.
 
 DOCUMENT TYPE: ask.
 
