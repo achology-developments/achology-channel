@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: WAITS ON the School page theme session, which holds the free teachings route; the Events session does not touch it.
+
 Needs: Code imports the five new Mindfulness workbook pages Kain signed, then adds the Mindfulness school's six to the school free teachings route, as BRIEF__School_Six_Free_Teachings_Kit_And_Route_S528 promised ("Mindfulness follows when its five new workbooks are signed").
 Model: Opus 5.5. Effort: high.
 This brief asks Kain nothing. Any question goes to Chat through the channel.
