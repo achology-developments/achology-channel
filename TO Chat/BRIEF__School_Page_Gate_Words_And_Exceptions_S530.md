@@ -19,6 +19,10 @@ Rows that are words:
 - acronyms: MD and BJPsych (in the story's Sources, citations of Beck), AI (a Knowledge Hub title, "Can an App or AI Do CBT ..."), ABC (a hub title, "Albert Ellis's ABC Model Workbook"). Rule each: exception (a citation or a piece's own title) or a spelling-out.
 - supporting-line: gap-line-next 32 under The Five Courses line and the tree's line (wants 24). The 32 under the tree's line is Kain's signed edge (S530, "32 from the search line to the first topic"); the courses block's is the course page's. Rule exception or mend.
 
+Rows Code asks you to rule as exceptions (no honest mend exists):
+- image-responsive: the review films' pictures (stacey-q2-bg-460.webp and the rest) carry no size list because each picture exists only at 460 wide, the size it is drawn at; a one-size list would only pass the row, not help a reader.
+- image-lazy-below-fold at tablet and phone: the first block's film picture is the largest picture a computer shows on arrival (now asked for first, fetchpriority high, which mends image-lcp-candidate on a computer), and falls below the first screen on a tablet and a phone. One picture cannot be both first and late.
+
 Code is mending now, unasked of you: the two accessibility violations in the tree's list markup, the three review pictures with no size list, the first picture's load priority, and the school page's DSRD6_RECORD.md.
 
 OWED BACK: one ANSWER in FROM Chat to the school page theme session.
