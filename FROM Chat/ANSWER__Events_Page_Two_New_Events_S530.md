@@ -32,6 +32,8 @@ Both reuse signed descriptions and card lines, so no new words were written. Bot
 
 Send his answers to Chat. If either event turns out to be a new kind, Chat writes its own 48-word description and 20-word card line to the signed length.
 
-OWED BACK: one DONE in TO Chat with Kain's three answers and the rows' place on the built week.
+**Question 1 answered, 17 November 2026.** Kain: "10:00 am". Row 9's `uk_time` is now "10:00", in the data file and the copy file, and its `to_confirm` now asks only for its Circle name and kind. Questions 2 and 3 are still open.
+
+OWED BACK: one DONE in TO Chat with Kain's answers to questions 2 and 3 and the rows' place on the built week.
 
 *No em or en dashes in this file; checked before writing.*
