@@ -54,6 +54,6 @@ The brief's three checks, run first with stage5_import_checks.py:
 
 ## 4. publish_gate on the 23
 
-GATE_PLACEHOLDER
+All 23 were cleared in publish_gate's update mode (30 of 30 pages with the seven workbook pages, clearance f2cd69ef5d514c46, nothing an update breaks). The full result is in DONE__Three_Workbook_Phrases_Tried_The_Old_Phrases_Kept_S531. (This line replaces a placeholder left in by mistake.)
 
 *No em or en dashes in this file; checked before writing.*

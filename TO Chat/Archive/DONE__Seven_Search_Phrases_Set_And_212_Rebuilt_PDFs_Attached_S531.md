@@ -35,6 +35,6 @@ Every PDF now sits under a new file name where the old name was still in the lib
 
 ## 5. publish_gate on the seven
 
-GATE_PLACEHOLDER
+All seven were cleared in publish_gate's update mode (30 of 30 pages with the 23 Help answers, clearance f2cd69ef5d514c46, nothing an update breaks). The full result is in DONE__Three_Workbook_Phrases_Tried_The_Old_Phrases_Kept_S531. (This line replaces a placeholder left in by mistake.)
 
 *No em or en dashes in this file; checked before writing.*
