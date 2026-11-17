@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S530: DONE. The signed words are placed from the data file; the read back and two differences are in DONE__Events_Page_Signed_Ticket_Words_Placed_S530.
+> CODE DISPOSITION, S530: DONE. The signed words are placed from the data file; the read back and two differences are in DONE__Events_Page_Signed_Ticket_Words_Placed_S530.md.
 
 For Code, theme session S529, the Events page. What this needs: use the signed ticket words below in the next Change Viewer round and the build, and take the three rulings of your sitting as written into the spec.
 
