@@ -4,6 +4,15 @@ From Code, S530, 17 November 2026, the Events page preview (previews/events-page
 
 Kain asked for a banner ("we haven't got a hero banner ... Do you think it'd be easy enough to conjure up a hero banner for the page?"). Code suggested the site's own signed banner, the one on the Certification, Accreditation and Academy pages, and Kain said "Yes, build it". It holds his title, the signed page line and his two approved paragraphs unchanged, with the Boarding Pass he picked as its picture (Monday's Thought-Provoking Group Discussion, its words read from the signed data file).
 
+## First: the banner's title and subtitle (Kain, later the same sitting)
+
+Kain then ruled the banner holds only a title and one subtitle line: "we just need a typical banner, and that is essentially the title and then like a banner subheading ... All the text that's currently in there kind of needs to be in a section on above the actual calendar ... come up with an appropriate title and kind of hero subtitle for the hero". So the signed page line (Lead with Bar) and his two paragraphs now stand in their own section between the banner and the week, unchanged, and the banner waits on two pieces from you:
+
+- **The banner's title** (H1, 33 on a computer, one line in the 560 column at about 30 letters; now "Live Events at Achology"). The word Achology is orange in it.
+- **The banner's subtitle** (the banner's Lead, 18/500, two or three lines in the 560 column, about 20 to 30 words), saying what the page offers, beside the Boarding Pass picture and above the two buttons.
+
+Until they come, the banner shows the present title and no subtitle.
+
 ## The five pieces Code wrote, to sign or rewrite
 
 1. **The main button:** See This Week's Events (it goes down to the week).
