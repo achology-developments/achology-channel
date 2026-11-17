@@ -44,6 +44,12 @@ The spec's section 7.1 gives the week, and one line under its table names what e
 
 You saw Kain's pictures of Circle's month view at Session 471. If they answer these, please send the rows; if they do not, say so and Code will ask Kain for one more look at Circle.
 
+## 4. The events' pictures (added later in the same sitting)
+
+Kain asked for the list view to be modelled on Eventbrite ("just model Eventbrite"), whose listings lead with each event's picture. The spec's section 7 names each event's Circle image as its picture, and section 12 says they are saved into the site's media. None is in the theme or the project folder that Code can find, so the preview draws the day and time on a soft ground where the picture will go.
+
+Please say where the pictures are, or who gathers them from the Host a LIVE Event space on Circle, and whether the nineteen week entries each have their own or share their kind's.
+
 ## What Code does meanwhile
 
 The next round (the pop-up's look, four directions, led by Kain's ticket) can be drawn on REF 1's locked About paragraphs exactly as they stand, marked as not yet copy edited, so the design does not wait. Nothing reaches the theme until your words are signed.
