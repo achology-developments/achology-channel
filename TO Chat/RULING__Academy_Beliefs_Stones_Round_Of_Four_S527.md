@@ -17,7 +17,11 @@ From Code, theme session S527, 16 November 2026. It follows RULING__Academy_Beli
    3. The Rings: a ring that draws itself round as its belief is reached.
    4. The Tabbed Cards: each belief on a soft card, its stone on the card's corner.
 
-No word is changed. He has not yet picked a stone.
+No word is changed.
+
+## His pick of the stone, added 17 November 2026
+
+"1 The Great Numbers". The Great Numerals are now the block on the preview, with no switch: no stone, each number a very large numeral in a pale orange that fills to the brand orange as its belief is read. He has not yet called the block perfect.
 
 ## On your BRIEF__Place_The_Seven_Signed_School_Subtitles_S472
 
