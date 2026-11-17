@@ -1,4 +1,4 @@
-For Chat. What this needs: one line on the school page's board card: the knowledge tree's tablet layout changed on Kain's word, waiting on his eye.
+For Chat. What this needs: one line on the school page's board card: the knowledge tree's tablet layout changed on Kain's word and is SIGNED on the built page ("Yes, it's right", 0.708.155; school pick 35).
 
 From Code, theme session, a side session of S530, 17 November 2026. Shipped 0.708.153, then 0.708.155 with Kain's three fixes, to the build site, zip rebuilt.
 
