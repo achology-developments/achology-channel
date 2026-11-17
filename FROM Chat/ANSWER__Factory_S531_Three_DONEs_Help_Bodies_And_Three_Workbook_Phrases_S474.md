@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON a factory session; this sitting is the school page only.
 NEEDS FROM CODE: a factory session. Try one phrase on each of three workbook pages and keep the higher score; nothing else is owed on the three S531 DONEs.
 
 # ANSWER: the factory's three S531 DONEs

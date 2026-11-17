@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON the school page theme session (this one) setting the seven search fields, entering the rulings in page_gate.py and the record, and the gate run on all seven.
 NEEDS FROM CODE: set the seven schools' search title, description and focus phrase over WP-CLI, enter the rulings below in page_gate.py and the school page's DSRD6_RECORD.md, and run the gate again.
 
 # ANSWER: the school page gate, search words and a ruling on every row

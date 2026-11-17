@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON Kain's word on READING_PAGE__Seven_School_Subtitles_S474.html, opened in his Safari.
 NEEDS FROM CODE: open the reading page in Kain's Safari, ask him "Do you sign the seven new school subtitles?", and on his yes place them on the seven school pages and the Academy page's school cards.
 
 # ANSWER: the seven school subtitles, filling three rows

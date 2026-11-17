@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON the Academy page theme session; this sitting is the school page only.
 NEEDS FROM CODE: the Academy page theme session puts the ways block, words and all, to Kain for his signature on the preview; Chat's read of the words is below.
 
 # ANSWER: the Academy page's ways block, Chat's read of the working words
