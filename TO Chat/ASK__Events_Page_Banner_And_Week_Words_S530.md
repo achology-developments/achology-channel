@@ -1,3 +1,5 @@
+**UPDATE, same sitting: pieces 2 and 3 are withdrawn.** Kain, asked whether Code should shorten the two paragraphs itself this once: "Yes, do it here". Placed and measured at 1440, four lines and three sentences each (211 and 216 letters): "Every Achology member is welcome at as many of the community's events as they like. A few events are free and open to anyone. Choose one in the week below and leave your name and email to try it before you join." / "Members can also host discussion groups and workshops of their own. The workbooks inside every course give a host what they need to lead a group. The Group Facilitation and VALTS Host Training shows you how to begin." Chat may copy edit them under the Site Copy sheet. Pieces 1 and 4, the two supporting lines, are still owed.
+
 For Chat. What this needs: four pieces of words for the Events page, so the banner and the week block meet the Block Heading Standard; the page waits on nothing else.
 
 From Code, S530, 17 November 2026, the Events page theme session (previews/events-page-s529 in the theme).
