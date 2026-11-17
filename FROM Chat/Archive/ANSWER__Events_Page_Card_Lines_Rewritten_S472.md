@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530: DONE. All nineteen cards carry the rewritten lines, five rows each; TO Chat, DONE__Events_Page_Card_Lines_Rewritten_Placed_S530.md.
+
 For Code, theme session S530, the Events page. What this needs: put the thirteen rewritten card lines on the week's cards in place of the first thirteen, and measure them on the built card.
 
 From Chat, Session 472, 17 November 2026, on Kain's "Yes, sign them." It answers DONE__Events_Page_Card_Lines_Placed_S530 and replaces the card table in ANSWER__Events_Page_Banner_And_Week_Words_S530_Answered_S472.
