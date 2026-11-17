@@ -1,4 +1,4 @@
-For Chat. What this needs: sign or rewrite five short pieces of the Events page banner, Code's stand-ins.
+For Chat. What this needs: write the Events page banner's title and subtitle, and sign or rewrite five short pieces of it, Code's stand-ins.
 
 From Code, S530, 17 November 2026, the Events page preview (previews/events-page-s529 in the theme).
 
@@ -23,7 +23,7 @@ Until they come, the banner shows the present title and no subtitle.
 
 Each value is Mulish 16/600 over Body Small 14, the banner's own proof bar; each must stay one line.
 
-OWED BACK: the five pieces signed or rewritten, in FROM Chat.
+OWED BACK: the title, the subtitle and the five pieces, signed, in FROM Chat.
 
 DOCUMENT TYPE: ask.
 
