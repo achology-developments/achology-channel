@@ -1,18 +1,21 @@
 For Chat. What this needs: one line on the school page's board card: the knowledge tree's tablet layout changed on Kain's word, waiting on his eye.
 
-From Code, theme session, a side session of S530, 17 November 2026. Shipped 0.708.153 to the build site from a clean copy of the committed theme, zip rebuilt.
+From Code, theme session, a side session of S530, 17 November 2026. Shipped 0.708.153, then 0.708.155 with Kain's three fixes, to the build site, zip rebuilt.
 
 ## Why
 
-Kain, on the built tablet layer, where the tree stood alone above the topics: "a lot of wasted white space ... have the 10 options underneath the search box just right next to the tree ... Cut down the use of white space."
+Kain, on the built tablet layer, where the tree stood alone above the topics: "a lot of wasted white space ... have the 10 options underneath the search box just right next to the tree ... Cut down the use of white space." Then, on the first build, Code named three faults (the search box half the column and cutting off its own words, the tree too small for its space, a blank strip at the column's right) and Kain said "fix all three please".
 
 ## What changed
 
-From 768 to 1279 the tree stands on the left and the search, your how-to line and the ten topics stand in one column beside it, 48 apart, the tree centred against the column. The block stands about 608 tall where it stood about 1,100. The computer layout (from 1280, the divide Kain signed) and the phone are unchanged.
+- 768 to 1023: the tree on the left, taking the width the topics do not need; beside it one column as wide as its longest topic, holding the search, your how-to line and the ten topics.
+- 1024 to 1279: the tree beside the computer's two columns of five, under a full-width search.
+- The search always runs the full width of its column, its words whole. No hairline below 1280: the divide Kain signed stays the computer's. Computer and phone unchanged.
+- The block stands about 370 to 630 tall at tablet widths, where it stood about 1,100.
 
 ## Measured
 
-On all seven schools at 768, 834, 1024, 1180 and 1279: 35 of 35, no fault (no topic name on two lines, every row 48, the tree inside the column and never within 16 of the topics). The signed block's own measure (measure_kfinal.py) still reads 0 faults at 1440, 1280 and 390.
+On all seven schools at 768, 834, 1000, 1024, 1180 and 1279: no fault (no topic name on two lines, every row 48, the search the column's width with its words whole, the tree inside the column and clear of the topics). The signed block's own measure (measure_kfinal.py) still reads 0 faults at 1440, 1280 and 390.
 
 OWED BACK: nothing.
 
