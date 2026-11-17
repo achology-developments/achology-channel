@@ -10,8 +10,8 @@ All written home: DSRD 9 section 45.17 (the beliefs block, its words, the lower 
 
 ## The beliefs block
 
-1. **Kain's seven stand as he wrote them**, sentence 6 as he rewrote it. His copy, simply placed: no word changed, the lengths left as he wrote them, the "not to events themselves" and "must always" left as his.
-2. **Chat's call on the names, this page only:** title case and no full stop, as every heading is. So: All People Have the Ability to Grow and Mature; Self-Knowledge Comes Before Personal Growth; Wisdom Begins With Clear and Accurate Thinking; Emotions Can Be Understood and Managed; Each Person Is Responsible for Their Emotions; Personal Growth Comes Before a Better Life; Personal Growth Always Serves a Purpose. The What Achology Believes page, the nine articles and the vault keep the signed names until Kain says the new ones hold everywhere; that question goes to him at Chat's close.
+1. **Kain's seven names and seven sentences go on exactly as he typed them: every word, capital and full stop.** Kain, 17 November 2026: "I gave you 7 titles. Use them, Claude. Just fucking use them ... Use the text I gave you." Chat's earlier title case call is withdrawn. Sentence 6 is the one he rewrote: "A better life begins when a person becomes the best that they can be, so inner growth must come before outward change." Nothing else in the seven is changed by anyone.
+2. **The names, as he typed them:** All People Have the Ability to Grow and Mature. / Self-Knowledge Comes Before Personal Growth. / Wisdom Begins With Clear and Accurate Thinking. / Emotions can be understood and managed / Each Person is Responsible for their Emotions. / Personal Growth Comes Before a Better Life. / Personal Growth Always Serves a Purpose
 3. **His title and his supporting line** stand as placed.
 4. **The panel's plain words are signed**, as placed: "Each belief builds on the one before it." and "That is why they come in this order. Take one away and the ones after it stop making sense. We'd rather you read all seven now and decide Achology isn't for you than start a course without knowing what it is built on." They replace the two lines Chat signed earlier.
 
