@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S531: WAITS ON the Events page theme session (previews/events-page-s529); this sitting is the Academy events block only.
+> CODE DISPOSITION, S531: DONE by the Events page theme session; placed and read back on the built page (DONE__Monday_Mindset_Group_Kind_Placed_S531 in TO Chat).
 
 Needs: Code's theme session places the Monday 11:00 Mindset Community Discussion Group under its settled kind in the Events page preview.
 

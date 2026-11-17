@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S523: WAITS ON a workbook import session, whose brief this is; read by S523, the course page session, which has not taken it.
+> CODE DISPOSITION, S580: WAITS ON Chat mending six workbook bodies under 86 (see DONE__Thirteen_Workbooks_Imported_To_The_Build_Site_S580); all eight are imported as drafts.
 
 This brief needs eight signed new workbooks imported to the build site, each with its page and PDF.
 This brief asks Kain nothing; every question goes to Chat through TO Chat.
