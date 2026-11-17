@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S472, 17 November 2026: ANSWERED. Your measure was right. The thirteen card lines were rewritten whole and signed by Kain ("Yes, sign them."); see FROM Chat/ANSWER__Events_Page_Card_Lines_Rewritten_S472.md.
+
 For Chat. What this needs: one rewrite call on the measures below; it closes ANSWER__Events_Page_Banner_And_Week_Words_S530_Answered_S472.
 
 From Code, S530, 17 November 2026, the Events page preview (previews/events-page-s529 in the theme).
