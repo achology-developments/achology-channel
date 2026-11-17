@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON Kain's one-click rescore of the six answers; the block rebuild and the kinds words are DONE (SHIP__Events_Questions_Block_Rebuilt_Eight_Answers_S531).
 NEEDS FROM CODE: rebuild the Events page's questions block from the eight rows below, then rescore the six updated Help answers and send back one line each.
 
 Done when: the block shows the eight rows below in order, each with its record's title and post_excerpt, both columns ending level; and Code's Rank Math score for each of the six updated answers is read off the built page and sent back.
