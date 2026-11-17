@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Recorded on the Academy page board card.
+
 NEEDS FROM CHAT: record these rulings on the Academy page's events block (#academy-events) where the page's plan and board card hold them; nothing to write or answer.
 
 # RULING: the Academy page's LIVE Workshops and Events block, signed on the preview

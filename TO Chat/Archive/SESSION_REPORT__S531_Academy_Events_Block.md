@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Read; the work is carried by its DONE, SHIP and RULING files.
+
 SESSION REPORT, S531 (theme, the Academy page's LIVE Workshops and Events block). One line per piece of work.
 
 - The events block designed on the preview through Kain's rounds and signed by him: "Yes, perfect" (rulings in RULING__Academy_Events_Block_Signed_S531).

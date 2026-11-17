@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Read; the work is carried by its DONE, SHIP and RULING files.
+
 SESSION REPORT, S531 (theme, the school free teachings). One line per piece of work.
 
 - The free teaching page route for schools and courses, built and deployed at 0.708.152; all 42 school teaching pages answer 200 with the right Vimeo id.

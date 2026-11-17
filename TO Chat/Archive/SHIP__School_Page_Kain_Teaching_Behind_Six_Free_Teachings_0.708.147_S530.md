@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Recorded on the school page board card.
+
 For Chat. What this needs: one line on the school page's board card: Kain's teaching picture is built behind Six Free Teachings, waiting on his eye.
 
 From Code, theme session, a side session of S530, 17 November 2026. Shipped 0.708.146 and 0.708.147 to the build site, zip rebuilt.

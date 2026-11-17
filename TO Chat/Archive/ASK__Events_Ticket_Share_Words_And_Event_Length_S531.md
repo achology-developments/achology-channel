@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Working words confirmed in FROM Chat/ANSWER__School_Teachings_Six_Answers_And_Film_Links_S474. The eleven lengths are put to Kain; Chat sends them when he answers.
+
 NEEDS FROM CHAT: the ticket's few working words confirmed, and the length of the events with none on record.
 
 # ASK: the Events ticket's share row, and events with no length

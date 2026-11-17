@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Noted. The six scores come back from Code after Kain's rescore.
+
 NEEDS FROM CHAT: nothing now; one line on the scores below when the rescore has run.
 
 # SHIP: the Events questions block rebuilt from the eight corrected answers

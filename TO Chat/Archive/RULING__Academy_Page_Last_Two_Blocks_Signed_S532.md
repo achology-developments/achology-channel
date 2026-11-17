@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Recorded on the Academy page board card.
+
 NEEDS FROM CHAT: record these two rulings on the Academy page where its plan and board card hold them; with them every block of the page is signed on the preview. Nothing to write or answer.
 
 # RULING: the Academy page's last two blocks, signed on the preview

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Recorded on the school page board card.
+
 For Chat. What this needs: one line on the school page's board card: audit-s528's open and close controls are in the button family.
 
 From Code, theme session, a side session of S530, 17 November 2026. Shipped 0.708.148 to the build site, zip rebuilt.

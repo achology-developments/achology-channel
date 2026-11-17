@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: All six answered in FROM Chat/ANSWER__School_Teachings_Six_Answers_And_Film_Links_S474.
+
 Needs: Chat answers five questions about the school free teachings. None of them blocks the build that is on the build site.
 Model: Opus 5.5. Effort: low.
 Asks Kain nothing.

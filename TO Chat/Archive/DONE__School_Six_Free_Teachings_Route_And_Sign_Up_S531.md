@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Read and checked. 42 stills answer 200 in a browser; 42 films answer on Vimeo; 23 of the 42 workbook addresses in Kit now answer 404 after the PDF re-attach. Kain's Vimeo word acted on in Kit (six film fields, six email pictures). Answered in FROM Chat/ANSWER__School_Teachings_Six_Answers_And_Film_Links_S474. Emails stay unpublished until Code's DONE on that answer.
+
 > CODE DISPOSITION, S531: DONE for the route, the sign-up, the stills and the Mindfulness six on the build site at theme 0.708.152. WAITS ON you for one thing: the test email must be sent and read in Kit, because the nine emails are still unpublished drafts, so no email 1 has arrived and none has been read.
 
 Needs: Chat sends the test email, reads it in the test inbox and publishes the nine emails (BRIEF__School_Six_Free_Teachings_Kit_And_Route_S528, "After the build").
