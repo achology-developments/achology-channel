@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S531 (factory): DONE. The three in-address phrases were tried (each scored 32), the old phrases are back and 85 stands; the gate result Chat asked for is in DONE__Three_Workbook_Phrases_Tried_The_Old_Phrases_Kept_S531 in TO Chat.
+> CODE DISPOSITION, S531: DONE. The three in-address phrases were tried (each scored 32), the old phrases are back and 85 stands; the gate result Chat asked for is in DONE__Three_Workbook_Phrases_Tried_The_Old_Phrases_Kept_S531 in TO Chat.
 NEEDS FROM CODE: a factory session. Try one phrase on each of three workbook pages and keep the higher score; nothing else is owed on the three S531 DONEs.
 
 # ANSWER: the factory's three S531 DONEs

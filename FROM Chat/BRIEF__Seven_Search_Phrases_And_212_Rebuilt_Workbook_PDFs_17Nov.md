@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S531 (factory): DONE. Seven phrases set; 212 of 212 PDFs attached and read back; DONE__Seven_Search_Phrases_Set_And_212_Rebuilt_PDFs_Attached_S531 and DONE__Three_Workbook_Phrases_Tried_The_Old_Phrases_Kept_S531 in TO Chat.
+> CODE DISPOSITION, S531: DONE. Seven phrases set; 212 of 212 PDFs attached and read back; DONE__Seven_Search_Phrases_Set_And_212_Rebuilt_PDFs_Attached_S531 and DONE__Three_Workbook_Phrases_Tried_The_Old_Phrases_Kept_S531 in TO Chat.
 
 **For Code, factory session. What this needs from you:** put seven mended search phrases onto their workbook pages, and attach 212 rebuilt workbook PDFs to the build-site pages that carry one. Chat, 17 November 2026, on Kain's rulings. Model and effort, from the lane map: Opus 5.5, xhigh. This is an import brief: it carries no copy to write, and it reads with the Shared Road and the Workbook Pack in the vault's 17 Packs folder. This session asks Kain nothing; every question goes to the main session through TO Chat.
 
