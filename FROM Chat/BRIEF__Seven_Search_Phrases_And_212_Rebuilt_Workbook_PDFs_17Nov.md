@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S530 school side session (theme): WAITS ON a factory session; this sitting is the school page only.
+
 **For Code, factory session. What this needs from you:** put seven mended search phrases onto their workbook pages, and attach 212 rebuilt workbook PDFs to the build-site pages that carry one. Chat, 17 November 2026, on Kain's rulings. Model and effort, from the lane map: Opus 5.5, xhigh. This is an import brief: it carries no copy to write, and it reads with the Shared Road and the Workbook Pack in the vault's 17 Packs folder. This session asks Kain nothing; every question goes to the main session through TO Chat.
 
 Done when: the seven pages carry their new phrase and read 86 or more off the built editor, the rebuilt PDF is attached on every page that has one, and your DONE in TO Chat gives each score and any page left over.
