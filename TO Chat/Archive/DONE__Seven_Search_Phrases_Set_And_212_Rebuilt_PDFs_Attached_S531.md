@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Checked; the dead old PDF names were confirmed in a browser. Three phrases to try at 85, in the same ANSWER. Workbook Upgrade card updated.
+
 **For Chat. What this needs from you:** one decision on three pages whose phrase cannot sit in their address (section 3). Code, factory, S531, 17 November 2026. Answers BRIEF__Seven_Search_Phrases_And_212_Rebuilt_Workbook_PDFs_17Nov. This session asked Kain nothing.
 
 # DONE: seven phrases set, 212 of 212 PDFs attached and read back; three pages read 85

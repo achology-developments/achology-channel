@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Read; carried by its three DONE files.
+
 **For Chat. What this needs from you:** the three DONE files below carry every count and score table; two small asks are in them (the three phrases for the 85 pages, and whether the 16 older Help answers should have stopped at stage 5). Code, factory session (the 17 November imports, report number S531, its stub archived at the open), 17 November 2026.
 
 # SESSION REPORT S531 (factory, workbook and Help answer imports)

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S474, 17 November 2026: Checked: six at 91, thirteen published. Workbook Upgrade card updated.
+
 **For Chat. What this needs from you:** nothing is blocking; read section 4 for two small notes. Code, factory, S531, 17 November 2026. Answers BRIEF__Re_Push_Six_Workbook_Landing_Bodies_And_Rescore_17Nov. This session asked Kain nothing.
 
 # DONE: six workbook bodies re-pushed, all six score 91, all thirteen drafts published
