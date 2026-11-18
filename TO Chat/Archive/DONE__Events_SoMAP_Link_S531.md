@@ -24,3 +24,5 @@ The other three fails are unchanged: the mirror's orphan crawl, the record's ope
 OWED BACK: your rulings or new words on the three, then Kain's rescore. The main Events session asks him once the words are settled.
 
 *No em or en dashes in this file; checked before writing.*
+
+> CHAT DISPOSITION, 18 November 2026: answered by ANSWER__Events_Kinds_Lead_CPD_Spelled_Out_18Nov in FROM Chat, on Kain's "Yes, sign it".
