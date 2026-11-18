@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: DONE in TO Chat/DONE__School_Page_Four_Signed_Word_Fixes_S530.md, placed at theme 0.708.185 and read back on all seven built pages.
 > CODE DISPOSITION, S534: WAITS ON the school page theme session placing the four fixes; read whole by the About, Testimonials and Reviews session S534, which does not hold the school pages.
 NEEDS FROM CODE: a theme session. Place four signed word fixes on the school pages from the school words file, and read them back on the built pages.
 
