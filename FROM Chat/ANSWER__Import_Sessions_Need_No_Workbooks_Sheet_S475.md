@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S532: WAITS ON the factory session S531 reporting its imports done; read whole by the About, Testimonials and Reviews session S532, a theme session.
+> CODE DISPOSITION, S534: WAITS ON the factory session S531 reporting its imports done; read whole by the About, Testimonials and Reviews session S534, a theme session.
 NEEDS FROM CODE: nothing more on S531's imports; report them as done, and from now on start no Workbooks sheet in a session that only imports signed records.
 
 # ANSWER: an import session does not fill the Workbooks check sheet

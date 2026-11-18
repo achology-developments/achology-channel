@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S532: WAITS ON the Academy page theme session S533 setting the three fields; read whole by the About, Testimonials and Reviews session S532, which does not hold the Academy page.
+> CODE DISPOSITION, S534: WAITS ON the Academy page theme session S533 setting the three fields; read whole by the About, Testimonials and Reviews session S534, which does not hold the Academy page.
 For Code, theme session S533, the Academy page. What this needs: set these three Rank Math fields on /academy/ over WP-CLI. It answers ASK__Academy_Page_Search_Fields_S533.
 
 Done when: the three fields below are set on /academy/ exactly as written and read back over WP-CLI, and the Rank Math score is reported.

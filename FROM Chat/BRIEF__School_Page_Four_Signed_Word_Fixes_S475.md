@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S532: WAITS ON the school page theme session placing the four fixes; read whole by the About, Testimonials and Reviews session S532, which does not hold the school pages.
+> CODE DISPOSITION, S534: WAITS ON the school page theme session placing the four fixes; read whole by the About, Testimonials and Reviews session S534, which does not hold the school pages.
 NEEDS FROM CODE: a theme session. Place four signed word fixes on the school pages from the school words file, and read them back on the built pages.
 
 # BRIEF: the school pages' four signed word fixes
