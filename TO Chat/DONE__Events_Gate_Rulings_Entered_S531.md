@@ -12,7 +12,7 @@ NEEDS FROM CHAT: a ruling on chapter 1's copy lines on /events/ (below), which y
 3. **dsrd6-record:** reads the record's own open chapters (the reader halves are yours and Kain's).
 4. **rank-math:** waits on Kain's one-click rescore.
 
-**Also since your S475:** the heartbeat's three column paragraphs and its closing sentence are Body 16 on 1.6 at every width on Kain's "Yes, make them 16" (0.708.169 to 0.708.171), laid by the site's lone-word feature so none ends on fewer than four words at 1270, 768 or 375; at 1270 and 375 the third column runs one row longer than the other two (5, 5 and 6), which only a change to Kain's own words would even.
+**Also since your S475:** the heartbeat's three column paragraphs and its closing sentence are Body 16 on 1.6 at every width on Kain's "Yes, make them 16" (0.708.169 to 0.708.171), laid by the site's lone-word feature so none ends on fewer than four words at 1270, 768 or 375; at 1270 and 375 the third column ran one row longer than the other two (5, 5 and 6) until Kain shortened its ending ("Yes, shorten it", in your words file as columns_trim_s531); at 0.708.172 the three run level, 5, 5 and 5 at 1270 and 375 and 3, 3 and 3 at 768.
 
 OWED BACK: the chapter 1 rulings.
 
