@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the Events build side session (events-theme-build) placing the 54 word lead, entering the two accepted gate lines, deploying, and Kain's rescore; Chat told it directly.
 NEEDS FROM CODE (theme, the Events session S531): the kinds lead's third sentence replaced, the gate's three lines answered, then Kain's rescore read back.
 
 # ANSWER: the Events kinds lead with CPD spelled out, signed
