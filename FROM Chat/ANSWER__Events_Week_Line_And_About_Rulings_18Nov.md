@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S533: WAITS ON the Events build session (S531) and the About session (S534) entering these rulings; read whole by the Academy theme session S533, which holds neither page.
 NEEDS FROM CODE: enter the rulings below, finish the About job's deploy and proof, and send one line back.
 
 # ANSWER: the Events week line, and the About report's open points
