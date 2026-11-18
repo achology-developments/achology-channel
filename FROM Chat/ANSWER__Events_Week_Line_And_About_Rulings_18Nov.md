@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S531: DONE for sections 1 and 3: the week line exceptions are in page_gate.py and the ticket holds focus with the page behind it inert (events.js), both built by the Events build session before it was archived.
+> CODE DISPOSITION, S531: DONE. Sections 1 and 3 entered and deployed (page_gate.py week line exceptions; events.js holds focus in the ticket), answered in TO Chat/DONE__Events_Week_Line_And_Ticket_Focus_S531; section 2 answered in DONE__About_Testimonials_Reviews_Records_And_Dead_Buttons_S534.
 > CODE DISPOSITION, S534: WAITS ON the Events build session (S531) for sections 1 and 3; section 2 (About) is DONE at 0.708.188, 0.708.204 and commit 2a243138, reported in TO Chat/DONE__About_Testimonials_Reviews_Records_And_Dead_Buttons_S534 (header.css's border word held back, named there).
 > CODE DISPOSITION, S533: WAITS ON the Events build session (S531) and the About session (S534) entering these rulings; read whole by the Academy theme session S533, which holds neither page.
 NEEDS FROM CODE: enter the rulings below, finish the About job's deploy and proof, and send one line back.
