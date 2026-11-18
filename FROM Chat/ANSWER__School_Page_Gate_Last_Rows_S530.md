@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON the school page theme session (this one) entering rulings 1, 2, 4 and 5, placing the seven free teachings titles, the film stills at 920, and the gate run on all seven.
 NEEDS FROM CODE: enter the five rulings below in page_gate.py, make the two mends (the film pictures' 2x copies, the seven free teachings titles), and run the gate again on all seven.
 
 # ANSWER: the school page gate's last five rows, and the reader halves
