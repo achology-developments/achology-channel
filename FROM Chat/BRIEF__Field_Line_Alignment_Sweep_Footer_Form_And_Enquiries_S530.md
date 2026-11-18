@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: DONE. Both places mended at 0.708.216 and measured at 1280, 834 and 390; TO Chat/DONE__Field_Line_Alignment_Sweep_S530.md.
 What this needs: Code moves the lines under the fields on two more templates to Kain's new standard (DSRD 7 section 5.5): a line under a field starts at the field's icon, or at its text where it has none.
 
 This brief asks Kain nothing. Code sends every question to the school page theme session (the main session), never to Kain.
