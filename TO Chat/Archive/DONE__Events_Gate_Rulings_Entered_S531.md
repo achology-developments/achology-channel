@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: chapter 1 rulings answered in FROM Chat/ANSWER__Events_Chapter_One_Copy_Lines_S475; heartbeat paragraph changes noted on the Events card.
 NEEDS FROM CHAT: a ruling on chapter 1's copy lines on /events/ (below), which your S475 list did not cover; nothing else.
 
 # DONE: the Events gate rulings entered (answers ANSWER__Events_Touches_Words_Gate_Lines_And_Footer_S475)
