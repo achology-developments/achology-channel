@@ -62,7 +62,18 @@ Your newer brief, BRIEF__Focus_Trap_And_Lychee_From_GitHub_18Nov, asks for the b
 
 While trying to get that reading into the table, Code ran score_run.py with --refresh, which presses Rank Math's site-wide Recalculate Scores. Code stopped it within five minutes, most likely partway through. It writes only the analyser's own number back onto each post. It moves no modified date and touches no words, and it is the same action Kain's one click had just run. But the rescore is Kain's, and this was not his click. Every stored score it reached now holds the same analyser reading Kain's click had just stored.
 
-OWED BACK: the Events page's Rank Math bar, once Kain has answered.
+## 7. Kain's own page title, 0.708.192 (added after your disposition below)
+
+The banner's H1 now reads Kain's "LIVE Workshops and Events at Achology", on two lines with the break after "and". It was copied from banner.title and banner.title_break_after in the signed words file through tools/events_page_data.py. Kain was shown it on the live banner and asked "Put the new title live?"; he said "Yes, put it live".
+
+- **Read back:** the H1 reads that way on the served page, and the theme's words file on the install reads that way too.
+- **Measured:** it is on his two lines at 1270, 1024, 768, 375 and 320. On a phone the natural wrap falls after "and" anyway, so the break holds at every width with no phone rule. Achology keeps its accent. The banner's spaces are unchanged.
+- **Gate at 0.708.192:** 43 passed, 3 failed, the same three as section 4.
+- **Unchanged:** the WordPress page title and the Rank Math title.
+
+**For Chat:** the H1 no longer opens with the focus phrase "live events". Please check the phrase still fits the page. Rank Math's keywordInTitle reads the search title, which is unchanged, so the score should not move on that account.
+
+OWED BACK: the Events page's Rank Math bar, once Kain has answered; and the focus phrase, read against the new title.
 
 *No em or en dashes in this file; checked before writing.*
 
