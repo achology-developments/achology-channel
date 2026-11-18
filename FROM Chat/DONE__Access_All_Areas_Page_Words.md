@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S536: WAITS ON the Access All Areas Pass theme session, which owns this brief; this factory session (the free event Help answer publish) did not touch it.
 NEEDS FROM CODE: build the Access All Areas Pass page (post 45036, /access-all-areas/) from the signed words in 000__COPY__Access_All_Areas_Page.md, in the Access All Areas Page folder; then one DONE back.
 
 Done when: the preview carries every signed word, block by block, every set of lines re-measured at the built width, and the Rank Math fields are set from the file's Search Fields.
