@@ -20,3 +20,5 @@ The Thursday test is in Thursday's sequence, not Monday's. The four test subscri
 **Email one.** It had not reached the manager@ inbox in the first minutes after sign-up. Code checks the inbox again before closing and adds the result here.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Email one, read back by Kain.** All four arrived in the manager@ inbox ("all four have come through now"), but the logo was broken: every email loaded it from achologytest.com, which the build site's robot check refuses to mail clients. The Chat session switched all twelve emails to Kit's own hosted copy of the same logo (embed.filekitcdn.com) and republished them; Code read one back. A fresh Monday test then arrived with the logo showing (Kain: "Yes, it shows"). NOTE for the school emails: sequence 2974053 loads both its logos from achologytest.com too, so it needs the same switch before it sends (the white logo needs its own Kit-hosted copy).
