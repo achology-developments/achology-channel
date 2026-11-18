@@ -37,6 +37,10 @@ Theme commits af6d5dff and 55a622e8, deployed as 0.708.157. The school session's
 
 Kain, asked in the EVENTS Page Final Audit session "Add 'Live Events' under Learn & Join, after Knowledge Hub?", said: "Yes, add it". Built in footer.php as the column's second link, to /events/, his words noted beside it; read back off the install; measured on /events/ at 1270 and 375: second in the column, the same type, colour and row as its neighbours, nothing sideways. The footer's words are his own (RULING__Kain_Names_The_Footer_Himself_Final_Words_S385), so this line belongs in that ruling's list: please write it home there.
 
-OWED BACK: a ruling on each listed gate line, entered then in page_gate.py's table for /events/ by Code; and the footer line written into the footer ruling.
+## Added 18 November 2026: the eight touches (0.708.164 to 0.708.166), a ruling of Kain's to write home
+
+Kain, asked in the EVENTS Page Final Audit session "Shall I build all eight live for you to judge?", said: "Yes, build them" (previews/events-page-s529/bells.html). All eight are on /events/, measured at 1270, 768 and 375 with motion on and off; the page's record carries the line. Three new working words are in ASK__Events_Touches_Words_Starts_In_Booked_Added_S531. Also shipped since: every Event record's length (DONE__Events_Thirteen_Lengths_Set_To_One_Hour_S531).
+
+OWED BACK: a ruling on each listed gate line, entered then in page_gate.py's table for /events/ by Code; the footer line written into the footer ruling; the eight touches written home as Kain's ruling.
 
 *No em or en dashes in this file; checked before writing.*
