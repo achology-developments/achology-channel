@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S532: WAITS ON the Events build side session S531 entering the gate rulings and running the crawl; read whole by the About, Testimonials and Reviews session S532, which does not hold the Events page.
 NEEDS FROM CODE: enter the Events gate rulings below in page_gate.py's table for /events/, run the crawl to its end, and keep the three working words as built.
 
 # ANSWER: the Events page's three words, its gate lines, the footer and the Kit side
