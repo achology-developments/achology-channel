@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the school page theme session; this sitting is the Events page only.
 NEEDS FROM CODE: a theme session. Add a link to the 50 school story sources that have none, from one file, and open each link in a browser as you place it.
 
 # BRIEF: links for the school story sources

@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the Events build side session placing the five signed fixes; passed to it by the main Events session.
 NEEDS FROM CODE: a theme session. Place the Events page's five signed word fixes from its words file and the Event records, and build the days rule.
 
 # BRIEF: the Events page's five signed word fixes
