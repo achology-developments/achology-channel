@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the school page theme session; read whole by the Events side session S531, which does not hold the school pages.
 NEEDS FROM CODE: enter the film stills exception and the title exceptions in page_gate.py, place the two story mends below, and run the gate again on all seven.
 
 # ANSWER: the 21 film stills, and the short forms the gate reads

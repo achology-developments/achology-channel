@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the school page theme session; read whole by the Events side session S531, which does not hold the school pages.
 NEEDS FROM CODE: place the seven sentences in each school's teach_p1 and the seven picture descriptions on hero-{code}.webp, then Kain rescores in one click and the gate runs again on all seven.
 
 # ANSWER: each school's focus keyword, placed in its words and its picture
