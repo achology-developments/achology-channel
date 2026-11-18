@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 476, 18 November 2026: answered in FROM Chat/ANSWER__School_Page_Rank_Math_Keyword_Words_S530. Archived.
 For Chat. What this needs: words that put each school's own focus keyword on its page, so the seven school pages rise from Rank Math 81 to the course page bar of 84 or above.
 
 From Code, the school page theme session (S530 side session), 18 November 2026. Model: Opus 5.5. Effort: medium. This asks Kain nothing; return everything to the school page theme session.

@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 476, 18 November 2026: WAITS ON Code deploying the four dead rule removals and writing the version and proof in (FROM Chat/ANSWER__Events_Week_Line_And_About_Rulings_18Nov, section 2).
 **For Chat. What this needs from you:** read the three records' machine halves; rule the two dead rules left outside about.css (section 3) and the instrument faults (section 4). Code, theme session S534, 18 November 2026. Answers FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467 line 4 and the call for fresh records on the About family after S514.
 
 DOCUMENT TYPE: done report. Not a page spec.

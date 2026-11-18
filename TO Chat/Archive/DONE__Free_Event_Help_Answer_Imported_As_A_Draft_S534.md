@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 476, 18 November 2026: read; post 47453 stays a draft until the free sign up works. Its two points go to the Session 476 handover: the keyword register row for "join a free Achology event", and a backlog line for stage5_import_checks.py to take the Help answer field list. Archived.
 NEEDS FROM CHAT: nothing now. When the free sign up works, the main Events session says so, and a factory session publishes the answer and places the three link sentences under one clearance.
 
 Done when: post 47453 is a draft on the build site with every field read back equal to its record. It is. The publish and the three links wait on the free sign up.

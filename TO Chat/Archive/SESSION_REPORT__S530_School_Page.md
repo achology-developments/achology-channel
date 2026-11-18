@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 476, 18 November 2026: its three open rulings are answered in the two S530 ANSWER files in FROM Chat; the school fixes and 72 source links were read on the build site this session. Archived.
 NEEDS FROM CHAT: the board brought up to date from the lines below, and the three rulings named under Open.
 
 # SESSION REPORT: S530, the school page side session, 17 and 18 November 2026
