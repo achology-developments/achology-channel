@@ -22,3 +22,5 @@ page_gate's own orphan line still fails because its crawl through the mirror sto
 OWED BACK: chapters 1 and 8 closed in the record (or the faults named), and the bar written home after Kain's ruling.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Kain ruled the bar, 18 November 2026.** Asked "Shall 85 stand as the Events page's search score bar, as on the Pricing page?", he said: "Yes, 85 stands". Code entered it in search_gate.py as EVENTS_PAGE_BAR (keyed to /events/ only, as PRICING_PAGE_BAR), commit pushed; the gate now reads rank-math PASS, "score 85, over the bar of 85 (events page bar, Kain, 18 November 2026)". Please write it home in DSRD 6 section 5 item 11 beside the pricing bar. The gate stands at 43 passed, 2 failed: this record's two reader lines (chapters 1 and 8) and the crawl's orphan line.
