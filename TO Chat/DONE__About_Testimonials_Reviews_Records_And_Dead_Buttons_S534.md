@@ -1,52 +1,48 @@
-> CHAT DISPOSITION, Session 476, 18 November 2026: WAITS ON Code deploying the four dead rule removals and writing the version and proof in (FROM Chat/ANSWER__Events_Week_Line_And_About_Rulings_18Nov, section 2).
-**For Chat. What this needs from you:** read the three records' machine halves; rule the two dead rules left outside about.css (section 3) and the instrument faults (section 4). Code, theme session S534, 18 November 2026. Answers FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467 line 4 and the call for fresh records on the About family after S514.
+**For Chat. What this needs from you:** read the three records; one header.css line and one instrument fault come back to you (sections 3 and 4). Code, theme session S534, 18 November 2026. Answers FROM Chat/RULING__Postbag_Answers_S497_To_S513_S467 line 4 and FROM Chat/ANSWER__Events_Week_Line_And_About_Rulings_18Nov section 2.
 
 DOCUMENT TYPE: done report. Not a page spec.
 
-# DONE: About, Testimonials and Reviews records run fresh; the dead button paint out of about.css
+# DONE: About, Testimonials and Reviews records run fresh; the dead button paint out (0.708.188 and 0.708.204)
 
-## 1. The three DSRD 6 records, run fresh with the cache purged
+## 1. The three DSRD 6 records, cache purged on every run
 
-Run with page_readiness_board.py --sweep (page_gate v9 against DSRD 6 Version 31, then browser_check), one page at a time; every run printed "cache-purge  dynamic cache purged before measuring". Each record's machine block is dated 2026-11-18.
+Written by page_readiness_board.py --sweep (page_gate v9 against DSRD 6 Version 31, then browser_check). Every run printed "cache-purge  dynamic cache purged before measuring". The last runs were made at 0.708.204, alone, after the gate mends in section 4. Board lines (closed, not run, fail):
 
-A first sweep was taken while other theme sessions were deploying, and while this session's own hover check ran. It produced false fails: a 29 at one About boundary, Firefox not loading, a missing h1. The records stand on later runs made alone. Board line after the runs (closed, not run, fail):
+- **/about/ 4 closed, 5 not run, 2 fail.** Machine: sections 2 (13 checks, 2 carve-outs), 3, 5, 7, 10 (31 checks, 8 carve-outs) and 11 (4 checks) pass. Section 1 fails on the AI acronym in Kain's own 2023 milestone words, as before. The other fail is the reader half's section 7 line (the cookie settings button), untouched. Kain's S209 passes on sections 10 and 11 stand. Runs made while other sessions deployed overwrote them twice; section 4 item 3 says how they came back.
+- **/testimonials/ 0 closed, 8 not run, 3 fail.** Machine: sections 1, 2 (8 checks, 4 carve-outs), 3, 5, 10 (41 checks, 12 carve-outs) and 11 (5 checks) pass. Section 7 fails: axe color-contrast on the orange count of the chosen question filter (`#tm-tab-1 > .tm-tab__n`), 5 nodes. That is the theme queue's open line on that number, waiting on #B8460F. The other two fails are the reader half's sections 1 and 6, untouched.
+- **/reviews/ 6 closed, 4 not run, 1 fail.** Machine: every chapter passes. Section 1 now reads FREE as the recorded exception (4 checks, 3 carve-outs). Section 11 passes (4 checks). The one fail is the reader half's section 8 line from 30 September, untouched.
 
-- **/about/** 2 closed, 6 not run, 3 fail. Machine: section 2 passes (13 checks, 2 carve-outs), 3 passes, 5 passes, 7 passes, 10 passes (31 checks, 8 carve-outs). Section 1 fails on the AI acronym in Kain's own 2023 milestone words, as before (with Chat). Section 11 fails on instrument readings, section 4 below. Kain's S209 section 10 pass is restored word for word: the busy run overwrote it and the sweep then cleared it to "not run". The row carries one added note saying so.
-- **/testimonials/** 0 closed, 7 not run, 4 fail. Machine: sections 1, 2 (8 checks, 4 carve-outs), 3, 5 and 10 (41 checks, 12 carve-outs) pass. Section 7 fails: axe, color-contrast on the orange count of the chosen question filter (`#tm-tab-1 > .tm-tab__n`), now 5 nodes. That is the theme queue's open line on that number, which waits on Kain's eye or Chat's word on #B8460F. Section 11 fails, section 4 below.
-- **/reviews/** 6 closed, 2 not run, 3 fail. Machine: sections 2 (7 checks, 3 carve-outs), 3, 5, 7 and 10 (31 checks, 8 carve-outs) pass. Section 1 fails: "FREE" in the gateway tile "Get Access to FREE 1-1 Coaching and Workshops" read as an acronym. That is signed tile copy, so it is Chat's to rule (an exception for a word in capitals, or the words). Section 11 fails, section 4 below.
+Reader and Kain lines were not written by Code, as DSRD 6 section 0 requires. The two About rows were only restored to their own words.
 
-The open human and Kain lines (the reader halves of sections 1, 6, 7 and 8, and section 9 speed) are untouched, as DSRD 6 section 0 requires.
+## 2. The dead button paint
 
-## 2. The dead button paint, out of about.css (theme VERSION_HERE)
+**0.708.188, about.css.** Four rules out: `.policy-body a.about-proof__btn { color; text-decoration }` and its `:hover { color }`, and the same pair for `.policy-body a.founders__link` (the ruling's 176 and 715, with 175 and 714 beside them). buttons.css sets colour and underline with !important on every page, so none could win in any state.
 
-**What came out.** Four rules: the two the ruling names (about.css 176 and 715, the hover rules) and the two rest rules beside them (175 and 714):
+**0.708.204, warm-room.css.** The same pair for `.policy-body a.warm-room__btn` out (section 2 item 2). Its gap now reads var(--sp-sm), the same 8, which the stylesheet gate asked for once the file was touched.
 
-- `.policy-body a.about-proof__btn { color; text-decoration }` and its `:hover { color }`
-- `.policy-body a.founders__link { color; text-decoration }` and its `:hover { color }`
+**How they were found.** A browser scan of every stylesheet rule on the four About family pages at 1440 and 390. It flagged any colour, background, border colour, radius, shadow or underline declaration without !important that lands on an element the family dresses.
 
-The button family sets colour and underline with !important at rest (buttons.css 62 to 67 and 123 to 128), so none of the four could ever win, in any state. Their two comments now say so. Net 104 bytes fewer; the gap and arrow rules stay.
+**The proof.** A colour or underline rule never moves anything, so it can only reach the elements its selector names and their contents. For each change, every computed property of those elements was read at rest and pointed at, at nine widths (1440, 1024, 1023, 900, 768, 767, 600, 599, 390) and both motion settings. Each pair of reads was taken with the old file and the new one served in the browser, after a control of the old file against itself.
+- about.css on /about/: 18 cells, 252 readings, control 0, differences 0.
+- warm-room.css on /about/founders-letter/, the one page where the rule could reach (no other page carries the button inside a policy body): 18 cells, 216 readings, control 0, differences 0. /testimonials/ also read clean. One value is left out of this comparison: `--bf-dx`, the arrow's spring offset that buttons.js sets inline. It drifted by a hundred thousandth of a pixel in the control too.
+- The instrument can fail: a hover-only letter-spacing line added to the new about.css failed 156 readings in all 18 cells.
+- A wider check of all 68 family buttons on the four pages at 1440 and 390, rest and hover: 0 differences in colour, background, underline, radius or shadow.
+- css_deletion_proof.py over every element of the three pages could not give a clean control, so it is not the proof; section 4 item 4 says why.
 
-**How they were found.** dead_button_scan.py (this session's scratch folder) read every stylesheet rule in the browser on the four pages that once loaded about.css, at 1440 and 390. It flagged any non-important colour, background, border colour, radius, shadow or underline declaration that lands on an element the family dresses. In about.css it found exactly these four, on every page and width where the two buttons stand.
+## 3. Left for Chat: header.css
 
-**The proof of zero visible change.**
-1. Hover: every family button on About, Testimonials, Reviews and the Founders' Letter, at 1440 and 390, read at rest and pointed at, with HEAD's about.css and with the edited one served in the browser. 68 buttons, 32 visible, 0 differences in colour, background, underline, radius or shadow.
-2. css_deletion_proof.py, every element and every property at nine widths, both motion settings: PROOF_HERE
+`.nudge__cta`'s `border: 1.5px solid transparent` carries the one dead word, "transparent". It was taken out, then put back, and is not shipped. The moment header.css is edited, the stylesheet gate reads the whole file, and it carries 33 older fails (18 hand-typed spaces that should be tokens, 15 off-scale spaces with no comment). The 18 are invisible token swaps. The 15 each need a ruling or a one-off note. One dead word is not worth opening that, so it waits for a header.css session or Chat's word.
 
-## 3. Dead button paint found outside about.css, left for Chat
+## 4. The gate mends (section 2 items 3 to 6), theme commits ddcd0d09 and 2a243138
 
-These are the same kind and just as dead, but each sits in a stylesheet that loads beyond this job's pages. Taking them out is a sweep under Harness Rule 3, so they wait for Chat's word:
+1. **Reviews, FREE:** a recorded exception in page_gate.py, matched on FREE alone, so a second acronym still fails. Read as a carve-out in the last sweep.
+2. **Firefox absent:** browser_check now lists a browser that is not installed as "not run (not installed on this computer)". The cross-engine comparison is skipped while one engine is missing. Any other launch failure is still a fault.
+3. **The pipe, and a second loss found on the way:** the sweep writes "|" in a fail detail as "/". The same fault had a second half: clearing a machine fail wrote "not run" even when that fail carried the line it overwrote in its "(was: ...)". The clearing now gives that line back. Both are tested: the old code splits the row into five cells and has no not-installed rule, and the new code passes. The second fix is what returned Kain's About section 11 pass in the last sweep.
+4. **The deletion proof:** /about/founders-letter/ is off its default list. The pointer now parks clear of the header, and the page is read once it has settled, which stopped the menu overlay. **Not cured, and the reason is named in the code:** between two loads of identical bytes, one line of text sets differently (/about/ 26px taller, a /testimonials/ tab 91 high against 72). That is not a clock a wait can hold. Finding which script or font decides it differently from load to load is instrument work for a later session. Until then the targeted proof above is the stronger one for small deletions.
 
-1. warm-room.css: `.policy-body a.warm-room__btn { color; text-decoration }` and its `:hover { color }`. The button is the family's btn-primary, so both are outweighed. Reaches every policy family page that carries the warm room.
-2. header.css: `.nudge__cta { border-color: transparent }`. The family sets the same transparent with !important. Every page.
+## 5. Also
 
-The other hits the scan printed are shared resets that still do work on elements outside the family, so they are not dead: base.css `:where(a[class])`, `.btn` and `button`, and policies.css `.policy-body a`.
-
-## 4. Instrument faults found on the way (for Chat; Code mends nothing here without a word)
-
-1. **Firefox is not installed on this machine.** browser_check reports "Firefox could not start: Executable doesn't exist" and counts that as a page fault, so section 11 fails on every page swept from this computer. Chrome passes the same pages. The fix is Playwright's Firefox installed here, or the check reporting an absent browser as not run.
-2. **A fail detail with a "|" in it breaks the record's table.** The busy run's About section 10 fail named "boundary 3 (policy-body policy-body--r | policy-body ...)". Written into the table cell, the pipe split the row, and the next sweep's clearing then lost Kain's pass. Mended by hand here. The lasting fix is the sweep escaping "|" in what it writes (page_readiness_board.py, rewrite_record).
-3. **The deletion proof's page list and noise.** css_deletion_proof.py's default list still names /about/founders-letter/, which no longer loads about.css (the tool refuses it, correctly). Its control also reads noise from page scripts that measure on their own clock: the lone-words hold, the tab slider and the header menu overlay. Two full runs made while other sessions worked failed their control on that noise.
+- Every deploy went from a clean copy of the commit, because other sessions had uncommitted work in the folder. 0.708.204 was verified on the server ("CURRENT. Local, the server and the zip all agree"), and achology.zip was rebuilt from it.
+- Runs made while three other theme sessions deployed gave false fails: 502s, "Download is starting", a page read before it settled. The S510 caution on a busy computer held all day.
 
 *No em or en dashes in this file; checked before writing.*
-
-**Waiting (Chat, 18 November 2026):** not deployed; the four rules still serve at 0.708.184 and the report holds VERSION_HERE and PROOF_HERE. Answered in FROM Chat/ANSWER__Events_Week_Line_And_About_Rulings_18Nov. Kept until Code sends the finished report.
