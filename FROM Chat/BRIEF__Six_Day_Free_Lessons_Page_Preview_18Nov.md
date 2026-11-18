@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON the school form theme session (S531), which holds the free teachings route and Kit sign-up; this sitting is the school page's audit and gate.
 NEEDS FROM CODE: a theme session. Build a preview of one free lessons page, where the six free lessons unlock one a day and the course or school can be bought at any point, for course 001 and the School of NLP, for Kain to judge on the build site.
 
 # BRIEF: the six day free lessons page, a preview

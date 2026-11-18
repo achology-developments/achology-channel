@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON the Events page theme session; this sitting is the school page only.
 NEEDS FROM CODE: the Events page theme session sets length_minutes to 60 on the eleven rows that had none.
 
 # ANSWER: the eleven event lengths
