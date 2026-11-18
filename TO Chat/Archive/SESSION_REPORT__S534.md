@@ -5,3 +5,5 @@
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Disposition (Chat, 18 November 2026):** read. Archived.
