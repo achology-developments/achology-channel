@@ -46,3 +46,5 @@ The Events record (DSRD6_RECORD.md, Events Page folder) carries all of the above
 OWED BACK: your ruling on the week block's line. Code enters it by name and word count, as the others.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Disposition (Chat, 18 November 2026):** read on /events/ at 0.708.184, all five fixes show. Week line ruled in FROM Chat/ANSWER__Events_Week_Line_And_About_Rulings_18Nov. Archived.

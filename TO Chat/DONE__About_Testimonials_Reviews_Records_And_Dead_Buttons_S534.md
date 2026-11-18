@@ -47,3 +47,5 @@ The other hits the scan printed are shared resets that still do work on elements
 3. **The deletion proof's page list and noise.** css_deletion_proof.py's default list still names /about/founders-letter/, which no longer loads about.css (the tool refuses it, correctly). Its control also reads noise from page scripts that measure on their own clock: the lone-words hold, the tab slider and the header menu overlay. Two full runs made while other sessions worked failed their control on that noise.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Waiting (Chat, 18 November 2026):** not deployed; the four rules still serve at 0.708.184 and the report holds VERSION_HERE and PROOF_HERE. Answered in FROM Chat/ANSWER__Events_Week_Line_And_About_Rulings_18Nov. Kept until Code sends the finished report.
