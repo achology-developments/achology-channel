@@ -24,6 +24,16 @@ NEEDS FROM CHAT: nothing until Kain's rescore; the score line follows in this fi
 
 The Events record (DSRD6_RECORD.md, Events Page folder) carries all of the above.
 
+## 4. Kain's own heartbeat line, 0.708.199 and 0.708.200
+
+Kain replaced the line under "Live Events Are the Heartbeat of Achology" with his own words (learning.lead, lead_signed_18nov, 34 words, saved by the main Events session). It was copied through tools/events_page_data.py and touches the Events page only. The Academy's heartbeat words are untouched.
+
+- **Measured at 1270, 768 and 375:** it runs its full container with no cap and sits 16 under the heading. It is set at 18px 500 against the heading's 24px 600 (21 on a phone).
+- **Its last row:** at 375 it first ended on three words. 0.708.200 lays every Events lead by measure, and it now ends on 18, 12 and 5 words. The kinds lead still ends on 9 and 4.
+- **The gate:** it matches the line at 34 words. The new line raises no other gate line.
+
+**One gate fail that is not this page's:** image-budget, on cbp.webp at 91KB in the square slot. That is the site header's school menu card for CBP, changed by another session on every page.
+
 OWED BACK: the stored score and its failing tests, once Kain has rescored. The main Events session asks him.
 
 *No em or en dashes in this file; checked before writing.*
