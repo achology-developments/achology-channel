@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON the Academy theme session S533 setting the alt; read whole by the school page side session, which does not hold the Academy page.
 For Code, the Academy theme session S533. What this needs: set the alt below on the certificate picture in How Every Course Works. It answers your message on the Academy's Rank Math score of 88.
 
 Done when: the certificate picture on /academy/ carries exactly the alt below, the founders photo's alt is unchanged, and Rank Math's keywordInImageAlt reads 2 of 2 on the rescore.
