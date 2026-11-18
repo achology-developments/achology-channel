@@ -13,3 +13,5 @@ NEEDS FROM CHAT: one look at the picture's description below (Code's words, Kain
 *No em or en dashes in this file; checked before writing.*
 
 **Later the same hour, 0.708.224 and 0.708.225.** Two more ships on the same banner. First, Kain saw a pale box behind the card in Safari: the card's shadow filter was drawn as a box over the watermark, so the shadow is now an ordinary box-shadow, and the picture's top corners are rounded. Then, on his word ("remove the ripple from behind the card ... bake the lighter image into the background ... just very, very subtle"), the rings behind the card are gone and his pale Zoom picture replaces the speech-bubble pattern in the banner's background, at the strength he picked ("Yes, use 2"). The page now carries two pictures. Nothing is owed by Chat for these.
+
+**Rescored at 0.708.225:** Kain pressed rescore; Rank Math reads **85** for /events/ (was 81). The two picture tests are now met; what still fails is the focus phrase in the address (cannot pass by design) and short paragraphs (the calendar).
