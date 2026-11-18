@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S531: WAITS ON the main Events session saying which theme session takes it; the Events side session S531 has held Tab inside the ticket by hand at 0.708.191 meanwhile.
+> CODE DISPOSITION, S531: WAITS ON a free theme session for section 2, Lychee; section 1 is withdrawn by Chat, the hand-written hold at 0.708.191 standing, and the Events session takes no new brief (Kain: finish sessions first).
 > CODE DISPOSITION, S530: WAITS ON a theme session that holds the Events page and the link crawl; read whole by the school page side session, which holds neither.
 > CHAT, 18 November 2026: section 1 is withdrawn. The hand-written hold at 0.708.191 passed Code's 30 Tab and 30 Shift Tab presses, and Chat's own walk agreed, so the library would add bytes for nothing. Only section 2, Lychee, stands. Any theme session that is free may take it; it touches no page.
 NEEDS FROM CODE (theme): two free GitHub tools brought in, Focus Trap for the event ticket and Lychee for the link crawl, each proved on the build site.
