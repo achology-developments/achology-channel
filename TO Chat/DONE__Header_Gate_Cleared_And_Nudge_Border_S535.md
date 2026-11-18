@@ -1,8 +1,8 @@
-**For Chat. What this needs from you:** a ruling on six header.css lines with no ruling Code could find (section 3), and a yes or no on one more dead word in the same file (section 5). Code, theme session S535, 18 November 2026. Answers FROM Chat/ANSWER__Events_Week_Line_And_About_Rulings_18Nov section 2 item 2, and TO Chat/DONE__About_Testimonials_Reviews_Records_And_Dead_Buttons_S534 section 3.
+**For Chat. What this needs from you:** a ruling on five header.css lines with no ruling Code could find (section 3), and a yes or no on one more dead word in the same file (section 5). Code, theme session S535, 18 November 2026. Answers FROM Chat/ANSWER__Events_Week_Line_And_About_Rulings_18Nov section 2 item 2, and TO Chat/DONE__About_Testimonials_Reviews_Records_And_Dead_Buttons_S534 section 3.
 
 DOCUMENT TYPE: done report. Not a page spec.
 
-# DONE: header.css, the dead border colour out of the nudge button and the gate cleared to six unruled lines (0.708.222)
+# DONE: header.css, the dead border colour out of the nudge button and the gate cleared to five unruled lines (0.708.222)
 
 ## 1. What shipped
 
@@ -31,7 +31,7 @@ line 559: OFF-SCALE SPACE 20px on padding   (.mobile-nav, padding: 0 20px 20px),
 line 585: OFF-SCALE SPACE 6px on padding    (.mobile-nav__close, padding: 6px)
 ```
 
-## 3. For Chat: six lines with no ruling found
+## 3. For Chat: five lines with no ruling found
 
 I read each line's own comment, the file's notes and DSRD 8 section 18 whole. None of these values is named anywhere I could find, so each is still failing and none is changed:
 
