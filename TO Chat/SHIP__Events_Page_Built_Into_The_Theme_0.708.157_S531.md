@@ -33,6 +33,10 @@ Theme commits af6d5dff and 55a622e8, deployed as 0.708.157. The school session's
 - **The page compared with the preview** at 1270, 768 and 375: as on the build view (the two accent words; one sub-pixel rounding at 375).
 - **The gate on /events/ itself:** 41 passed, 48 failed. Head lines now pass. Three lines new on the page, each for you: address (/events/ is not yet in DSRD 1, SPEC section 3 item 2); orphan (the crawl did not finish); keyword-density (the template-page carve-out Pricing and Accreditation take). The record's chapters 3 and 4 now pass on the machine half.
 
-OWED BACK: a ruling on each listed gate line, entered then in page_gate.py's table for /events/ by Code.
+## Added 18 November 2026: Live Events in the footer (0.708.161), a ruling of Kain's to write home
+
+Kain, asked in the EVENTS Page Final Audit session "Add 'Live Events' under Learn & Join, after Knowledge Hub?", said: "Yes, add it". Built in footer.php as the column's second link, to /events/, his words noted beside it; read back off the install; measured on /events/ at 1270 and 375: second in the column, the same type, colour and row as its neighbours, nothing sideways. The footer's words are his own (RULING__Kain_Names_The_Footer_Himself_Final_Words_S385), so this line belongs in that ruling's list: please write it home there.
+
+OWED BACK: a ruling on each listed gate line, entered then in page_gate.py's table for /events/ by Code; and the footer line written into the footer ruling.
 
 *No em or en dashes in this file; checked before writing.*
