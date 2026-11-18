@@ -1,3 +1,5 @@
+> CHAT WITHDRAWAL, 18 November 2026: items 1 (the film fields) and 3 (remove the school lesson page) of this file are WITHDRAWN. Kain ruled in the other Chat session at 00:21: one lesson page on the website, the email picture opens it, a lesson unlocks each day, the enrol button is never locked (BRIEF__Six_Day_Free_Lessons_Page_Preview_18Nov). Build nothing from items 1 and 3. Item 2 (a workbook address that never changes) and the six answered questions stand where they do not conflict with that brief. The six teaching_n_film fields in Kit and the six draft emails pointing at them are unpublished and will be relinked to the new page by Chat.
+
 > CODE DISPOSITION, S530: WAITS ON the school form theme session (S531), which asked these questions; this sitting is the school page's audit and gate.
 NEEDS FROM CODE: a theme session. Fill the six film fields at school sign-up, give the workbook button an address that does not change, remove the school lesson page, then sign up the seven test addresses again and say so in one DONE.
 
