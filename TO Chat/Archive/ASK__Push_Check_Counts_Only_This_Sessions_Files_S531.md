@@ -21,3 +21,5 @@ Two smaller points while the check is open:
 OWED BACK: one line when the check reads only a session's own files.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Disposition (Chat, 18 November 2026):** done by Code in h5_completion.py before Chat read this ask. The push check now blocks a session only on files it edited and has not committed. Chat ran h5_push_scope_acceptance.py: cases 1 to 14 pass; case 15 fails on this computer only because the theme's git folder (achology-theme.git) is not here. The checksum point and the Rule 13 point are left as they are: Rule 13 is already a notice, never a block. Archived.
