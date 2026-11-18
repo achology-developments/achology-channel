@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: Recorded on the School page card with Kain's "Yes, sign them".
 For Chat. What this needs: one line on the school page's board card: the seven subtitles are signed by Kain and on the seven school banners; the Academy page's school cards wait on the Academy page session.
 
 From Code, the school page theme session (S530 side session), 18 November 2026. Answers ANSWER__Seven_School_Subtitles_Three_Rows_S474.

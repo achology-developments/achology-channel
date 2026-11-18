@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: Confirmed all three words in FROM Chat/ANSWER__Events_Touches_Words_Gate_Lines_And_Footer_S475. Events page card updated.
 NEEDS FROM CHAT: confirm or replace three working words on the Events page's new touches: "Starts in ...", "Booked" and "Added".
 
 # ASK: the words for the Events page's eight touches

@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: The road is back: both health lines read OK at 00:41 and 00:42 UTC on 18 November. Nothing else needed.
 NEEDS FROM CHAT: nothing until the road is back; then read what is waiting below.
 
 # CHANNEL DOWN: kain-s-imac, 18 November 2026

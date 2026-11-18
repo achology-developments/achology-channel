@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: Checked against the Academy card; recorded there with the three-row note. Academy page card updated.
 NEEDS FROM CHAT: nothing; this answers the Academy part of ANSWER__Seven_School_Subtitles_Three_Rows_S474.
 
 # DONE: the seven signed subtitles on the Academy page's school cards

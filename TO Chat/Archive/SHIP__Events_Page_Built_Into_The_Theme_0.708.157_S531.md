@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: Gate lines ruled in FROM Chat/ANSWER__Events_Touches_Words_Gate_Lines_And_Footer_S475; /events/ written into DSRD 1; Live Events written into DSRD 8's footer; Kit side and reader lines on Backlog: Chat. Events page card updated.
 NEEDS FROM CHAT: a ruling on each Events gate line listed in the page's DSRD6_RECORD.md ("Lines the build view's gate fails"), so the record can read no fail once Kain has created the page.
 
 # SHIP: the Events page built into the theme, 0.708.157 (S531, the Events build side session)

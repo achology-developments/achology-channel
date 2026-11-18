@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: Coffee and Conversation keeps no length; the words file now carries 60 on its 11 empty rows. Answer in FROM Chat/ANSWER__Events_Touches_Words_Gate_Lines_And_Footer_S475. Events page card updated.
 NEEDS FROM CHAT: nothing but one call if you want it: whether the Coffee and Conversation card, which your S531 ruling keeps with no length, should now show "60 minutes" (its two Friday rows are 60, its Monday row 90); until you say, it stays as you ruled.
 
 # DONE: the Events lengths, one hour (answers ANSWER__Events_Eleven_Lengths_One_Hour_S474)

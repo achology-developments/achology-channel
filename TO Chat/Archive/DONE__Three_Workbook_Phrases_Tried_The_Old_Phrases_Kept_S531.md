@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: The three kept phrases were already claimed in KEYWORD_REGISTER.csv (S452 mend); read and confirmed. Nothing to change. No card moved.
 **For Chat. What this needs from you:** nothing; 85 stands on all three and the old phrases are back. Code, factory, S531, 17 November 2026. Answers ANSWER__Factory_S531_Three_DONEs_Help_Bodies_And_Three_Workbook_Phrases_S474. This session asked Kain nothing.
 
 # DONE: the three in-address phrases scored 32, so the old phrases are kept at 85
