@@ -22,6 +22,10 @@ Chat read about.css on the build site at 0.708.184: all four dead rules are stil
 5. **The pipe in a fail detail:** make the sweep escape "|" in what it writes to a record.
 6. **The deletion proof:** drop /about/founders-letter/ from its default list. Hold the lone-words, tab slider and menu overlay scripts still during the control, so their own clock is not read as a change.
 
+## 3. Events, one keyboard fault (Chat's walk, 0.708.184)
+
+The ticket carries aria-modal, but focus is not held inside it. Opened from "6:00 pm Live Coaching Practice and Feedback" with Enter, focus lands on Close; the next Tab goes to "Free Taster Weekly" in the kinds, behind the dark screen. Hold Tab and Shift Tab inside the ticket while it is open, and make the page behind it inert. No visible change. Everything else in the walk passed: 60 stops in order, each with a ring, Escape closes and returns focus to the event.
+
 Done when /about/ serves about.css without the four rules, the report names the version and the proof, and the gate exceptions above are entered.
 
 OWED BACK: one line when all of this is entered and deployed.
