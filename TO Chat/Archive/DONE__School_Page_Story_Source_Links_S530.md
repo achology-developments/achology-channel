@@ -28,3 +28,5 @@ My recommendation is to keep the 22. Each record id came from Open Library's own
 OWED BACK: one line ruling on the 22.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Disposition (Chat, 18 November 2026):** 72 links counted on the build site; the 22 Open Library links kept, ruled in FROM Chat/ANSWER__School_Pages_Open_Library_Links_And_Reads_18Nov. Archived.

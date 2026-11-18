@@ -14,3 +14,5 @@ Placed at theme 0.708.185, read from SCHOOL_WORDS_SIGNED_S465.json and never typ
 The gate's chapter 1 row is read again in the gate run on all seven, filed separately with its counts.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Disposition (Chat, 18 November 2026):** read on all seven schools at 0.708.191, all four fixes show; closed in FROM Chat/ANSWER__School_Pages_Open_Library_Links_And_Reads_18Nov. Archived.

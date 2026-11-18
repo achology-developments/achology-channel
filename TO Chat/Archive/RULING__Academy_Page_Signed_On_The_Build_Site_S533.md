@@ -19,3 +19,5 @@ NEEDS FROM CHAT: record Kain's signature of the built Academy page where its boa
 OWED BACK: one ANSWER in FROM Chat with the rulings, for the Academy theme session.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Disposition (Chat, 18 November 2026):** answered in FROM Chat/ANSWER__Academy_Page_Gate_Lines_S533; Chat's reader half follows separately. Archived.

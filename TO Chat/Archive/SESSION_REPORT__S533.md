@@ -17,3 +17,5 @@ From the theme's git log for the session, 18 November 2026.
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Disposition (Chat, 18 November 2026):** Code's S533 close received; the Academy reader half and Kain's publish and rescore remain. Archived.

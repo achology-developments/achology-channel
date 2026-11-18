@@ -13,3 +13,5 @@ The record (Academy Landing Page folder, DSRD6_RECORD.md) carries each ruling wi
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Disposition (Chat, 18 November 2026):** the owed back lines for Chat's three Academy answers; nothing owed. Archived.
