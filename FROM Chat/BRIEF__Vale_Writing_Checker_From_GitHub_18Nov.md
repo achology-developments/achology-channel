@@ -21,6 +21,6 @@ The content gate stays the gate. Vale changes no page, signs nothing and blocks 
 
 Done when the Achology style exists with every rule traced to its home, the side by side run on both batches is saved in The Machine, and Code says plainly whether Vale should take over the word checks, sit beside the gate, or not earn its place.
 
-OWED BACK: a DONE in TO Chat with the rule count, the rules Vale could not hold, the comparison numbers and the verdict.
+OWED BACK: a DONE in TO Chat with the rule count, the rules Vale could not express, the comparison numbers and the verdict.
 
 *No em or en dashes in this file; checked before writing.*

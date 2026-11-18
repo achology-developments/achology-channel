@@ -10,6 +10,7 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Open
 
+- **OPEN, Chat, 18 November 2026: bring in Focus Trap for the Events ticket and run Lychee over the build site (FROM Chat/BRIEF__Focus_Trap_And_Lychee_From_GitHub_18Nov).** Why a theme edit: the ticket's script and the link check's settings live in the theme. Kain: "Yes, brief Code". The factory half, Vale, is FROM Chat/BRIEF__Vale_Writing_Checker_From_GitHub_18Nov.
 - **OPEN, Session 475 (Chat, 18 November 2026): place the Events page's five signed word fixes and build the days rule (FROM Chat/BRIEF__Events_Page_Five_Signed_Word_Fixes_S475).** Why a theme edit: the page reads its words from the theme's data and the Event records. Kain signed them: "Yes, sign them".
 - **OPEN, Session 475 (Chat, 18 November 2026): link the 50 unlinked school story sources from one file and open each in a browser (FROM Chat/BRIEF__School_Story_Source_Links_S475).** Why a theme edit: the sources are drawn from the theme's school data. With the word fixes below, one school page sitting.
 - **OPEN, Session 475 (Chat, 18 November 2026): place the four signed school page word fixes from the words file (FROM Chat/BRIEF__School_Page_Four_Signed_Word_Fixes_S475).** Why a theme edit: the school pages read their words from the theme's data. Kain signed them: "Yes, sign them".

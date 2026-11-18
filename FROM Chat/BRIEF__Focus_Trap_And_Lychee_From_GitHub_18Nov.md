@@ -26,7 +26,7 @@ NEEDS FROM CODE (theme): two free GitHub tools brought in, Focus Trap for the ev
 
 No change Kain can see on any page. No new plugin in WordPress. Whatever Lychee finds broken is listed, not mended in this sitting; Chat rules what to mend.
 
-Done when the Events ticket holds Tab inside it on the build site, and the first whole-site Lychee run is saved with Code's verdict on it.
+Done when the Events ticket keeps Tab inside it on the build site, and the first whole-site Lychee run is saved with Code's verdict on it.
 
 OWED BACK: a DONE in TO Chat with the version, the walk, the bytes added, the Lychee numbers and the verdict.
 
