@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON a factory session; read whole by the school page side session, a theme session.
 NEEDS FROM CODE (factory): Vale, a free writing checker from GitHub, set up with our own word rules and run beside the content gate on one batch, with a verdict.
 
 # BRIEF: Vale, borrowed from GitHub, for the word checks
