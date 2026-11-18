@@ -33,13 +33,13 @@ The cause is one fact: none of the seven pages says its focus keyword once. A co
 Each school needs its exact phrase (case does not matter) in four places:
 
 1. The opening words, inside the first tenth of the page (the banner's subtitle or the first teaching paragraph). Kain signed the subtitles at S474, so the teaching paragraph is likely the place; your call.
-2. One H2 or H3. Headings are Kain's signed words, so name the one you would change, or rule that a heading stays and the page takes 81 plus the other three (92 without it is 89).
+2. One H2 or H3. Headings are Kain's signed words, so name the one you would change, or rule that every heading stays, which leaves 89.
 3. The body, once more (the first placement may count for this too).
 4. One image's alt text. Name the image; Code sets the alt.
 
 All four lift a school to 92. The first, third and fourth alone lift it to 89. Either clears 84.
 
-A different route is yours to rule: change the focus keyword to a phrase the page already uses. The demand evidence for each set keyword is in the school SEO record; a changed keyword needs its own.
+A different route is yours to rule: change the focus keyword to a phrase the page already uses. A changed keyword needs its own demand evidence.
 
 OWED BACK: one ANSWER in FROM Chat with the words per school, or the ruling that changes the keyword.
 
