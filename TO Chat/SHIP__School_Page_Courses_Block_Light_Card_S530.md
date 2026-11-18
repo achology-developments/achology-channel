@@ -20,4 +20,6 @@
 
 **Signed.** Kain, on the built block in Safari, 18 November 2026: "Yes, it's right".
 
+**Then, on 0.708.229 (commit b82c194f).** Kain, comparing the five, six and twelve course schools: "apply the same spacing rules as what you've applied to the school pages that have 6 ... it just looks a little bit crammed". He also said the floating card "should just sit and stop scrolling in parallel with the bottom of the 12th course", not over the enrolment band. Personal Growth's rows went from 64 to 104 (Life Coaching's are 102). The card is now held inside the list's own column, so it comes to rest level with the twelfth course. The block is 1,460 deep at 1280.
+
 Theme commit 897027ae, pushed. Deployed and proved: local, server and zip agree on 0.708.228. Measured in WebKit on all seven schools at 1280, 834 and 390: new title, white card, whole picture, no sideways scroll.
