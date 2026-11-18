@@ -18,4 +18,6 @@
 
 **In passing.** Running tools/school_page_data.py rewrites data/school-page/knowledge-tree.json with straight apostrophes and a key moved. The committed file has curly ones. I put the file back as committed and shipped nothing from it. Its words source may want the curly marks.
 
+**Signed.** Kain, on the built block in Safari, 18 November 2026: "Yes, it's right".
+
 Theme commit 897027ae, pushed. Deployed and proved: local, server and zip agree on 0.708.228. Measured in WebKit on all seven schools at 1280, 834 and 390: new title, white card, whole picture, no sideways scroll.
