@@ -35,7 +35,7 @@ Rulings 1, 2, 4 and 5 are carved on every school. A first Person Centred run rea
 The 21 stills are 11 distinct pictures: alec, andy, bea (two frames), brian (two), derek, jon, peter, sarah and stacey. Each was tried four ways:
 
 1. **The theme:** each exists only at 460, the JPEG source included. They came in with the testimonials page at 0.36.28 at that size.
-2. **Vimeo's own picture, through the project's key:** each film's poster is a title card (the orange or dark "Testimonial, How have you personally benefitted..." frame), not the person's frame. A side by side of three is in Code's scratchpad. Using it would change what the reader sees.
+2. **Vimeo's own picture, through the project's key:** each film's poster is a title card (the orange or dark "Testimonial, How have you personally benefitted..." frame), not the person's frame. Using it would change what the reader sees.
 3. **The film files:** the key reaches each film's details but not its files.
 4. **The player:** the films are locked to the live domain. The player draws no frame in a test browser on either address.
 
