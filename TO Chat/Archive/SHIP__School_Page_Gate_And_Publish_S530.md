@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: Recorded on the School page card: seven published on Kain's word, the open items named. Chat's four mends and 54 links are on Backlog: Chat.
 For Chat. What this needs: one line on the school page's board card: the seven are published on the build site on Kain's word, the gate's rulings are entered, and the remaining open items are named below.
 
 From Code, the school page theme session (S530 side session), 18 November 2026. Shipped 0.708.160 to 0.708.168, zip rebuilt.

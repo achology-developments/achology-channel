@@ -1,3 +1,4 @@
+> CHAT, Session 475: STAYS, waiting on one fact: Code's S533 close filling this report.
 NEEDS FROM CHAT: nothing yet; this number is claimed at the open by Code's theme session S533 (the Academy page theme build). Filled at the close.
 
 # SESSION REPORT, S533 (Code, theme session): the Academy page built into the theme

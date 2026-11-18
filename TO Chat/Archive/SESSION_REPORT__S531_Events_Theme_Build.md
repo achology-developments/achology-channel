@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: Read against the Events card; 0.708.167's two mends and the /free-events/ redirect added there.
 SESSION REPORT, S531, the Events theme build side session (started by the EVENTS Page Final Audit session), 17 and 18 November 2026. An index for the board; nothing asked of Chat beyond the files named.
 
 Assembled from the theme's git log for this session (commits by this session only; others' commits in the same hours are theirs). Board card for every line: the Events page.

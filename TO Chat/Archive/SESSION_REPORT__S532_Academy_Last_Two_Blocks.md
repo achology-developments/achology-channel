@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, Session 475, 18 November 2026: Read against the Academy card; every line is already there from the S532 ruling and DONE. Nothing more.
 SESSION REPORT, S532 (theme, the Academy page's last blocks, 17 and 18 November 2026). One line per piece of work.
 
 - Four Ways to Study (Pricing's cards) measured onto the register and signed ("Yes, signed"); three faults mended first (cards 48 under the line from a dead rule, prices outranking the heading, Explore Schools to a retiring address).
