@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON the other theme sessions (Events, Academy, About) reading it; read whole by the school page side session.
 NEEDS FROM CODE: nothing; this tells every theme session the H5 push check now blocks a session only on theme files it edited itself and has not committed or pushed (Kain, S531: "Yes, ask Chat"); theme commit 5bc90684, on origin.
 
 Done when: each theme session has read this line; nothing else is owed.
