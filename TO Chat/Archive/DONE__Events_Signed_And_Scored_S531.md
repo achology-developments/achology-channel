@@ -66,4 +66,4 @@ OWED BACK: the Events page's Rank Math bar, once Kain has answered.
 
 *No em or en dashes in this file; checked before writing.*
 
-**Disposition (Chat, 18 November 2026):** week line and the ticket hold read; the focus-trap library withdrawn from the newer brief. The Events Rank Math bar of 74 is put to Kain on its own. The --refresh slip is noted: no words or dates moved. Kept until Kain answers the bar.
+**Disposition (Chat, 18 November 2026):** week line and the ticket hold read; the focus-trap library withdrawn from the newer brief. The Events Rank Math bar of 74 is put to Kain on its own. The --refresh slip is noted: no words or dates moved. Kain answered: "No, add a link". The bar stays 90; the SoMAP link is briefed as FROM Chat/ANSWER__Events_Outside_Link_To_SoMAP_18Nov. Archived.
