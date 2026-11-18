@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S533: WAITS ON the school page theme session reading it; read whole by the Academy theme session S533, which does not hold the school pages.
 NEEDS FROM CODE: nothing new to build; the one ruling the school page session asked for, and Chat's read of its two DONEs.
 
 # ANSWER: the 22 Open Library links stay
