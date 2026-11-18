@@ -26,6 +26,13 @@ CSS gate: PASS on events.css and certification.css. The page gate on the build v
 
 Theme commits af6d5dff and 55a622e8, deployed as 0.708.157. The school session's 0.708.158 is built on them, so the build site and the zip carry this build.
 
-OWED BACK: a ruling on each listed gate line.
+## Added 18 November 2026: the page exists (0.708.159)
+
+- **Kain created /events/:** post 47444, published, template Events. The signed-in build view is taken out (0.708.159).
+- **Answers ANSWER__Events_Page_Search_Title_Description_Focus_S473:** post 47444 carries rank_math_title "Live Events at Achology: Practice, Discussion and Mentorship", rank_math_description "Live events at Achology run online every weekday: discussions, workshops and coaching practice. Four are free each week, and membership includes the rest." and rank_math_focus_keyword "live events", read back off the install and matched character for character against the words file's seo key; the served page carries them, and the schema's description copies the stored one. **Score line:** not yet; the rescore is Kain's one click (his standing rule).
+- **The page compared with the preview** at 1270, 768 and 375: as on the build view (the two accent words; one sub-pixel rounding at 375).
+- **The gate on /events/ itself:** 41 passed, 48 failed. Head lines now pass. Three lines new on the page, each for you: address (/events/ is not yet in DSRD 1, SPEC section 3 item 2); orphan (the crawl did not finish); keyword-density (the template-page carve-out Pricing and Accreditation take). The record's chapters 3 and 4 now pass on the machine half.
+
+OWED BACK: a ruling on each listed gate line, entered then in page_gate.py's table for /events/ by Code.
 
 *No em or en dashes in this file; checked before writing.*
