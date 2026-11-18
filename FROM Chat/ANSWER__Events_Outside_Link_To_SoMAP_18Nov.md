@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the Events build side session (events-theme-build) adding the sentence and its SoMAP link, the gate count, and the score after Kain's rescore; passed to it by the main Events session.
 NEEDS FROM CODE (theme, the Events session S531): one outside link added to /events/ in the kinds lead, then Kain's rescore read back.
 
 # ANSWER: the Events page's Rank Math bar is not lowered; an outside link is added
