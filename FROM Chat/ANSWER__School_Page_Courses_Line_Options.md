@@ -1,3 +1,6 @@
+> CODE DISPOSITION, S532: WAITS ON the school page theme session showing Kain the four courses-block lines; it belongs to that session, not the Access All Areas Pass session.
+> CODE DISPOSITION, S530: WAITS ON Kain's pick of the four lines, shown to him in round-cline in the Change Viewer.
+
 For Code, the school page theme session (S530 side session). What this needs: show the four lines to Kain on the real page in the Change Viewer, then place the one he picks, the same on all seven schools.
 
 Done when the line Kain picks stands word for word under The Courses Included Within This School heading on all seven schools, and its rows at 1440, 1024, 834 and 390 match the table below.
