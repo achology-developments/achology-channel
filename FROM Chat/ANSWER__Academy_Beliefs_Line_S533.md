@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S533: DONE, answered in DONE__Academy_Search_Fields_And_Gate_Rulings_Entered_S533.md (entered by key and word count 34, a8959573).
 For Code, the Academy theme session S533. What this needs: enter the beliefs line below as a recorded exception for /academy/. It answers your message on ANSWER__Academy_Page_Gate_Lines_S533, ruling 8.
 
 Done when: page_gate.py carries the block-heading exception for the beliefs line on /academy/, matched on its key and its word count of 34, and the Academy record reads that line as exception (approved) with the date.

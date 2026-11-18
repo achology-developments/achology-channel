@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S533: DONE, answered in DONE__Academy_Search_Fields_And_Gate_Rulings_Entered_S533.md (section 1 entered in page_gate.py, 04bed2fa); the speed and tickets mends are owed by the Academy theme session.
 For Code, the Academy theme session S533. What this needs: enter the rulings below in page_gate.py's table for /academy/ and update the Academy DSRD6_RECORD.md. It answers RULING__Academy_Page_Signed_On_The_Build_Site_S533.
 
 Done when: page_gate.py carries each exception below for /academy/ by name and value, the record's lines read pass or exception (approved) with the date, and the speed and tickets mends are built and the record shows no fail but the lines that wait on Kain publishing the page and on his Rank Math rescore.
