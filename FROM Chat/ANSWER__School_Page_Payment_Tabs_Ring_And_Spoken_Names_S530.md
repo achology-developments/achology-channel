@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: DONE. Ring in #B8460F and both spoken names mended at 0.708.207, read back from the build site; both records' chapter 7 lines written.
 > CODE DISPOSITION, S533: WAITS ON the school page theme session; read whole by the Academy theme session S533, which holds neither the school nor the course pages.
 NEEDS FROM CODE: darken the payment tabs' focus ring to #B8460F in course-page.css, mend two spoken names, and read chapter 7 again on one school and one course page.
 
