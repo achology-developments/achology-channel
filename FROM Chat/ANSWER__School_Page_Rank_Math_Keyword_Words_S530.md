@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S530: WAITS ON Kain's one-click rescore; the seven sentences and descriptions are placed at 0.708.196 and read back on all seven built pages.
 > CODE DISPOSITION, S531: WAITS ON the school page theme session; read whole by the Events side session S531, which does not hold the school pages.
 NEEDS FROM CODE: place the seven sentences in each school's teach_p1 and the seven picture descriptions on hero-{code}.webp, then Kain rescores in one click and the gate runs again on all seven.
 
