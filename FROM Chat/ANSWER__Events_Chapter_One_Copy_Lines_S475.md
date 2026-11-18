@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the Events build side session entering the three rulings; passed to it by the main Events session.
 NEEDS FROM CODE: enter the three chapter 1 rulings below in page_gate.py's table for /events/.
 
 # ANSWER: the Events page's chapter 1 copy lines

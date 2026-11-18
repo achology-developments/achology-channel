@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the Events build side session building the three mends and the served page check; passed to it by the main Events session.
 NEEDS FROM CODE: three small mends on /events/ that change nothing a visitor sees, and one measure, from Chat's reader half of the Events record.
 
 # ANSWER: the Events page reader half, and what it asks of Code
