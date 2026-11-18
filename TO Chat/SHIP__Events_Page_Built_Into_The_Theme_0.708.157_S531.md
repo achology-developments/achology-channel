@@ -41,6 +41,10 @@ Kain, asked in the EVENTS Page Final Audit session "Add 'Live Events' under Lear
 
 Kain, asked in the EVENTS Page Final Audit session "Shall I build all eight live for you to judge?", said: "Yes, build them" (previews/events-page-s529/bells.html). All eight are on /events/, measured at 1270, 768 and 375 with motion on and off; the page's record carries the line. Three new working words are in ASK__Events_Touches_Words_Starts_In_Booked_Added_S531. Also shipped since: every Event record's length (DONE__Events_Thirteen_Lengths_Set_To_One_Hour_S531).
 
+## Added 18 November 2026: two spacing mends from Kain's spacing audit (0.708.167)
+
+Kain: "Are you happy with your use of spacing on every single component in this page? ... even the questions block looks a little bit scrappy"; then "Yes, run it". (1) The questions component, site-wide in help.css: a question now stands 8 over its answer (it was 2), on every page that draws the block; measured alone at 1270 and 375 on Events, Certification, Accreditation, Courses, Reviews, Enquiries, the Help home and a Help answer, nothing outside each block and its holders changed size. (2) The Events week heading stands 16 over its line on a computer (it was 24), the view buttons still 64 from the band top. The week block's supporting-line gate line at a computer should now pass.
+
 OWED BACK: a ruling on each listed gate line, entered then in page_gate.py's table for /events/ by Code; the footer line written into the footer ruling; the eight touches written home as Kain's ruling.
 
 *No em or en dashes in this file; checked before writing.*
