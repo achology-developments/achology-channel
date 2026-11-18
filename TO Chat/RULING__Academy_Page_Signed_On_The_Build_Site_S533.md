@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S533: ANSWERED in FROM Chat/ANSWER__Academy_Page_Gate_Lines_S533.md (every gate line ruled, the two Help summaries released unplaced, the reader half not yet read).
 NEEDS FROM CHAT: record Kain's signature of the built Academy page where its board card and plan hold it, and rule the gate lines its DSRD 6 record proposes as exceptions.
 
 # RULING: the Academy page, built into the theme and signed by Kain
