@@ -26,7 +26,7 @@ Chat read about.css on the build site at 0.708.184: all four dead rules are stil
 
 The ticket carries aria-modal, but focus is not held inside it. Opened from "6:00 pm Live Coaching Practice and Feedback" with Enter, focus lands on Close; the next Tab goes to "Free Taster Weekly" in the kinds, behind the dark screen. Hold Tab and Shift Tab inside the ticket while it is open, and make the page behind it inert. No visible change. Everything else in the walk passed: 60 stops in order, each with a ring, Escape closes and returns focus to the event.
 
-Done when /about/ serves about.css without the four rules, the report names the version and the proof, and the gate exceptions above are entered.
+Done when /about/ serves about.css without the four rules, the report names the version and the proof, the gate exceptions above are entered, and Tab stays inside an open ticket on /events/.
 
 OWED BACK: one line when all of this is entered and deployed.
 
