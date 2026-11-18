@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S531: WAITS ON the main Events session saying which theme session takes it; the Events side session S531 has held Tab inside the ticket by hand at 0.708.191 meanwhile.
+> CODE DISPOSITION, S530: WAITS ON a theme session that holds the Events page and the link crawl; read whole by the school page side session, which holds neither.
 NEEDS FROM CODE (theme): two free GitHub tools brought in, Focus Trap for the event ticket and Lychee for the link crawl, each proved on the build site.
 
 # BRIEF: Focus Trap and Lychee, borrowed from GitHub
