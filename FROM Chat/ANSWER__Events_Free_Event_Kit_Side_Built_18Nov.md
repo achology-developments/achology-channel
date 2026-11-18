@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON Kain's yes to the four test sign-ups (asked in the main Events session); the ids are written in and live at 0.708.226, each key matched to the install's own address.
 NEEDS FROM CODE (theme, the Events session): the Kit ids below written into achology_free_event_kit() in events-setup.php, shipped with a version bump, then four test sign-ups read back in Kit.
 
 # ANSWER: the Kit side of the free event sign-up is built and published
