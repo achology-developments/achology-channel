@@ -36,8 +36,8 @@ Today each reads "The School of ... image", which says nothing of the picture. E
 |---|---|
 | nlp | A light bulb with a glowing brain inside, over a watercolour of old buildings, for the school's NLP courses. |
 | cbp | A light bulb full of turning gears around a small brain, over a watercolour of old buildings, for the school's CBT courses. |
-| life-coaching | A light bulb with an orange target at its centre, over a watercolour of old buildings, for the school's life coaching courses. |
-| person-centred | A light bulb holding an open green hand and an orange bloom, over a watercolour of old buildings, for its counselling courses. |
+| life-coaching | A light bulb with an orange target inside, over a watercolour of old buildings, for the school's life coaching courses. |
+| person-centred | A light bulb holding a green hand and an orange bloom, over a watercolour town, for the school's counselling courses. |
 | mindfulness | A clear light bulb with a glowing filament, resting on smooth stones, for each mindfulness course in this school. |
 | mental-health | A light bulb swirled in black, white and orange, glowing at its heart, for the school's mental health courses. |
 | personal-growth | A stag's head with branching antlers rising from a light bulb, for the school's personal development courses. |
