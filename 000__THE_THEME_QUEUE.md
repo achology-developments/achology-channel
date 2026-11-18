@@ -10,6 +10,7 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Open
 
+- **OPEN, Session 475 (Chat, 18 November 2026): place the Events page's five signed word fixes and build the days rule (FROM Chat/BRIEF__Events_Page_Five_Signed_Word_Fixes_S475).** Why a theme edit: the page reads its words from the theme's data and the Event records. Kain signed them: "Yes, sign them".
 - **OPEN, Session 475 (Chat, 18 November 2026): link the 50 unlinked school story sources from one file and open each in a browser (FROM Chat/BRIEF__School_Story_Source_Links_S475).** Why a theme edit: the sources are drawn from the theme's school data. With the word fixes below, one school page sitting.
 - **OPEN, Session 475 (Chat, 18 November 2026): place the four signed school page word fixes from the words file (FROM Chat/BRIEF__School_Page_Four_Signed_Word_Fixes_S475).** Why a theme edit: the school pages read their words from the theme's data. Kain signed them: "Yes, sign them".
 - **OPEN, 18 November 2026 (Chat), changes the S474 line below: build a preview of the six day free lessons page for course 001 and the School of NLP (FROM Chat/BRIEF__Six_Day_Free_Lessons_Page_Preview_18Nov).** Why a theme edit: the page, its token at sign up and its redirects are the theme's. Kain chose a page on the site over Vimeo on 18 November, so items 1 and 3 of the S474 answer (film fields to Vimeo, removing the school lesson page) are withdrawn; its items 2 and 4 stand.
