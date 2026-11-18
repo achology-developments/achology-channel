@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S532: WAITS ON Kain signing the school-shape words on READING_PAGE__Access_All_Areas_Page_School_Shape.html (open in Safari, asked 18 November 2026).
 NEEDS FROM CODE: put READING_PAGE__Access_All_Areas_Page_School_Shape.html in front of Kain for his signature, then build the pass page on the school template once he signs; one DONE back.
 
 Done when: Kain has said yes or named the lines to change, in his words, and those words are written into the copy file's STATUS line.
