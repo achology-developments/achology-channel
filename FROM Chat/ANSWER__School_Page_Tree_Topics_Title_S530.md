@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S531: WAITS ON the school page theme session (school-page-finish); read whole by the main Events session S531, which does not hold the school pages.
 NEEDS FROM CODE: set "Start With a Topic" above the ten topics on all seven schools, and change the help line under the search by one word, as below.
 
 # ANSWER: the knowledge tree's topics title, and the help line
