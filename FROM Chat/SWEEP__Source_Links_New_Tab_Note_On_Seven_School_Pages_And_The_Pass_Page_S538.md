@@ -7,16 +7,16 @@ NEEDS: Code to put the hidden "(opens in a new tab)" note inside every new-tab s
 
 ## The pages, exactly eight
 
-1. The School of Neuro-Linguistic Programming (data/school-page/nlp.json)
-2. The school whose data is cbp.json
-3. The school whose data is pc.json
-4. The school whose data is lc.json
-5. The school whose data is mh.json
-6. The school whose data is miw.json
-7. The school whose data is pgd.json
+1. The School of Neuro-Linguistic Programming (NLP) (data/school-page/nlp.json)
+2. The School of Cognitive Behavioural Psychology (CBP) (data/school-page/cbp.json)
+3. The School of Person-Centred Counselling and Psychology (data/school-page/pc.json)
+4. The School of Life Coaching and Professional Helping (data/school-page/lc.json)
+5. The School of Mental Health, Wellness and Emotional Resilience (data/school-page/mh.json)
+6. The School of Mindfulness, Applied Insight and Wisdom (MIW) (data/school-page/miw.json)
+7. The School of Personal Growth and Development (PGD) (data/school-page/pgd.json)
 8. The Access All Areas Pass page, /access-all-areas/
 
-Each school page is the one at /academy/{its school}/ that school_page_data.py builds from that file; Code's own map of file to address holds, and the names are DSRD 5's. knowledge-tree.json in the same folder is not a page and is not in this sweep. The Academy page is done already and is not touched.
+Each school page is the one at /academy/{its school}/ that school_page_data.py builds from that file; Code's own map of file to address holds, and each name is the one its file carries. knowledge-tree.json in the same folder is not a page and is not in this sweep. The Academy page is done already and is not touched.
 
 ## The change
 
