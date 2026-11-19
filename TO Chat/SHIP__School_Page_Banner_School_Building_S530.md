@@ -16,6 +16,8 @@ The layer narrows from the left, so nothing scrolls sideways. That was measured 
 
 **Then 0.708.234 (commit 9137daff): each school's own picture on its film.** Kain made eight film pictures: the seven schools and the Access All Areas Pass. They are in School Film Pictures, inside the School Images folder, all 1408 by 740, the course card's shape. Each school's film now shows its own picture instead of a borrowed course picture. The builder writes it as film-{code}.webp at 704, 540 and 360, using the course film's own sizes. The picture sits on the film exactly as a course picture sits on a course film, with the play button in the middle. Measured on all seven at 1270, and on NLP at 390: every picture loads at the 540 copy. film-pass.webp is made and is waiting for the Access All Areas Pass page, which belongs to that page's own session. This supersedes the school cards on the film (round-scard), which no page uses.
 
+**Then 0.708.235 and 0.708.236: Kain's second film designs.** He redrew all eight and re-uploaded the folder; the whole bulb now sits inside each picture. The film copies were remade under the same names. Each picture's address now carries a fingerprint of its contents (?v=), because the theme's pictures are kept by browsers for a year. Removed from the theme because no page uses them, though git keeps them: the school cards, and the wide bulb and icon copies from this session's rounds. The old designs in his School Film Pictures folder were replaced by the new ones.
+
 **Still open on the school page, all Kain's:**
 - His courses line is three sentences, which DSRD 7 section 3.3 never allows. A two-sentence version in his words was put to him.
 - His sign-off on the new film pictures.
