@@ -19,6 +19,8 @@ What was placed in page_gate.py:
 
 **A note on git:** a commit of Code's, a7a32083, carried two of the school page session's working files with it (school-page.css and previews/school-page-s482/proxy.py). That session's next commit, 3f455d2d, builds on it, so nothing is lost. Only the commit's label is wrong.
 
+**After Kain's rescore (19 November 2026, theme 0.708.258): 43 passed, 0 failed, 14 for review, 51 carved out.** Rank Math 94 on post 45036, focus keyword "access all areas pass", read from the install and written to Code's score table. The robot check refused the score reader's browser, so the number is the stored rank_math_seo_score, read over SSH after Kain's recalculate, as at S530. The keyword-density proof owed after the rescore is still owed: Rank Math's own density test was not read, for the same reason.
+
 ## 2. The record
 
 DSRD6_RECORD.md, in the Access All Areas Page folder. Every machine line is filled. Every reader line reads not run, and Code has marked none of them.
