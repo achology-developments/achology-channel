@@ -20,7 +20,7 @@ The layer narrows from the left, so nothing scrolls sideways. That was measured 
 
 **Still open on the school page, all Kain's:**
 - His courses line is three sentences, which DSRD 7 section 3.3 never allows. A two-sentence version in his words was put to him.
-- His sign-off on the new film pictures.
+- (Film pictures signed: Kain, on the built NLP page, 19 November 2026, "Yes, it's right".)
 - The behind-the-scenes clean-up of the school page code waits behind the banner.
 
 *No em or en dashes in this file; checked before writing.*
