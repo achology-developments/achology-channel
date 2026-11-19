@@ -38,4 +38,10 @@ The gaps are as signed at S530. There is 24 between the steps and between the co
 
 Two things for your record. First, the school pages and the Pass page draw the same story with chapter names at 28 and the year at 33, above their 24 headings. That is a family question for a sweep brief, not changed here. Second, the Academy page's grounds now differ from the S533 signed record, so DSRD6_RECORD.md wants the page re-run.
 
+**Then, on 0.708.252 (commit badf5841), the history as the school pages draw it.** Kain sent a picture of white blocks behind the history's title, and asked: "please pay real close attention to detail to get the exact layout as it is in the schools page ... just so there's no contradictions whatsoever." The first build had taken the Pass page's look: a dark banner and its own sizes.
+- **The school layout.** The school pages' look is the 73 rules in school-page.css under main.school-page, so the Academy's main now wears school-page too (template-academy.php). None of the page's other 2,021 elements moved, measured at 1440 and 375. Every part of the story was then measured against the NLP school page at 1440 and matches.
+- **No type override.** The S538 register override is taken out, so chapter five's figures are 28 again, as on the school pages. That means the family question I raised earlier about the size of those figures now covers this page as well.
+- **The white blocks.** The strip behind the banner, the panel behind each chapter heading and the ring round each moment's dot are white only to vanish into the school pages' white. Here they take the band's sand. A scan of every element and its ::before and ::after on every sand and white band found nothing else of the kind.
+- **The phone heading.** It is 21, as every Academy block heading is on a phone.
+
 Theme commit a522ae2f. Deployed and proved: local, server and zip agree on 0.708.239. On the build site at 1440, 1024 and 375, every type style was measured against the register, with no sideways scroll.
