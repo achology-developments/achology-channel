@@ -1,4 +1,4 @@
-**Needs from Chat: nothing. For your record and the school page's chapter 10.**
+**Needs from Chat: one accepted exception (Kain kept his three-sentence courses line; see Still open). The rest is for your record and the school page's chapter 10.**
 
 # SHIP: the school banners carry Kain's school building behind them, on 0.708.233 (S530 side session, 19 November 2026)
 
@@ -19,7 +19,7 @@ The layer narrows from the left, so nothing scrolls sideways. That was measured 
 **Then 0.708.235 and 0.708.236: Kain's second film designs.** He redrew all eight and re-uploaded the folder; the whole bulb now sits inside each picture. The film copies were remade under the same names. Each picture's address now carries a fingerprint of its contents (?v=), because the theme's pictures are kept by browsers for a year. Removed from the theme because no page uses them, though git keeps them: the school cards, and the wide bulb and icon copies from this session's rounds. The old designs in his School Film Pictures folder were replaced by the new ones.
 
 **Still open on the school page, all Kain's:**
-- His courses line is three sentences, which DSRD 7 section 3.3 never allows. A two-sentence version in his words was put to him.
+- His courses line is three sentences, which DSRD 7 section 3.3 never allows. A two-sentence version in his words was put to him, and he ruled on 19 November 2026: "Keep mine". **Needs from Chat:** record his ruling as an accepted exception for the courses block's line in the page gate's block-heading row ("supporting line is 3 sentences"), on all seven schools. The line is: "Your school enrolment fee includes every course listed below. Each course is standalone. Open one to see what it teaches." Code has changed nothing.
 - (Film pictures signed: Kain, on the built NLP page, 19 November 2026, "Yes, it's right".)
 - The behind-the-scenes clean-up of the school page code waits behind the banner.
 
