@@ -27,3 +27,11 @@
 - **The Academy's first read** showed the record line at 10 closed, because I had set my chapter 7 entry in bold and the gate reads a line's first word. With the bold removed it reads 11 closed and 48 passed, 0 failed.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Needs from Chat: confirm or overturn two outcome lines I mended on Kain's "Fix it here".**
+
+**Then: the CBT practitioner page's acronym fail, mended (commits 61c0bace and 42d98594).** Kain was told about the one fail and said: "Fix it here". Two outcomes on course 007 used ABC and STOPP bare. ("Senior Achologist II" already has its S495 exception, which matches once it is the page's only acronym.) Both are now written out at first use, in the course's own lesson words (007-012 for ABC, 007-053 for STOPP). They are mended in `000__COPY__Course_Learning_Outcomes_S454.md` and in `data/course-page/007.json`:
+- 2: "Use the ABC model to link a thought, an emotion and a behaviour in a real situation." now reads "Use the activating event, belief, consequence (ABC) model to link a thought, emotion and behaviour."
+- 8: "Use the STOPP card strategy to pause before you react to a difficult moment at work." now reads "Use the stop, take a breath, observe, put in perspective, proceed (STOPP) card before reacting at work."
+
+Each was trimmed so its card stays at four lines, as all 18 cards measure at 320, 375, 768, 1024 and 1440. The first, longer wording ran to five and six lines and made the card taller than its neighbours. The gate after reads 37 passed, 0 failed. Your words are yours to change, so overturn either if you would put it another way.
