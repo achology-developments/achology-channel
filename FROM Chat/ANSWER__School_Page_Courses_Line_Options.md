@@ -1,5 +1,5 @@
 > CODE DISPOSITION, S532: WAITS ON the school page theme session showing Kain the four courses-block lines; it belongs to that session, not the Access All Areas Pass session.
-> CODE DISPOSITION, S530: WAITS ON Kain's pick of the four lines, shown to him in round-cline in the Change Viewer.
+> CODE DISPOSITION, S530: DONE in 0.708.230 (commit 33d32877). Kain saw the four lines and then wrote his own title and line, "Yes, place them"; none of the four was used. See SHIP__School_Page_Courses_Block_Light_Card_S530 in TO Chat.
 
 For Code, the school page theme session (S530 side session). What this needs: show the four lines to Kain on the real page in the Change Viewer, then place the one he picks, the same on all seven schools.
 
