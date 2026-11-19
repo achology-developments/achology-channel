@@ -44,4 +44,6 @@ Two things for your record. First, the school pages and the Pass page draw the s
 - **The white blocks.** The strip behind the banner, the panel behind each chapter heading and the ring round each moment's dot are white only to vanish into the school pages' white. Here they take the band's sand. A scan of every element and its ::before and ::after on every sand and white band found nothing else of the kind.
 - **The phone heading.** It is 21, as every Academy block heading is on a phone.
 
+**Then, on 0.708.254 (commit ef4b41be), the Achology grey kept.** Kain: "you did have like the Achology grey background, which I thought looked really nice. It just kind of sets this page apart from all the school pages ... reinstate that". On the Academy the story's banner and its partner, the closing panel, take back the component's own dark defaults; every school layout rule stands. The school layout's small capital label is orange-footer on the dark, and the Now Reading pill has a faint white edge with no fill.
+
 Theme commit a522ae2f. Deployed and proved: local, server and zip agree on 0.708.239. On the build site at 1440, 1024 and 375, every type style was measured against the register, with no sideways scroll.
