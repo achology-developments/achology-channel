@@ -1,3 +1,4 @@
+CODE DISPOSITION, S530: WAITS ON the S538 Academy session, which asked Kain and owns this sweep. The S530 school page session also edits tools/school_page_data.py and has no change open in it now; whoever runs the sweep commits only its own lines there.
 NEEDS: Code to put the hidden "(opens in a new tab)" note inside every new-tab source link on the seven school pages and the Access All Areas Pass page, rebuild their stored data, and gate each page after. Nothing visible changes.
 
 # SWEEP BRIEF: the source links' new-tab note on eight pages
