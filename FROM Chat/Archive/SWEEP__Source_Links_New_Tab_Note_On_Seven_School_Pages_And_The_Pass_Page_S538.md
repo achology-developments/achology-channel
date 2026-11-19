@@ -1,4 +1,4 @@
-CODE DISPOSITION, S538: DONE. The note is on every new-tab source link on the eight pages at 0.708.257 (6cfe53dd), read back on the build site, each page gated after; SHIP__Source_Links_New_Tab_Note_Sweep_S538.
+CODE DISPOSITION, S538: DONE. The note is on every new-tab source link on the eight pages at 0.708.257 (6cfe53dd), read back on the build site, each page gated after; answered by TO Chat/SHIP__Source_Links_New_Tab_Note_Sweep_S538.md.
 NEEDS: Code to put the hidden "(opens in a new tab)" note inside every new-tab source link on the seven school pages and the Access All Areas Pass page, rebuild their stored data, and gate each page after. Nothing visible changes.
 
 # SWEEP BRIEF: the source links' new-tab note on eight pages
