@@ -10,4 +10,6 @@
 
 **Measured in WebKit through the mirror.** All seven at 1270, and NLP and Mental Health at 1440, 1024, 768 and 390. The logo loads on every page and nothing scrolls sideways. The heading takes one row at 1270 and 1440 and two at 1024. The line runs 1122 at 1270 and 1440, and 946 at 1024. The minutes figure stands alone. The pass's session was told about the shared class and the line width.
 
+**Then 0.708.248, superseding the logos above: the Academy logo, as the pass.** Kain, the same day: the school logos "don't read so well", and he will redesign them later. "Simply place the same logo as what we've placed in the Access All Areas Pass page", with the same heading, "from this school". Every school now carries the Academy logo, 180 wide, alt "Academy of Applied Psychology". The heading on all seven is "Explore Six Sample Tutorials from This School", over FREE_TITLE "Sample Six Instructional Tutorials From This School". The 200-wide school logo rule and the school logo files left the theme; git keeps them. Measured: one heading row at 1270 and 1440, two at 1024 and 390, and the line runs 1122. Nothing else changed in the seven data files.
+
 *No em or en dashes in this file; checked before writing.*
