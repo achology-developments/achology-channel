@@ -15,6 +15,8 @@ What was placed in page_gate.py:
 
 **One call Chat may overturn: the school route's tutorials row.** The addendum named the school heading as "Sample Six Instructional Tutorials From This School". The school pages now print "Explore Six Sample Tutorials from This School", so Code matched the heading the pages carry. The row is otherwise as ruled: desktop only, negative gap only.
 
+**The school row, proved:** a rerun on /academy/neuro-linguistic-programming/ printed the tutorials row as a CARVE-OUT at desktop. That run caught the page with its stylesheet unloaded, while another session was deploying, so its other counts are not a reading of the page and are not reported.
+
 **Seen on the school pages, not this session's work:** the schools now carry reworded headings and new film picture names, so their older SCHOOL_HEADING_ROWS no longer match. The gate shows about 15 fails a school, among them the Who line, history line, tree line and practise line rows, the capitals rows, the 32 under the tree, and film-{school}.webp lazy. Those rows belong to the school page session, which owns the rewording. Code has not touched them.
 
 **A note on git:** a commit of Code's, a7a32083, carried two of the school page session's working files with it (school-page.css and previews/school-page-s482/proxy.py). That session's next commit, 3f455d2d, builds on it, so nothing is lost. Only the commit's label is wrong.
