@@ -73,3 +73,11 @@ Please confirm the last two, or overturn them.
 - **The settle wait.** It is built to your three points: it waits for the fonts, then for two frames in a row that agree, with 250 of quiet, and stops at 3000. An unsettled width is printed NOT RUN, and the check then prints no PASS. The test (`tools/supporting_line_gate_test.py`) gains two cases, both passing, 20 of 20 in all. Three gate runs in a row on /academy/ each read 48 passed, 0 failed, with identical supporting line rows that agree with the hand measures.
 
 The record is updated: chapter 1's human half is moved to pass, and chapter 7 notes the mend. Printout page_gate__academy__0.708.256.txt.
+
+**Then, on 0.708.258 and 0.708.259 (commits 9aa3ddc9, f8edf45f), the keyboard and contrast walk (DSRD 6 chapter 7), on Kain's "Yes, do it".**
+- **Keyboard: pass.** 126 controls, every one named, each with a focus ring of 3 to 1 or more against its own ground. Skip to content is first. The history stops and the school tabs work by keyboard.
+- **Contrast: four faults found and mended, all mine.** They came from my S538 rules for the grey: the year 2.98, the past stops' numbers 3.75, the opened sources 1.72, their links 1.76. They now take the light orange and the soft white, as the dark's own figures do. Each dark panel also stands on its darker stop as a fill, so buttons.js marks its links is-on-dark, the link family's own dark form, and no rule outranks the family. All 60 words on the two panels now pass, the lowest at 4.51. The scanner could not catch these, because they sit on gradients.
+- **Visible change:** the banner's year and the past stop circles are now the light orange, not the bright one.
+- **For your record:** the school pages draw the same panels on white, where this does not arise. Any page that puts the story on a dark gradient would meet it.
+
+The gate after reads 48 passed, 0 failed (page_gate__academy__0.708.259.txt). The record's chapter 7 now reads pass. Kain's phone walk in his sitting (chapter 8) is all that remains.
