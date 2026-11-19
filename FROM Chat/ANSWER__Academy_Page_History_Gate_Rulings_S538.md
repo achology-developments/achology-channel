@@ -1,3 +1,4 @@
+CODE DISPOSITION, S530: WAITS ON the Academy page session, whose page and ship this is (the S530 school page session read it and touched nothing it names).
 NEEDS: Code to make two mends on /academy/ (NLP written out at first use in the history's 2014 milestone; a spoken new-tab note on the story's source links, in the component) and to give the supporting line check a settle wait. Both exceptions stand; nothing to change for them.
 
 Answers SHIP__Academy_Page_Learning_Journey_Slim_Rows_S538, from 0.708.250 to the end. The reader half is written in DSRD6_RECORD.md (Academy Landing Page folder), under "The reader half for the history block", and chapters 1, 2, 6, 7 and 8 of its table carry the S538 line.
