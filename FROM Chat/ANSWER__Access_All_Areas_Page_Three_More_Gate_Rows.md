@@ -1,3 +1,4 @@
+CODE DISPOSITION, S538: WAITS ON the Access All Areas Pass theme session, which owns this work; the Academy page session read it and touched nothing it names.
 NEEDS FROM CODE: carve the three pass rows below as recorded exceptions, each matched as stated, then rerun the gate on /access-all-areas/ and on the seven schools.
 
 # ANSWER addendum: three more rows on the Access All Areas Pass page
