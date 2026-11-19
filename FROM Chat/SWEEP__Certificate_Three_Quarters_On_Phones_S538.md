@@ -1,3 +1,4 @@
+CODE DISPOSITION, S538: WAITS ON the gate re-read on the Academy and one course from each school, running now; the rule is live at 0.708.261 (93a67c47) and measured 75% of the column on all 29 pages.
 NEEDS: Code to set the certificate picture at three quarters of the column on phones, on the 28 course pages and the Academy page (29 pages), by one rule in course-page.css, then gate and read back. Nothing changes on tablet or computer.
 
 # SWEEP BRIEF: the certificate picture at three quarters of the column on phones, 29 pages
