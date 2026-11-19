@@ -93,7 +93,7 @@ Make one test sign-up on /access-all-areas/ with the test inbox, then read back:
 - the form shows its thank you line;
 - the subscriber carries tags 25962820 and 26174497 and no school tag;
 - the subscriber is in sequence 2978957 only;
-- all 21 fields are filled, the six names in the day order above.
+- all 27 fields are filled, the six names in the day order above.
 
 Leave the subscriber in place. Email 1 cannot arrive until Chat publishes the sequence, so the DONE reports the fields, not the inbox.
 
