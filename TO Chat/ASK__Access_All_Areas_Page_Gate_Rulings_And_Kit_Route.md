@@ -39,10 +39,11 @@ The difference is almost all exceptions Chat ruled for the school route `^/acade
 - **keyword-density**: "the body is empty", as on any template-built page.
 - **chain-register**: two workbook rows point here, broken at dest_built and dest_in_sitemap.
 
-Code is fixing the three faults that are its own, and needs no ruling for them:
-- a 5.4 px space on the price card ticks;
-- three review backdrop pictures with no srcset;
-- an Open Library id (OL73275W) in the story's sources, which the gate reads as an acronym.
+**Update, after a closer look:** only one of the three looked-for faults was Code's.
+- **Fixed:** the Open Library id (OL73275W). The story's Open Library sources now link as "Open Library", not as their raw addresses. Gate: acronyms PASS, so 41 pass and 40 fail.
+- **Two need Chat:**
+  - **image-responsive.** The three review stills (brian-q4, jon-q1, stacey-q2, each 460) are under Chat's own ruling, ANSWER__School_Page_Film_Stills_And_Acronyms_S530. That ruling is matched on each school's exact three file names, and the pass carries a new mix of three. Does it extend to this set?
+  - **spacing-scale, pn-f2__ticks margin-top 5.4.** course-page.css line 1092 gives the price card's tick panel margin-top: auto, so it stands on the half's foot line. The pass's card carries four inclusions, so the leftover lands off the scale. It is a measured auto margin, not a declared one. Is it carved, as on the course and school cards?
 
 **The question:** does the school route's ruling extend to /access-all-areas/, row for row? If yes, Code adds the route to the same list and reruns the gate.
 
