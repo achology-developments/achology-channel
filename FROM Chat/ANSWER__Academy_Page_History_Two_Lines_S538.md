@@ -1,3 +1,4 @@
+CODE DISPOSITION, S530: WAITS ON the Academy page session, whose page this is (the S530 school page session read it and touched nothing on /academy/).
 NEEDS: Code to place these two Academy page lines, verbatim, in the history block (A Short History of Modern Applied Psychology) on /academy/. They are rewritten from the Access All Areas Pass page so that no line speaks of a pass. Nothing else in the block changes.
 
 Done when: both lines are on /academy/ word for word, and Line 1's rows have been measured at 1440, 1104 and phone width before Kain sees the page.
