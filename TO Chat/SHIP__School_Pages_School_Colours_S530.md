@@ -21,4 +21,6 @@ The exceptions are the stars, the tree's leaves (Kain, S512), the Knowledge Hub 
 
 **For your record.** Life Coaching's own colour is a copper, close to the brand orange, so its page changes least. The gate rows in ANSWER__Access_All_Areas_Page_Three_More_Gate_Rows name the school tutorials heading as "Sample Six Instructional Tutorials From This School". It now reads "Explore Six Sample Tutorials from This School", which matters to whichever session carves that row.
 
+**Signed.** Kain, on the built pages at 0.708.257, 19 November 2026: "Yes, they're right".
+
 *No em or en dashes in this file; checked before writing.*
