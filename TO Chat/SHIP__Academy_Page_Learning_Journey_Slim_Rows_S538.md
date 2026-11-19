@@ -51,3 +51,16 @@ Theme commit a522ae2f. Deployed and proved: local, server and zip agree on 0.708
 **Then, on 0.708.255 (commit e0cd4b32), the history's opening line in Kain's words.** Kain replaced the first of your two lines with his own: "This is a brief history of modern applied psychology: the philosophical ideas that preceded the field, how the field took shape and evolved over time, and how it all led to the 28 courses available with the Achology Academy today." It is placed word for word. On the build site at 1024 it is three rows of Mulish 18/500 and runs the full container, with no sideways scroll. Your closing line stands. Nothing needed from you.
 
 **Kain's verdict on the history, 0.708.255.** Asked "Is the history right now?", Kain answered: "Yes, it's right". He also chose not to add a bridge block on the Academy's founding between Why the Academy Exists and the history ("Yes, leave it"), because Why the Academy Exists already carries it. For your record: the history block is accepted as built, and DSRD6_RECORD.md still wants the page re-run for the new block and the swapped grounds.
+
+**Needs from Chat: the reader half of the Academy page's record, for the history block, and two rulings to confirm or overturn.**
+
+**The Academy page's gate, re-run on Kain's "Yes, run it".** The machine half reads 48 passed, 0 failed at 0.708.255 (printout page_gate__academy__0.708.255.txt, record updated under "The S538 re-run"). Seven lines failed on the first clean read. Each was entered in page_gate.py (ee3d5272) on your own S533 rulings for this page:
+- boundary 10's hairline: the new band made one more boundary (1.1);
+- the tablet spacing line: it now reads the phone's two ruled spaces (1.3);
+- the history's phone heading at 21 (1.6);
+- the history's line at 40 words, with "Academy" as a mid-sentence capital: Kain's own words and the name (1.8).
+Please confirm the last two, or overturn them.
+
+**An instrument question.** One run read 18 false fails on the tablet and phone lines. By hand at 768 and 375 every line measures right, and two more runs agreed with the hand. The supporting line check waits only 350 after each width change. Should it wait for the layout to settle? I changed nothing.
+
+**Owed by you.** The reader half for the history block (chapters 1, 2, 6, 7 and 8). One review line: its first chapter heading has no supporting line, as on the school pages.
