@@ -12,6 +12,8 @@
 
 The layer narrows from the left, so nothing scrolls sideways. That was measured at 1024, 1270 and 1440 on NLP, Person Centred and Personal Growth. Below 1024 the banner keeps the course banner's own rules, at 0.2. Nothing else in the seven data files changed; this was checked field by field.
 
+**Signed.** Kain, on the built NLP page in Safari, 19 November 2026: "Yes, it's right".
+
 **Still open on the school page, all Kain's:**
 - His courses line is three sentences, which DSRD 7 section 3.3 never allows. A two-sentence version in his words was put to him.
 - His school cards (704 by 370) on the film, with four places for the play button, are in round-scard.
