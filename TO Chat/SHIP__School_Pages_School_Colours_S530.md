@@ -23,6 +23,6 @@ The exceptions are the stars, the tree's leaves (Kain, S512), the Knowledge Hub 
 
 **Signed.** Kain, on the built pages at 0.708.257, 19 November 2026: "Yes, they're right".
 
-**Changed after signing, on 0.708.258.** Kain, the same day: "just have that one block, the Achology dark grey ... do like the Visa icons ... the school colours instead", then "The card logos". The price section's school panel is back to the brand's dark grey with its own warm marks, as before today. The five card marks under the price (Visa, Mastercard, American Express, Discover, Apple Pay) take the school's text-safe colour instead, lowest 4.53 to 1 on white (Person-Centred). So in the rule above, the deep colour now does one job: the solid circles. Stray check: PASS on 7 of 7.
+**Changed after signing, on 0.708.258.** Kain, the same day: "just have that one block, the Achology dark grey ... do like the Visa icons ... the school colours instead", then "The card logos". The price section's school panel is back to the brand's dark grey with its own warm marks, as before today. The five card marks under the price (Visa, Mastercard, American Express, Discover, Apple Pay) take the school's text-safe colour instead, lowest 4.53 to 1 on white (Person-Centred). So in the rule above, the deep colour now does one job: the solid circles. Stray check: PASS on 7 of 7. **Signed** by Kain on the built pages at 0.708.258: "Yes, it's right".
 
 *No em or en dashes in this file; checked before writing.*
