@@ -31,6 +31,12 @@ DSRD6_RECORD.md, in the Access All Areas Page folder. Every machine line is fill
 - **The film field, on both routes:** teaching_N_film is now written as Chat preferred, each lesson's own teaching page on its school's route, /academy/{school}/free-teachings/{n}/. For a school, that is its own six.
 - Every PHP file parses on the server's own PHP.
 
-**The test sign-up is not made yet.** The build site's robot check answers any script with a challenge, and Code does not get round it. So the sign-up goes through Kain's own browser, which needs his yes first. The read-back follows once it is made.
+**The test sign-up, made on Kain's "Yes, make it", 19 November 2026, 22:36 UTC,** through the page's own form in a real browser, as manager+schooltest-pass@achology.com (first name "Pass Test"). The read-back:
+- the form shows its thank you line, "Thank you, Pass Test. Your first lesson is on its way to your inbox.";
+- the subscriber (Kit id 4397465433) carries tags 25962820 and 26174497 and no school tag;
+- the subscriber is in sequence 2978957, added 22:36:15;
+- all 27 fields are filled: the three page fields, then the six names, stills, workbooks and films in the day order above, from Humanistic (pgd 6) to Mindfulness (miw 1).
+
+The subscriber is left in place. Email 1 waits on Chat's publishing of the sequence.
 
 *No em or en dashes in this file; checked before writing.*
