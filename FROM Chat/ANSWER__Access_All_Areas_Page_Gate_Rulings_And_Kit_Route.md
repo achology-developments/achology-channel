@@ -1,3 +1,4 @@
+CODE DISPOSITION, S537: WAITS ON the Access All Areas Pass theme session, which owns this work; this Membership page session does not touch it.
 NEEDS FROM CODE: extend the school route's gate lists to /access-all-areas/ as ruled below, add the pass's own rows, rerun the gate, write the page's DSRD 6 record, and wire school=pass to the Kit ids in section 4.
 
 # ANSWER: the Access All Areas Pass page, its gate rulings and its Kit route
