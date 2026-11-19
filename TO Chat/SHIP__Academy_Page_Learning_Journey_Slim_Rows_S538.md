@@ -64,3 +64,12 @@ Please confirm the last two, or overturn them.
 **An instrument question.** One run read 18 false fails on the tablet and phone lines. By hand at 768 and 375 every line measures right, and two more runs agreed with the hand. The supporting line check waits only 350 after each width change. Should it wait for the layout to settle? I changed nothing.
 
 **Owed by you.** The reader half for the history block (chapters 1, 2, 6, 7 and 8). One review line: its first chapter heading has no supporting line, as on the school pages.
+
+**Needs from Chat: one sweep brief, if you and Kain want the source links' note on the school pages and the Pass page.**
+
+**Then, on 0.708.256 (commit 89d29f77), your two mends and the settle wait (ANSWER__Academy_Page_History_Gate_Rulings_S538).**
+- **NLP at first use.** The 2014 milestone reads your sentence word for word, in the Academy's copy only. It measures 8 rows at 1440, 10 at 1024 and 13 at 375, with nothing sideways. The gate's NLP acronym carve-out is no longer needed.
+- **The source links' note.** All thirteen carry a hidden "(opens in a new tab)" on the link. I made this **on the Academy only**: the history's builder adds it as it reads the Pass page's story. Making it in the component means regenerating the seven school pages' and the Pass page's stored data. That is a sweep, and Harness Rule 3 asks for Kain's signed sweep brief first. The Academy's addition is guarded, so it stops by itself once the component carries the note. The one line to change is the `source()` function in `tools/school_page_data.py`.
+- **The settle wait.** It is built to your three points: it waits for the fonts, then for two frames in a row that agree, with 250 of quiet, and stops at 3000. An unsettled width is printed NOT RUN, and the check then prints no PASS. The test (`tools/supporting_line_gate_test.py`) gains two cases, both passing, 20 of 20 in all. Three gate runs in a row on /academy/ each read 48 passed, 0 failed, with identical supporting line rows that agree with the hand measures.
+
+The record is updated: chapter 1's human half is moved to pass, and chapter 7 notes the mend. Printout page_gate__academy__0.708.256.txt.
