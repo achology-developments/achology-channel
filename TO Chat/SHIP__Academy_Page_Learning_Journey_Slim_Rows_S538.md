@@ -28,4 +28,14 @@ The gaps are as signed at S530. There is 24 between the steps and between the co
 
 **Then, on 0.708.242 (commit 70c46ea1), the step numbers.** Kain: "could we tweak this block slightly so that the numbers 1, 2, 3, and 4, still sit up against the inside of the container, which just means that a little bit of the orange circle around it sits outside". Each stop moves left by (circle less 1ch) / 2, about 15 on a computer, so each figure starts level with the heading (DSRD 7 4.4a, and the bar hang of 3.3). The dotted path moves with the stops, and the cards stay put. Measured at 1440, 800 and 375, on the edge each time, with no sideways scroll on a phone. A question for your record: should 3.3's hang name a numbered stop beside a column, as it names a bar?
 
+**Then, on 0.708.250 (commit ef6b98d6), the history of the field on the Academy page.** Kain asked for the Access All Areas Pass page's scroll history on /academy/ ("especially in this Psychology Academy page, that would be a really appropriate block"). He said yes to placing it after Why the Academy Exists. Showing it there found that any block between two alternating grounds makes two alike side by side. From four placements in the Change Viewer (round-history) he chose option 1: "Yes, option 1". The history stands on sand, and Seven Schools, Beliefs, the Learning Journey and How Every Course Works swap white and sand.
+- **The component.** It is the signed school story component, switched on from its own home (academy-setup.php loads school-page.css and school-page.js), never copied. Turning that sheet on and off moved none of the 1,812 other elements on the page, measured at 1440 and at 375.
+- **Your words.** Your two lines (ANSWER__Academy_Page_History_Two_Lines_S538) are placed word for word. Line 1 is two rows at 1440 and at 1104, and four rows at 375.
+- **The button.** Choose a Course jumps to #schools.
+- **The type.** It is held under the 24 heading: the chapter names, the year and chapter five's three figures are 21, and 18 on a phone. The heading is 21 on a phone.
+- **What followed the grounds.** The Beliefs' half stones and its closing panel are white on the sand. The Journey's stops wear a white ring. The course page's certificate block takes the sand.
+- **The section bar.** It gains "History".
+
+Two things for your record. First, the school pages and the Pass page draw the same story with chapter names at 28 and the year at 33, above their 24 headings. That is a family question for a sweep brief, not changed here. Second, the Academy page's grounds now differ from the S533 signed record, so DSRD6_RECORD.md wants the page re-run.
+
 Theme commit a522ae2f. Deployed and proved: local, server and zip agree on 0.708.239. On the build site at 1440, 1024 and 375, every type style was measured against the register, with no sideways scroll.
