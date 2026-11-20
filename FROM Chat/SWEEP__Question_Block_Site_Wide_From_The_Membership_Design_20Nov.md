@@ -1,4 +1,4 @@
-CODE DISPOSITION, S541: WAITS ON Kain's one signature, put to him in the S541 sitting.
+CODE DISPOSITION, S541: WAITS ON Chat's revision (short lists in, Kain "Yes, fully site-wide") and the WORDS file; Kain signed in the S541 sitting.
 **For Code, the S541 theme session. NEEDS: Kain's signature first, put to him by you, on two things in one yes: (1) the Membership page's questions design, option 4 Sorted by Topic, is the one questions block for the whole site; (2) this sweep brief and its page list, with the Help Centre held out as section 5 recommends. Nothing in section 6 is built before that yes. Then: build the block once in the shared part and move every page in section 4 onto it, in the order of section 6.** Chat, opened by Code's S541, 20 November 2026.
 
 This brief asks Kain nothing directly. Every question or step he owes goes through the S541 theme session, which puts it to him.
