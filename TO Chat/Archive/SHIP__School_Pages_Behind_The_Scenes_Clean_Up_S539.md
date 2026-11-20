@@ -1,0 +1,44 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): the 14 to 17 newer gate fails per school are noted on the School page card for its session; the shared price marks file to Backlog: Code. Archived.
+
+**Needs from Chat: nothing to build. Four things to know, in section 4, one of them a Kain ruling that no longer has anything to act on.**
+
+# SHIP: the school pages' behind-the-scenes clean-up, 0.708.266 (S539 side session, 20 November 2026)
+
+**What changed.** The seven "Mine to clean" items on the school route, from The School Page, Checked (previews/school-page-s482/school-page-check.html, the list Code gave Kain at 0.708.232). Kain: "Yes, start it", 19 November 2026. Nothing a visitor sees was meant to change, and nothing did (section 2). Commits cca3250f and f2d5de07 on main, deployed as **0.708.266, CURRENT** (all three deploy proofs). The later 0.708.267 deploy from another session is built on top of it.
+
+## 1. The seven items
+
+1. **Dead code off the page: done.** `story-scroll.js` (16 KB) no longer loads on the school route, and `school-page.js` sections 1 and 2 are gone. All three ran the About page's story, which the school pages stopped carrying at S497. On every load they looked for it (`[data-tw]`), found nothing and returned. The About page still loads `story-scroll.js` as before.
+2. **Overwritten rules out of `school-page.css`: done.** 173 declarations (50 whole rules) that a later rule with the same selector always outweighed, at every width and in every state, are removed: 1,393 lines down to 1,299. Before any removal, Code read the comment above each rule; none of the removed rules carried its own ruling comment, and every later rule stands where it stood with its comment. Two rules that served only the old story went too (its dots and the buy bar stepping aside), and the file's opening note records why. A checker run on the result finds no overwritten declaration left.
+3. **The story and the tree do less on scroll and resize: done.** The story reads its moments once a frame and in full only while it is on screen or within a screen of it; further away it checks only which side of the screen it is on. The story's line-laying and the tree's measuring now skip a resize that moves only the height (a phone's toolbar sliding as the page scrolls). Walked step by step against the old script (218 scroll positions, two schools, computer and phone, a chapter press, a jump to the foot and back, a height-only resize): identical at every step.
+4. **The library cards wait: done.** The cards' data (about 190 KB of JSON a school) is asked for once the knowledge block is within a screen and a half of being seen, not as the page opens. On the deployed NLP page no card request is made in the first 1.5 seconds. The pictures inside the cards were already lazy.
+5. **The film picture's first priority: kept, not changed.** On a computer the film picture is the largest picture on the first screen, and DSRD 6 section 12.3 asks for that picture to carry fetchpriority high ("The largest image above the fold never does, and instead carries fetchpriority='high'"). Taking it away would add a gate fail (image-lcp-candidate, desktop). The S530 builder records the same reason (tools/school_page_data.py, at the film).
+6. **The price card's shared data, one cached file: done.** Five parts of `#pr-data` are the same on all seven schools: Stripe's mark, the plain American Express and Apple Pay marks, the card's icons and the payment marks. They come to 27,752 bytes on every school page (about 11 KB compressed). `tools/school_page_data.py` now takes them out of each school's stored page (`share_price_marks`) and writes them once to `school-price-card.js`. That file loads before `course-page.js` and puts them back into `#pr-data` before the card is drawn. Checked on all seven stored pages: nothing else in them changed, and the data the card reads comes back byte for byte the same. Each school page's HTML is 28 KB lighter (NLP: 285 KB to 257 KB). The Access All Areas Pass keeps its own full data; the file finds nothing missing there and does nothing.
+7. **Typed sizes and stale notes: done.** The only size typed where a DSRD 7 token holds the same value was the story's chapter number, `12px`, now `var(--text-12)`. The comments that described the old story (in `functions.php`, `school-page.js`, `school-page.css` and `story-scroll.js`'s header) now say what is true.
+
+## 2. The proof of no visible change
+
+- **Pictures.** NLP, CBP and Personal Growth, every block, photographed in WebKit at 1440, 1270, 1024, 768 and 390 with motion off: two runs before the change and two after, on the deployed HTML, compared pixel by pixel. **415 of the 420 after pictures are identical to a before picture.** The price card, the story, the banner, the courses, the free teachings, the practise cards, the reviews, the buy bar and the footer match everywhere. The five that differ:
+  - four knowledge trees (CBP 1440, NLP 1024 and 1270, Personal Growth 1024), drawn a fraction of a pixel apart;
+  - one practise block (NLP 768, first run only), whose background logo pattern renders a fraction of a pixel apart between loads. The second run matches.
+- **Why the trees differ: the old page's tree already varies from one load to the next.** The tree measures how far its crowns overhang its box, and the answer depends on what has finished loading when it measures. Two recordings of the *old* script's computed styles differ in the tree at seven page-widths, in the same elements (leaves, twigs, crowns). One case, measured to the thousandth: at 1024 the old script reads 6.956 or 7.347 depending on how fast the card data arrives, and the new script reads 6.956. This is a latent fault in the tree, not the clean-up's (section 4c).
+- **Colour checks:** `check_no_stray_orange.js` and `check_controls_and_contrast.js` both PASS on all seven deployed pages.
+- **Gate:** run on all seven school pages on the build site before the deploy and after it. **No new fail on any page.** One after-run on NLP was spoiled by the build site turning this Mac away (a 502 on a link, image sizes misread); its re-run reads the same 14 fails as before.
+
+## 3. Pages and files
+
+Seven school pages at /academy/{school}/; the Access All Areas Pass page shares the route and was photographed too. Files: `school-page.css`, `school-page.js`, `functions.php` (the school entry and the About entry's comment), `story-scroll.js` (header comment only), `tools/school_page_data.py`, `data/school-page/*.json` (seven), new `school-price-card.js`, `style.css` (version).
+
+## 4. For Chat to know
+
+a. **Kain's S482 ruling on the buy bar now has nothing to act on.** At S482 he asked for the buy bar to step aside while the story is on screen ("the bar was covering the foot of the scroll"). That served the About page's story, which the school pages carried then. Since S497 the story is the school page's own, and the bar has not stepped aside over it. The rule matched nothing, so removing it changed nothing visible. Whether the new story wants the bar to step aside is a design question for the bells and whistles, not a fault.
+
+b. **The gate today is not the S530 printout.** S530's printouts read 43 passed, 1 fail per school. On 20 November, before this deploy, each school page reads 14 to 17 fails, all from work after S530: supporting lines longer than 25 words or three sentences, mid-sentence capitals in Kain's own headings, the knowledge block's line 32 from the tree (wants 24), the tree's topic tabs at axe contrast on some schools, the film picture not lazy on tablet and phone, and the record line. This clean-up adds none and changes none; they are for the school page's owner and Chat to rule.
+
+c. **The tree's measuring varies between loads (old and new alike).** Its `--kb-oh` overhang is measured by repeated passes that each move it slightly, and at moments that race the page's loading, so the tree can sit a fraction of a pixel differently from visit to visit. Invisible, but worth steadying when the bells and whistles reach the tree.
+
+d. **Two follow-ups for later jobs, not done here.** The Access All Areas Pass and the 28 course pages carry the same 28 KB of price card marks in each page; the same shared file could serve them. The pass is its own page (`tools/pass_page_data.py`), and the course pages belong with the site-wide stylesheet split, so neither was touched. Separately, another session reports image-dimensions and image-budget fails on the course pages' menu cards (person-centred.webp, mental-health.webp, nlp.webp, personal-growth.webp in the square slot); they are not this job's, and Code does not know their owner.
+
+OWED BACK: nothing. The page is ready for Kain's whole-page sign-off, which the main school page session puts to him.
+
+*No em or en dashes in this file; checked before writing.*
