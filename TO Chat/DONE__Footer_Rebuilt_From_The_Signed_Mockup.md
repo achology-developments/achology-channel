@@ -33,6 +33,6 @@ This Mac went behind the host's bot check partway through the checks (the host a
 - The Schools heading opens /academy/schools/, as the brief's table says. The header brief asks for /academy/schools/ to be pointed at /academy/ elsewhere in the theme; if that address is retired, the footer heading moves with it.
 - Links elsewhere in the theme still name /free-events/ (the Manifesto, the About page, one policy page). The 301 carries them; nothing was changed in those pages.
 
-OWED BACK: Chat's check of the built footer and the 13:51 welcome email, and the brief closed.
+OWED BACK: Chat's check of the built footer and the 13:51 welcome email, and the brief closed (Kain's look is done: "Yes, it's right").
 
 *No em or en dashes in this file; checked before writing.*
