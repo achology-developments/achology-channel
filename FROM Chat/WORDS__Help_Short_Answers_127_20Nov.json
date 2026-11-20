@@ -1,0 +1,644 @@
+{
+ "_disposition": "",
+ "NEEDS": "Code's S541 to set these 127 post excerpts on the published Help answers (faq_article) named, so every questions block shows a short answer. Write each excerpt exactly as given; change nothing else.",
+ "Done when": "All 127 posts carry these excerpts on the build site, WP-CLI shows 0 published Help answers with an empty excerpt, and the DONE names this file.",
+ "why": "LIST__Help_Answers_With_No_Short_Answer_S541 (TO Chat) named 127 published Help answers with no excerpt. Chat wrote one sentence for each from that answer's own published body (read over WP-CLI from achologytest.com, 20 November 2026), adding no fact the body lacks, in the style of the 249 excerpts already set.",
+ "checks": "Every excerpt under 160 characters (longest 150, mean 129), one sentence, no em or en dashes, no Achology prices; banned, flagged, watched and machine-tell words scanned against the content gate's shared word lists: none, save 'therapist' in two answers where it names the clinical job the question asks about.",
+ "answers": [
+  {
+   "post_id": 42030,
+   "question": "Where can I learn the Johari Window?",
+   "excerpt": "From a university page that explains it or an Achology course; Achology treats it first as a private way of noticing yourself."
+  },
+  {
+   "post_id": 42029,
+   "question": "Where can I learn Gerard Egan's Skilled Helper Model?",
+   "excerpt": "Take a course, read Egan's book or join a workshop; Achology.com teaches his three-stage model in a course of its own."
+  },
+  {
+   "post_id": 41498,
+   "question": "Will AI replace hypnotherapists, or can it never do the job?",
+   "excerpt": "Nobody can say for certain; Achology teaches that a hypnotherapist's help comes from who they are, which no script can supply."
+  },
+  {
+   "post_id": 41497,
+   "question": "Where should you start with psychoanalysis as a beginner?",
+   "excerpt": "Read a short book about Freud, then one Freud wrote, and test each idea against your own ordinary day as you read."
+  },
+  {
+   "post_id": 41496,
+   "question": "Where can you study social psychology online?",
+   "excerpt": "At several levels, from a free-to-enrol Coursera course to a university course or degree, or the social psychology part of Achology's diploma."
+  },
+  {
+   "post_id": 41495,
+   "question": "Where can you study psychoanalysis online, and how?",
+   "excerpt": "Training as an analyst takes years at an institute; learning what the school teaches can happen online, as in one Achology course."
+  },
+  {
+   "post_id": 41494,
+   "question": "Where can you study developmental psychology online?",
+   "excerpt": "Through a free course, a university subject, or Achology, which teaches it as a way of understanding yourself at any age."
+  },
+  {
+   "post_id": 41493,
+   "question": "Where can you study cognitive psychology online?",
+   "excerpt": "Through a free FutureLearn tier, a beginner Coursera course or a university unit, or at Achology by watching how you think."
+  },
+  {
+   "post_id": 41492,
+   "question": "Where can you study behavioural psychology online?",
+   "excerpt": "Anywhere from a free taster to a full degree, and Achology offers a way to examine your own habits through this school."
+  },
+  {
+   "post_id": 41491,
+   "question": "Where can you study applied psychology online?",
+   "excerpt": "In three sizes: a free course, an online master's degree, or Achology, which teaches you to use it on yourself first."
+  },
+  {
+   "post_id": 41490,
+   "question": "Where can I learn about Carl Rogers?",
+   "excerpt": "On several Achology courses, or in his own writing, which is open to anyone who prefers the source."
+  },
+  {
+   "post_id": 41489,
+   "question": "What do you actually learn on a mental health course?",
+   "excerpt": "It depends on the kind: first-aid courses teach you to spot struggle in others; Achology teaches how your mindset shapes thought and feeling."
+  },
+  {
+   "post_id": 41488,
+   "question": "What makes a good NLP course, and how do you choose one?",
+   "excerpt": "Openness: it shows its syllabus, names who teaches it and how you will practise, and promises nothing it cannot deliver."
+  },
+  {
+   "post_id": 41487,
+   "question": "What is a mental wellbeing course, and who is it for?",
+   "excerpt": "Either a set of everyday habits or Achology's kind, a skill built from how you see yourself, open to any adult willing to practise daily."
+  },
+  {
+   "post_id": 41486,
+   "question": "What does an NLP course cover, and what will you learn?",
+   "excerpt": "It depends on the course; Achology's opens with the ideas beneath it, then rapport, mood, language and change, on a base of self-awareness."
+  },
+  {
+   "post_id": 41485,
+   "question": "What does an applied psychology course cover?",
+   "excerpt": "It depends on your aim: universities cover where psychology is used at work; Achology teaches psychology you test on your own life first."
+  },
+  {
+   "post_id": 41484,
+   "question": "What does a mental health practitioner actually do?",
+   "excerpt": "At Achology, they listen first, help a person see where things stand and what could come next, then hand the step back to them."
+  },
+  {
+   "post_id": 41483,
+   "question": "What does a life coaching course actually teach you?",
+   "excerpt": "It depends where it begins; Achology teaches how people think, believe, decide and change, starting with your own life."
+  },
+  {
+   "post_id": 41482,
+   "question": "What will you actually learn on a CBT course?",
+   "excerpt": "Achology's covers the links between thoughts, feelings and actions, challenging a thought, where beliefs come from, and helping others."
+  },
+  {
+   "post_id": 41481,
+   "question": "What do you actually learn in social psychology?",
+   "excerpt": "How other people shape your thoughts, feelings and actions, and at Achology, where your own views came from and whether you chose them."
+  },
+  {
+   "post_id": 41480,
+   "question": "What do you actually learn in developmental psychology?",
+   "excerpt": "How people change across a lifetime in thinking, relationships and feelings; Achology teaches it as growth that continues at every age."
+  },
+  {
+   "post_id": 41479,
+   "question": "What do you actually learn in cognitive psychology?",
+   "excerpt": "How the mind takes in information, stores it, reasons and decides; Achology teaches it as a tool for checking your own thinking."
+  },
+  {
+   "post_id": 41478,
+   "question": "What do you learn in behavioural psychology?",
+   "excerpt": "How actions are acquired, repeated and altered: what comes before and after them, and why some stay while others die away."
+  },
+  {
+   "post_id": 41477,
+   "question": "What do you actually learn in applied psychology?",
+   "excerpt": "How to carry findings about thinking, feeling and behaviour into live situations, beginning, at Achology, with your own life."
+  },
+  {
+   "post_id": 41476,
+   "question": "What can you do with a mental health certificate?",
+   "excerpt": "Achology's certificate shows you studied and finished; it gives no right to practise clinically and no guarantee of work or income."
+  },
+  {
+   "post_id": 41475,
+   "question": "You want to learn psychology: where should you start?",
+   "excerpt": "Begin this evening at no cost with a textbook or short course; no school has to be chosen first, so start where your curiosity leans."
+  },
+  {
+   "post_id": 41474,
+   "question": "Are Udemy or Coursera mental health courses any good?",
+   "excerpt": "Some are good for some people; judge one by its own description and what you want from it, not by its stars."
+  },
+  {
+   "post_id": 41473,
+   "question": "Can you train as a wellbeing coach or practitioner online?",
+   "excerpt": "Yes, Achology teaches the skills behind both roles online, though no licence or job title comes with them and neither is medical care."
+  },
+  {
+   "post_id": 41472,
+   "question": "Can you train as a mental health practitioner online?",
+   "excerpt": "Yes, Achology teaches its practitioner training online, though if your aim is a clinical career, this is not the road there."
+  },
+  {
+   "post_id": 41471,
+   "question": "Can you study psychology by distance learning in the UK?",
+   "excerpt": "Yes, UK universities teach psychology online, so no campus is needed; a job title is a separate matter that depends on where you live."
+  },
+  {
+   "post_id": 41470,
+   "question": "Can you study mental health online, and is it worth it?",
+   "excerpt": "Yes, and its worth depends on your aim; Achology believes studying mental health pays off first in understanding your own mind."
+  },
+  {
+   "post_id": 41469,
+   "question": "Should you become a hypnotherapist, and is it a real career?",
+   "excerpt": "It is a real occupation, mostly self-employed; whether you should turns on what you would bring and the rules and demand where you live."
+  },
+  {
+   "post_id": 41468,
+   "question": "Does an online psychology course need to be accredited?",
+   "excerpt": "It depends on your purpose: for a register, degree or job it counts for a lot; for understanding people and yourself, much less."
+  },
+  {
+   "post_id": 41467,
+   "question": "What are the best psychology books for beginners?",
+   "excerpt": "No single title is the right first read: a free textbook maps the field, and a classic is better once one subject has caught you."
+  },
+  {
+   "post_id": 41466,
+   "question": "Is a mental health practitioner a therapist or counsellor?",
+   "excerpt": "No: Achology's graduates are practitioners, never therapists, who help a person understand their own mind and take the next step."
+  },
+  {
+   "post_id": 41465,
+   "question": "Are online mental health courses accredited or recognised?",
+   "excerpt": "It depends on the course and what you need: accreditation means an outside body checked it; recognition means the person deciding accepts it."
+  },
+  {
+   "post_id": 41464,
+   "question": "Is there a mental health course for managers or teachers?",
+   "excerpt": "Not a workplace programme: Achology teaches the person how a mind works, beginning with their own, and covers no policy or compliance."
+  },
+  {
+   "post_id": 41463,
+   "question": "How is a mental health course different from first aid?",
+   "excerpt": "Yes: first aid prepares you to respond when someone else struggles, while a course explains how the inner life works, beginning with yours."
+  },
+  {
+   "post_id": 41462,
+   "question": "Level 2 or level 3 mental health course: which do you need?",
+   "excerpt": "Probably neither, unless an employer or college has named a level; a level measures how demanding a qualification is, not what it teaches."
+  },
+  {
+   "post_id": 41461,
+   "question": "Can you learn psychology on your own, at home?",
+   "excerpt": "Yes, with a free textbook or short course and no classroom; home study cannot give you a professional title, which local rules decide."
+  },
+  {
+   "post_id": 41460,
+   "question": "Can you learn psychology for free online, and how far?",
+   "excerpt": "Yes, from tonight, through free university courses; free study goes a long way, though a professional title comes from the rules where you live."
+  },
+  {
+   "post_id": 41459,
+   "question": "Can you learn hypnotherapy online, or even for free?",
+   "excerpt": "Yes, and you can start for free with Alison's course, but first ask what the learning is for, since no course can make you ready to help."
+  },
+  {
+   "post_id": 41458,
+   "question": "Is there a child psychology course you can take online?",
+   "excerpt": "One exists, but not at Achology: Utrecht University runs a free child development course on Coursera, while Achology teaches your own growth."
+  },
+  {
+   "post_id": 41457,
+   "question": "How hard is psychology to learn, and who finds it easy?",
+   "excerpt": "It depends on what you want: degrees find statistics and research methods hard; for Achology, difficulty shows only where you stand now."
+  },
+  {
+   "post_id": 41456,
+   "question": "Is NLP hard to learn, and can you teach it to yourself?",
+   "excerpt": "You can start from nothing and learn the basics alone; the long syllabus, the practice and knowing what to trust are what make it demanding."
+  },
+  {
+   "post_id": 41455,
+   "question": "Is an online psychology diploma worth it, and what is it?",
+   "excerpt": "It is worth what you do with it; Achology's own diploma is education ending in a certificate of completion, not a protected title."
+  },
+  {
+   "post_id": 41454,
+   "question": "Is an NLP course worth it, and who is it really for?",
+   "excerpt": "Worth it if you want a firmer grasp of your own thinking and speaking; not if you want a qualification that opens doors or a health remedy."
+  },
+  {
+   "post_id": 41453,
+   "question": "Is a CBT course worth it, and who is it really for?",
+   "excerpt": "It depends why you ask: for your own life and those around you, yes; for a clinical job, a course of this kind is not the road."
+  },
+  {
+   "post_id": 41452,
+   "question": "What is the best introduction to psychology course online?",
+   "excerpt": "None is the winner; judge any by what it covers and whether that matches your curiosity, while Achology's is a first look at your own mind."
+  },
+  {
+   "post_id": 41451,
+   "question": "Is there a good introduction to mental health for beginners?",
+   "excerpt": "Yes: at Achology an introduction to mental health starts with you, looking at how your thoughts, feelings and choices fit together."
+  },
+  {
+   "post_id": 41450,
+   "question": "Do you need a licence to practise as a hypnotherapist?",
+   "excerpt": "It depends where you live: a few places regulate the title and most do not, so learn what your area requires before you take payment."
+  },
+  {
+   "post_id": 41449,
+   "question": "How do you study psychology online and stick with it?",
+   "excerpt": "Set a routine, keep each sitting short with rests, and break the work into small goals, as universities on three continents recommend."
+  },
+  {
+   "post_id": 41448,
+   "question": "Is CBT hard to learn, and can you teach it to yourself?",
+   "excerpt": "Yes: you can teach yourself, starting with a single thought of your own; the ideas are simple, and using them daily takes practice."
+  },
+  {
+   "post_id": 41447,
+   "question": "How much does a psychology course cost, and what affects it?",
+   "excerpt": "It turns on what you are buying: a free course with a paid certificate, an assessment fee, or degree tuition that depends on your home country."
+  },
+  {
+   "post_id": 41446,
+   "question": "How much does a mental health course cost, and why?",
+   "excerpt": "From nothing to real money, so price alone will not tell you if a course suits you; ask what you want the learning for first."
+  },
+  {
+   "post_id": 41445,
+   "question": "How long does it take to become a hypnotherapist?",
+   "excerpt": "Published lengths run from three months to about two years, but how long you take to become competent is a separate matter."
+  },
+  {
+   "post_id": 41444,
+   "question": "How long does a psychology course take to complete?",
+   "excerpt": "It depends on the kind: a free taster takes hours, an online degree takes years, and your own weekly time sets the pace of any of them."
+  },
+  {
+   "post_id": 41443,
+   "question": "How long does a mental health course take to complete?",
+   "excerpt": "The Mental Health and Wellbeing Practitioner Diploma Course has 38 hours or more of teaching, which shows its size, not how long you will take."
+  },
+  {
+   "post_id": 41442,
+   "question": "Are free psychology certificates worth anything at all?",
+   "excerpt": "Some: a free certificate shows you took part in or finished a course, never that you are qualified for a job, so its worth is what you learn."
+  },
+  {
+   "post_id": 41441,
+   "question": "Is a free mental health course with a certificate worth it?",
+   "excerpt": "It can be, if you know what the certificate states: only that you reached the end, which is not the same as being able to use it."
+  },
+  {
+   "post_id": 41440,
+   "question": "Do you need a degree to be a mental health practitioner?",
+   "excerpt": "No degree is needed to learn what Achology teaches, with no earlier study and no entry test; the health service role of that name differs."
+  },
+  {
+   "post_id": 41439,
+   "question": "How do you choose a good mental health course?",
+   "excerpt": "Choose one that helps you understand your own mind first, promises no results, and says who it may not suit."
+  },
+  {
+   "post_id": 41438,
+   "question": "Is a cheap or quick hypnotherapy course ever a good idea?",
+   "excerpt": "It can serve as a first taste of the subject, so long as its certificate is not taken as proof you are ready to work with others."
+  },
+  {
+   "post_id": 41437,
+   "question": "CBT practitioner or therapist: what is the real difference?",
+   "excerpt": "A CBT practitioner studied it and helps others with everyday matters; a CBT therapist is a clinician who works with patients."
+  },
+  {
+   "post_id": 41436,
+   "question": "Can you call yourself a clinical hypnotherapist?",
+   "excerpt": "It depends on local rules and how others hear the word, since clinical has no single meaning; learn your area's rules before using it."
+  },
+  {
+   "post_id": 41435,
+   "question": "What is the best online psychology course for you?",
+   "excerpt": "It follows from your purpose: decide what you want, the time you can give, what the certificate says, and whether the first part keeps your attention."
+  },
+  {
+   "post_id": 41434,
+   "question": "What is the best hypnotherapy course, and who accredits it?",
+   "excerpt": "There is no best course for everyone and no single body accredits it worldwide; match the kind of approval to what you want."
+  },
+  {
+   "post_id": 41433,
+   "question": "What makes a good CBT course, and how do you choose one?",
+   "excerpt": "Start with what you want it for, not which is best, because the aim you name decides which course is right for you."
+  },
+  {
+   "post_id": 41432,
+   "question": "Can you become a psychologist online, or is that a myth?",
+   "excerpt": "Online study can teach you psychology, but the title of psychologist depends on the rules where you live, and no Achology course gives it."
+  },
+  {
+   "post_id": 41431,
+   "question": "How do you become a mental health practitioner?",
+   "excerpt": "It depends what the phrase means: a health service post with its own training, or the person Achology trains, who starts with their own mind."
+  },
+  {
+   "post_id": 41430,
+   "question": "How do you become a life coach, step by step?",
+   "excerpt": "Work on your own life, study how people think and change, practise with real people, and describe your training truthfully."
+  },
+  {
+   "post_id": 41429,
+   "question": "How do you become a certified NLP practitioner?",
+   "excerpt": "Choose a provider, complete its practitioner course and receive its certificate, since several groups issue them and no one body does."
+  },
+  {
+   "post_id": 39515,
+   "question": "Which mindfulness course should you take, and why?",
+   "excerpt": "The one that teaches what you want mindfulness for, because courses with the same name can teach quite different things."
+  },
+  {
+   "post_id": 39514,
+   "question": "Course, book or app: how should you learn mindfulness?",
+   "excerpt": "An app, a book and a course each do a different job, so choose by asking whether the route will help you understand yourself."
+  },
+  {
+   "post_id": 39513,
+   "question": "Is a mindfulness course or qualification really worth it?",
+   "excerpt": "Worth it if you want to know yourself better, but it is not a licence to teach, which is a different road with its own training."
+  },
+  {
+   "post_id": 39512,
+   "question": "Can you learn mindfulness online, or even for free?",
+   "excerpt": "Yes: Palouse Mindfulness offers a free eight-week course, and UCLA Mindful offers free guided meditations; choose by what you want from it."
+  },
+  {
+   "post_id": 39343,
+   "question": "Will AI replace life coaches, or make good ones matter more?",
+   "excerpt": "It is not settled: early evidence suggests the human side of coaching still counts with clients, but that evidence is thin."
+  },
+  {
+   "post_id": 39342,
+   "question": "Will AI replace counsellors, or can it never do the job?",
+   "excerpt": "Nobody can say for certain; the professional bodies that have spoken so far describe AI as an aid, not a substitute, and ask for care."
+  },
+  {
+   "post_id": 39341,
+   "question": "What is an NLP coach, and how do you become one?",
+   "excerpt": "Someone who uses NLP's tools for noticing how people think and talk to help them move towards what they want; no single body owns the title."
+  },
+  {
+   "post_id": 39340,
+   "question": "What is a life coaching niche, and do you really need one?",
+   "excerpt": "The group of people, or kind of change, you choose to focus on; nobody requires one, but it helps a stranger see who you are for."
+  },
+  {
+   "post_id": 39339,
+   "question": "Can you train in NLP and hypnosis together, and should you?",
+   "excerpt": "Many providers teach them together, but they are distinct skills sharing an ancestry, so decide by what you want from each."
+  },
+  {
+   "post_id": 39338,
+   "question": "Can you learn CBT online, and which course suits you?",
+   "excerpt": "Yes, in several forms, from self-paced courses and live groups to university diplomas; choose by what you want to be able to do after."
+  },
+  {
+   "post_id": 39337,
+   "question": "Can you do NLP certification online, and is it respected?",
+   "excerpt": "Yes, and many people do; how much respect it earns depends on who is judging, since no law or single body governs it anywhere."
+  },
+  {
+   "post_id": 39336,
+   "question": "NLP certification levels: which one do you actually need?",
+   "excerpt": "Practitioner, for anyone who wants to use it well in daily life and with others; master practitioner and trainer serve narrower aims."
+  },
+  {
+   "post_id": 39335,
+   "question": "Can you get NLP certification free, and is it worth having?",
+   "excerpt": "Much of it can be learned free, but free certificates are rarer, and they record that you watched a course, not that you can use it."
+  },
+  {
+   "post_id": 39334,
+   "question": "How do you get into CBT through the NHS training routes?",
+   "excerpt": "Through two levels: low intensity, delivered by psychological wellbeing practitioners, and high intensity, by fully trained CBT therapists."
+  },
+  {
+   "post_id": 39333,
+   "question": "Do you need a certification or a degree to be a life coach?",
+   "excerpt": "Neither: no country protects the title life coach, though where paid advice work is regulated, check the local rules before charging."
+  },
+  {
+   "post_id": 39332,
+   "question": "What experience do you need before training as a life coach?",
+   "excerpt": "None: the work has no set entry requirements, and the coaching experience that counts is built once your training has started."
+  },
+  {
+   "post_id": 39331,
+   "question": "Can you train as a life coach online, and does it hold up?",
+   "excerpt": "Yes, and the format matters far less than whether the course gives you practice with real people, where coaching skill grows."
+  },
+  {
+   "post_id": 39330,
+   "question": "Is life coaching a good career, and can it be a real job?",
+   "excerpt": "It can be, for the right person, though it is built, not entered: most life coaches work for themselves, and no one can promise income."
+  },
+  {
+   "post_id": 39329,
+   "question": "Can you become a life coach without a psychology degree?",
+   "excerpt": "Yes: a degree is not required and does not make a better coach, because coaching is a craft learned by practising it."
+  },
+  {
+   "post_id": 39328,
+   "question": "Should you become a life coach or a therapist?",
+   "excerpt": "It depends on the day you want: coaches meet people looking ahead at goals and choices, while therapists work clinically."
+  },
+  {
+   "post_id": 39327,
+   "question": "Can you learn CBT for free, and what do you miss out on?",
+   "excerpt": "Yes, in several ways: free material and Achology's free workbooks teach the ideas, though free routes seldom supply a course's structure."
+  },
+  {
+   "post_id": 39326,
+   "question": "Is NLP certification legit, and what does it actually prove?",
+   "excerpt": "Real but limited: it shows you completed one provider's training to its own standard, and confers no licence anywhere."
+  },
+  {
+   "post_id": 39325,
+   "question": "Is life coaching regulated, and is that about to change?",
+   "excerpt": "Not by any law the coaching bodies point to; coaches choose to join voluntary rules, and no country protects the title life coach."
+  },
+  {
+   "post_id": 39324,
+   "question": "Is life coaching legit, or is the whole industry a scam?",
+   "excerpt": "The activity is real and many find it valuable, but anyone can use the title, so put any coach or course through a few simple tests."
+  },
+  {
+   "post_id": 39323,
+   "question": "Is a life coaching certification worth it, and for whom?",
+   "excerpt": "For some, yes: no certificate is legally required, but a good one buys real skill and a signal of it to clients who cannot judge you otherwise."
+  },
+  {
+   "post_id": 39322,
+   "question": "Do you need an ICF accredited life coaching course?",
+   "excerpt": "Only if you want an International Coaching Federation credential; in the UK anyone can call themselves a life coach without one."
+  },
+  {
+   "post_id": 39321,
+   "question": "How do you become a counsellor, and how long does it take?",
+   "excerpt": "It depends where you live: three or four years of training in the UK, and a master's degree plus supervised hours in the US."
+  },
+  {
+   "post_id": 39320,
+   "question": "How do you become a CBT therapist, and do you need a degree?",
+   "excerpt": "Generally yes: a relevant degree, a recognised mental health profession and CBT training on top, though a portfolio route also exists."
+  },
+  {
+   "post_id": 39319,
+   "question": "What is CBT coaching, and how do you become a CBT coach?",
+   "excerpt": "It uses CBT's tools inside coaching, aimed at where a client wants to go next, and you build the role through real skill and real practice."
+  },
+  {
+   "post_id": 39318,
+   "question": "How much do CBT therapists earn, and what affects their pay?",
+   "excerpt": "In England's health service for 2026/27, pay rises by training stage, with a qualified high intensity CBT therapist on Band 7."
+  },
+  {
+   "post_id": 39317,
+   "question": "How do life coaches find clients and set their prices?",
+   "excerpt": "Most get clients through word of mouth and recommendation, and each sets a price on what their time and training are worth."
+  },
+  {
+   "post_id": 39316,
+   "question": "Can you become a counsellor without a degree?",
+   "excerpt": "It depends on the country: some require a set degree for licensed practice, while others ask for none, so check where you will work."
+  },
+  {
+   "post_id": 39315,
+   "question": "Counselling levels 2 to 5: what do they mean for you?",
+   "excerpt": "Steps on the ladder used in England, Wales and Northern Ireland, each taking counselling training a stage further."
+  },
+  {
+   "post_id": 39314,
+   "question": "How do trainee counsellors get real counselling experience?",
+   "excerpt": "Usually through placements, seeing clients while a supervisor guides them, arranged by a course, a service or a volunteering group."
+  },
+  {
+   "post_id": 39313,
+   "question": "Counselling or psychology: which should you study?",
+   "excerpt": "Neither is better: they lead to different jobs with routes that vary by country, so let the work you would like to do decide."
+  },
+  {
+   "post_id": 39312,
+   "question": "Can you study counselling online, and is it taken seriously?",
+   "excerpt": "Yes, and how seriously it is taken depends on where you want it to lead and on the rules of the country where you plan to work."
+  },
+  {
+   "post_id": 39311,
+   "question": "How do you choose a good life coaching course?",
+   "excerpt": "Match the format to how you like to learn, then the credential to what you need it for, since what suits one person rarely suits another."
+  },
+  {
+   "post_id": 39310,
+   "question": "Is a quick or cheap life coaching certification a good idea?",
+   "excerpt": "It fits some goals well and others badly; a low price says little about how much real coaching practice you will get."
+  },
+  {
+   "post_id": 39309,
+   "question": "Is a cheap or quick counselling course ever a good idea?",
+   "excerpt": "Yes, when used for what they are, such as finding out whether the subject keeps your interest, not as a road they cannot lead to."
+  },
+  {
+   "post_id": 39308,
+   "question": "CBT levels and diplomas: which one do you actually need?",
+   "excerpt": "They matter most for a clinical career; otherwise what you can do with the ideas counts for more than the level or title of a course."
+  },
+  {
+   "post_id": 39307,
+   "question": "Can a life coach use CBT or NLP, and where is the line?",
+   "excerpt": "Yes, a coach can borrow from both while the aim is a goal, never clinical work on a condition; where the line sits depends on why they came."
+  },
+  {
+   "post_id": 39306,
+   "question": "Can a life coach help with anxiety or mental health?",
+   "excerpt": "A coach does not diagnose anxiety or any condition, but can be useful company for your thinking about your own choices and direction."
+  },
+  {
+   "post_id": 39305,
+   "question": "How do you choose a counselling course you can trust?",
+   "excerpt": "Begin by deciding what you want it to lead to, then check the rules for counselling where you plan to work."
+  },
+  {
+   "post_id": 39304,
+   "question": "Can you become a life coach for free, and should you try?",
+   "excerpt": "In name, yes, since the label costs nothing, but the skill is another matter, and the part learned through feedback usually has a price."
+  },
+  {
+   "post_id": 39303,
+   "question": "How long does it take to become a certified life coach?",
+   "excerpt": "There is no single answer: each provider sets its own length, from about eight weeks to three years, so ask how many hours it demands."
+  },
+  {
+   "post_id": 39302,
+   "question": "Do you need a licence to be a counsellor in the UK or US?",
+   "excerpt": "Going by the sources read, the UK has no government licence for counsellors, while US states license them."
+  },
+  {
+   "post_id": 39301,
+   "question": "Is becoming a counsellor worth it, and is it in demand?",
+   "excerpt": "It can be for the right person: demand is growing in the United States and posts are competitive in the UK, so where you work matters most."
+  },
+  {
+   "post_id": 39300,
+   "question": "Who certifies NLP training, and does accreditation matter?",
+   "excerpt": "Nobody certifies it across the whole field: each organisation approves its own courses, and no country regulates NLP by law."
+  },
+  {
+   "post_id": 38522,
+   "question": "Where can I learn about the Drama Triangle?",
+   "excerpt": "In four Achology courses, along with ways of leaving its three roles behind; no course is built around it alone."
+  },
+  {
+   "post_id": 38521,
+   "question": "Where can I learn about Abraham Maslow's hierarchy of needs?",
+   "excerpt": "In eleven Achology courses, none built around it alone, with no entry requirements, so adults can choose by subject."
+  },
+  {
+   "post_id": 38520,
+   "question": "Where can I learn about Viktor Frankl?",
+   "excerpt": "In three self-paced Achology courses, each drawing on a different part of his work, and none built around him alone."
+  },
+  {
+   "post_id": 38519,
+   "question": "Where can I learn about Albert Ellis?",
+   "excerpt": "In six Achology courses, none devoted to him alone; the Cognitive Behavioural Therapy (CBT) Practitioner Course is the place to begin."
+  },
+  {
+   "post_id": 10878,
+   "question": "What happens in a principle-based reflective discussion?",
+   "excerpt": "A group meets for 90 minutes to work through one principle with set questions, apply it to their own lives, and give a view by the end."
+  },
+  {
+   "post_id": 10041,
+   "question": "How do monthly and annual Achology memberships differ?",
+   "excerpt": "Only in how you pay and how much you save: both plans give the same membership, so it is cash flow against commitment."
+  },
+  {
+   "post_id": 417,
+   "question": "Can I use Achology content or branding in my own materials?",
+   "excerpt": "Partly: the ideas are yours to share in your own words, but copying course materials needs written consent, and the brand has limits."
+  }
+ ]
+}
