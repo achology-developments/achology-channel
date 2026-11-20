@@ -1,0 +1,22 @@
+{"_disposition": "LEFT FOR CODE: needs S541's theme session to write its disposition here. This key is not a page: skip it when reading.",
+ "NEEDS": "Code's S541 to draw the About page's questions block in two columns with the groups below, in place of the three in WORDS__Question_Block_Groups_And_Lines_Site_Wide_20Nov (/about/ row). Chat asks Kain nothing; any question about these words comes back to Chat.",
+ "Done when": "/about/ draws its questions block in two columns of four, with these titles and this order, measured by Code at 1280, 768 and 390, and the DONE names this file.",
+ "why": "Kain, 20 November 2026: the About page's container is narrower, so its questions block takes two columns, not three. The block's design is the same everywhere; only the heading, supporting line, column titles, column count and background differ page by page.",
+ "page": "/about/",
+ "form": "topics",
+ "columns": 2,
+ "heading": "About <span class=\"policy-next__accent\">Achology</span> Related Questions",
+ "heading_source": "page-about.php, unchanged",
+ "line": "Click on the links below for common questions about who we are.",
+ "line_source": "Kain's words, approved verbatim at S091; kept, never rewritten",
+ "groups": [
+  { "name": "Who We Are", "ids": [218, 293, 253, 254] },
+  { "name": "Learning With Us", "ids": [281, 260, 397, 411] }
+ ],
+ "grouping_reason": "The first column says what the academy is and believes (218, 293) and what it is not (253, 254), so the two 'not' answers stay together. The second gathers the four about studying here: courses inside a community (281), who it is for (260), where to start (397) and the seven learning paths (411). Each column keeps the eight's existing order; 281 is the only answer that moves column.",
+ "excerpts": "the eight excerpts typed in page-about.php today, carried word for word",
+ "ask": "the shared ask line, as in the site-wide file",
+ "credit": false,
+ "gates": "Chat ran the dash scan and the banned, flagged and watched word scan on both column titles on 20 November 2026, with no hit. Both are title case and carry no 'Achology'. 'Who We Are' is unchanged from the three-column file; 'Learning With Us' is new.",
+ "no_dashes": "No em or en dashes in this file; checked before writing."
+}
