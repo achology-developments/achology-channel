@@ -17,4 +17,6 @@ Later the same session, to 0.708.323, all in Kain's own words, placed as given:
 - The first block's heading now reads "What Achology Membership Can Give You".
 - The line under it now reads: "Achology hosts a community shaped by collaborative learning, in which ideas are tested, discussed, and integrated into people's lives."
 
-Kain signed the subtitle: "Yes, it's right". These words override the matching keys in WORDS__Membership_Page_S537.json; please bring that file into line.
+Kain signed the subtitle: "Yes, it's right".
+
+0.708.324: the "What is Achology" film in the first block has its own cover in place of the course picture. It is the Zoom call of nine people, faded right back, with a line globe in front and the play button on top (Kain's brief; signed "Yes, it's right"). What You Get in the questions block now holds three answers, adding 350 (live events) and 342 (mentoring), each on its own published excerpt. These words override the matching keys in WORDS__Membership_Page_S537.json; please bring that file into line.
