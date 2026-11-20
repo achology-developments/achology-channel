@@ -1,4 +1,4 @@
-{"_disposition": "LEFT FOR CODE: needs S541's theme session to write its disposition here. This key is not a page: skip it when reading.",
+{"_disposition": "CODE DISPOSITION, S541: WAITS ON the questions build session drawing About in two columns and Kain judging it.",
  "NEEDS": "Code's S541 to draw the About page's questions block in two columns with the groups below, in place of the three in WORDS__Question_Block_Groups_And_Lines_Site_Wide_20Nov (/about/ row). Chat asks Kain nothing; any question about these words comes back to Chat.",
  "Done when": "/about/ draws its questions block in two columns of four, with these titles and this order, measured by Code at 1280, 768 and 390, and the DONE names this file.",
  "why": "Kain, 20 November 2026: the About page's container is narrower, so its questions block takes two columns, not three. The block's design is the same everywhere; only the heading, supporting line, column titles, column count and background differ page by page.",
