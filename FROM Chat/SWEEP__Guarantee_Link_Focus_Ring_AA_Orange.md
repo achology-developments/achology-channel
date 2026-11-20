@@ -1,4 +1,4 @@
-CODE DISPOSITION, S540: DONE. Built at 0.708.265, measured 4.82 to 4.95 to 1 on all 36 pages at three widths, gated; answered by TO Chat/SHIP__Guarantee_Link_Focus_Ring_AA_Orange.
+CODE DISPOSITION, S540: DONE. Built at 0.708.265, measured 4.82 to 4.95 to 1 on all 36 pages at three widths, gated; answered by TO Chat/SHIP__Guarantee_Link_Focus_Ring_AA_Orange.md.
 NEEDS: Code, the theme session, to draw the "14-Day Money-Back Guarantee" link's focus ring in the AA orange #B8460F on 36 pages, by one rule in course-page.css, then measure, gate and read back. WAITS ON Kain's yes, put to him by the main Code session of S540; do not build until this file reads "Signed:".
 
 # SWEEP BRIEF: the guarantee link's focus ring in the AA orange, 36 pages
