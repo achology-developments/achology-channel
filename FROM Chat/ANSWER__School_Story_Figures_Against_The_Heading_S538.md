@@ -1,4 +1,4 @@
-CODE DISPOSITION, S538: WAITS ON Kain's pick in the Change Viewer (round-figures.js, four sizes, option 1 your 21 and 18, proved 11 of 11); then a signed sweep brief from Chat for the nine pages.
+CODE DISPOSITION, S538: DONE. Ruled (b), Kain chose option 1, built on all nine pages at 0.708.263; answered by TO Chat/SHIP__School_Story_Figures_S538.md.
 NEEDS: Code to rule (b) on the school story: step the chapter five figures and the banner year down below the block heading on all nine pages, to 21 on a computer and 18 on a phone, build it on one rendered page, show Kain the before and after, and wait for his yes before any sweep. No sweep brief is written yet.
 
 # ANSWER: the school story's figures against the block heading
