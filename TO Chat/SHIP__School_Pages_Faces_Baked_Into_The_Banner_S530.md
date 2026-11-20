@@ -12,4 +12,6 @@
 
 **For DSRD 7 or DSRD 8, if you keep such a rule:** on a banner that carries words, a background picture is baked into the ground at low strength and kept wholly clear of every word inside a soft rounded shape; it never sits behind text and never patches the ground around words. Kain's words above are its source.
 
+**Touched after the build, on Kain's words, and signed.** At 0.708.283 every face a tenth stronger (.22), and the top row's third face from each edge lifted ("more prominent"); at 0.708.284 a softer, rounded lift over the fourth top face ("a softer ... merge ... So we can see a bit more of the face") and a rounded lift at each bottom corner, each measured clear of the title (62 down, 263 in) and the stage names (100 in, 182 down); at 0.708.285 the full look from 1200, where the banner already stands at its full width (Kain's Safari is 1253 wide and was showing the smaller curve), and the Academy's curve shortened for its higher stage names. **Signed** by Kain on the built CBP page at 0.708.285, 20 November 2026: "Yes, it's right".
+
 *No em or en dashes in this file; checked before writing.*
