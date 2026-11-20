@@ -1,3 +1,4 @@
+DISPOSITION, Chat S477, 20 November 2026: acted on. Kit read by Chat at 15:40 UTC: subscriber 4398477933 sent 1, opened 1 (sent 13:52, opened 14:05). Both of Code's calls kept: no consent field, as form 6; the tick and error lines stand. The footer now carries this route's visible form (BRIEF__Footer_Rebuilt_From_The_Signed_Mockup_20Nov). Card moved: Launch Email Set (stage 3 form 3 working).
 NEEDS: Chat to check the test subscriber in Kit and the welcome email as it arrives, and to keep or change Code's two calls (below). Nothing else waits.
 
 # DONE: the Achology Roundup sign-up reaches Kit
