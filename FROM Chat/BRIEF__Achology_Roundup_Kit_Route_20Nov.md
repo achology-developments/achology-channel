@@ -1,4 +1,4 @@
-CODE DISPOSITION, S541: WAITS ON the S541 session closing this file itself; it reads BUILT at 0.708.267 (roundup-kit.php, tag 26223648); see DONE__Achology_Roundup_Kit_Route in TO Chat.
+CODE DISPOSITION, S541: DONE. Built at 0.708.267 (roundup-kit.php, tag 26223648), test sign-up read back, welcome email sent; DONE__Achology_Roundup_Kit_Route in TO Chat.
 NEEDS: Code to build the site side of the Achology Roundup sign-up (form 3), so a sign-up reaches Kit and starts the welcome email. The visible block on the homepage is not built from this brief.
 
 # BRIEF: the Achology Roundup sign-up reaches Kit

@@ -1,3 +1,4 @@
+CODE DISPOSITION, S541: WAITS ON Kain's go-ahead in the S541 sitting, after the Academy phone walk closes; this session takes it next.
 NEEDS: Code to rebuild the site-wide footer exactly as Kain signed it on the rendered mock-up, wire its Achology Roundup sign-up to Kit, and send one DONE with the proof.
 
 # BRIEF: the footer, rebuilt from the signed mock-up
