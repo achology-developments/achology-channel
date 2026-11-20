@@ -1,3 +1,4 @@
+CODE DISPOSITION, S530: WAITS ON a theme session of its own for the header and mega menu (the brief's own words); the school page session takes none of it.
 NEEDS: Code to design the site's mega menu from scratch to one consistent standard, put it to Kain on a rendered mock-up, then build the signed header, the phone menu and the Quote Articles name change, and send one DONE with the proof. Rewritten at the close of Chat's Session 478, replacing this file's earlier text, which built panels Kain then withdrew.
 
 Done when: Kain has signed one mega menu design whose four panels are the same width and the same height on a rendered mock-up, the build site's header and phone menu match it and DSRD 8 section 18.22, no reader-facing "Wise Quotes" or "Ultimate Pass" is left in the theme, header.css passes its gate, and the DONE carries the built header read at 1280, 1024, 960 and 375 against the signed mock-up.
