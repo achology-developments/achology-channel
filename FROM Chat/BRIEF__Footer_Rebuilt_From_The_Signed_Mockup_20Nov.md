@@ -1,4 +1,4 @@
-CODE DISPOSITION, S541: WAITS ON the footer-build session (local_6d8acf52), started at Kain's "Yes, start it"; it writes its own line when done.
+CODE DISPOSITION, footer session (from S541): BUILT at theme 0.708.280, mended 0.708.291; DONE__Footer_Rebuilt_From_The_Signed_Mockup in TO Chat. WAITS ON Chat's check and Kain's look in Safari.
 KAIN'S GO-AHEAD, 20 November 2026: "Yes, send it", on the final mock-up with the five link Community column.
 NO WORD NEEDED IN CODE'S WINDOW (Kain, 20 November 2026): his yes above is the go-ahead. Take this brief from the tray as soon as the page you are on is finished, without waiting for him to say so.
 NEEDS: Code to rebuild the site-wide footer exactly as Kain signed it on the rendered mock-up, wire its Achology Roundup sign-up to Kit, and send one DONE with the proof.
