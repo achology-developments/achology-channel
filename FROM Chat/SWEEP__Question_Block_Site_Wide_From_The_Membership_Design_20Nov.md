@@ -1,3 +1,4 @@
+CODE DISPOSITION, S541: WAITS ON the S541 build, which takes it now: the shared block first, then Academy shown to Kain before any other page.
 **For Code, the S541 theme session. NEEDS: build the one questions block in the shared part, move every page and list in section 4 onto it (Academy first, shown to Kain beside the Membership preview), then delete the old component from the theme and the components library once the catch finds no hit. Kain has signed (section 1). The words are in WORDS__Question_Block_Groups_And_Lines_Site_Wide_20Nov.json.** Chat, opened by Code's S541, 20 November 2026; revised the same day on Kain's "Yes, fully site-wide".
 
 CODE DISPOSITION, S541: WAITS ON Chat's revision (short lists in, Kain "Yes, fully site-wide") and the WORDS file; Kain signed in the S541 sitting. *(Code's line, kept; both are now in.)*
@@ -25,7 +26,7 @@ On the built Academy page, 20 November 2026, its questions block "doesn't really
   4. Under the cards, one centred line inviting any other question, its link to /enquiries/ with the arrow.
   5. Tablet and phone: one column of cards. Phone: the ask line one step down to 14.
 - **The short form (Kain's "Yes, fully site-wide").** For a list with no topics: the same block, one white card with no topic heading and no orange rule, the same question, short answer and hairline styles, the same card corner, shadow and padding. Where it stands in a reading column (the Help answer) it takes that column's width; elsewhere it takes the container, at the width of one column of the topic form at 768 and below. The page's own heading, line and ask follow the words file.
-- **What it retires.** The "Q." marks, the old card with its question mark badge, the `help-popular` badge and header, the course pages' icon tiles and tap to open cards, and the old card's rhythm (DSRD 8 section 37, its first three bullets) are gone wherever the block is drawn. The UKRLP and ICO line stays exactly where each page has it today, through `achology_ukrlp_credit()`.
+- **What it retires.** The "Q." marks, the old card with its question mark badge, the `help-popular` badge and header, the course pages' icon tiles and tap to open cards, and the old card's rhythm (DSRD 8 section 37, its first three bullets) are gone wherever the block is drawn. The UKRLP and ICO line stays where each page has it today, through `achology_ukrlp_credit()`.
 
 ## 3. The shared part it replaces
 
@@ -35,7 +36,7 @@ On the built Academy page, 20 November 2026, its questions block "doesn't really
 - A row whose answer is not published is left out, as today; a group left empty is dropped; with no rows the block draws nothing, as today.
 - Every page's topics, lines and ask come from the words file, never from a guess.
 - Its look moves out of `memb.css` into the block's one home, `help.css`, as a shared style, and is registered in the component styles gate. One home: no page stylesheet restyles it.
-- The topic form stands in the page container on its own band. Where a page holds it today inside the 800 reading column (Academy, Events, Reviews, Accreditation, Certification, all through `policy-body pw-section--faq`), it comes out to the full container, as on Membership.
+- The topic form stands in the page container on its own band. Where a page sets it today inside the 800 reading column (Academy, Events, Reviews, Accreditation, Certification, all through `policy-body pw-section--faq`), it comes out to the full container, as on Membership.
 - Bump the version.
 
 ## 4. Every page and list that carries questions today
