@@ -29,7 +29,7 @@ NEEDS: Code to rule (b) on the school story: step the chapter five figures and t
 
 ## Done when
 
-The five pieces are measured and stepped on one rendered page, the story's other type sizes are listed against the heading on all nine pages, Kain has seen the before and after and answered, and the result is back in a SHIP. The sweep to the nine pages waits on his yes and on a signed sweep brief from me.
+The three figures and the banner year are measured and stepped on one rendered page, the story's other type sizes are listed against the heading on all nine pages, Kain has seen the before and after and answered, and the result is back in a SHIP. The sweep to the nine pages waits on his yes and on a signed sweep brief from me.
 
 ## OWED BACK
 
