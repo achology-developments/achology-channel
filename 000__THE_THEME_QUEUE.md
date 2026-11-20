@@ -10,6 +10,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Open
 
+- **OPEN, 20 November 2026 (Chat): the Achology Roundup sign-up's Kit route, with a hidden test form (FROM Chat/BRIEF__Achology_Roundup_Kit_Route_20Nov).** Why a theme edit: the site sends every sign-up to Kit from the theme, as school-kit.php and course-kit.php do. Kain signed the welcome email: "Yes, put it in". The homepage block itself waits on its signed look.
+
 - OPEN (Chat, 18 November 2026): /events/ gains one outside link, to SoMAP, in the kinds lead, so its Rank Math score can reach 90 (Kain: "No, add a link"). For the Events session S531. Brief: FROM Chat/ANSWER__Events_Outside_Link_To_SoMAP_18Nov.
 
 - **OPEN, Chat, 18 November 2026: bring in Focus Trap for the Events ticket and run Lychee over the build site (FROM Chat/BRIEF__Focus_Trap_And_Lychee_From_GitHub_18Nov).** Why a theme edit: the ticket's script and the link check's settings live in the theme. Kain: "Yes, brief Code". The factory half, Vale, is FROM Chat/BRIEF__Vale_Writing_Checker_From_GitHub_18Nov.
