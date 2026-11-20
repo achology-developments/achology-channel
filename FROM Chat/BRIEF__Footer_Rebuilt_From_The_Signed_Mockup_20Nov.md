@@ -28,7 +28,7 @@ Almost every page is now designed, so the footer becomes the map of the whole si
 
 | Column | Heading opens | Links, in order |
 |---|---|---|
-| About Us | /about/ | Founders' Letter /about/founders-letter/; What Achology Believes /about/what-achology-believes/; Our People /about/instructors/; The Manifesto /about/manifesto/; Code of Ethics /about/code-of-ethics/ |
+| About Us | /about/ | Founders' Letter /about/founders-letter/; Presuppositions /about/what-achology-believes/ (Kain, 20 November 2026: "just use the word presuppositions"); Our People /about/instructors/; The Manifesto /about/manifesto/; Code of Ethics /about/code-of-ethics/ |
 | Courses | /courses/ | The Academy /academy/; Access All Areas Pass /access-all-areas/; Pricing Options /pricing/; Certification /certification/; Accreditation /accreditation/ |
 | Community | /membership/ | Live Events /events/; Free Live Events /free-events/; Member Testimonials /testimonials/; Student Reviews /reviews/; Code of Conduct /about/code-of-character-and-conduct/ |
 | Learn for Free | /learn/ | Articles /learn/articles/; Book Notes /learn/book-notes/; Quote Articles /learn/quotes/; Workbooks /learn/workbooks/; All Topics /learn/tags/ |
