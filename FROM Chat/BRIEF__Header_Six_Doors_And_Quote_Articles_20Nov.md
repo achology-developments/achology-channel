@@ -37,7 +37,7 @@ Change these reader-facing words. Leave code comments as history.
 - learn-listing.php line 128: "Achology's wise quotes offer deep insights..." becomes "Achology's quote articles offer deep insights...". These are Kain's words from S175; the one name changes, and nothing else does.
 - shared-parts.php line 1559: "Browse 'Wise Quotes' and Enlightening Articles" becomes "Browse Quote Articles and Enlightening Articles".
 - people-setup.php line 198: Frederick's role becomes "Content Lead for Quote Articles".
-- **Not this brief:** the "Achology Wise Quotes" logo on each quote's picture (DSRD 7 section 16.2, the baked cards and images/achology-wise-quotes.webp). Kain is asked about that on its own. Do not touch it.
+- **Not this brief:** the "Achology Wise Quotes" logo on each quote's picture (DSRD 7 section 16.2, the baked cards and images/achology-wise-quotes.webp). It stays as it is (Kain, 20 November 2026: "Yes, keep it"). Do not touch it.
 
 ## Fold in
 
