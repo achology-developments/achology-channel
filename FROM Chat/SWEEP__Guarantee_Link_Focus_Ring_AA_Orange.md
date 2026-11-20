@@ -1,3 +1,4 @@
+CODE DISPOSITION, S540: WAITS ON Kain's yes, put to him in the S540 Code session (20 November 2026).
 NEEDS: Code, the theme session, to draw the "14-Day Money-Back Guarantee" link's focus ring in the AA orange #B8460F on 36 pages, by one rule in course-page.css, then measure, gate and read back. WAITS ON Kain's yes, put to him by the main Code session of S540; do not build until this file reads "Signed:".
 
 # SWEEP BRIEF: the guarantee link's focus ring in the AA orange, 36 pages
