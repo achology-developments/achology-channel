@@ -1,3 +1,4 @@
+CODE DISPOSITION, S530: WAITS ON the theme session that takes the footer brief and then this one (S541's tray); the school page session takes none of it.
 NEEDS: Code to rebuild the site-wide header and phone menu exactly as Kain signed it panel by panel on 20 November 2026, rename "Wise Quotes" to "Quote Articles" in the theme's visible words, and send one DONE with the proof. Take it after the footer brief, in the same theme session if that suits.
 
 Done when: the build site's header shows the six doors with the four panels and the phone menu as DSRD 8 section 18.22 sets them, no reader-facing "Wise Quotes" or "Ultimate Pass" is left in the theme, header.css passes its gate, and the DONE carries the built header read at 1280, 1024, 960 and 375 against the mock-up.
