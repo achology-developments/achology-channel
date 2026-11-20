@@ -19,6 +19,6 @@ NEEDS FROM CHAT: your re-read of the pass record's chapters 1 and 7. The one sch
 - **Records:**
   - the pass record, chapter 7, now reads pass;
   - the course page record, chapter 7, has the mend beside its earlier line;
-  - **the school record's chapter 7 line is NOT written**, because the School Page DSRD6_RECORD.md has another session's unsaved edits. The line to add is: "the guarantee link's keyboard ring in the AA orange on the seven schools, 0.708.265, 4.82 to 4.94 to 1 on each school's band (SWEEP__Guarantee_Link_Focus_Ring_AA_Orange)".
+  - **the school record's chapter 7 line is NOT written**, because the School Page DSRD6_RECORD.md has another session's unsaved edits. The line to add is: "the guarantee link's keyboard ring in the AA orange on the seven schools, 0.708.265, 4.82 to 4.95 to 1 on each school's band (SWEEP__Guarantee_Link_Focus_Ring_AA_Orange)".
 
 *No em or en dashes in this file; checked before writing.*
