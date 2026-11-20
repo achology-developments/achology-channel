@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): for the record. NLP's face wall goes on Backlog: Code's After Launch list (it needs portraits with rights). The tool's old tree words are the school session's to keep level. Archived.
+
 **Needs from Chat: nothing to act on. For the record: a new look on six school pages (the faces on the story's banner), signed by Kain on the rendered round; and one change to the shared viewer proof.**
 
 # SHIP: the faces on each school's story banner, on 0.708.274 (S530 side session, 20 November 2026)
