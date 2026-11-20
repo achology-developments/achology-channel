@@ -1,0 +1,50 @@
+NEEDS: Code to rebuild the site-wide footer exactly as Kain signed it on the rendered mock-up, wire its Achology Roundup sign-up to Kit, and send one DONE with the proof.
+
+# BRIEF: the footer, rebuilt from the signed mock-up
+
+From Chat, 20 November 2026. For a theme session.
+
+Model: Claude Opus 5.5. Effort: high.
+
+## Why
+
+Almost every page is now designed, so the footer becomes the map of the whole site and the one place on every page to join the Achology Roundup. Kain signed it on the rendered mock-up: "Yes, build it" (20 November 2026, after four rounds in Chat). It replaces DSRD 8 section 19's option A.
+
+## The spec
+
+**The signed mock-up is the spec:** `MOCKUP__Footer_Design_System_20Nov.html` in the Header + Footer folder (Component Design Prototypes). It was built from the theme's own fonts.css, base.css, buttons.css, footer.css and buttons.js, and from the fo2 footer form rules in course-page.css, so its classes are the theme's. The only new CSS is the block scoped `.fx` near the top of its style element; carry that into footer.css without the `.fx` scope. Build it exactly, then compare the built footer with the mock-up at 1280 and 390 before Chat looks.
+
+**From top to bottom:**
+
+1. **The invitation, unchanged in behaviour.** The $7 band (`footer-invite`, `btn btn-primary footer-invite__btn is-on-dark`) on most pages; course pages keep their six free lessons band (fo2, pick 296); school pages keep their six free teachings band (S482). Only the spacing changes: `.footer-main` top padding `--sp-2xl`, the invite's padding-bottom and margin-bottom `--sp-xl`.
+2. **The map, five columns in this order (Kain's words):** About Us, Courses, Community, Learn for Free, Schools. Schools is last and widest. At 1024 and up: `repeat(4, minmax(0,1fr)) minmax(0,1.5fr)`, gap `--sp-xl`. From 768: four columns, Schools full width beneath. Under 768: two columns, Schools full width last. Each column heading (`footer-col__head`, an h2) is itself a link to its section, with no arrow: the theme's button script turns an arrow into a disc. Links keep `footer-col__links` and the family's fire line; each school keeps its own colour line (`footer-school`, `--fire-line:var(--school-{key}-primary)`). Under 768 each link has at least 24 pixels of tap height.
+
+| Column | Heading opens | Links, in order |
+|---|---|---|
+| About Us | /about/ | Founders' Letter /about/founders-letter/; What Achology Believes /about/what-achology-believes/; Our People /about/instructors/; The Manifesto /about/manifesto/; Code of Ethics /about/code-of-ethics/ |
+| Courses | /courses/ | The Academy /academy/; Access All Areas Pass /access-all-areas/; Pricing Options /pricing/; Certification /certification/; Accreditation /accreditation/ |
+| Community | /membership/ | Live Events /events/; Free Live Events /free-events/; Member Testimonials /testimonials/; Student Reviews /reviews/; Code of Conduct /about/code-of-character-and-conduct/ |
+| Learn for Free | /learn/ | Articles /learn/articles/; Book Notes /learn/book-notes/; Quote Articles /learn/quotes/; Workbooks /learn/workbooks/; All Topics /learn/tags/ |
+| Schools | /academy/schools/ | Neuro-Linguistic Programming; Cognitive Behavioural Psychology; Life Coaching and Skilled Helping; Counselling and Hypnotherapy; Mindfulness, Insight and Wisdom; Mental Health and Emotional IQ; Personal Growth and Development (the footer-only names Kain ruled at S134, each to its school page) |
+
+3. **The Achology Roundup, on every page.** The signed fo2 sign-up markup (b4 fields with their name and envelope icons, `b4-btn pf2__btn`, the round `pf2__tick`), inside `footer-invite fo fo--2 footer-roundup`, top-aligned at 1024 and up, with a top hairline and padding `--sp-xl`. Words: the over-line "Stay in Touch"; the title "The Achology Roundup" at `--text-24`; the fields "Your first name" and "Your email address"; the button "Join the Roundup"; the tick box "Send me the Roundup and Achology's emails." No privacy line under it (Kain, pick 296). It sends to the Kit route in BRIEF__Achology_Roundup_Kit_Route_20Nov: tag `Website Newsletter Signup`, sequence 2979796. That brief's hidden test form is no longer needed; the footer is the form.
+4. **One bottom row.** Left: the copyright "© 2026 Achology Transactions Ltd", linked to /help/privacy-and-legal/achology-s-registered-company-details/ (that signed Help answer holds the company names, numbers and registered office, which keeps the site within the UK disclosure rule); then Help Centre /help/, Enquiries /enquiries/, Privacy, Terms, Cookies, the Complianz Cookie Settings button (its id and classes unchanged), All Policies /policies/. Gap `--sp-xs` by `--sp-lg`, and none of the "·" separators. Right: the logo at 28 pixels and the four social icon buttons at 32. On one row at 1024 and up; stacked below that, each link 24 pixels tall to tap.
+
+**Out of the footer:** Student Sign In (Kain: it lives in the header), Free Coaching, Disclaimers, Trust, How We Write, Refunds and Accessibility as separate links (they sit behind All Policies), the long company paragraph, and "All rights reserved."
+
+## Checks Code runs before the DONE
+
+1. Every footer link answers 200 on the build site, and every heading opens its section.
+2. A screenshot of the built footer beside the mock-up at 1280 and 390.
+3. css_gate and the page gate on three pages: one ordinary page, one course page and one school page, each showing its own invitation.
+4. One real Roundup sign-up through the footer, as manager+roundup-test@achology.com, first name "Roundup Test", read back from Kit with its tag and sequence 2979796.
+
+## What Chat checks afterwards
+
+The footer on the build site at 1280 and 375 for short lines and tap sizes, every link, and the welcome email arriving for the test sign-up.
+
+Done when: the new footer is on every page of the build site, matches the signed mock-up at 1280 and 390, every link opens, and a Roundup sign-up from it is in Kit with its tag and sequence and the welcome email sent.
+
+OWED BACK: one DONE in TO Chat with the theme version, the two screenshots, the link check and the Kit read-back.
+
+*No em or en dashes in this file; checked before writing.*
