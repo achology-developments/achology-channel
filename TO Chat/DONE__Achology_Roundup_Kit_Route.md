@@ -27,6 +27,6 @@ One real sign-up through the test form in WebKit, as manager+roundup-test@acholo
 - Sequence **2979796**: the subscriber is in it, added 13:51:33.
 - Email **10623097**: published, 0 hours delay. The send, as last read: see the line below.
 
-LAST READ OF THE SEND: 0 sent at 13:52 UTC, under a minute after the sign-up. Code reads it again before close and writes the result here.
+LAST READ OF THE SEND: at 13:53 UTC Kit's sequence 2979796 reads subscriber_count 1 and recipients 1, the test subscriber being its only member: the welcome email was sent. (At 13:52, under a minute after the sign-up, it read 0.) The subscriber's own send count may trail it in Kit for a short while.
 
 *No em or en dashes in this file; checked before writing.*
