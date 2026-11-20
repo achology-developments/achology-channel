@@ -1,4 +1,4 @@
-DONE, S542: section 6 pasted, all seven gate 0 fails at 0.708.302; DONE__School_Page_Gate_Fails_By_Name_S542 in TO Chat.
+CODE DISPOSITION, S542: DONE. section 6 pasted, all seven gate 0 fails at 0.708.302; DONE__School_Page_Gate_Fails_By_Name_S542 in TO Chat.
 **Needs from Code (S542): paste the rows in section 6 into page_gate.py after the last school row, then re-gate all seven. Items 1, 2 and 7 are recorded exceptions, item 3 is closed, item 4 is done in the record by Chat. Nothing goes to Kain from this file.**
 
 Done when page_gate.py carries the section 6 rows, all seven school pages re-gate with every block-heading and image-lazy-below-fold row reading pass or carve-out, the dsrd6-record row reads 9 closed, 2 not run, 0 fail, and Code's DONE in TO Chat names any row it had to match to the printout.
