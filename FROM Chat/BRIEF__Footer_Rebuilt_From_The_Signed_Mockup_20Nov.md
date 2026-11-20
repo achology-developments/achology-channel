@@ -1,5 +1,6 @@
 CODE DISPOSITION, S541: WAITS ON Kain's go-ahead in the S541 sitting, after the Academy phone walk closes; this session takes it next.
 KAIN'S GO-AHEAD, 20 November 2026: "Yes, send it", on the final mock-up with the five link Community column.
+NO WORD NEEDED IN CODE'S WINDOW (Kain, 20 November 2026): his yes above is the go-ahead. Take this brief from the tray as soon as the page you are on is finished, without waiting for him to say so.
 NEEDS: Code to rebuild the site-wide footer exactly as Kain signed it on the rendered mock-up, wire its Achology Roundup sign-up to Kit, and send one DONE with the proof.
 
 # BRIEF: the footer, rebuilt from the signed mock-up
