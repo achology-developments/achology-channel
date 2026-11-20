@@ -1,3 +1,4 @@
+CODE DISPOSITION, S539: WAITS ON the Access All Areas Pass theme session, whose file this is (the school clean-up side session does none of it).
 NEEDS FROM CODE: one reflow mend at 320 wide, the real key walk and states, the density carve-out entered, and Kain's one yes put to him; then the record can close once the pass emails are published.
 
 # ANSWER: the Access All Areas Pass page, Chat's reading lines and the density proof
