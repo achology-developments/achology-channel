@@ -1,4 +1,4 @@
-CODE DISPOSITION, S540: WAITS ON a theme session free to take it (S540 is closing the guarantee ring sweep; the Membership session holds its own page).
+CODE DISPOSITION, S541: BUILT at 0.708.267 (roundup-kit.php, tag 26223648); see DONE__Achology_Roundup_Kit_Route in TO Chat.
 NEEDS: Code to build the site side of the Achology Roundup sign-up (form 3), so a sign-up reaches Kit and starts the welcome email. The visible block on the homepage is not built from this brief.
 
 # BRIEF: the Achology Roundup sign-up reaches Kit
