@@ -7,3 +7,14 @@ What changed: the title is now "Achology Membership and Subscription Plans". The
 Why: Kain asked for the banner to match the Academy's feel, with members in place of the course faces.
 
 Checked on the build site at 1270 wide.
+
+Later the same session, to 0.708.323, all in Kain's own words, placed as given:
+- The wall now runs up under the breadcrumb row, and it is a little fainter.
+- The figures line under the title is gone.
+- The banner subtitle now reads: "Learning comes to life in the Achology community. Weekly group discussions and workshops build relationships, deepen understanding, and make personal growth inevitable."
+- The lone-word script no longer evens this subtitle; the school banners keep it.
+- The banner button now reads "Join for $7. Cancel Anytime."
+- The first block's heading now reads "What Achology Membership Can Give You".
+- The line under it now reads: "Achology hosts a community shaped by collaborative learning, in which ideas are tested, discussed, and integrated into people's lives."
+
+Kain signed the subtitle: "Yes, it's right". These words override the matching keys in WORDS__Membership_Page_S537.json; please bring that file into line.
