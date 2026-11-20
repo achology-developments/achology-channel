@@ -1,4 +1,4 @@
-NEEDS: Code to set the school story's three chapter five figures at 21 on a computer and a tablet and 18 below 768, weight 700 and colour unchanged, on nine pages (the seven school pages, /access-all-areas/ and /academy/), by one rule in school-page.css, then gate and read back.
+CODE DISPOSITION, S538: WAITS ON the gate re-read on the nine pages, running now; the figures are live at 0.708.263 (8613481b) and measured 21 and 18 on all nine.
 
 # SWEEP BRIEF: the school story's figures under the block heading, nine pages
 
