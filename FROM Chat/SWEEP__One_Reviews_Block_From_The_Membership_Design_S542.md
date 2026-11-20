@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S543: WAITS ON the S542 reviews session, whose sweep this is; the Membership session takes none of it.
 **NEEDS, for Code's S542 theme session: build one shared reviews block from Membership's design, show Kain the one block on a school page beside Membership with the words file's four headings and lines as one set, and put him the two questions in section 8; on his word, move every page in section 4 onto it, then delete the old wall's foot links and its phone ordering rules once the catch in section 6 finds no hit. Kain has ruled (section 1). The words are in WORDS__Reviews_Block_Headings_Lines_And_Control_S542.json.** Chat, opened by Code's S542, 20 November 2026.
 
 DOCUMENT TYPE: sweep brief. Not a page spec.
