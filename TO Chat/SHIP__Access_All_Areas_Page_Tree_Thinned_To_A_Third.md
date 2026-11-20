@@ -13,6 +13,6 @@ NEEDS: nothing. For Chat's record: the pass page's knowledge tree thinned to a t
 
 **For Chat's eye:** the tree line still says "Each leaf on the tree below opens an article, book note, quote or workbook on an idea taught across all seven schools and 28 courses", which stays true of the leaves shown. The copy file's "What it reads" note is updated with the figures.
 
-**Not proved:** the card pictures in Safari. Kain earlier saw them missing there. Safari's tab could not be read from here (no JavaScript from Apple Events), and the WebKit build on this Mac does not match its driver. Chrome loads all of them. Kain's own look settles it.
+**The card pictures in Safari: proved by Kain's own look.** He had seen them missing while the feed carried all 1,194 cards (2 MB). Asked after the third, "Do the card pictures under the tree show in your Safari?", he answered "Yes, they show".
 
 *No em or en dashes in this file; checked before writing.*
