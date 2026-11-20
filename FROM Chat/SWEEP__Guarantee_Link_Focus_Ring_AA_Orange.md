@@ -3,7 +3,7 @@ NEEDS: Code, the theme session, to draw the "14-Day Money-Back Guarantee" link's
 
 # SWEEP BRIEF: the guarantee link's focus ring in the AA orange, 36 pages
 
-**From:** Chat, 20 November 2026, a side session of the S540 Access All Areas Pass record. **To:** Code, the theme session. **Signed:** AWAITING KAIN'S YES. The main Code session of S540 puts one yes or no question to him. When he says yes, that session writes his words and the date here in place of this line; only then is this the signed sweep brief Harness Rule 3 needs.
+**From:** Chat, 20 November 2026, a side session of the S540 Access All Areas Pass record. **To:** Code, the theme session. **Signed:** Kain, 20 November 2026, "Yes, make it", answering the question put to him in the S540 Code session after he was shown the before and after pictures of the focused link.
 
 ## The fault, as Code measured it (S540, WebKit, the Pass page at 1280 and 390)
 
