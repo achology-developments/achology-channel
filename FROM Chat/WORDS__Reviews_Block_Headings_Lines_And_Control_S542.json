@@ -1,0 +1,67 @@
+{"NEEDS": "Code's S542 theme session to place these words in the one shared reviews block, under SWEEP__One_Reviews_Block_From_The_Membership_Design_S542 (section 6 step 1), and to show them to Kain as one set in the side by side (a school page beside Membership) for his signature. Chat asks Kain nothing; any question about these words comes back to Chat.",
+ "Done when": "every page in the sweep's section 4 draws its reviews block with the heading, line, control and two cards below for its kind, measured as the sweep's section 7 says, and the DONE names this file.",
+ "what_this_is": "Chat's words for the one reviews block, written 20 November 2026 from Kain's ruling (RULING__One_Reviews_Block_From_The_Membership_Design_S542, his 'Yes, do that'). Kain asked that the title and subtitle be agreed for every kind of page; this is that set, four kinds. Three of the four headings and three of the four lines are already signed and stand word for word; one line is new (the course line) and two pieces are new (the control, and the two cards on school, course and Pass pages, whose words are Membership's signed ones).",
+ "rules_for_code": [
+  "Every heading is title case; 'Achology' in a heading is orange (the shared accent span). Keep the no-break ties (pfp-tie) the school heading and line carry today, on the same words.",
+  "line: one supporting line on the shared lead bar, running the full container. Measure each at 1280, 768 and 390; report any line past two rows at 1280, or whose last row carries fewer than four words, with its words. Code changes none of them.",
+  "control: drawn only where a page holds more rows than it shows, at 768 and up. It is a button, never a link. Its visible words are its spoken name. One press opens every held row; the button then leaves the page and focus moves to the first card of the first opened row.",
+  "ways: the two link cards at the block's foot, the Membership card form (memb-way). Same two cards, same words, on every kind. Order as each page has its links today: Student Reviews first on school, course and Pass pages (their block is student reviews); Member Testimonials first on Membership, as signed.",
+  "The films' names and places, the reviews, their stars, dates and course labels, and each page's figures strip are page data, not words in this file, and stay as they are."
+ ],
+ "kinds": {
+  "school": {
+   "pages": "the seven schools, data/school-page/*.json (cbp, lc, mh, miw, nlp, pc, pgd)",
+   "heading": "What Our Students Say About Studying at Achology",
+   "heading_status": "kept, signed with the school pages (Kain named it by these words in his ruling)",
+   "line": "Reviews from students who have taken Achology’s courses, along with videos of members sharing what they’ve gained.",
+   "line_status": "kept, signed with the school pages",
+   "control": "Show More Reviews and Videos",
+   "ways": "ways_students"
+  },
+  "pass": {
+   "pages": "the Access All Areas Pass, data/pass-page/parts.json",
+   "heading": "What Our Students Say About Studying at Achology",
+   "heading_status": "kept, signed with the Pass page (Kain, S540)",
+   "line": "Reviews from students who have taken Achology’s courses, along with videos of members sharing what they’ve gained.",
+   "line_status": "kept, signed with the Pass page",
+   "control": "Show More Reviews and Videos",
+   "ways": "ways_students"
+  },
+  "course": {
+   "pages": "the 28 course pages, data/course-page/001.json to 028.json",
+   "heading": "What Students Say About This Course",
+   "heading_status": "kept, signed with the course page",
+   "line": "Reviews from students who have taken this course, along with videos of members sharing what they’ve gained.",
+   "line_status": "NEW, replaces 'Reviews and films from students who have taken this course, in their own words.' Why: the three films are the same three members on all 28 courses (Lee Ashby, Nuala McCann, Toni-Lee Hazlett), so the old line said each film's speaker took that course, which the record does not show. The reviews are the course's own; the films are members. The new line says only that, in the school line's own words, so the family reads as one. 107 characters, the school line 113.",
+   "control": "Show More Reviews and Videos",
+   "ways": "ways_students"
+  },
+  "membership": {
+   "pages": "/membership/ (post 45034), the Membership preview's members() block until its theme template is built",
+   "heading": "What Our Members Say About Achology Membership",
+   "heading_status": "signed, WORDS__Membership_Page_S537.json members_v2 title_v3",
+   "line": "Three members share what membership has given them, from new skills and friendship to a business of their own.",
+   "line_status": "signed, members_v2 line_v3",
+   "control": null,
+   "control_status": "none: Membership shows its one row and holds none (Kain's ruling, point 3)",
+   "ways": "ways_members"
+  }
+ },
+ "ways_students": [
+  {"title": "Student Reviews", "line": "Search thousands of reviews since 2014", "href": "/reviews/", "icon": "the star, as on Membership"},
+  {"title": "Member Testimonials", "line": "Watch nine members answer five questions", "href": "/testimonials/", "icon": "the message, as on Membership"}
+ ],
+ "ways_members": [
+  {"title": "Member Testimonials", "line": "Watch nine members answer five questions", "href": "/testimonials/"},
+  {"title": "Student Reviews", "line": "Search thousands of reviews since 2014", "href": "/reviews/"}
+ ],
+ "retired_words": [
+  "'Read All Student Reviews' and 'Watch Student Testimonials', the two pf-go text links, on all 36 pages: the two cards above take their place (Kain's ruling, point 1).",
+  "The course line 'Reviews and films from students who have taken this course, in their own words.'"
+ ],
+ "notes": [
+  "The control's words. Code proposed 'Show More Reviews'. A held row is one video beside two reviews, so a press that opens a video under a button naming only reviews would surprise the reader; the button names both. 'Video', not 'film': the school line already says 'videos', Kain's own word (his lexicon: video 2,793 uses, film 54), and the film card's spoken name is 'Play ... video'. 28 characters, title case as every button on the site. 'More' is allowed here: the link label rule (04 Words, A Link Is On The Name Of The Thing) bans 'more' as a bare label, and this one names the things it opens.",
+  "The two cards' words are Membership's, signed in members_v2 ways; both lines describe the pages they open (/reviews/ and /testimonials/), so they hold on every kind without change. 'Student Reviews' is the /reviews/ page's own name (Achology Student Reviews).",
+  "GATES_PENDING"
+ ]
+}
