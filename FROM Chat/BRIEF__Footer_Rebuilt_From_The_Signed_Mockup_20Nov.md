@@ -17,7 +17,13 @@ Almost every page is now designed, so the footer becomes the map of the whole si
 
 **From top to bottom:**
 
-1. **The invitation, unchanged in behaviour.** The $7 band (`footer-invite`, `btn btn-primary footer-invite__btn is-on-dark`) on most pages; course pages keep their six free lessons band (fo2, pick 296); school pages keep their six free teachings band (S482). Only the spacing changes: `.footer-main` top padding `--sp-2xl`, the invite's padding-bottom and margin-bottom `--sp-xl`.
+1. **The invitation, four variations (Kain, 20 November 2026: "Yes, add both").**
+   - **Most pages:** the $7 band (`footer-invite`, `btn btn-primary footer-invite__btn is-on-dark`), as built.
+   - **Course pages:** the six free lessons band (fo2, pick 296), as built.
+   - **School pages and the Access All Areas Pass page:** the six free teachings band (fo2, S482), as built. Chat read the pass page's footer on the build site the same day: it already carries it, "Try Six Free Teachings Before You Decide", so nothing changes there.
+   - **Workbook pages, new:** the fo2 band offering the six free lessons of the course the workbook comes from, through the course free lessons route (form 6, course-kit.php) with that course's fields, exactly as the course page's own footer form sends them. Words: the over-line "Experience the Course", the heading "Try the First Six Lessons Before You Decide" (both the course band's signed words), and the line "We'll send you the first six lessons of {course name}, the course this workbook comes from, one each day for six days." with the course's DSRD 5 name linked to its page; the button "Send Me the First Six Lessons" and the tick box "Send me the six lessons and Achology's emails." (both signed on the course band). The workbook's course is the one its page already names under Where This Workbook Comes From. Where a workbook has no course, its footer keeps the $7 band. The line is Chat's wording inside Kain's frame, overturnable.
+
+   Only the spacing changes on every variation: `.footer-main` top padding `--sp-2xl`, the invite's padding-bottom and margin-bottom `--sp-xl`.
 2. **The map, five columns in this order (Kain's words):** About Us, Courses, Community, Learn for Free, Schools. Schools is last and widest. At 1024 and up: `repeat(4, minmax(0,1fr)) minmax(0,1.5fr)`, gap `--sp-xl`. From 768: four columns, Schools full width beneath. Under 768: two columns, Schools full width last. Each column heading (`footer-col__head`, an h2) is itself a link to its section, with no arrow: the theme's button script turns an arrow into a disc. Links keep `footer-col__links` and the family's fire line; each school keeps its own colour line (`footer-school`, `--fire-line:var(--school-{key}-primary)`). Under 768 each link has at least 24 pixels of tap height.
 
 | Column | Heading opens | Links, in order |
