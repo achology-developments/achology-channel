@@ -1,0 +1,38 @@
+{"_disposition": "", "NEEDS": "Code's S541 theme session to draw the questions block on /reviews/, /accreditation/ and /certification/ in two columns fitted to the 960 column, as on /about/, from these groups. Chat asks Kain nothing; any question about these words comes back to Chat.",
+ "Done when": "the three pages draw two cards each with the titles and ids below, measured as section 7 of SWEEP__Question_Block_Site_Wide_From_The_Membership_Design_20Nov says, and the DONE names this file.",
+ "what_this_is": "Chat's regrouping, 20 November 2026, of each page's existing questions from three columns into two. Kain signed /about/ in two columns fitted to its 960 column (\"yes, that's correct\"), then ruled the other 960-column pages match it: \"Yes, match About\". These groups replace the three 'groups' of these pages in WORDS__Question_Block_Groups_And_Lines_Site_Wide_20Nov.json; every other key there stands.",
+ "rules_for_code": [
+  "Headings, supporting lines, excerpts, ask lines and credits are unchanged from the site-wide words file; only the groups change.",
+  "Reading order is kept: the ids run in the same order as in the three columns, split at the middle, so every split is even.",
+  "Every column title is title case and carries no 'Achology'."
+ ],
+ "pages": [
+  {
+   "page": "/reviews/",
+   "groups": [
+    { "name": "How You Learn", "ids": [329, 403, 406, 350] },
+    { "name": "What Sets Us Apart", "ids": [342, 281, 336, 269] }
+   ],
+   "note": "Eight, four and four. 342 (mentoring included with membership) opens the second card as one of the things that set the courses apart."
+  },
+  {
+   "page": "/accreditation/",
+   "groups": [
+    { "name": "Checks, Renewal and Levels", "ids": [295, 10021, 10013, 10023, 10009, 10012] },
+    { "name": "Advancing and the Sessions That Count", "ids": [10010, 10011, 360, 10014, 10015, 10016] }
+   ],
+   "excerpts": "the template's existing excerpts array, carried word for word",
+   "note": "Twelve, six and six. The first card runs from who checks a claim to the first step up; the second from Adept to Master and the three kinds of session."
+  },
+  {
+   "page": "/certification/",
+   "groups": [
+    { "name": "What It Shows and Lets You Do", "ids": [10024, 294, 321, 41428, 297, 316] },
+    { "name": "Using It and Who Recognises It", "ids": [303, 307, 300, 314, 315, 306] }
+   ],
+   "note": "Twelve, six and six."
+  }
+ ],
+ "gates": "Chat ran the dash scan and the banned, flagged and watched word scan on every column title in this file on 20 November 2026: no hit. Nothing else here is new copy.",
+ "no_dashes": "No em or en dashes in this file; checked before writing."
+}
