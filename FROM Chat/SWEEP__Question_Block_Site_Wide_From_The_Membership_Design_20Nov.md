@@ -1,4 +1,5 @@
 CODE DISPOSITION, S541: WAITS ON the S541 build, which takes it now: the shared block first, then Academy shown to Kain before any other page.
+DOCUMENT TYPE: sweep brief. Not a page spec.
 **For Code, the S541 theme session. NEEDS: build the one questions block in the shared part, move every page and list in section 4 onto it (Academy first, shown to Kain beside the Membership preview), then delete the old component from the theme and the components library once the catch finds no hit. Kain has signed (section 1). The words are in WORDS__Question_Block_Groups_And_Lines_Site_Wide_20Nov.json.** Chat, opened by Code's S541, 20 November 2026; revised the same day on Kain's "Yes, fully site-wide".
 
 CODE DISPOSITION, S541: WAITS ON Chat's revision (short lists in, Kain "Yes, fully site-wide") and the WORDS file; Kain signed in the S541 sitting. *(Code's line, kept; both are now in.)*
