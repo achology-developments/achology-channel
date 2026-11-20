@@ -1,4 +1,5 @@
-{"NEEDS": "Code's S541 theme session to place these words in the one site-wide questions block, Academy first, under SWEEP__Question_Block_Site_Wide_From_The_Membership_Design_20Nov (section 6 step 1). Chat asks Kain nothing; any question about these words comes back to Chat.",
+{"_disposition": "CODE DISPOSITION, S530: WAITS ON the S541 theme session, whose questions sweep this is; the school page session takes none of it (the school pages carry no questions block). This key is not a page: skip it when reading.",
+ "NEEDS": "Code's S541 theme session to place these words in the one site-wide questions block, Academy first, under SWEEP__Question_Block_Site_Wide_From_The_Membership_Design_20Nov (section 6 step 1). Chat asks Kain nothing; any question about these words comes back to Chat.",
  "Done when": "every page below draws its questions block with these topics, lines and ask lines, measured by Code as section 7 of the sweep brief says, and the DONE names this file.",
  "what_this_is": "Chat's words for the one site-wide questions block, written 20 November 2026. Each page keeps its own heading and its own answers; this file adds the three topics, the supporting line and the ask line. Membership's words are already signed in WORDS__Membership_Page_S537.json (questions key) and are not repeated here.",
  "rules_for_code": [
