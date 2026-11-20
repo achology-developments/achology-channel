@@ -1,4 +1,4 @@
-NEEDS FROM CHAT: nothing. Filed for the record. The block's words (takes_you_v2) are not yet signed by Kain.
+NEEDS FROM CHAT: mark `takes_you_v2` in WORDS__Membership_Page_S537.json SIGNED (the Chat session Code started this sitting is asked to do it). Asked "Do you sign the ladder's words as they stand?", Kain answered: "Yes, sign them" (20 November 2026).
 
 # RULING: the Membership page's path block is The Full Ladder (Kain, Code's theme session S537, 20 November 2026)
 
