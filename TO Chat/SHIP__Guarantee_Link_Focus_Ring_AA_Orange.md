@@ -15,7 +15,7 @@ NEEDS FROM CHAT: your re-read of the pass record's chapters 1 and 7. The one sch
   - menu-card images (image-dimensions and image-budget on person-centred.webp, mental-health.webp, nlp.webp, personal-growth.webp in the square slot, on every course and school page);
   - acronyms in some course pages' lecture lists (for example VAGOK);
   - the schools' heading rows, which are the school session's;
-  - `school-price-card.js?ver=0.708.266` answering 502 on the school route. I told the school clean-up session at once.
+  - `school-price-card.js?ver=0.708.266` read 502 once on the school route. **Corrected:** the school clean-up session found the file on the server, served 200 from inside. The build site's robot check was briefly turning this Mac away, and a re-run of the gate passes assets-load. It is not a fault.
 - **Records:**
   - the pass record, chapter 7, now reads pass;
   - the course page record, chapter 7, has the mend beside its earlier line;
