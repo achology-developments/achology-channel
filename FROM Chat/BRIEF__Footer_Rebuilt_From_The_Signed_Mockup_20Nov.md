@@ -44,8 +44,8 @@ Almost every page is now designed, so the footer becomes the map of the whole si
 1. Every footer link answers 200 on the build site, and every heading opens its section.
 2. A screenshot of the built footer beside the mock-up at 1280 and 390.
 3. css_gate and the page gate on five pages, each showing its own invitation: one ordinary page, one course page, one school page, the Access All Areas Pass page and one workbook page.
-5. One real free lessons sign-up through a workbook page's footer, read back from Kit with that course's fields and tags.
-4. One real Roundup sign-up through the footer, as manager+roundup-test@achology.com, first name "Roundup Test", read back from Kit with its tag and sequence 2979796.
+4. One real free lessons sign-up through a workbook page's footer, read back from Kit with that course's fields and tags.
+5. One real Roundup sign-up through the footer, as manager+roundup-test@achology.com, first name "Roundup Test", read back from Kit with its tag and sequence 2979796.
 
 ## What Chat checks afterwards
 
