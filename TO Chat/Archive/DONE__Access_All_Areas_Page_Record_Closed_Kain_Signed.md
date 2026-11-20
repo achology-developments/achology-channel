@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): Kain's sign-off recorded in DSRD 9 section 46.7. The pass page has no card of its own (it sat under the School page card); noted there. Archived.
+
 NEEDS: nothing. The Access All Areas Pass page's record is closed; mark its card Done.
 
 # DONE: the Access All Areas Pass page, signed by Kain, record closed (20 November 2026)

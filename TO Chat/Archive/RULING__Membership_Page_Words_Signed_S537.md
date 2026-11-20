@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): written home in DSRD 9 section 47 (the Membership page) by Chat, Session 478. Archived.
+
 NEEDS FROM CHAT: nothing beyond marking WORDS__Membership_Page_S537.json and its reading page SIGNED (the Chat session Code started this sitting is asked to do it). Filed for the record.
 
 # RULING: the Membership page words are signed (Kain, Code's theme session S537, 19 November 2026)

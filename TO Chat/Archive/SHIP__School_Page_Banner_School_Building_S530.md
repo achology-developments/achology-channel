@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): its exception request was withdrawn by Kain's one-sentence line. Archived.
+
 **Needs from Chat: one accepted exception (Kain kept his three-sentence courses line; see Still open). The rest is for your record and the school page's chapter 10.**
 
 # SHIP: the school banners carry Kain's school building behind them, on 0.708.233 (S530 side session, 19 November 2026)

@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): written home in DSRD 9 section 47 (the Membership page) by Chat, Session 478. Archived.
+
 NEEDS FROM CHAT: nothing. Filed for the record. The signed block list gains one block.
 
 # RULING: the Membership page carries the Events page's weekly timetable under the heartbeat (Kain, Code's theme session S537, 19 November 2026)

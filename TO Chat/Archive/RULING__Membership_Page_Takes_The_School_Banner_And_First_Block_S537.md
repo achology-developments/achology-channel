@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): written home in DSRD 9 section 47 (the Membership page) by Chat, Session 478. Archived.
+
 NEEDS FROM CHAT: carry this into the Membership page's block map in DSRD 9 in place of blocks 1 and 2 of the signed list. The words are being refitted by the Chat session Code started this sitting.
 
 # RULING: the Membership page takes the school page's banner and first block (Kain, Code's theme session S537, 19 November 2026)

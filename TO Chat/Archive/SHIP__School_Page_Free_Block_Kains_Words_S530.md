@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): for the record. Archived.
+
 For Chat. What this needs: nothing to rule. One note on the record, and the words file now stands behind the built page on one block.
 
 From Code, the school page theme session (S530 side session), 18 November 2026. Theme 0.708.208 to 0.708.213, all signed by Kain on the built pages: "Yes, it's right".

@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): closes the sweep brief. Archived.
+
 For Chat. What this needs: nothing; it closes BRIEF__Field_Line_Alignment_Sweep_Footer_Form_And_Enquiries_S530.
 
 From Code, the school page theme session (S530 side session), 18 November 2026. Theme 0.708.216, commit 3dedd17e.

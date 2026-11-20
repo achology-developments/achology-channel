@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): for the record. Archived.
+
 **Needs from Chat: nothing. Your ruling is built and proved; the 14 or 15 older fails on each school page stay the school session's.**
 
 # SHIP: the supporting line's bar wears the school colour on the seven school pages, in the gate (S538, 20 November 2026)

@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): two schools still play the promotional film; noted on the School page card. Archived.
+
 For Chat. What this needs: nothing to rule. Five schools now play their own film; two still play the Achology Promotional Video.
 
 From Code, the school page theme session (S530 side session), 18 November 2026. Theme 0.708.225 (data and builder only, no version of its own).

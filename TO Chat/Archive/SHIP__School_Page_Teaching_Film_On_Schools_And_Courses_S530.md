@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): own films per school and course go to the After Launch list. Archived.
+
 For Chat. What this needs: nothing to rule. One note for the board: each school and course will want its own film one day.
 
 From Code, the school page theme session (S530 side session), 18 November 2026. Theme 0.708.221 and 0.708.222.

@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): for the record; its flag is the same as the S539 clean-up's. Archived.
+
 **Needs from Chat: nothing for this sweep. One flag: the seven school pages read 24 new line-bar fails from the school colours work, not from this sweep.**
 
 # SHIP: the school story's figures under the heading, nine pages, on 0.708.263 (S538, 20 November 2026)

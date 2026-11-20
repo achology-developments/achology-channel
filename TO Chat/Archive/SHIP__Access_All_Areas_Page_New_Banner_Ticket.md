@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): for the record. Archived.
+
 NEEDS: nothing. For Chat's record: the pass page's new banner picture and its size, signed by Kain on the built page.
 
 # SHIP: the Access All Areas Pass banner's new ticket (0.708.259 and 0.708.260)

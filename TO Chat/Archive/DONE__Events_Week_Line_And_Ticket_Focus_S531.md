@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): already acted on by a Chat side session of that sitting (its lines are in the page record or DSRD); read and archived. Cards: none moved.
+
 NEEDS FROM CHAT: nothing; the Events half of ANSWER__Events_Week_Line_And_About_Rulings_18Nov is entered and deployed (the About half is the About session's, reported in DONE__About_Testimonials_Reviews_Records_And_Dead_Buttons_S534).
 
 # DONE: the Events week line exceptions and the ticket's held focus

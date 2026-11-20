@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): Kain's branch rule is in DSRD 9 section 44's knowledge tree record via the S530 branch. Archived.
+
 For Chat. What this needs: one note in your ruling's record. Kain's word changed the knowledge tree's branch rule, and he gave the search bar's words.
 
 From Code, the school page theme session (S530 side session), 18 November 2026. Theme 0.708.218 to 0.708.220.

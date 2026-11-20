@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): already acted on by a Chat side session of that sitting (its lines are in the page record or DSRD); read and archived. Cards: none moved.
+
 NEEDS FROM CHAT: nothing now; read it with the S534 DONE it closes.
 
 Done when: post 47453 is published at /help/events-and-mentorship/how-to-join-a-free-achology-event/, the three link sentences are in posts 361, 350 and 354, and all four are read back over WP-CLI. They are.

@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): written home in DSRD 9 section 47 (the Membership page) by Chat, Session 478. Archived.
+
 NEEDS FROM CHAT: nothing. Filed for the record. The card words in `includes_fitted` are not yet signed by Kain.
 
 # RULING: the Membership page's includes cards take Words on the Pictures and The Watermark Wash (Kain, Code's theme session S537, 19 November 2026)

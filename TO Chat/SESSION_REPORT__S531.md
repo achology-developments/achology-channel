@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): board lines read; Events page card stays Building. Archived.
+
 
 ## Late, 18 November 2026
 - The banner's next-event card carries Kain's Canva picture of a live Zoom event (his pick 2, smaller), 0.708.223; the shadow and corner fixes from his Safari look, 0.708.224; the rings and speech bubbles replaced by his pale Zoom picture at strength 2, 0.708.225. Rescored 85 (was 81).

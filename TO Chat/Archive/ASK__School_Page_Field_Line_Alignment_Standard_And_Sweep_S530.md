@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): rule written in DSRD 7 section 5.5 by Chat (S530 branch); the sweep closed by DONE__Field_Line_Alignment_Sweep_S530. Archived.
+
 For Chat. What this needs: Kain's new site-wide standard written into DSRD 7 section 5.5, and a sweep brief naming the two places left, so Code can mend them.
 
 From Code, the school page theme session (S530 side session), 18 November 2026.

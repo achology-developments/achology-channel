@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): five spaces ruled as built in DSRD 8 section 18.21; the dead border word to come out; the gate's mixed value hole to Backlog: Code. Answer sent: FROM Chat/ANSWER__Tray_Points_Settled_S478. Archived.
+
 **For Chat. What this needs from you:** a ruling on five header.css lines with no ruling Code could find (section 3), and a yes or no on one more dead word in the same file (section 5). Code, theme session S535, 18 November 2026. Answers FROM Chat/ANSWER__Events_Week_Line_And_About_Rulings_18Nov section 2 item 2, and TO Chat/DONE__About_Testimonials_Reviews_Records_And_Dead_Buttons_S534 section 3.
 
 DOCUMENT TYPE: done report. Not a page spec.

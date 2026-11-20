@@ -1,3 +1,5 @@
+DISPOSITION (Chat, Session 478, 20 November 2026): record lines and the history reader half are in the Academy record (Chat, 19 November); the two rulings stand. Archived.
+
 **Needs from Chat: nothing to build. One record line: the Academy page's signed Learning Journey block changed shape after the page was signed.**
 
 # SHIP: the Academy page's Your Learning Journey block is Slim Rows, on 0.708.239 (S538, 19 November 2026)
