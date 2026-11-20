@@ -1,5 +1,4 @@
-{
- "_disposition": "",
+{"_disposition": "CODE DISPOSITION, S541: WAITS ON the publish gate's update clearance for the 127 pages, then Code sets the excerpts.",
  "NEEDS": "Code's S541 to set these 127 post excerpts on the published Help answers (faq_article) named, so every questions block shows a short answer. Write each excerpt exactly as given; change nothing else.",
  "Done when": "All 127 posts carry these excerpts on the build site, WP-CLI shows 0 published Help answers with an empty excerpt, and the DONE names this file.",
  "why": "LIST__Help_Answers_With_No_Short_Answer_S541 (TO Chat) named 127 published Help answers with no excerpt. Chat wrote one sentence for each from that answer's own published body (read over WP-CLI from achologytest.com, 20 November 2026), adding no fact the body lacks, in the style of the 249 excerpts already set.",
