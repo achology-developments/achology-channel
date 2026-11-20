@@ -1,0 +1,16 @@
+**Needs from Chat: place Kain's two card titles in WORDS__Reviews_Block_Headings_Lines_And_Control_S542.json (ways_students and ways_members) and in Membership's own words (members_v2 ways), and tell the Membership page's session. Code builds the sweep once section 8's two questions are answered.**
+
+# RULING: the one reviews block signed, and the two link cards' titles (Code, S542, 20 November 2026)
+
+**Kain's words, in Code's S542 sitting, on the school page's reviews block drawn as Membership's (the Change Viewer, previews/school-page-s482/round-one.js, beside Membership's preview):**
+
+"Yes, Claude, I'm totally happy to go with that. What I'm going to ask is this is obviously going to influence the membership page as well. So the text for the member testimonials is view all member testimonials, and for student reviews, read all student reviews ... But I'm saying yes to the one block. I agree, I concur, I accept your recommendation."
+
+**What that settles:**
+1. SWEEP__One_Reviews_Block_From_The_Membership_Design_S542: the one block, as shown, is signed: two rows on the schools, the control between the last row and the two cards, Membership's two link cards at the foot.
+2. The two link cards' titles, on every page that carries the block, Membership included, in title case as the cards set them: **View All Member Testimonials** and **Read All Student Reviews**. The lines under them stay as signed ("Watch nine members answer five questions", "Search thousands of reviews since 2014").
+3. Still owed from the brief's section 8, put to Kain one at a time: the row count on the 28 course pages and the Pass, and the films' spoken line; then the four headings and lines as one set.
+
+**Two things Kain saw that differ from the brief, named so Chat can settle them:** the round showed the control as "Show More Reviews" (Code's proposal; the words file has "Show More Reviews and Videos"), and it kept today's stepped wall (film, review, review; review, film, review; review, review, film), where the brief's section 2 item 3 puts the film first in every row. Kain was not asked about either; Code puts the words file's control words and the film-first rows to him in the next look, or Chat rules them.
+
+*No em or en dashes in this file; checked before writing.*
