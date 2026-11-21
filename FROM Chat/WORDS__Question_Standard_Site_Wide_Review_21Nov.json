@@ -1,0 +1,121 @@
+{
+ "_status": "PARTIAL: items 1 and 2 are in; items 3 and 4 follow in this same file.",
+ "NEEDS": "Code's branch 1 to apply items 1 and 2 now; items 3 and 4 follow in this file. Chat asks Kain nothing.",
+ "standard": "Kain, 21 November 2026: the questions must really reflect helpful questions, chosen by how often or how likely they are asked, and a question block says who we are and what we do, never who we are not. A question fails if it (a) answers what Achology is not, (b) is not really asked by a visitor, or (c) is two questions in one title.",
+ "item_1_titles": {
+  "rule": "One question per title. Slug, id and body stay exactly as they are; only post_title changes. Chat read every published faq_article title on 21 November 2026 over WP-CLI and found these eight with two questions in one title, and one more (41428) that joins two with a comma and sits in the Certification block.",
+  "retitles": [
+   {
+    "post_id": 329,
+    "slug": "how-achology-courses-work-self-paced",
+    "old": "How do Achology courses work? What's the learning experience like?",
+    "new": "How do Achology courses work?",
+    "shown_in": "Academy, Courses, Reviews, Testimonials, Help landing, 404, Most Asked on every Help answer"
+   },
+   {
+    "post_id": 330,
+    "slug": "inside-achology-course-modules-breakdown",
+    "old": "What's inside an Achology course module? What do you get?",
+    "new": "What's inside an Achology course module?",
+    "shown_in": "Help answers only"
+   },
+   {
+    "post_id": 331,
+    "slug": "achology-course-prerequisites-requirements",
+    "old": "Do Achology courses have prerequisites? Can complete beginners start?",
+    "new": "Do Achology courses have prerequisites?",
+    "shown_in": "Help answers only"
+   },
+   {
+    "post_id": 320,
+    "slug": "achology-success-stories-do-courses-work",
+    "old": "Do Achology courses actually work? What do success stories look like?",
+    "new": "Do Achology courses actually work?",
+    "shown_in": "Testimonials (page set), Reviews (new, item 4)"
+   },
+   {
+    "post_id": 312,
+    "slug": "what-if-achology-courses-dont-work",
+    "old": "What if Achology courses don't work for you? What then?",
+    "new": "What if Achology courses don't work for you?",
+    "shown_in": "Help answers only"
+   },
+   {
+    "post_id": 10042,
+    "slug": "course-included-free-membership-happens-when",
+    "old": "My course included free membership. What happens when it ends?",
+    "new": "What happens when the free membership that came with my course ends?",
+    "shown_in": "Help answers only"
+   },
+   {
+    "post_id": 400,
+    "slug": "overwhelmed-by-achology-options",
+    "old": "I'm overwhelmed by the options. How do I choose?",
+    "new": "How do I choose when there are so many options?",
+    "shown_in": "Academy, Getting Started fallback on every Help answer"
+   },
+   {
+    "post_id": 393,
+    "slug": "achology-course-piracy-copyright",
+    "old": "I found Achology content on a torrent site. Is it legitimate?",
+    "new": "Is Achology content on a torrent site legitimate?",
+    "shown_in": "no block today; same fault, same fix, so the library is clean"
+   },
+   {
+    "post_id": 41428,
+    "slug": "are-psychology-certificates-worth-it",
+    "old": "Are psychology certificates worth it, and what do they show?",
+    "new": "Are psychology certificates worth it?",
+    "shown_in": "Certification"
+   }
+  ],
+  "note_for_code": "Change post_title only. Leave the slug, the body, the excerpt and the Rank Math fields alone, and check that the breadcrumb and any FAQPage schema name read the new title (they derive it). If a retitled answer's body opens by repeating the old second question, tell Chat and Chat will mend the body; none was read as doing so."
+ },
+ "item_2_enquiries": {
+  "page": "/enquiries/",
+  "fails": {
+   "post_id": 224,
+   "title": "Is Achology therapy, counselling, or coaching?",
+   "why": "Its answer is a no: it says what Achology is not. It is a fair question and keeps its place in the library and in the related links of other answers, but it is never the first thing a block says about who we are."
+  },
+  "replacement": {
+   "post_id": 218,
+   "slug": "what-is-achology",
+   "title": "What is Achology?",
+   "short_answer": "An online applied psychology academy: 28 courses across seven schools, a community, and certification.",
+   "short_answer_source": "the answer's own published excerpt, read over WP-CLI 21 November 2026; already set, nothing to write",
+   "why": "The most asked question of all and the one Help ranks first. It says what Achology is and does, in the visitor's own words."
+  },
+  "enquiries_groups_now": [
+   {
+    "name": "Who We Are",
+    "ids": [
+     218,
+     10054
+    ]
+   },
+   {
+    "name": "Buying and Refunds",
+    "ids": [
+     398,
+     236
+    ]
+   },
+   {
+    "name": "Getting Help",
+    "ids": [
+     370,
+     252
+    ]
+   }
+  ],
+  "kept_as_kain_said": [
+   236,
+   398,
+   10054,
+   370,
+   252
+  ],
+  "also_hit_by_this": "224 sits in the 404's Who We Are card as well. Its replacement is in item 4 (404)."
+ }
+}
