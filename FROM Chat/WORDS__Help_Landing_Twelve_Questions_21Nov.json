@@ -1,0 +1,29 @@
+{"_disposition": "CODE DISPOSITION, S544: WAITS ON Code branch 1 placing the twelve questions on the Help landing.", "NEEDS": "Code's branch 1 to draw /help/ as three columns of four with these ids, replacing the six ranked today; heading and line are Kain's, unchanged. Chat asks Kain nothing.",
+ "Done when": "/help/ draws the three columns below, four questions each, every one published with its short answer, and no id repeats.",
+ "page": "/help/ (Help landing)",
+ "heading": "Popular Questions",
+ "line": "Who we are, how it works, and costs and refunds.",
+ "heading_and_line_source": "Kain, 21 November 2026; unchanged",
+ "groups": [
+  {"name": "Who We Are", "ids": [218, 295, 255, 260]},
+  {"name": "How It Works", "ids": [329, 243, 327, 397]},
+  {"name": "Cost and Refunds", "ids": [220, 221, 341, 236]}
+ ],
+ "questions": [
+  {"column": "Who We Are", "id": 218, "title": "What is Achology?", "short_answer": "An online applied psychology academy: 28 courses across seven schools, a community, and certification.", "status": "kept"},
+  {"column": "Who We Are", "id": 295, "title": "Is Achology accredited?", "short_answer": "Yes, by SoMAP, whose committee of Master Achologists checks every claim on the accreditation pathway.", "status": "kept"},
+  {"column": "Who We Are", "id": 255, "title": "Who is Kain Ramsay?", "short_answer": "Achology's founder and principal teacher, whose applied psychology courses began on Udemy.", "status": "new"},
+  {"column": "Who We Are", "id": 260, "title": "Who is Achology designed for?", "short_answer": "Reflective, self-directed adults: helpers, professionals, and people learning for their own growth.", "status": "new"},
+  {"column": "How It Works", "id": 329, "title": "How do Achology courses work?", "short_answer": "Self-paced videos, reflective exercises, community practice, and included membership months.", "status": "kept; takes the new title from the review file's item 1"},
+  {"column": "How It Works", "id": 243, "title": "What does Achology membership include?", "short_answer": "Daily live events, peer practice, mentorship groups, and discussion spaces for $34.50 a month.", "status": "kept"},
+  {"column": "How It Works", "id": 327, "title": "How long do Achology courses take to complete?", "short_answer": "Weeks for a Masterclass, months for practitioner study, all self-paced with no deadlines.", "status": "new"},
+  {"column": "How It Works", "id": 397, "title": "Where should I start with Achology?", "short_answer": "Free events to try it, a course for a clear goal, membership to explore: match the start to you.", "status": "new"},
+  {"column": "Cost and Refunds", "id": 220, "title": "How much does Achology cost?", "short_answer": "Courses run $97 to $299, school bundles $987 to $1,337, and the Access All Areas Pass is $2,995.", "status": "kept"},
+  {"column": "Cost and Refunds", "id": 221, "title": "Does Achology offer a money-back guarantee?", "short_answer": "Yes, a full 14-day guarantee covers courses, bundles, and the Pass; membership is the exception.", "status": "kept"},
+  {"column": "Cost and Refunds", "id": 341, "title": "Can I pay for Achology courses in instalments?", "short_answer": "Yes: you can pay in full or spread the cost over monthly instalments, and the checkout shows the options for each course, bundle and pass.", "status": "new"},
+  {"column": "Cost and Refunds", "id": 236, "title": "How do I request a refund from Achology?", "short_answer": "Email support@achology.com with your order number, purchase date, product name, and account email.", "status": "new"}
+ ],
+ "checks": "All twelve ids are distinct, so no question repeats in a column or across the three. All twelve are published faq_article posts carrying their own excerpt, read over WP-CLI on 21 November 2026. None says what Achology is not. Cost and Refunds shares 220, 221 and 236 with different columns of the Pricing block (cost, refund policy, asking for a refund) but not its whole column, and 341 is the Pricing block's payment question, so the Help landing reads as a selection of the most asked and not a copy. Each new question is one question.",
+ "flags_on_kains_words": "Chat changes nothing; for Kain's judgement only. (1) The line repeats the three column titles back, so it adds nothing a reader cannot already see; one that said what the questions are for would carry more. (2) It reads as a fragment and mixes 'costs and refunds' with the column's own 'Cost and Refunds'. (3) The heading Popular Questions is the 404's heading too, so the two pages open the same way. None of these blocks the build.",
+ "no_dashes": "No em or en dashes in this file; checked before writing."
+}
