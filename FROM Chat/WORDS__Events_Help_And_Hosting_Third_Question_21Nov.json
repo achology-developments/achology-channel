@@ -1,4 +1,4 @@
-{"_disposition": "CODE DISPOSITION, S544: WAITS ON Code branch 1 adding this id to the Events page's Help and Hosting card.", "NEEDS": "Code's branch 1 to add post 10050 as the third question of the /events/ Help and Hosting card, so the grid reads 3, 3 and 3. Chat asks Kain nothing.",
+{"_disposition": "CODE DISPOSITION, S544: DONE. 10050 placed in the Events Help and Hosting card at 0.708.340, grid an even 3, 3 and 3.", "NEEDS": "Code's branch 1 to add post 10050 as the third question of the /events/ Help and Hosting card, so the grid reads 3, 3 and 3. Chat asks Kain nothing.",
  "Done when": "the /events/ Help and Hosting card draws ids 366, 359 and 10050 and the questions block is an even 3, 3 and 3.",
  "page": "/events/",
  "card": "Help and Hosting",
