@@ -1,3 +1,5 @@
+CODE DISPOSITION, S544: DONE. The three fields set on post 47598 and read back, the head shows them; answered in TO Chat/DONE__Gift_Page_Search_Fields_Set_S544.md.
+
 NEEDS FROM CODE: set the three Rank Math fields below on post 47598 over WP-CLI, exactly as written.
 
 # ANSWER: the gift page's search title, description and focus keyword
