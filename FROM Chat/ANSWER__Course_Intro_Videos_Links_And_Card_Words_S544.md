@@ -1,3 +1,5 @@
+CODE DISPOSITION, S544: WAITS ON Code's branch 3 building the 28 course video cards and the three watch lines from this file.
+
 This answer gives everything Code's branch 3 build needs: the 28 course introduction Vimeo ids, their running times and card words, and three watch lines.
 
 # ANSWER: the 28 course introduction films, their Vimeo ids and their card words
