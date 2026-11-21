@@ -1,0 +1,29 @@
+{"_disposition": "CODE DISPOSITION, S544: WAITS ON Code branch 1 placing the 404's two columns of four.", "NEEDS": "Code's branch 1 to draw the 404's questions block as two columns of four with these titles and ids, replacing three columns of two; heading and line are Kain's, unchanged. Chat asks Kain nothing.",
+ "Done when": "the 404 draws the two columns below, four questions each, every one published with its short answer, no id repeated, and the ask line closing the block as before.",
+ "page": "/404",
+ "columns": 2,
+ "heading": "Popular Questions",
+ "line": "Click on the links below for the questions new visitors ask most.",
+ "heading_and_line_source": "404.php and Kain's words approved at S091; unchanged",
+ "groups": [
+  {"name": "Who We Are and How It Works", "ids": [218, 260, 295, 329]},
+  {"name": "Getting Started and Cost", "ids": [397, 399, 220, 226]}
+ ],
+ "questions": [
+  {"column": "Who We Are and How It Works", "id": 218, "title": "What is Achology?", "short_answer": "An online applied psychology academy: 28 courses across seven schools, a community, and certification."},
+  {"column": "Who We Are and How It Works", "id": 260, "title": "Who is Achology designed for?", "short_answer": "Reflective, self-directed adults: helpers, professionals, and people learning for their own growth."},
+  {"column": "Who We Are and How It Works", "id": 295, "title": "Is Achology accredited?", "short_answer": "Yes, by SoMAP, whose committee of Master Achologists checks every claim on the accreditation pathway."},
+  {"column": "Who We Are and How It Works", "id": 329, "title": "How do Achology courses work?", "short_answer": "Self-paced videos, reflective exercises, community practice, and included membership months."},
+  {"column": "Getting Started and Cost", "id": 397, "title": "Where should I start with Achology?", "short_answer": "Free events to try it, a course for a clear goal, membership to explore: match the start to you."},
+  {"column": "Getting Started and Cost", "id": 399, "title": "Which course should I take first as a complete beginner?", "short_answer": "Beginner entry points run $97 to $299, from the Masterclasses to the DiMAP diploma."},
+  {"column": "Getting Started and Cost", "id": 220, "title": "How much does Achology cost?", "short_answer": "Courses run $97 to $299, school bundles $987 to $1,337, and the Access All Areas Pass is $2,995."},
+  {"column": "Getting Started and Cost", "id": 226, "title": "Does Achology offer a free trial or introductory rate?", "short_answer": "Yes, there is a free membership tier plus a $7 first month of full Achology Membership."}
+ ],
+ "dropped": [
+  {"id": 243, "title": "What does Achology membership include?", "why": "A fair question but a later one; a visitor lost on a missing page asks what this is, whether it is for them, how it works and how to begin, so 226 and 399 take its place."},
+  {"id": 221, "title": "Does Achology offer a money-back guarantee?", "why": "Answered by the Pricing page and the Help landing; this block is for the first four questions, not refunds."}
+ ],
+ "checks": "The eight ids are distinct, all published faq_article posts carrying their own excerpt, read over WP-CLI on 21 November 2026. None says what Achology is not, and each is one question. The column titles carry no Achology and are in title case. The 404 no longer shares a whole card with the Help landing, whose third column is Cost and Refunds.",
+ "flags": "Heading and line need no change: Popular Questions and Kain's S091 line both fit a block of the questions new visitors ask. The heading is also the Help landing's new heading, so the two pages open alike; that is Kain's call and nothing here depends on it.",
+ "no_dashes": "No em or en dashes in this file; checked before writing."
+}
