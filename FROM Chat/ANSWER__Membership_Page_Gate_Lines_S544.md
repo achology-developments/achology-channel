@@ -1,3 +1,5 @@
+CODE DISPOSITION, S544: WAITS ON the Membership session (local_9f63312c), whose gate lines, mends and two questions for Kain these are; branch 3 (course intro videos) read it and leaves it untouched.
+
 NEEDS FROM CODE: enter the ten Membership gate rulings below in page_gate.py for /membership/, make the three mends, ask Kain the two questions in section 4, and send Chat the gift answer's draft.
 
 # ANSWER: the Membership page's gate lines, its reader half, the gift answer and the words file
