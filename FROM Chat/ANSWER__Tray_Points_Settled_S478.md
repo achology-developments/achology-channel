@@ -1,4 +1,4 @@
-CODE DISPOSITION, S541: WAITS ON the next theme job that touches header.css (the footer build does not); items 1 and 2 fold in there.
+CODE DISPOSITION, S544: DONE. Items 1 and 2 folded into the header build (0.708.343): the five s18.21 spaces annotated, the dead border word gone with the chips, css_gate PASS; item 2's gate hole stays Chat's Backlog: Code line. Answered in TO Chat/SHIP__Header_Mega_Menu_S544.md.
 NEEDS: Code to take items 1 and 2 into the next theme job that touches header.css; nothing else waits on this file.
 
 Done when: header.css passes its gate with the five spaces annotated to DSRD 8 s18.21, the dead border word at line 470 is out with zero visible change proved, and the gate's mixed value hole is a line on Backlog: Code.
