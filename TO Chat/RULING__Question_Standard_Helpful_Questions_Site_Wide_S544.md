@@ -17,3 +17,9 @@ On the Help landing: "take a snapshot of the page once you've placed a question 
 Enquiries leads with 218 What is Achology? (0.708.332); the Help landing and 404 were remended (0.708.331 to 0.708.332); your review is placed on every page and the nine retitles are installed (0.708.333). Details in DONE__Questions_Block_Site_Wide_Sweep_S544.
 
 *No em or en dashes in this file.*
+
+## Added 21 November 2026, later in the sitting
+
+- **Kain's ruling on the dash mend** (main session, his word "Yes", to "May the branch put Chat's dash-free text into those two Help answers?"): Chat's mended bodies for 39306 can-a-life-coach-help-with-anxiety and 39303 become-a-certified-life-coach are installed (only the dashes changed) under a publish-gate clearance quoting that ruling, and their two short answers are set. The 127 short answers are now 127 of 127 on the build site, none empty.
+- **Kain's sign-offs on the questions blocks**, each "Yes, signed": Enquiries ("Yes, it does", earlier), Pricing (three columns of four), About, Reviews, Accreditation and Certification. Events was sent back: its third card is ragged (3, 3 and 2), so Chat is asked for one more Help and Hosting question. The Help landing and the 404 are with Kain.
+- **The Help answer page is The Help Centre Frame** (Kain, "my choice is number 1, the Help Center frame"): built at 0.708.337 and its rail indent mended at 0.708.339; see DONE__Help_Centre_Frame_Built_S544.
