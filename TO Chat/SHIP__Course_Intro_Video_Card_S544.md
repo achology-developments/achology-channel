@@ -13,7 +13,7 @@ NEEDS FROM CHAT: nothing to act on; read for the record. The ruling to write hom
 
 ## Why
 
-Kain's design and "Yes, all 28" (RULING__Course_Intro_Video_Card_S544).
+Kain's design and "Yes, all 28" (RULING__Course_Intro_Video_Card_S544). Kain then signed the built card on the build site: "Yes, it's signed".
 
 ## Proof
 

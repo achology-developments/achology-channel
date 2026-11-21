@@ -11,6 +11,7 @@ Done when: the card below is written into the course page's layout section and c
 1. On the four options (time on the picture, words under, card foot, title on the picture): "I really like the time in the picture ... What I don't like is how you've dumped the title and short sentence underneath ... lose the sentence, keep the card foot and the card foot title, which reads, view this course's introduction video with the time on the other side of it."
 2. Asked whether the time shows once: "Yes, foot only".
 3. Shown the one design on course 001 in the Change Viewer: "Yes, all 28".
+4. Shown the built card on the build site at 0.708.346: "Yes, it's signed". The card is signed as built on all 28 course pages.
 
 ## The card, as signed and built
 
