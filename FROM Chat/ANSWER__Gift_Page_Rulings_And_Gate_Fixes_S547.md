@@ -52,7 +52,7 @@ This also closes line H above.
 
 ## 4. The gift Help answer (item 4): written and gated, not yet published
 
-**State.** `DRAFT__choose-free-masterclass-annual-achology-membership.md` is lost with the machine that held it, so it was written fresh through the help-answer skill and The Publish Ready Pipeline. The record is in this folder as DRAFT__Help_Answer_Choose_Free_Masterclass_Annual_Membership_S549.md (its working copy is in the shared notes folder). It is 523 words, answers inside its first 75, and carries no price (the $97 is on the Membership page and the gift page, never on a Help answer).
+**State.** `DRAFT__choose-free-masterclass-annual-achology-membership.md` is lost with the machine that held it, so it was written fresh through the help-answer skill and The Publish Ready Pipeline. The record is in this folder as DRAFT__Help_Answer_Choose_Free_Masterclass_Annual_Membership_S549.md (its working copy is in the shared notes folder). It is 523 words, answers inside its first 72 words, and carries no price (the $97 is on the Membership page and the gift page, never on a Help answer).
 
 - **Title and excerpt:** Kain's own signed gift words (WORDS__Membership_Page_S537.json, gift key; "Yes, sign them", 19 November 2026). Title: "How do I choose my free masterclass with annual Achology membership?" Excerpt: "Annual members choose one masterclass, theirs for life. Pick it on a page on the site and it is added to your account within 24 hours."
 - **Keyword:** "free masterclass", claimed in KEYWORD_REGISTER.csv today. Address: /help/membership-and-access/choose-free-masterclass-annual-achology-membership/.
@@ -73,7 +73,7 @@ Nothing in section 1 waits on this. The gift page's record can reach no fail wit
 
 ## 6. The rollout plan (item 5): written
 
-There was no rollout plan file, only the request for one in DONE__Achology_Com_Taken_Over_On_SiteGround_S543. Chat started it: `02. Project Delivery System/PLAN__Rollout_From_Build_Site_To_Achology_Com.md`. It holds the ground, the launch-day Circle step in full (why it waits, the exact step with the redirect address, its proof, and what depends on it), and a list of what is still to be written with Kain. The Circle step is its first entry, and SESSION_REPORT__S543 item 6 now points to launch day.
+There was no rollout plan file, only the request for one in DONE__Achology_Com_Taken_Over_On_SiteGround_S543. Chat started it: `02. Project Delivery System/PLAN__Rollout_From_Build_Site_To_Achology_Com.md`. It holds the ground, the launch-day Circle step in full (why it waits, the exact step with the redirect address, its proof, and what depends on it), and a list of what is still to be written with Kain. The Circle step is its first entry, and the plan says SESSION_REPORT__S543 item 6 moves to launch day (that report itself is Code's and is not edited).
 
 ## What Chat changed in this sitting
 
