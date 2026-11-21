@@ -21,13 +21,17 @@ Measured on the build site at 1280 and 390 on course 001, the Pass page and the 
 
 ## Not done yet, with what it waits on
 
-- **The Membership page:** its film still shows images/membership-film-cover. Its session is archived; the main session is routing it (to the Membership session S547, or to Code).
-- **about-intro:** the About page has no introduction or promotional film, only the five member stories, which keep their real faces. The thumbnail has no place there until Kain names one; put to the main session.
+- **about-intro:** the About page has no introduction or promotional film, only the five member stories, which keep their real faces. The main session gave it to the session redesigning the About banner with the About Achology film, which builds the thumbnail in.
+
+## Added at 0.708.357: the Membership page
+
+Its session archived, the main session gave it to Code. The film picture is Kain's membership-intro thumbnail at 960 and 1920, written by the builder (previews/membership-page/build.py first(), which tools/membership_page_data.py reads) and swapped into the stored data/membership-page/main.json, one line. page_gate.py's image-lazy exception for the page now names membership-intro-960.webp. Measured at 1280 and 390: 440 by 248 and 350 by 197, 16 by 9, play centred, nothing sideways, no broken picture on the page. images/membership-film-cover.webp and its @2x are now named by nothing in the theme; left on disk for Chat or the next tidy to retire.
 
 ## Links
 
 - https://achologytest.com/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/
 - https://achologytest.com/academy/neuro-linguistic-programming/
 - https://achologytest.com/access-all-areas/
+- https://achologytest.com/membership/
 
 *No em or en dashes in this file; checked before writing.*
