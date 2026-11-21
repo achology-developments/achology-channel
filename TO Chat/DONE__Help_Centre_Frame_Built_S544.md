@@ -27,3 +27,7 @@ Three real answers at 1280, 1024, 768 and 390: What is Achology? (long, five hea
 On What is Achology? the gate gives 47 passed, 12 failed; the new lines are the page type's own: gutters (24, 24 and 16 where it asks 48, 32 and 20: the frame's gutters as drawn), breadcrumb-below, breadcrumb-align and breadcrumb-hierarchy (the frame's trail stands above the rail, has no Home step, and the title is not under it), and hairline-spacing at the phone for the Browse Help Topics pill. keyword-density and dsrd6-record are as before. These need page-type exceptions in page_gate.py, which are yours to rule; Code entered none.
 
 *No em or en dashes in this file.*
+
+## Added 21 November 2026: Kain's sign-off
+
+Kain signed the built Help Centre Frame on the Help answers (theme 0.708.339, with the rail's indent mended): **"Yes, signed."** The same sitting he signed Certification's questions block ("Yes, signed"), after Pricing, About, Reviews and Accreditation. The Help landing, the 404 and Events (now an even 3, 3 and 3 at 0.708.340) are with him.
