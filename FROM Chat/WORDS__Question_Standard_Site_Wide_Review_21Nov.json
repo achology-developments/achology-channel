@@ -1,6 +1,6 @@
 {
- "_status": "PARTIAL: items 1 and 2 are in; items 3 and 4 follow in this same file.",
- "NEEDS": "Code's branch 1 to apply items 1 and 2 now; items 3 and 4 follow in this file. Chat asks Kain nothing.",
+ "_status": "COMPLETE: items 1 to 4.",
+ "NEEDS": "Code's branch 1 to place: the nine retitles (item 1), the Enquiries swap (item 2), the Pricing block as three columns of four (item 3) and each page's new id list from item 4. Chat asks Kain nothing; any question about these words comes back to Chat.",
  "standard": "Kain, 21 November 2026: the questions must really reflect helpful questions, chosen by how often or how likely they are asked, and a question block says who we are and what we do, never who we are not. A question fails if it (a) answers what Achology is not, (b) is not really asked by a visitor, or (c) is two questions in one title.",
  "item_1_titles": {
   "rule": "One question per title. Slug, id and body stay exactly as they are; only post_title changes. Chat read every published faq_article title on 21 November 2026 over WP-CLI and found these eight with two questions in one title, and one more (41428) that joins two with a comma and sits in the Certification block.",
@@ -117,5 +117,764 @@
    252
   ],
   "also_hit_by_this": "224 sits in the 404's Who We Are card as well. Its replacement is in item 4 (404)."
- }
+ },
+ "_disposition": "CODE DISPOSITION, S544: WAITS ON Code's branch 1 placing these words; items 1 and 2 may be applied first.",
+ "Done when": "every id list below is what each page draws, every retitle is on the build site, and the DONE names this file.",
+ "item_3_pricing": {
+  "page": "/pricing/",
+  "form": "topics",
+  "columns": 3,
+  "rows_per_column": 4,
+  "heading": "<span class=\"policy-next__accent\">Achology</span> Pricing: Commonly Asked Questions",
+  "heading_source": "pricing-parts.php, unchanged",
+  "line": "The questions people ask before they pay: what it costs, how to pay and what happens if you change your mind.",
+  "line_note": "Replaces the earlier Pricing line, since the block now also covers paying and cancelling. Code measures it at 1280, 768 and 390 as before and reports any row problem; Code changes none of it.",
+  "groups": [
+   {
+    "name": "What It Costs",
+    "ids": [
+     220,
+     231,
+     230,
+     226
+    ]
+   },
+   {
+    "name": "Paying and Choosing a Plan",
+    "ids": [
+     227,
+     341,
+     228,
+     10041
+    ]
+   },
+   {
+    "name": "Refunds and Cancelling",
+    "ids": [
+     235,
+     221,
+     236,
+     239
+    ]
+   }
+  ],
+  "questions": [
+   {
+    "column": "What It Costs",
+    "id": 220,
+    "title": "How much does Achology cost?",
+    "short_answer": "Courses run $97 to $299, school bundles $987 to $1,337, and the Access All Areas Pass is $2,995.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "What It Costs",
+    "id": 231,
+    "title": "Is Achology worth the money?",
+    "short_answer": "Worth it for practical, community-based learning; not for passive content or quick credentials.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "What It Costs",
+    "id": 230,
+    "title": "Does Achology offer discounts, sales, or promotional offers?",
+    "short_answer": "The discounts are permanent: bundles save 21 to 26 percent and the Pass saves 43 percent.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "What It Costs",
+    "id": 226,
+    "title": "Does Achology offer a free trial or introductory rate?",
+    "short_answer": "Yes, there is a free membership tier plus a $7 first month of full Achology Membership.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "Paying and Choosing a Plan",
+    "id": 227,
+    "title": "What payment methods does Achology accept?",
+    "short_answer": "Stripe processes checkout; major credit and debit cards are accepted, with all prices in US dollars.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "Paying and Choosing a Plan",
+    "id": 341,
+    "title": "Can I pay for Achology courses in instalments?",
+    "short_answer": "Yes: you can pay in full or spread the cost over monthly instalments, and the checkout shows the options for each course, bundle and pass.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "Paying and Choosing a Plan",
+    "id": 228,
+    "title": "Are there hidden fees or additional costs at Achology?",
+    "short_answer": "No: the checkout price is final, but included membership continues at $34.50 monthly unless cancelled.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "Paying and Choosing a Plan",
+    "id": 10041,
+    "title": "How do monthly and annual Achology memberships differ?",
+    "short_answer": "Monthly is paid month by month after your first 30 days. Annual is paid once a year, saves $69 and includes every workbook and a masterclass for life.",
+    "short_answer_source": "the page excerpt already carried for 10041 in WORDS__Question_Block_Groups_And_Lines_Site_Wide_20Nov (Membership's signed one); the post itself has no excerpt yet, so pass this as the page's own excerpt for that id"
+   },
+   {
+    "column": "Refunds and Cancelling",
+    "id": 235,
+    "title": "What is Achology's refund policy?",
+    "short_answer": "Courses, bundles, and the Pass carry a 14-day guarantee; membership is non-refundable once started.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "Refunds and Cancelling",
+    "id": 221,
+    "title": "Does Achology offer a money-back guarantee?",
+    "short_answer": "Yes, a full 14-day guarantee covers courses, bundles, and the Pass; membership is the exception.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "Refunds and Cancelling",
+    "id": 236,
+    "title": "How do I request a refund from Achology?",
+    "short_answer": "Email support@achology.com with your order number, purchase date, product name, and account email.",
+    "short_answer_source": "published excerpt, already set"
+   },
+   {
+    "column": "Refunds and Cancelling",
+    "id": 239,
+    "title": "Can I cancel my Achology membership anytime?",
+    "short_answer": "Yes, cancel in your billing settings anytime; access runs to the end of the paid period.",
+    "short_answer_source": "published excerpt, already set"
+   }
+  ],
+  "dropped": [
+   {
+    "id": 41446,
+    "title": "How much does a mental health course cost, and why?",
+    "why": "A general question about mental health courses, not about what Achology charges, and two questions in one; 220 answers the real one."
+   },
+   {
+    "id": 237,
+    "title": "How long does an Achology refund take to process?",
+    "why": "Asked, but only after the refund question; it stays one click away from 236 and the refund policy."
+   }
+  ],
+  "excerpts_argument": {
+   "10041": "Monthly is paid month by month after your first 30 days. Annual is paid once a year, saves $69 and includes every workbook and a masterclass for life."
+  },
+  "no_post_needs_writing": true,
+  "ranking_note": "Ranked by how likely a buyer is to ask it at this point: cost first, then how to pay, then what happens if they change their mind. There is no search data in hand, so the order is Chat's judgement of likelihood, and the Help rank field (218, 329, 243, 220, 221, 295) was used where it speaks."
+ },
+ "item_4_review": {
+  "standard": "Kain, 21 November 2026: the questions must really reflect helpful questions, chosen by how often or how likely they are asked, and a question block says who we are and what we do, never who we are not. A question fails if it (a) answers what Achology is not, (b) is not really asked by a visitor, or (c) is two questions in one title.",
+  "how_ranked": "There is no search or on-site question data in hand, so each choice is Chat's judgement of how likely a visitor on that page is to ask it, with the Help rank field (218, 329, 243, 220, 221, 295) used where it speaks.",
+  "answers_read": "all 376 published faq_article posts, titles and excerpts, read over WP-CLI on 21 November 2026; every replacement named is published and carries its own short answer except 10041, whose line is carried from the Membership words.",
+  "pages": [
+   {
+    "page": "/help/ (Help landing, Popular Articles)",
+    "verdict": "pass after the 329 retitle",
+    "fails": [],
+    "groups": [
+     {
+      "name": "Who We Are",
+      "ids": [
+       218,
+       295
+      ]
+     },
+     {
+      "name": "How It Works",
+      "ids": [
+       329,
+       243
+      ]
+     },
+     {
+      "name": "Cost and Refunds",
+      "ids": [
+       220,
+       221
+      ]
+     }
+    ],
+    "note": "Each question is among the six most asked and says what Achology is or does."
+   },
+   {
+    "page": "/404",
+    "verdict": "changes",
+    "fails": [
+     {
+      "id": 224,
+      "title": "Is Achology therapy, counselling, or coaching?",
+      "why": "Answers what Achology is not, in the card named Who We Are.",
+      "replace_with": {
+       "id": 260,
+       "title": "Who is Achology designed for?",
+       "short_answer": "Reflective, self-directed adults: helpers, professionals, and people learning for their own growth.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     }
+    ],
+    "groups": [
+     {
+      "name": "Who We Are",
+      "ids": [
+       218,
+       260
+      ]
+     },
+     {
+      "name": "How It Works",
+      "ids": [
+       329,
+       243
+      ]
+     },
+     {
+      "name": "Cost and Refunds",
+      "ids": [
+       220,
+       221
+      ]
+     }
+    ],
+    "note": "A new visitor lost on a missing page asks what this is and whether it is for them; 260 says who it is for."
+   },
+   {
+    "page": "/about/ (two columns of four)",
+    "verdict": "changes",
+    "fails": [
+     {
+      "id": 293,
+      "title": "What has society lost by gatekeeping psychological knowledge?",
+      "why": "Not really asked: it is a position Achology holds, not a question a visitor puts.",
+      "replace_with": {
+       "id": 255,
+       "title": "Who is Kain Ramsay?",
+       "short_answer": "Achology's founder and principal teacher, whose applied psychology courses began on Udemy.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 253,
+      "title": "Is Achology a university or degree provider?",
+      "why": "Its answer opens with No: it says what Achology is not.",
+      "replace_with": {
+       "id": 273,
+       "title": "Who runs Achology day-to-day?",
+       "short_answer": "Founders Kain and Karen Ramsay lead the curriculum, community, and daily operations themselves.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 254,
+      "title": "Is Achology an educational provider or a professional body?",
+      "why": "Not really asked by a visitor, and it works only for people who already know the two terms.",
+      "replace_with": {
+       "id": 257,
+       "title": "Where is Achology based?",
+       "short_answer": "In Scotland, through two Glasgow-registered companies; the learning itself is entirely online.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     }
+    ],
+    "groups": [
+     {
+      "name": "Who We Are",
+      "ids": [
+       218,
+       255,
+       273,
+       257
+      ]
+     },
+     {
+      "name": "Learning With Us",
+      "ids": [
+       281,
+       260,
+       397,
+       411
+      ]
+     }
+    ],
+    "note": "Kain's S091 line, the page heading and the second column stand as signed. The three removed ids drop their typed excerpts; the new ids take their own post excerpts. 253 and 254 stay in the library and are never put in a Who We Are card."
+   },
+   {
+    "page": "/reviews/ (two columns of four)",
+    "verdict": "changes",
+    "fails": [
+     {
+      "id": 336,
+      "title": "Why does Achology emphasise deep learning over fast certification?",
+      "why": "Not really asked: a philosophy, phrased as the school's own stance.",
+      "replace_with": {
+       "id": 320,
+       "title": "Do Achology courses actually work?",
+       "short_answer": "Yes, for people who practise: gradual competence, career changes, and steadier relationships.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 269,
+      "title": "What does Achology expect from its learners?",
+      "why": "Less likely to be asked than how long the courses take, which a reader of reviews wants to know.",
+      "replace_with": {
+       "id": 327,
+       "title": "How long do Achology courses take to complete?",
+       "short_answer": "Weeks for a Masterclass, months for practitioner study, all self-paced with no deadlines.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     }
+    ],
+    "groups": [
+     {
+      "name": "How You Learn",
+      "ids": [
+       329,
+       327,
+       403,
+       406
+      ]
+     },
+     {
+      "name": "What Sets Us Apart",
+      "ids": [
+       281,
+       320,
+       350,
+       342
+      ]
+     }
+    ],
+    "note": "The CPD spelling out on this page stays. 336 and 269 stay in the library."
+   },
+   {
+    "page": "/testimonials/",
+    "verdict": "pass after the 329 and 320 retitles",
+    "fails": [],
+    "groups": [
+     {
+      "name": "Do the Courses Work",
+      "ids": [
+       320,
+       309
+      ]
+     },
+     {
+      "name": "How You Learn",
+      "ids": [
+       329,
+       406
+      ]
+     },
+     {
+      "name": "Is It for You",
+      "ids": [
+       260,
+       397
+      ]
+     }
+    ],
+    "note": "Kain's S091 line and the typed excerpts stand."
+   },
+   {
+    "page": "/academy/ (three columns of four)",
+    "verdict": "pass after the 329 and 400 retitles",
+    "fails": [],
+    "groups": [
+     {
+      "name": "Where to Begin",
+      "ids": [
+       396,
+       402,
+       399,
+       400
+      ]
+     },
+     {
+      "name": "Choosing Your Courses",
+      "ids": [
+       411,
+       332,
+       401,
+       334
+      ]
+     },
+     {
+      "name": "How Study Works",
+      "ids": [
+       329,
+       327,
+       403,
+       294
+      ]
+     }
+    ],
+    "note": "Twelve questions a person asks before beginning, none about what Achology is not."
+   },
+   {
+    "page": "/events/ (three columns, 3, 3 and 2)",
+    "verdict": "changes",
+    "fails": [
+     {
+      "id": 10014,
+      "title": "What are VALTS learning sessions within Achology?",
+      "why": "Not really asked by someone before their first event: it is member jargon.",
+      "replace_with": {
+       "id": 350,
+       "title": "What kinds of live events happen inside Achology?",
+       "short_answer": "Twenty-two event types run inside the community: nine earn CPD credit and thirteen are community events.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 337,
+      "title": "What etiquette should I follow in live practice sessions?",
+      "why": "Not really asked before a first event.",
+      "replace_with": {
+       "id": 352,
+       "title": "What are Skill Development Workshops at Achology?",
+       "short_answer": "Hands-on 90-minute sessions where members practise one specific skill in pairs with host feedback.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     }
+    ],
+    "groups": [
+     {
+      "name": "Joining an Event",
+      "ids": [
+       47453,
+       373,
+       355
+      ]
+     },
+     {
+      "name": "What Happens at Events",
+      "ids": [
+       350,
+       352,
+       354
+      ]
+     },
+     {
+      "name": "Help and Hosting",
+      "ids": [
+       366,
+       359
+      ]
+     }
+    ],
+    "note": "47453 (How do I join a free Achology event?) is published now, so the first card shows its three. The middle card's title changes from Taking Part to What Happens at Events, since it now says what the events are."
+   },
+   {
+    "page": "/courses/ (Courses Directory)",
+    "verdict": "pass after the 329 retitle",
+    "fails": [],
+    "groups": [
+     {
+      "name": "Where to Begin",
+      "ids": [
+       399,
+       402
+      ]
+     },
+     {
+      "name": "How Courses Run",
+      "ids": [
+       329,
+       327
+      ]
+     },
+     {
+      "name": "Paying and Access",
+      "ids": [
+       341,
+       333
+      ]
+     }
+    ],
+    "note": "All six are real pre-purchase questions."
+   },
+   {
+    "page": "/accreditation/ (two columns of six)",
+    "verdict": "changes",
+    "fails": [
+     {
+      "id": 10023,
+      "title": "Is it necessary to redo the Code of Ethics training annually?",
+      "why": "Not really asked by a visitor to this page; a member's housekeeping question.",
+      "replace_with": {
+       "id": 10025,
+       "title": "Is Achology listed on the UK Register of Learning Providers?",
+       "short_answer": "How to check Achology's listing on the UK Register of Learning Providers, number 10099815, and what that listing does and doesn't mean for your training.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 10010,
+      "title": "What does it mean to be an Achologist Adept?",
+      "why": "Not really asked cold; a level name only members know.",
+      "replace_with": {
+       "id": 296,
+       "title": "Can I use Achology courses for CPD hours?",
+       "short_answer": "Usually yes under self-directed CPD models; check your professional body's rules first.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 10011,
+      "title": "What is a Senior Achologist, and what are the two levels?",
+      "why": "Not really asked cold, and two questions in one.",
+      "replace_with": {
+       "id": 10049,
+       "title": "Which Achology events qualify for accreditation credit?",
+       "short_answer": "Nine of Achology's 22 event types are the SoMAP-governed accrediting events that count toward accreditation.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 10014,
+      "title": "What are VALTS learning sessions within Achology?",
+      "why": "Member jargon, not a question a reader arrives with.",
+      "replace_with": {
+       "id": 10017,
+       "title": "Do I get a CPD credit for hosting a session, or just for attending?",
+       "short_answer": "Both count, but they earn different credit: attending earns a VALTS, hosting earns a PALS.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 10015,
+      "title": "What are PALS in Achology, and how can I earn them?",
+      "why": "Member jargon, and two questions in one.",
+      "replace_with": {
+       "id": 10051,
+       "title": "What is the process for submitting a CPD claim after participating?",
+       "short_answer": "After a credit event, you submit a claim through the member self-report form, and SoMAP verifies it.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 10016,
+      "title": "What are CIPS in Achology, and when should I obtain them?",
+      "why": "Member jargon, and two questions in one.",
+      "replace_with": {
+       "id": 299,
+       "title": "How do I evidence my CPD and learning progression?",
+       "short_answer": "Your member CPD account records events, courses, and practice sessions automatically.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     }
+    ],
+    "groups": [
+     {
+      "name": "Checks, Renewal and Levels",
+      "ids": [
+       295,
+       10025,
+       10021,
+       10013,
+       10009,
+       10012
+      ]
+     },
+     {
+      "name": "Advancing and the Sessions That Count",
+      "ids": [
+       360,
+       296,
+       10049,
+       10051,
+       10017,
+       299
+      ]
+     }
+    ],
+    "note": "Six stay (295, 10021, 10013, 10009, 10012, 360) with the template's own excerpts; the six new ones take their post excerpts. The six removed ids stay in the library."
+   },
+   {
+    "page": "/certification/ (two columns of six)",
+    "verdict": "changes",
+    "fails": [
+     {
+      "id": 321,
+      "title": "What's the difference between completing a course and being competent?",
+      "why": "Not really asked by a reader of this page; it is Achology's own distinction.",
+      "replace_with": {
+       "id": 296,
+       "title": "Can I use Achology courses for CPD hours?",
+       "short_answer": "Usually yes under self-directed CPD models; check your professional body's rules first.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     },
+     {
+      "id": 307,
+      "title": "How do I explain Achology qualifications to clients who ask?",
+      "why": "Not really asked; a narrow practitioner question.",
+      "replace_with": {
+       "id": 291,
+       "title": "How do Achology certificates compare to university psychology degrees?",
+       "short_answer": "Not comparable instruments: one is a regulated academic qualification, the other applied recognition.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     }
+    ],
+    "groups": [
+     {
+      "name": "What It Shows and Lets You Do",
+      "ids": [
+       10024,
+       294,
+       41428,
+       297,
+       316,
+       296
+      ]
+     },
+     {
+      "name": "Using It and Who Recognises It",
+      "ids": [
+       303,
+       291,
+       300,
+       314,
+       315,
+       306
+      ]
+     }
+    ],
+    "optional_excerpt_for_291": "Different instruments: a degree is a regulated academic award, and an Achology certificate recognises what you have learned and practised.",
+    "optional_excerpt_note": "The published 291 excerpt opens with Not, so it says what the certificate is not. Where 291 is placed here, set the line above in its place; otherwise leave the post as it stands.",
+    "note": "41428 takes its new one-question title from item 1."
+   },
+   {
+    "page": "/membership/ (post 45034)",
+    "verdict": "pass; one answer still to be written",
+    "fails": [],
+    "groups": "as signed: 239, 10041, 226, 398, 243, the gift answer, 240, 247",
+    "needs_writing": [
+     {
+      "question": "Can I give Achology membership to someone as a gift?",
+      "why": "A real pre-purchase question that no published answer holds; the gift answer in the signed set. It links to /help/ until published. Chat writes it from the draft the Membership session sends."
+     }
+    ],
+    "note": "Every question is about what membership is, costs and how it ends."
+   },
+   {
+    "page": "/enquiries/",
+    "verdict": "changes (item 2)",
+    "fails": [
+     {
+      "id": 224,
+      "title": "Is Achology therapy, counselling, or coaching?",
+      "why": "Answers what Achology is not.",
+      "replace_with": {
+       "id": 218,
+       "title": "What is Achology?",
+       "short_answer": "An online applied psychology academy: 28 courses across seven schools, a community, and certification.",
+       "short_answer_source": "published excerpt, already set"
+      }
+     }
+    ],
+    "groups": [
+     {
+      "name": "Who We Are",
+      "ids": [
+       218,
+       10054
+      ]
+     },
+     {
+      "name": "Buying and Refunds",
+      "ids": [
+       398,
+       236
+      ]
+     },
+     {
+      "name": "Getting Help",
+      "ids": [
+       370,
+       252
+      ]
+     }
+    ],
+    "note": "Kain's five good ones stay."
+   },
+   {
+    "page": "/pricing/",
+    "verdict": "changes (item 3)",
+    "fails": [
+     {
+      "id": 41446,
+      "title": "How much does a mental health course cost, and why?",
+      "why": "About mental health courses in general, not Achology's prices, and two questions in one."
+     },
+     {
+      "id": 237,
+      "title": "How long does an Achology refund take to process?",
+      "why": "Asked, but later than the questions it makes way for."
+     }
+    ],
+    "groups": "see item_3_pricing",
+    "note": "Three columns of four."
+   },
+   {
+    "page": "every published Help answer (six questions in three cards)",
+    "verdict": "pass after the retitles",
+    "fails": [],
+    "groups": [
+     {
+      "name": "More on This Topic",
+      "ids": "unchanged rule"
+     },
+     {
+      "name": "Most Asked",
+      "ids": [
+       218,
+       329,
+       243,
+       220,
+       221,
+       295
+      ],
+      "note": "walked from rank 1, two taken"
+     },
+     {
+      "name": "Getting Started",
+      "ids": [
+       397,
+       399
+      ],
+      "fallback_ids": [
+       396,
+       402,
+       400,
+       401
+      ]
+     }
+    ],
+    "note": "The fixed pair (397 Where should I start with Achology?, 399 Which course should I take first as a complete beginner?) and every fallback ask what to do, not what Achology is not; 400's retitle comes from item 1. One rule for More on This Topic: an answer whose own subject is a not-question (224, 253, 261, 270, 298) may be linked from answers on that subject, and no other. Chat reviews the hand-picked related lists in the factory, not Code.",
+    "not_questions_never_in_who_we_are_or_most_asked": [
+     224,
+     253,
+     261,
+     270,
+     298
+    ]
+   },
+   {
+    "page": "every course page (28)",
+    "verdict": "pass",
+    "fails": [],
+    "groups": "unchanged: the nine approved questions, in three cards of three",
+    "note": "Kain's nine (S456) are what a buyer asks about this course: is it for me, practical or theory, course or school, hours, time to finish, practising with others, membership ending, instalments, and what if it is not for me."
+   }
+  ],
+  "needs_writing": [
+   {
+    "question": "Can I give Achology membership to someone as a gift?",
+    "for": "/membership/"
+   }
+  ]
+ },
+ "no_dashes": "No em or en dashes in this file; checked before writing."
 }
