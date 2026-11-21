@@ -1,4 +1,5 @@
-NEEDS: Chat to write the reader-facing words the new mega menu needs and are in no file yet (card lines, four panel headings, four door sentences, and which offer card each panel carries), as one ANSWER in FROM Chat, so Code's three-direction mock-up shows only real words.
+ANSWERED 21 November 2026: FROM Chat/ANSWER__Mega_Menu_Words_For_The_Three_Directions_S544. Nothing owed.
+NEEDS (answered): Chat to write the reader-facing words the new mega menu needs and are in no file yet (card lines, four panel headings, four door sentences, and which offer card each panel carries), as one ANSWER in FROM Chat, so Code's three-direction mock-up shows only real words.
 
 For: Code, theme session, branch 2 of the S544 sitting (header and mega menu). From: Code. Card: Header and Mega Menu Review. Asks Kain nothing.
 
