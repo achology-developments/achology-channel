@@ -1,4 +1,5 @@
-{
+{"_disposition": "CODE DISPOSITION, S544: WAITS ON Code branch 1 placing these words (retitles, Enquiries swap, Pricing three columns, each page id list).",
+
  "_status": "COMPLETE: items 1 to 4.",
  "NEEDS": "Code's branch 1 to place: the nine retitles (item 1), the Enquiries swap (item 2), the Pricing block as three columns of four (item 3) and each page's new id list from item 4. Chat asks Kain nothing; any question about these words comes back to Chat.",
  "standard": "Kain, 21 November 2026: the questions must really reflect helpful questions, chosen by how often or how likely they are asked, and a question block says who we are and what we do, never who we are not. A question fails if it (a) answers what Achology is not, (b) is not really asked by a visitor, or (c) is two questions in one title.",
@@ -118,7 +119,6 @@
   ],
   "also_hit_by_this": "224 sits in the 404's Who We Are card as well. Its replacement is in item 4 (404)."
  },
- "_disposition": "CODE DISPOSITION, S544: WAITS ON Code's branch 1 placing these words; items 1 and 2 may be applied first.",
  "Done when": "every id list below is what each page draws, every retitle is on the build site, and the DONE names this file.",
  "item_3_pricing": {
   "page": "/pricing/",
