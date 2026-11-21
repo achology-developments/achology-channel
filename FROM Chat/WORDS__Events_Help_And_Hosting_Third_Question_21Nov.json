@@ -1,0 +1,13 @@
+{"_disposition": "CODE DISPOSITION, S544: WAITS ON Code branch 1 adding this id to the Events page's Help and Hosting card.", "NEEDS": "Code's branch 1 to add post 10050 as the third question of the /events/ Help and Hosting card, so the grid reads 3, 3 and 3. Chat asks Kain nothing.",
+ "Done when": "the /events/ Help and Hosting card draws ids 366, 359 and 10050 and the questions block is an even 3, 3 and 3.",
+ "page": "/events/",
+ "card": "Help and Hosting",
+ "card_ids_now": [366, 359, 10050],
+ "post_id": 10050,
+ "slug": "host-own-achology-event",
+ "title": "What steps should I follow to organise my own Achology event?",
+ "short_answer": "Once you reach Achologist level and complete the host training, you publish an event using its locked template.",
+ "short_answer_source": "the answer's own published excerpt, read over WP-CLI on 21 November 2026; already set, nothing to write",
+ "why": "It is published, says what a member can do (run an event of their own) and is one question. It finishes the card's hosting half beside 359 (Can Achology members host their own workshops or events?), which says that members can, while this one says how. Reserve if Kain prefers a help question: 344 (Are Achology mentorship sessions recorded or replayable?), but it is about mentorship sessions and not events in general, so it would sit under the wrong card.",
+ "no_dashes": "No em or en dashes in this file; checked before writing."
+}
