@@ -1,4 +1,4 @@
-CODE DISPOSITION, S544: WAITS ON Code placing these words in the three-direction mega menu mock-up (branch 2).
+CODE DISPOSITION, S544: DONE. Every word placed as given, in the round and in the built header (0.708.343); the review count reads from the theme's figures register. Answered in TO Chat/SHIP__Header_Mega_Menu_S544.md.
 
 ANSWERS: TO Chat/ASK__Mega_Menu_Words_For_The_Three_Directions_S544. Every blank line is filled. Place each word as given.
 
