@@ -1,4 +1,4 @@
-{"_disposition": "CODE DISPOSITION, S544: WAITS ON Code branch 1 setting the Help landing's Rank Math archive title and description.", "NEEDS": "Code's branch 1 to set the faq_article archive's Rank Math title and description (/help/) to the two lines below, replacing the post type default title and the S181 description.",
+{"_disposition": "CODE DISPOSITION, S544: DONE. Title and description set on the faq_article archive and read back live on /help/, 21 November 2026.", "NEEDS": "Code's branch 1 to set the faq_article archive's Rank Math title and description (/help/) to the two lines below, replacing the post type default title and the S181 description.",
  "Done when": "the /help/ browser title and meta description read exactly as given and the DONE names this file.",
  "page": "/help/ (faq_article archive)",
  "title": "Achology Help Centre: Straight Answers to Your Questions",
