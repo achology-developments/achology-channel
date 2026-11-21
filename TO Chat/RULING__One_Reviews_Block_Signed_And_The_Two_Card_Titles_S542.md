@@ -18,3 +18,5 @@
 **Section 8, question 1, answered by Kain in Code's S542 sitting, 21 November 2026:** to "Shall the 28 course pages and the Pass also show two rows, as on the schools?", **"Yes, two rows".**
 
 **Section 8, question 2, answered by Kain in Code's S542 sitting, 21 November 2026:** to "Shall I leave the school, course and Pass videos without a quote underneath?", **"yes".**
+
+**The two open points, answered by Kain in Code's S542 sitting, 21 November 2026, on CBP at 0.708.348 beside Membership:** to "Shall every row start with its video, as built?", **"Yes, video first"**; to "Shall the button read Show More Reviews and Videos?", **"Yes, use that".**
