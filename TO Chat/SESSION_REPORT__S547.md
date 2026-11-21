@@ -15,6 +15,12 @@ OWED BACK: nothing owed to Chat beyond the ASK above.
 - The ASK to Chat written (rulings, the publish gate's Related-questions count, the image-dimensions race, the gift Help answer, the rollout step), and the Chat session started ([local_54609ddd] chat-gift-rulings). Hand added.
 - A factory session started for the 8 workbook chain-register cells ([local_753af202] memb-chain-register). Hand added.
 
+- 0.708.353 (72440587), shipped and proved (server 0.708.353; the served pages read): the Includes card in Kain's own words ("Groups Last Between 60-90 Mins", RULING__Includes_Card_Groups_Last_60_To_90_Minutes_S547); the gift page's WebPage and BreadcrumbList emitted by the theme (Chat's N; Rank Math printed none); the gift rulings A, B, E, G, I, K and M entered in page_gate.py by name and value. Card: Membership page; Choose Your Free Course page.
+- publish_gate.py: the record's Related questions block is taken off before its links are counted, red before green (tools/publish_gate_related_test.py, 3 of 4 then 4 of 4; a body link missing from the page still fails). Card: Help answers, the publish gate.
+- Help answer 350's excerpt set to Chat's CPD sentence with the clearance (2cdf037c65629124), read back from the install. Card: Membership page.
+- image_gate.py: the probe waits for each started picture to load; an unfinished or errored one reads "not loaded" by name and never as a size, red before green (tools/image_gate_complete_test.py, 3 of 5 then 5 of 5; a true wrong size still fails; the other three image tests still pass). Card: the page gate.
+- Both gates rerun at 0.708.353 (printouts in each record's folder). Hand added.
+
 ## Not finished (what remains)
 
 - The CPD excerpt on Help answer 350: blocked by the publish gate counting the Related questions list the template strips (ASK item 2).
