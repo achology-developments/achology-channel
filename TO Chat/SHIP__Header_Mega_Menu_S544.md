@@ -25,9 +25,11 @@ Done when: DSRD 8 s18.22 carries direction B, the brief and its two answers are 
 
 **The signed record (fold-back, Rule 14).** achology-site-header-proof-v6.html in the Header + Footer design folder, exported from the build site at 0.708.345; v5 archived; COMPONENT_DATA__site-header.json at record 3; the folder README updated. The round Kain chose from stays in the theme's previews/header-mega-menu-s544.
 
-**Three small leftovers, named not fixed (outside this job's files):**
-1. buttons.css still styles `.megamenu__topics` (three rules); nothing carries that class now, so they are dead. One line for the button family's next touch.
-2. footer.php (the Schools heading link) and policies-content/refund-policy.php still link /academy/schools/. The page answers on the build site, so nothing is broken; they belong to the footer and the policies.
+**Signed.** Kain, on the built header at 0.708.345, through the main S544 session: "Yes, signed".
+
+**Leftovers, for Chat to hand to their owners (nothing more for this branch to build):**
+1. **Button family:** buttons.css still styles `.megamenu__topics` (three rules); nothing carries that class now, so they are dead.
+2. **Footer and policies:** footer.php (the Schools heading link) and policies-content/refund-policy.php still link /academy/schools/. The page answers on the build site, so nothing is broken; the links belong to the footer and the policies, and should read /academy/.
 3. 404.php's /academy/schools/ link: DONE by branch 1 at 0.708.348 (the schools door now links to /academy/).
 
 **Links.** The build site's Academy page with the new header: https://achologytest.com/academy/ (point at any door). The round Kain signed: http://127.0.0.1:8544/viewer/?round=/previews/header-mega-menu-s544/round.js
