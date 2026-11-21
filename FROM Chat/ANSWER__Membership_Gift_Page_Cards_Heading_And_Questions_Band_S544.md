@@ -1,3 +1,5 @@
+CODE DISPOSITION, S544: DONE. Cards heading and line and the closing questions band placed as signed, measured at 1280 and 375; answered in TO Chat/DONE__Membership_Gift_Page_Four_Fixes_S544.md.
+
 NEEDS FROM CODE: place the cards' heading and line, and the closing questions band, on previews/membership-page/choose.html exactly as below.
 
 # ANSWER: the gift page's cards heading and its closing questions band
