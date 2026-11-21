@@ -1,3 +1,5 @@
+CODE DISPOSITION, S544: DONE. Every signed word placed in choose.py (read from the gift key) and the two mended strings in course-gift.php, shipped at 0.708.338, shown to Kain in Safari.
+
 NEEDS FROM CODE: place the gift page's words below exactly, in choose.py and course-gift.php, then show Kain the page.
 
 # ANSWER: the gift page's words, signed by Chat, and the gift key brought into line
