@@ -22,3 +22,5 @@
 **The two open points, answered by Kain in Code's S542 sitting, 21 November 2026, on CBP at 0.708.348 beside Membership:** to "Shall every row start with its video, as built?", **"Yes, video first"**; to "Shall the button read Show More Reviews and Videos?", **"Yes, use that".**
 
 **Overturned by Kain, same sitting, 21 November 2026, on the built NLP page at 0.708.349:** "is there a reason why the two videos are sitting on top of each other? That is not how things previously were ... In row one, the video on card one. On row two, the video was card two. On row three, the video was card three. Why have you changed this?" Code: the "video first" question had not made plain that the videos would stack in the left column. To "Shall I put the videos back to stepping across the rows, on every page?": **"Yes, put it back".** The stepped order stands on every multi-row page: row 1 video first, row 2 video in the middle, row 3 video last, each video with the same two reviews.
+
+**Kain on the built NLP page at 0.708.350, stepped order restored:** to "Is the NLP reviews block right now?", **"Yes, it's right".**
