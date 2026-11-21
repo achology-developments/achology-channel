@@ -14,3 +14,5 @@
 **Two things Kain saw that differ from the brief, named so Chat can settle them:** the round showed the control as "Show More Reviews" (Code's proposal; the words file has "Show More Reviews and Videos"), and it kept today's stepped wall (film, review, review; review, film, review; review, review, film), where the brief's section 2 item 3 puts the film first in every row. Kain was not asked about either; Code puts the words file's control words and the film-first rows to him in the next look, or Chat rules them.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Section 8, question 1, answered by Kain in Code's S542 sitting, 21 November 2026:** to "Shall the 28 course pages and the Pass also show two rows, as on the schools?", **"Yes, two rows".**
