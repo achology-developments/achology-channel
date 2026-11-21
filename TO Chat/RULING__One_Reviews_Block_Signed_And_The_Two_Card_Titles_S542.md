@@ -16,3 +16,5 @@
 *No em or en dashes in this file; checked before writing.*
 
 **Section 8, question 1, answered by Kain in Code's S542 sitting, 21 November 2026:** to "Shall the 28 course pages and the Pass also show two rows, as on the schools?", **"Yes, two rows".**
+
+**Section 8, question 2, answered by Kain in Code's S542 sitting, 21 November 2026:** to "Shall I leave the school, course and Pass videos without a quote underneath?", **"yes".**
