@@ -1,0 +1,10 @@
+{"_disposition": "CODE DISPOSITION, S544: WAITS ON Code branch 1 setting the Help landing's Rank Math archive title and description.", "NEEDS": "Code's branch 1 to set the faq_article archive's Rank Math title and description (/help/) to the two lines below, replacing the post type default title and the S181 description.",
+ "Done when": "the /help/ browser title and meta description read exactly as given and the DONE names this file.",
+ "page": "/help/ (faq_article archive)",
+ "title": "Achology Help Centre: Straight Answers to Your Questions",
+ "title_length": 56,
+ "description": "The Achology Help Centre answers the questions people ask most about courses, membership, pricing, certificates and support.",
+ "description_length": 124,
+ "why": "The title puts the focus phrase, Achology Help Centre, first, runs under the 60 character limit and says what the page is in the visitor's own terms; the site separator and name are not repeated, as on the Membership and Events titles. The S181 description was sound but put the focus phrase last, so it is replaced by one that opens with it, keeps the same five topics and stays one sentence under 125 characters. No em or en dash in either line; no banned word.",
+ "no_dashes": "No em or en dashes in this file; checked before writing."
+}
