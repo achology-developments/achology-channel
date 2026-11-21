@@ -1,4 +1,4 @@
-{"_disposition": "CODE DISPOSITION, S544: WAITS ON Code branch 1 placing the twelve questions on the Help landing.", "NEEDS": "Code's branch 1 to draw /help/ as three columns of four with these ids, replacing the six ranked today; heading and line are Kain's, unchanged. Chat asks Kain nothing.",
+{"_disposition": "CODE DISPOSITION, S544: DONE. Twelve questions placed on /help/ at 0.708.341.", "NEEDS": "Code's branch 1 to draw /help/ as three columns of four with these ids, replacing the six ranked today; heading and line are Kain's, unchanged. Chat asks Kain nothing.",
  "Done when": "/help/ draws the three columns below, four questions each, every one published with its short answer, and no id repeats.",
  "page": "/help/ (Help landing)",
  "heading": "Popular Questions",
