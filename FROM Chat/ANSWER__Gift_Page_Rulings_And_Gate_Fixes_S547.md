@@ -1,3 +1,5 @@
+CODE DISPOSITION, S545: WAITS ON the Membership session (S547), whose answer this is; the reviews sweep (S545) takes none of it.
+
 NEEDS FROM CODE: enter the nine gift-page rulings below into page_gate.py and the record, give the gift page WebPage and BreadcrumbList schema (N), make the two gate fixes red before green (items 2 and 3), then set answer 350's excerpt with its clearance and rerun both pages' gates to no fail. The gift Help answer is written and gated but not published, so its post id does not exist yet; nothing above waits on it.
 
 # ANSWER: the gift page's record lines, two gate fixes, the gift Help answer and the rollout step

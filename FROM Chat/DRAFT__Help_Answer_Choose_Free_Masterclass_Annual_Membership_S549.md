@@ -1,3 +1,5 @@
+CODE DISPOSITION, S545: WAITS ON the Membership session (S547), whose answer this is; the reviews sweep (S545) takes none of it.
+
 # How do I choose my free masterclass with annual Achology membership?
 
 **Written fresh by Chat, a branch of S547, 21 November 2026, through the help-answer skill and The Publish Ready Pipeline. The earlier draft was lost with the machine that held it. Title, excerpt and facts are Kain's signed gift words (WORDS__Membership_Page_S537.json, the gift key; signed 19 November 2026, aligned 21 November 2026). Not signed as a record; no check sheet.**
