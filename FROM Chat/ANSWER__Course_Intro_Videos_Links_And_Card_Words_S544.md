@@ -1,4 +1,4 @@
-CODE DISPOSITION, S544: WAITS ON Code's branch 3 building the 28 course video cards and the three watch lines from this file.
+CODE DISPOSITION, S544: WAITS ON the three watch lines (section 3), shown to Kain then placed; the 28 course cards are DONE at 0.708.346 (SHIP__Course_Intro_Video_Card_S544; the one lines not used, by Kain's ruling).
 
 This answer gives everything Code's branch 3 build needs: the 28 course introduction Vimeo ids, their running times and card words, and three watch lines.
 
