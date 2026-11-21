@@ -28,7 +28,7 @@ Done when: DSRD 8 s18.22 carries direction B, the brief and its two answers are 
 **Three small leftovers, named not fixed (outside this job's files):**
 1. buttons.css still styles `.megamenu__topics` (three rules); nothing carries that class now, so they are dead. One line for the button family's next touch.
 2. footer.php (the Schools heading link) and policies-content/refund-policy.php still link /academy/schools/. The page answers on the build site, so nothing is broken; they belong to the footer and the policies.
-3. 404.php's /academy/schools/ link was passed to branch 1, which is editing 404.php's questions block now.
+3. 404.php's /academy/schools/ link: DONE by branch 1 at 0.708.348 (the schools door now links to /academy/).
 
 **Links.** The build site's Academy page with the new header: https://achologytest.com/academy/ (point at any door). The round Kain signed: http://127.0.0.1:8544/viewer/?round=/previews/header-mega-menu-s544/round.js
 
