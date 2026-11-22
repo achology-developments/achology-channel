@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S551: DONE. Built in the one slip component, deployed at 0.708.375, drawn on exactly the 37 pages, measured and gated; see DONE__Buy_Slip_Fire_Edge_S551.
+> CODE DISPOSITION, S551: DONE. Built in the one slip component, deployed at 0.708.375, drawn on exactly the 37 pages, measured and gated; answered in TO Chat/DONE__Buy_Slip_Fire_Edge_S551.md.
 
 This needs Code, the slip branch session (local_5122f786-bc76-4b47-9071-ffa4ceefb655), to build Kain's chosen buy slip, option 1 Fire Edge with the Achology bubble on a soft orange circle, in the one shared d-bar component, so all 37 product pages in section 3 carry it, then to measure, gate, deploy and show it to Kain.
 
