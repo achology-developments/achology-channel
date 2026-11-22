@@ -10,6 +10,8 @@ Three lines on the About page on the build site disagree:
 2. **The Achology Story and its chart** begin in 2012. The eras are "Achology Origins, 2012 to 2014" and "The Growth Years, 2015 to 2017".
 3. **The banner sentence** (Chat's, ANSWER__About_Banner_Words_S544) says "Since 2014, Achology has taught 695,578 people ...".
 
+A fourth line touches the same facts. The Academy page's history (/academy/, chapter three) says: "2014, Achology Brings the Traditions of Psychology Together Online. Kain Ramsay publishes the world's first fully online Neuro-Linguistic Programming (NLP) pr..." The About story says the first online psychology course was published on Udemy in 2012.
+
 Settle them from the record: DSRD 5, REF 1, the PRD, the old achology.com About copy and the vault facts notes. Say what 2012 and 2014 each mark, and give the ruled wording for each line that changes, with every other word kept.
 
 Code is drawing a whole-page About redraw preview from signed components. It carries the existing words as they are and builds neither date into anything new until this lands.
