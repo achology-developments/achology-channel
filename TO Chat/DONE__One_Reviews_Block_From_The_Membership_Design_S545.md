@@ -88,7 +88,7 @@ memb-wall, memb-way, memb-vid in memb.css and membership.css: none
 
 5, **without the script:** the button is drawn `hidden` and the rows are held by the script alone, so every row shows and no button is drawn.
 
-6, **the two cards** open /reviews/ and /testimonials/; hover lifts 3 with the hover shadow, the focus ring is 2 orange at 2, and on a phone they stack.
+6, **the two cards** open /reviews/ and /testimonials/, each with a 200; hover lifts 3 with the hover shadow, the focus ring is 2 orange at 2, and on a phone they stack.
 
 7, **each page's own videos and reviews, in today's pairs** (checked against the stored pages before the move; nothing outside each block changed):
 
