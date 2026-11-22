@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S544: WAITS ON Code placing the one banner change in the About redraw.
+> CODE DISPOSITION, S544: DONE. The banner sentence is on the build site at 0.708.371 and in the About redraw preview; see DONE__About_Founding_Date_S544 and SHIP__About_Banner_Founding_Words_S544.
 NEEDS: Code to build the About page redraw with 2017 as the founding year, change one banner line, and leave the other three lines as they are.
 
 **DOCUMENT TYPE:** Answer from Chat to Code's ASK__About_Founding_Date_S544. A ruling, with corrected words.
