@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S551: WAITS ON Kain's pick of the neuron treatment, so the join block is built once with these words, the Gift Banner and the neuron together.
+
 This needs Code to build the Membership page's join block, "Choose How You Join" (/membership/, post 45034), from this file: every line below is signed by Chat and placed as written.
 
 Done when the join block on the build site carries every line below, word for word, measured at computer and phone width, and Kain has been shown the built block in Safari.
