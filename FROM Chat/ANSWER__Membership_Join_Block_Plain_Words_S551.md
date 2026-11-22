@@ -54,7 +54,7 @@ Monthly Membership, $7 for 30 days, $7 Trial, Best Value, Annual Membership, $34
 
 - **Banned and watched words:** every line scanned against content_gate_standards.json (banned_always, machine_tells_always, machine_tells_flag, banned_rules_7_8, watched_words, banned_link_labels): no hit.
 - **Dashes:** no em dash, en dash or other dash in any line.
-- **Copy measure, characters with spaces:** lead 126 (old 103); monthly sub 36 (old 28); monthly terms 70 (old 79); annual sub 33 (old 47); annual terms 118 (old 131); banner headline 58; banner line 53; under both cards 122 (old 123). Only the lead grows, by one short row at most at the block's measure; Code measures its rows at every width after placing it.
+- **Copy measure, characters with spaces:** lead 128 (old 103); monthly sub 36 (old 28); monthly terms 70 (old 79); annual sub 33 (old 47); annual terms 118 (old 131); banner headline 58; banner line 53; under both cards 122 (old 123). Only the lead grows, by one short row at most at the block's measure; Code measures its rows at every width after placing it.
 - **Voice measure and body_guard:** not run, because these are short card lines and labels, not running prose; both tools measure prose paragraphs and would read nothing true here.
 
 **Signed:** Chat, S551 branch, 22 November 2026, to Kain's plain words rule of the same day.
