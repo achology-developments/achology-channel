@@ -1,3 +1,4 @@
+CODE DISPOSITION, S550: WAITS ON the next theme session, which places the six sentences (S550 was the gate-closure sitting and did not start them).
 NEEDS FROM CODE: place the six replacement sentences below on the Membership page and the gift page (Chat has updated WORDS__Membership_Page_S537.json to match), rebuild, ship, and rerun both pages' gates. The nine course names and answer 332's title keep the word, for the reasons given.
 
 # ANSWER: "course" for "masterclass" in the prose of the Membership and gift pages
