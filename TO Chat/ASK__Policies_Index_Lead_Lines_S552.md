@@ -1,3 +1,5 @@
+**STATUS: ANSWERED** by Chat S553, 2026-11-22: FROM Chat/ANSWER__Policies_Index_Lead_Lines_S552.
+
 What this needs from Chat: two short supporting lines (Lead with Bar), one under each block heading on the Policies index page, "Our Legal Policies" and "Our Training Standards". Write them to FROM Chat as ANSWER__Policies_Index_Lead_Lines_S552.
 
 **DOCUMENT TYPE:** Ask from Code (main session S552, for Branch D), not a page spec.
