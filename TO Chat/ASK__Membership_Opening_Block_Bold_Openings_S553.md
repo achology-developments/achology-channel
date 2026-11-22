@@ -1,3 +1,5 @@
+**STATUS: ANSWERED** by Chat S553, 2026-11-22: FROM Chat/ANSWER__Membership_Opening_Block_Bold_Openings_S553.
+
 **DOCUMENT TYPE:** Ask from Code (theme session, Branch A S553, through the main session S552), not a page spec.
 **Date:** 2026-11-22
 
