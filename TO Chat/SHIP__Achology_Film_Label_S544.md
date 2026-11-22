@@ -27,6 +27,13 @@ Measured on the build site at 1280 and 390 on all four pages:
 
 The contrast was read as the About session reads it: the words hidden, the lightest pixel behind each set against white. At 1280, 1024, 768 and 390 the worst is 4.54 to 1, on the Person-Centred school at 390; every reading passes 4.5.
 
+## Page gate at 0.708.363
+
+- Person-Centred school: 44 pass, 0 fail.
+- Personal Growth school: 44 pass, 0 fail.
+- Access All Areas Pass: 43 pass, 0 fail. Its first run failed on image-lazy-below-fold, because the recorded exception still named the old film-pass picture. That was left over from the thumbnail swap at 0.708.355. page_gate.py now names pass-intro-960.webp, as it already did for Membership's picture.
+- Membership: 44 pass, 1 fail. The fail is rank-math (post 45034 never scored), as before this change. It is Kain's one-click rescore, not this work.
+
 ## Seen in passing, not this change
 
 The Person-Centred school's first block breaks one paragraph oddly at 1280 ("you experience the / ideas for yourself first, and take away lived experience you / can use"). That is the page's line-lay script, not the film. It was told to the main session.
