@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S551: WAITS ON Kain's pick of the neuron treatment, so the join block is built once with these words, the Gift Banner and the neuron together.
+> CODE DISPOSITION, S551: DONE. Every line placed word for word in the join block at 0.708.369, measured at 1280 and 375 on the build site.
 
 This needs Code to build the Membership page's join block, "Choose How You Join" (/membership/, post 45034), from this file: every line below is signed by Chat and placed as written.
 
