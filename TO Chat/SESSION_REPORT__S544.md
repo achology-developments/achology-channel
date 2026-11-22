@@ -14,6 +14,9 @@ Theme session, 21 November 2026. Main session plus branches; Kain's one window. 
 10. Hand added: Chat helper sessions and branches 1 and 2 archived; CHANNEL_DOWN__kain-s-imac-pro__2026-11-21 written.
 11. Read, for the next Membership sitting (its session is archived): ANSWER__Gift_Page_Rulings_And_Gate_Fixes_S547 and the gift Help answer draft; Kain's yes on the gift answer is still owed.
 
+12. About page banner (Cream Hero, film label "So, What Is Achology?" over the picture) live at 0.708.362, founding line at 0.708.371 (Chat ANSWER__About_Founding_Date_S544); the same film label on PC, PGD, Pass and Membership at 0.708.363; watch-line round retired; line-lay fix at 0.708.368; Membership and gift gates (44/1 rank-math, 44/0); broken-link sweep 39 fixed, 7 open. Board: About page.
+13. NOT FINISHED: the About page redraw from signed components, preview only (previews/about-redraw-s544): block 1 Answer Tabs picked, two faults open; Ten Ways, films two across, questions three by four still to show. Next session finishes it.
+
 OWED BACK: Chat's yes or words for the Help frame's seven labels and the DSRD 9 line; the reading lines on the new Help answer page; the gate lines for the new page types.
 
 *No em or en dashes in this file; checked before writing.*
