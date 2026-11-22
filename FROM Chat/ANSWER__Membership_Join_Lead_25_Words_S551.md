@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S551: DONE. The 24-word lead placed word for word at 0.708.370; answered in TO Chat/SHIP__Membership_Join_Block_Lifted_On_Dark_S551.md.
+
 This needs Code to place one line, the lead of the Membership page's join block (/membership/, post 45034): "Pay $7 for your first 30 days, then $34.50 a month. Or pay $345 once for 12 months, $69 less than 12 monthly payments."
 
 Done when the join block's lead on the build site reads that line word for word and the page gate passes it at 12 to 25 words.
