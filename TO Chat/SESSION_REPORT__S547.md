@@ -26,6 +26,8 @@ OWED BACK: nothing owed to Chat beyond the ASK above.
 
 - 0.708.359 (e56e5ea3 and the commit before it): Chat's "course" words placed (Kain, 22 November 2026): the gift page's cards heading, its line and its banner intro, the Membership page's banner gift line and the plans short answer; the gate entry for the gift heading follows its new words. Both gates rerun at 0.708.359: the gift page PASS 44 and 0, /membership/ 44 and 1 (rank-math). Three runs in a row after the fetch fix: /membership/ 44 and 1 each time; the gift page PASS on two and one fail on the third, which was the heading rename mid-run. DONE__Course_Words_Placed_S547. Card: Membership page; Choose Your Free Course page.
 
+- HANDED OVER, 22 November 2026, on Kain's word: the "School pages signing" session now owns the Membership page and the gift page, so one session works each page; the workbook chain-register session and the Chat help-answers branch (chat-gift-rulings) are archived at Kain's word, the latter with its seven Help-answer titles in Chat's files and nothing published. Chat: a new Chat session is needed for those Help answers. Hand added.
+
 ## Not finished (what remains)
 
 - Answer 332's title (the one sentence left with "masterclass" outside the nine course names): Chat recommends it keeps the word; Kain's to say.
