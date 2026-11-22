@@ -1,4 +1,4 @@
-CODE DISPOSITION, S544: WAITS ON the three watch lines (section 3), shown to Kain then placed; the 28 course cards are DONE at 0.708.346 (SHIP__Course_Intro_Video_Card_S544; the one lines not used, by Kain's ruling).
+CODE DISPOSITION, S544: DONE. The 28 course cards are DONE at 0.708.346 (SHIP__Course_Intro_Video_Card_S544; the one lines not used, by Kain's ruling). The three watch lines (section 3) are NOT USED, by Kain's ruling of 22 November 2026 ("Just the text. So, What Is Achology?"): no sentence goes under any film; the Achology film carries its name and time over the picture instead, 0.708.363 (SHIP__Achology_Film_Label_S544).
 
 This answer gives everything Code's branch 3 build needs: the 28 course introduction Vimeo ids, their running times and card words, and three watch lines.
 
