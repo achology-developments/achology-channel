@@ -17,7 +17,7 @@ Done when: each place below reads the new sentence on the build site, and both g
 | 6 | Membership page, the join block's annual row (join_v2.annual_row) | Or take the year for $345, saving $69, with every workbook and a masterclass of your choice as your gift. | **Or take the year for $345, saving $69, with every workbook and a course of your choice as your gift.** |
 | 7 | Short answer on the plans (post 10041's excerpt; questions.excerpt_10041) | ...includes every workbook and a masterclass for life. | **Monthly is paid month by month after your first 30 days. Annual is paid once a year, saves $69 and includes every workbook and a course for life.** |
 
-The page's own check-in words (the lines Chat wrote for the first draft of this answer set, "masterclass" in code comments such as `choose.py` line 3) are comments, not prose: leave them, or change them when the file is next touched.
+The word also appears in code comments (for example `choose.py` line 3 and `build.py` lines 387 and 435). Those are comments, not prose: leave them, or change them when the file is next touched.
 
 ## 2. What already says "course" and needs nothing
 
