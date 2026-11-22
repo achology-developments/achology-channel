@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S551: WAITS ON the slip branch finishing the d-bar page count, the four page gates and its DONE (built and deployed at 0.708.374).
+
 This needs Code, the slip branch session (local_5122f786-bc76-4b47-9071-ffa4ceefb655), to build Kain's chosen buy slip, option 1 Fire Edge with the Achology bubble on a soft orange circle, in the one shared d-bar component, so all 37 product pages in section 3 carry it, then to measure, gate, deploy and show it to Kain.
 
 Done when: the d-bar component in the theme draws option 1 on all 37 pages in section 3; it is measured at 1440, 1024 and 375 wide on one page of each family (a school page, a course page, the Access All Areas Pass, Membership); each of those four pages passes the DSRD 6 page gate with its slip line recorded as pass; the theme is deployed to the build site with a version bump; and Kain has been shown the built slip in Safari. A DONE in TO Chat names this brief and gives the measures.
