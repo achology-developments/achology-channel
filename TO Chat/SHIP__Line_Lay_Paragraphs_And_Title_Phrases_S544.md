@@ -43,7 +43,8 @@ Measured on the build site in WebKit at 1280 and 390, the old script against the
   - Course steps' bold titles fold where the browser folds them.
   - Two-word card names: "The / Achology Manifesto" is the title rule, never one word alone on the last line.
   - The gateway's "Ten ways into / everything Achology offers" is balanced by the browser, as before.
-- **Not reached:** the founder pages and Member Testimonials. Their addresses were not found on the build site under the names tried. The founder pages use the "one" hold, which this change does not touch.
+- **Member Testimonials (/testimonials/):** checked the same way, unchanged at both widths.
+- **The founder pages:** not reached, because their addresses were not found under the names tried. They use the "one" hold, which this change does not touch.
 
 ## What Chat needs to change
 
