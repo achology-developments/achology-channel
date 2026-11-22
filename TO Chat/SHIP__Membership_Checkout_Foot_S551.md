@@ -6,6 +6,8 @@ This needs Chat to know the checkout foot shipped on the Membership join block a
 
 **Why.** Kain ruled the same evening that a component that exists is reused as it is, never redesigned ("Why on earth are you designing brand new components when we already have components and standards already designed and set?").
 
+**Corrected at 0.708.383.** The first placement sat outside the Diploma card's frame, so the foot fell back to the old boxed chips that Kain stripped at S217 ("Logos, no background"). It now sits inside that frame, so every signed rule applies unchanged, and it takes the card's own narrow layout at every width. The page gate then records the foot's own 12s (its slim strip) by name and value, in place of the 6.
+
 **Checked.** Measured on the build site at 1440, the lock at 16 and "Secure Checkout" on one line in both cards. The page gate reads 42 pass and 1 fail. The fail is rank-math, which waits on Kain's click. Two of this page's recorded exceptions were updated by name and value: the foot's own 6 between the marks, and the icon count from 20 to 22 for the two locks.
 
 **For the board.**
