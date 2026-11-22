@@ -33,7 +33,17 @@ Measured on the build site in WebKit at 1280 and 390, the old script against the
   - The heading reads "Achology: What It Is, / and Who It's For" (60 and 47 per cent).
 - **The Events lead, 390:** 73 to 87 per cent on every line, where the fill lay had left "reached one of" at 35.
 - **An About timeline card, 390:** "practice." no longer stands alone at 21 per cent; the card ends "accountable professional practice."
-- **The full sweep:** see the counts appended below.
+- **The full sweep:** 14 pages at 1280 and 390, the old script against the new, read by a checker.
+  - Lines above the last under 65 per cent in a paragraph: 17 before, 15 after.
+  - Lines above the last under 40 per cent in a short block: 14 before, 7 after.
+  - Last lines of one word: 2 before, 2 after, the same two.
+  - No page reads worse. The course page, checked again at 0.708.368, stands exactly as before.
+- **What the checker still lists, and why it stays:**
+  - The school story's timeline cards break naturally around a long word ("Lightner Witmer opens a"); the school page lays them itself.
+  - Course steps' bold titles fold where the browser folds them.
+  - Two-word card names: "The / Achology Manifesto" is the title rule, never one word alone on the last line.
+  - The gateway's "Ten ways into / everything Achology offers" is balanced by the browser, as before.
+- **Not reached:** the founder pages and Member Testimonials. Their addresses were not found on the build site under the names tried. The founder pages use the "one" hold, which this change does not touch.
 
 ## What Chat needs to change
 
