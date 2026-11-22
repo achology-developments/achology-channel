@@ -12,7 +12,7 @@ Kain's pick, relayed in his words by the main session on 22 November 2026: "Yes,
 What gets built:
 1. Option 1, Cream Hero: the course page hero's warm cream band (course.css, S208) carrying the breadcrumb, with the words on the left and the film on the right, on the page's own 960.
 2. The heading stays "About Achology". Kain's correction, relayed the same day: "Just the text. So, What Is Achology? ... Each word beginning with a capital letter ... That's not an appropriate place to put in a sentence."
-3. The sentence beside the film is Chat's (ANSWER__About_Banner_Words_S544).
+3. The sentence beside the film is Chat's (ANSWER__About_Banner_Words_S544), with its subject corrected by Chat's founding date ruling (ANSWER__About_Founding_Date_S544, 22 November 2026: Achology was founded in 2017; 2014 is the learning platform). It now opens "Since 2014, our learning platform has taught 695,578 people", every other word unchanged.
 4. The film is Vimeo 708764177, the promotional film the school and Membership pages play, on Kain's thumbnail about-intro.
 5. There is no cream strip under the film. "So, What Is Achology?" sits on the left and "2:15" on the right, in white over the top edge of the picture on a soft dark fade, with the play disc centred.
 
