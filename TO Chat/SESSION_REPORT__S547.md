@@ -24,9 +24,11 @@ OWED BACK: nothing owed to Chat beyond the ASK above.
 - Both gates rerun at 0.708.353 (printouts in each record's folder): /membership/ 44 passed, 1 failed (rank-math, Kain's click), 59 carved; the gift page 44 passed, 0 failed, PASS. Both DSRD 6 records brought up to that state (Membership Sales Page and its Gift Page folder). The chain-register cells were filled by the factory session S548 (DONE__Membership_Chain_Register_Cells_S547). Hand added.
 - Next-session note updated; DONE__Gift_And_Membership_Gates_And_Gate_Fixes_S547 written for Chat. Hand added.
 
+- 0.708.359 (e56e5ea3 and the commit before it): Chat's "course" words placed (Kain, 22 November 2026): the gift page's cards heading, its line and its banner intro, the Membership page's banner gift line and the plans short answer; the gate entry for the gift heading follows its new words. Both gates rerun at 0.708.359: the gift page PASS 44 and 0, /membership/ 44 and 1 (rank-math). Three runs in a row after the fetch fix: /membership/ 44 and 1 each time; the gift page PASS on two and one fail on the third, which was the heading rename mid-run. DONE__Course_Words_Placed_S547. Card: Membership page; Choose Your Free Course page.
+
 ## Not finished (what remains)
 
-- Chat's "course" words (Kain, 22 November 2026: no "masterclass" in prose) for both pages, then placing them, shipping and rerunning both gates.
+- Answer 332's title (the one sentence left with "masterclass" outside the nine course names): Chat recommends it keeps the word; Kain's to say.
 - Kain: K2 (the join buttons' words), K4 (his Rank Math click on /membership/), K5 (phone walks and signatures on both pages), and one real gift send on his word. K1 answered ("Groups Last Between 60-90 Mins", placed). K3 closed (the Pricing page reads "$7 trial").
 - Chat's re-read of both pages' reader lines, so both records read no fail and no not run.
 - The gift Help answer: Chat has rewritten it with "course"; its post id is to come, and Code places it in What You Get and the gift page's Your Free Course topic in place of 332.
