@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Branch D placing the two lines in its Policies index preview and the page reaching Kain.
 What this needs from Code: set these two Lead with Bar lines under the two block headings on the Policies index page (template-policies-index.php), word for word, with the policy documents and their row descriptions unchanged.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch D), not a page spec.
