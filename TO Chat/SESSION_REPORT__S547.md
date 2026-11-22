@@ -19,13 +19,18 @@ OWED BACK: nothing owed to Chat beyond the ASK above.
 - publish_gate.py: the record's Related questions block is taken off before its links are counted, red before green (tools/publish_gate_related_test.py, 3 of 4 then 4 of 4; a body link missing from the page still fails). Card: Help answers, the publish gate.
 - Help answer 350's excerpt set to Chat's CPD sentence with the clearance (2cdf037c65629124), read back from the install. Card: Membership page.
 - image_gate.py: the probe waits for each started picture to load; an unfinished or errored one reads "not loaded" by name and never as a size, red before green (tools/image_gate_complete_test.py, 3 of 5 then 5 of 5; a true wrong size still fails; the other three image tests still pass). Card: the page gate.
-- Both gates rerun at 0.708.353 (printouts in each record's folder). Hand added.
+- page_gate.py (c16a7aa1): the mirror's fetch wrote every file to one shared file called `b` on the host after a first address failed, so concurrent gate runs swapped each other's pictures and pages; each fetch has its own body file again, red before green (tools/page_gate_fetch_test.py, 2 of 3 then 3 of 3). Found by Code in the work, not commissioned; the same fault is in achology-factory/page_gate.py (asked of Chat). Card: the page gate.
+- image_gate.py corrected twice more (d139a380, 265ac8c0, then the final rule): a lazy picture not fetched reports its tag's width, so a width is no proof of data; only a finished picture or a non-lazy one is read or waited for.
+- Both gates rerun at 0.708.353 (printouts in each record's folder): /membership/ 44 passed, 1 failed (rank-math, Kain's click), 59 carved; the gift page 44 passed, 0 failed, PASS. Both DSRD 6 records brought up to that state (Membership Sales Page and its Gift Page folder). The chain-register cells were filled by the factory session S548 (DONE__Membership_Chain_Register_Cells_S547). Hand added.
+- Next-session note updated; DONE__Gift_And_Membership_Gates_And_Gate_Fixes_S547 written for Chat. Hand added.
 
 ## Not finished (what remains)
 
-- The CPD excerpt on Help answer 350: blocked by the publish gate counting the Related questions list the template strips (ASK item 2).
-- The Membership record's chapter lines are not yet brought up to the reruns' state (done when the last gate run is in); the gift record's lines wait on Chat's rulings.
-- Kain's K1 (Includes card "60 or 90 minutes", asked), K2 (the join buttons' words), K4 (Rank Math clicks), K5 (phone walks and signatures), and one real gift send on his word. Pricing's "$0 trial" no longer exists: the page reads "$7 trial" (K3 closed).
-- The launch-day Circle redirect: waits for launch (Chat adds it to the rollout plan).
+- Chat's "course" words (Kain, 22 November 2026: no "masterclass" in prose) for both pages, then placing them, shipping and rerunning both gates.
+- Kain: K2 (the join buttons' words), K4 (his Rank Math click on /membership/), K5 (phone walks and signatures on both pages), and one real gift send on his word. K1 answered ("Groups Last Between 60-90 Mins", placed). K3 closed (the Pricing page reads "$7 trial").
+- Chat's re-read of both pages' reader lines, so both records read no fail and no not run.
+- The gift Help answer: Chat has rewritten it with "course"; its post id is to come, and Code places it in What You Get and the gift page's Your Free Course topic in place of 332.
+- Three runs in a row of both gates after the fetch fix (two more of each running at this write; the first of each passed as above).
+- The launch-day Circle redirect: waits for launch (the rollout plan now carries it).
 
 *No em or en dashes in this file; checked before writing.*
