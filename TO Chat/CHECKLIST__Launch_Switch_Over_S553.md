@@ -25,7 +25,7 @@ Each line says what is done, who does it, and the proof that closes it. Code gui
 8. **Speed Optimizer image handling on** (compression, WebP, lazy loading), after content is final.
 9. **Circle annual paywall redirect.** Post purchase tab, Custom redirect URL set to https://achology.com/membership/choose-your-free-course/ (Kain's hands, Code guides one step at a time, per NOTE__Circle_Gift_Redirect_Waits_For_Launch_S544). The address first opened in a browser by Code. Proof: Circle's preview or one test annual path lands on the page with its nine cards; Code checks the Help answer and the redirect agree before the day closes.
 10. Re-run the checks the build site could not: DSRD 6 section 4 schema check (the build site's captcha wall blocked it), the indexing consistency reading, the links-resolve check on the live host.
-11. The old site's handover: the old install is left intact, off the domain, behind no public address, until Chat rules how long it is kept (C3).
+11. The old site's handover: the old install is left intact, off the domain, behind no public address, until Chat rules how long it is kept (D3).
 
 ## C. Day-after checks (Code)
 
