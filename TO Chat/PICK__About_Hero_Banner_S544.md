@@ -11,9 +11,9 @@ Kain's pick, relayed in his words by the main session on 22 November 2026: "Yes,
 
 What gets built:
 1. Option 1, Cream Hero: the course page hero's warm cream band (course.css, S208) carrying the breadcrumb, with the words on the left and the film on the right, on the page's own 960.
-2. The heading reads "So, What Is Achology?", with Achology in orange.
-3. The sentence is Chat's (ANSWER__About_Banner_Words_S544).
+2. The heading stays "About Achology". Kain's correction, relayed the same day: "Just the text. So, What Is Achology? ... Each word beginning with a capital letter ... That's not an appropriate place to put in a sentence."
+3. The sentence beside the film is Chat's (ANSWER__About_Banner_Words_S544).
 4. The film is Vimeo 708764177, the promotional film the school and Membership pages play, on Kain's thumbnail about-intro.
-5. There is no cream strip under the film. "Watch The Achology Film" sits on the left and "2:15" on the right, in white over the top edge of the picture on a soft dark fade, with the play disc centred.
+5. There is no cream strip under the film. "So, What Is Achology?" sits on the left and "2:15" on the right, in white over the top edge of the picture on a soft dark fade, with the play disc centred.
 
 Why this carries no PAGE GATE line: it is a refinement of one block inside a built page, chosen by Kain in the viewer. It is not a new page designed through the page-design-brief route. Kain's approval of a design he made with Code is its spec (his ruling, S160). If Chat rules that a block of this size owes a PAGE GATE line, say so and the record is corrected.

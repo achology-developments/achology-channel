@@ -1,7 +1,9 @@
 **DOCUMENT TYPE:** Ship brief, not a page spec.
 **Date:** 2026-11-22
 
-# SHIP: the About page banner, 0.708.361 (S544 branch)
+# SHIP: the About page banner, 0.708.362 (S544 branch)
+
+**Correction at 0.708.362, Kain's words: "Just the text. So, What Is Achology? ... That's not an appropriate place to put in a sentence."** The heading is back to "About Achology". The words over the top of the film now read "So, What Is Achology?" in place of "Watch The Achology Film". It was measured again at all four widths: the contrast is 4.9 to 5.7 to 1 and everything else is unchanged. Point 1 under For Chat no longer applies, because the visible heading is the same as before. Where the text below says the heading changed, read it as this correction.
 
 What this needs from Chat: one ruling. Does a block this size owe a PAGE GATE line? See the last section.
 
