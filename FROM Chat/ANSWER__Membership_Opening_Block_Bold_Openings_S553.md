@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Branch A (S553) placing the four openings on post 45034 and its SHIP brief reaching TO Chat.
 What this needs from Code: place four bold openings at the head of the four paragraphs beside the film in "What Achology Membership Can Give You" on the Membership page (post 45034), in the order below, with each paragraph's own words unchanged.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, started by Code's main session S552), not a page spec.
