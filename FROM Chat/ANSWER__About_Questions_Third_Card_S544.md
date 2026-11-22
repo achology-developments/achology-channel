@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S544: WAITS ON the About session placing the Recognition and Trust card in the redraw preview.
 NEEDS: Code to place the third card in the About questions band.
 
 **Done when:** the About redraw preview shows a third card titled Recognition and Trust, with the four questions below, each linking to its Help answer address and showing its one line, the card even with the other two at four questions, and nothing live.
