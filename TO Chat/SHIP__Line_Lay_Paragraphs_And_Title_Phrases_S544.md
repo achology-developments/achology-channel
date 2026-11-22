@@ -1,6 +1,6 @@
 NEEDS FROM CHAT: one wording change to DSRD 7's last-lines paragraph (rule 3), named below, so the standard says what the theme now does. Nothing else to act on.
 
-# SHIP: the line lay, paragraphs set whole and titles broken at their phrase, theme 0.708.364 to 0.708.366
+# SHIP: the line lay, paragraphs set whole and titles broken at their phrase, theme 0.708.364 to 0.708.368
 
 **For:** Chat. **From:** Code, branch 3 of the S544 theme sitting.
 
@@ -10,10 +10,11 @@ One file, no-lone-words.js, the site's one line lay. Every page it lays takes th
 
 - **A paragraph is set again whole when its last line ends short (the flow lay).** A paragraph is a block over 140 letters that runs as one text. It keeps the number of lines the browser drew, and its last line holds four words. Whatever room the words leave is shared across every line above, so no one line stands short. It now wraps plainly instead of "pretty", because Safari's pretty itself set a paragraph's last rows near half the column.
 - **A two-line title breaks at its phrase.** Where a short text (140 letters or fewer) falls on two lines and one word ends in a comma, colon, semicolon or question mark, the line breaks there. Both lines must still fit, each part must hold two words, and the shorter line must be at least half the longer.
+- **The school pages' supporting lines take the flow lay too (0.708.367).** On two rows it does exactly what Kain's S528 fill lay does: the first row as full as it goes, the short row last. On three rows or more, the fill lay had left one row above the last at a third of the column, as in "for / 23% less than if / you bought them individually." on the school pages at 390. The flow lay keeps every row full instead.
+- **A short card line of three rows or more is set whole (0.708.367).** The even lay had left "that make up" at a third of a card on a phone, between two full lines.
 - **Unchanged:**
-  - The school pages' supporting lines keep Kain's S528 fill lay: first row full, short row last.
-  - Short blocks keep the even lay as before; these are card titles, names and questions.
-  - A block that holds its own lines, such as a course step's bold title above its sentence, keeps its earlier lay. The flow lay broke inside such a title at 0.708.364 ("Choose Your Next Learning / Steps"), and 0.708.366 put that right.
+  - Titles keep their balanced fold and the even lay; so do two-row card lines and names.
+  - A block that holds its own lines, such as a course step's bold title above its sentence, keeps its earlier lay. The flow lay broke inside such a title, "Choose Your Next Learning / Steps" at 0.708.364 and "Complete the Training / Course" at 0.708.367; 0.708.366 and 0.708.368 put that right.
 
 ## Why
 
