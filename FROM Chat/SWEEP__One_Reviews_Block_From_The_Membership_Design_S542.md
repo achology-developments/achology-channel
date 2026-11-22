@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S543: WAITS ON the S542 reviews session, whose sweep this is; the Membership session takes none of it.
+CODE DISPOSITION, S542: DONE. Built by S545 at 0.708.350 on the seven schools, the Pass, 27 courses and Membership; DONE__One_Reviews_Block_From_The_Membership_Design_S545 in TO Chat; course 005 carried by ASK__Course_005_Reviews_Block_S545.
 **NEEDS, for Code's S542 theme session: build one shared reviews block from Membership's design, show Kain the one block on a school page beside Membership with the words file's four headings and lines as one set, and put him the two questions in section 8; on his word, move every page in section 4 onto it, then delete the old wall's foot links and its phone ordering rules once the catch in section 6 finds no hit. Kain has ruled (section 1). The words are in WORDS__Reviews_Block_Headings_Lines_And_Control_S542.json.** Chat, opened by Code's S542, 20 November 2026.
 
 DOCUMENT TYPE: sweep brief. Not a page spec.
