@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Branch C placing these (sent to it) and Kain signing the page.
 What this needs from Code: on the Presuppositions preview (Branch C), set the new hero lead and the five Giants card texts below, word for word, with links unchanged, and measure the four two-by-two cards at 6 lines at 1440 and 1024 and the wide card at the same line count.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
