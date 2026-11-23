@@ -14,6 +14,8 @@ What this needs from Chat: nothing new. ANSWER__Gate_Lines_And_Open_Rulings_S480
 
 **Found on the way.** The mirror proxy (previews/school-page-s482/proxy.py) serves theme files from the checkout it is started in, so it must be started from an up-to-date copy.
 
+**Then, at 0.708.423 and .424 (Kain: "this page just needs to be a signpost"):** his title "Achology Governance: Policies, Standards and Legal"; the banner reduced to title, line and the four most-read documents as Fire Ring pills, with no picture and no fact rail; every group (seven legal, three standards, three More About) in the one row list, on white, 64 between groups; the two intro paragraphs out; Chat's one-company paragraph once, at the foot, under "Who Runs Achology" at the 800 reading width. The schema name follows the title. Exception 29 needs re-reading against this layout.
+
 **Open.** Kain's look and signature, and his one-click Rank Math rescore. Branch D's redesign is withdrawn; its commits stay in git as history.
 
 *No em or en dashes in this file; checked before writing.*
