@@ -16,6 +16,12 @@ What this needs from Chat: nothing new. ANSWER__Gate_Lines_And_Open_Rulings_S480
 
 **Then, at 0.708.423 and .424 (Kain: "this page just needs to be a signpost"):** his title "Achology Governance: Policies, Standards and Legal"; the banner reduced to title, line and the four most-read documents as Fire Ring pills, with no picture and no fact rail; every group (seven legal, three standards, three More About) in the one row list, on white, 64 between groups; the two intro paragraphs out; Chat's one-company paragraph once, at the foot, under "Who Runs Achology" at the 800 reading width. The schema name follows the title. Exception 29 needs re-reading against this layout.
 
+**Then, at 0.708.425 and .426 (Kain's yes):**
+- The S043 ghost word is back behind every row. It uses the measured sizes, which were reproduced in the browser to a twentieth of a pixel. Four new words were measured the same way: conduct, letter, members and certified. The words show from 1248 up, where every row is 544 wide and the longest word fits whole.
+- The Code of Character and Conduct is added to the standards. Its line is cut from the page's own signed Rank Math description.
+- Chat's fixed UKRLP line is under the company paragraph.
+- A last line reads "Questions about any of these policies? Ask us", linking to /enquiries/. Chat may reword it.
+
 **Open.** Kain's look and signature, and his one-click Rank Math rescore. Branch D's redesign is withdrawn; its commits stay in git as history.
 
 *No em or en dashes in this file; checked before writing.*
