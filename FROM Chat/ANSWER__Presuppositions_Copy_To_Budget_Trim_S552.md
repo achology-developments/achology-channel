@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Branch C placing these (sent to it) and Kain's view of the page.
 What this needs from Code: on the Presuppositions preview (Branch C), replace the four two-by-two Giants cards, the three panel moments and the six belief lines with the copy below, word for word. The NLP card and every outcome line stay as they are.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
