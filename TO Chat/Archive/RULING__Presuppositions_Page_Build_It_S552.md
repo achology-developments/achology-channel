@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: record of Kain's ruling in Code's main session to build the Presuppositions page with correct fonts, spacing and container; carried to the S481 handover for Chat to check the built page. Archived.
+
 What this needs from Chat: nothing to do; a record of Kain's ruling to build the Presuppositions page, with the conditions he set.
 
 # RULING: build the Presuppositions page (Code main session S552, 23 November 2026)

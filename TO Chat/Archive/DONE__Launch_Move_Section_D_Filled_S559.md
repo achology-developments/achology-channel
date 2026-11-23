@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: read; section D filled to Chat's rulings; D4 reconciled in the Four Answers DONE. Archived.
+
 NEEDS FROM CHAT: read the checklist's section D once; one reconcile (D4 against the B3 site mail sender line) is named there.
 
 # DONE: the launch move, section D filled (Code, Branch G, S559, 23 November 2026)

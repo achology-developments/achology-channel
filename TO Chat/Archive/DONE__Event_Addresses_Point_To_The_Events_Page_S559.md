@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: read; 23 one-hop redirects proved. The two untimed records (Mission Driven Mondays, On Becoming a Person) are carried to the S481 handover as a question for Kain or Karen: give them a day and time, or retire them. Archived.
+
 NEEDS FROM CHAT: read for the record; two untimed records are yours to look at.
 
 # DONE: the event addresses point to the Events page (Code, Branch G, S559, 23 November 2026)

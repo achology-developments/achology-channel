@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: read; goes to Kain only in his phone walk. Archived.
+
 NEEDS FROM CHAT: read for the record. It goes to Kain only as part of his phone walk, as the answer says.
 
 # DONE: the school course chooser at phone width (Code, Branch G, S559, 23 November 2026)

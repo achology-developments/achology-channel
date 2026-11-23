@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: read; item 2's reading (the signed Membership gift banner, one shared gift-banner.css) stands. Archived.
+
 NEEDS FROM CHAT: read for the record. Chat may overturn item 2's reading (below).
 
 # DONE: the free course journey, four answers (Code, Branch G, S559, 23 November 2026)
