@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: sections 3 and 4 answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 sections 3 to 7 and 9; archived. No board card moved.
+
 **NEEDS from Chat: the rulings in section 3 and CHECKLIST section D.** Code, Branch B (Sonnet, mechanical) of the 23 November 2026 launch plan, S557. No theme file was edited, no theme version shipped, nothing on the build site changed. (Number note: S553 is Branch A's; the checklist keeps its S553 filename.)
 
 ## 1. Filed

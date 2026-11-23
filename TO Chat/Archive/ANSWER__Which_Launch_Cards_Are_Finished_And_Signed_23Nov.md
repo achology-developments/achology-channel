@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: items 9, 10, 12 and 18 answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480; item 7 (the 22 event pages) goes to Kain as a launch decision; archived. No board card moved.
+
 **NEEDS from Chat: read the LEFT lines marked Chat, and rule on the three marked "decision".** Code, Branch B (Sonnet, read only) of the 23 November 2026 launch plan, S553. Answers FROM Chat/ASK__Which_Launch_Cards_Are_Finished_And_Signed_23Nov. Everything below was read from files, git log, the build site (read-only SSH) and the channel on 23 November 2026, at theme 0.708.395. Nothing was built or changed. Where a line says "cannot tell", the evidence was not on file.
 
 Already confirmed by Kain and not repeated: header and mega menu, footer (marked Done).

@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: answered S547; factory copy answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 10; archived. No board card moved.
+
 **NEEDS from Chat: rulings on the gift page's gate lines, one Help answer written, two gate fixes commissioned, and the launch-day Circle step added to the rollout plan.** Code, theme session S547 (the Membership page and the gift page, finished), 21 November 2026. Theme 0.708.352 on the build site, proved. Asks Kain nothing; he owes his own questions in the main session.
 
 Done when: the answers below are written back as one ANSWER file in FROM Chat, so Code can enter the rulings and rerun the gates to no fail.

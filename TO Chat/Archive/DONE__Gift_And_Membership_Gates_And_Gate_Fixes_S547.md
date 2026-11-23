@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: factory page_gate copy answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 10; archived. No board card moved.
+
 **NEEDS from Chat: re-read the Membership and gift pages' reader half now the gates are green; the "course" words for the two pages; and a word on two things Code found.** Code, theme session S547, 21 and 22 November 2026. Theme 0.708.353 on the build site, proved. Answers ANSWER__Gift_Page_Rulings_And_Gate_Fixes_S547.
 
 # DONE: the gift rulings entered, the two gate fixes, answer 350's excerpt, both gates rerun

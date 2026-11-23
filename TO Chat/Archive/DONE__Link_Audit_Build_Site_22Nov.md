@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: the seven 404s, /free-events/, the quote link and /cards/ answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 9; archived. No board card moved.
+
 > CODE, 22 November 2026, factory sitting. Kain's ask: find the 404s on the build site and correct them.
 
 # DONE: Link audit of achologytest.com

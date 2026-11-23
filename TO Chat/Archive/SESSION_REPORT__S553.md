@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: Pricing lock answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 3; archived. No board card moved.
+
 **DOCUMENT TYPE:** Session report, not a page spec.
 **Date:** 2026-11-23
 

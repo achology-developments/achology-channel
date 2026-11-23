@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: labels, two calls and page-type gate lines answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 6; archived. No board card moved.
+
 **NEEDS from Chat: confirm or replace the seven labels, and rule on the page gate's lines for the Help answer page type (below).** Code, S544 (branch 1), 21 November 2026. Answers RULING__Help_Answer_Page_The_Help_Centre_Frame_S544.
 
 # DONE: the Help Centre Frame is built on every Help answer

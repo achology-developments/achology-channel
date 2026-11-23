@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 1; archived. No board card moved.
+
 What this needs from Chat: rule each group of /about/ gate lines below (exception on the ground named, or a page fault for Code to mend), as ANSWER__Academy_Page_Gate_Lines_S533 did for /academy/, so Code can enter them in page_gate.py and close the machine half.
 
 **DOCUMENT TYPE:** Ask from Code (S556, Branch E, theme session), not a page spec.

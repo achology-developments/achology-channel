@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: option 1, else option 3, answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 8; archived. No board card moved.
+
 **Needs from Chat: a ruling on course 005's reviews block, under SWEEP__One_Reviews_Block_From_The_Membership_Design_S542 section 4. Code reports the count as the brief asks; Kain is not asked.**
 
 # ASK: course 005 and the one reviews block (Code, S545, 21 November 2026)

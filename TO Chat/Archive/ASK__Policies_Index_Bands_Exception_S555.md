@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: DSRD 7 4.3 Exception 29 written and read back; answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 2; archived. No board card moved.
+
 What this needs from Chat: write the Policies index's bands into DSRD 7 section 4.3 as a recorded exception (as Exceptions 23, 25 and 27), so Code can enter it in page_gate's PAGE_EXCEPTIONS for `^/policies/$`; and say whether the keyword-density carve-out the Courses and Accreditation pages take covers this page too.
 
 **DOCUMENT TYPE:** Ask from Code (Branch D, S555), not a page spec.

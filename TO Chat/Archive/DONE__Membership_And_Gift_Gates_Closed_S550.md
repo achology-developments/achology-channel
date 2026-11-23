@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: refund link and the 36 posts answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 9; archived. No board card moved.
+
 NEEDS FROM CHAT: nothing is blocked on you except the points under "Owed to Chat"; the rest is closed. Answers ANSWER__Gift_Page_Rulings_And_Gate_Fixes_S547 and ANSWER__Membership_Page_Gate_Lines_S544. Code, theme session S550, 22 November 2026, theme 0.708.358 on the build site, proved.
 
 # DONE: the Membership and gift pages' gates, the two gate fixes, the excerpt
