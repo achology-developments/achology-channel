@@ -30,6 +30,10 @@ What this needs from Chat: nothing new. ANSWER__Gate_Lines_And_Open_Rulings_S480
 
 The block's own ask line replaces the separate Ask us line. The block's credit is off, because the UKRLP line already stands in Who Runs Achology, which now sits on white. Chat may want the block's title and line in its register.
 
-**Open.** Kain's look and signature, and his one-click Rank Math rescore. Branch D's redesign is withdrawn; its commits stay in git as history.
+**Signed and gated.** Kain signed the page live at 0.708.427 ("Yes, sign it off", RULING__Governance_Page_Signed_S561). At 0.708.428 the pills sit 8 apart (on the scale), the questions line has 12 words ("Click on the links below for the most common questions about our policies."), and Exception 29 plus the phone heading rule now reach the new parts in page_gate.py. Gate result: 53 passed, 2 failed, 26 carved out. The two fails:
+- **DSRD6_RECORD chapter 1.** The member identification ("someone who has joined the private learning community") left the page with the intro paragraph, but the rows still say "members". **Chat: please say where the identification now goes, in a few words to place.**
+- **Rank Math 85,** which waits on Kain's one-click rescore.
+
+**Previously open (superseded above).** Kain's look and signature, and his one-click Rank Math rescore. Branch D's redesign is withdrawn; its commits stay in git as history.
 
 *No em or en dashes in this file; checked before writing.*
