@@ -21,10 +21,10 @@ This replaces ANSWER__Home_Page_Words_S562 wherever the two differ. That file's 
 
 | Slot | Words | Count | Carrier, and where it goes |
 |---|---|---|---|
-| Figure 1 | 695,578 | Students Enrolled | 3 | reviews figures row: number and two-word label |
-| Figure 2 | 216 | Countries With Students | 4 | figure register's own label |
-| Figure 3 | 4.66 | Average Rating | 3 |  |
-| Figure 4 | SoMAP | Accredited Education | 3 | SoMAP is a link |
+| Figure 1 | 695,578 (number), Students Enrolled (label) | 3 | reviews figures row: number and two-word label |
+| Figure 2 | 216 (number), Countries With Students (label) | 4 | figure register's own label |
+| Figure 3 | 4.66 (number), Average Rating (label) | 3 |  |
+| Figure 4 | SoMAP (number), Accredited Education (label) | 3 | SoMAP is a link |
 
 The figures are the register's and DSRD 5's (695,578; 216; 4.66). The reviews block's own label reads Students Enrolled, kept here.
 
