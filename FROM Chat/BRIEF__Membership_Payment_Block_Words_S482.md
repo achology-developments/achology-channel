@@ -1,3 +1,4 @@
+CODE DISPOSITION, S563: WAITS ON Branch 2 (local_4573a9d9) building it, sent by the main session.
 What this needs from Code (theme session): replace the words in the Membership page's payment block exactly as the table says, check each line on one row where it must, then report.
 
 Done when every "new" string below reads on the build site's Membership page, nothing else on the page or on any other page has changed, and one DONE lists each change, any line that wraps or ends on a short last line at 1280 or 375, and the gate lines entered.
