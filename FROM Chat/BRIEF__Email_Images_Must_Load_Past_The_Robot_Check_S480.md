@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON a launch branch taking it (proposed to Kain as a session card).
 For Code's main session (S552), urgent, one branch. What this needs: every picture our Kit emails show must load for email programs, which today often get SiteGround's robot check instead of the picture.
 
 Done when each address below answers 200 with an image type (not 202 text/html) to `curl -A "GoogleImageProxy"` and to `curl -A "Mozilla/5.0 (Windows NT 10.0) Outlook"`, and a DONE in TO Chat gives the final addresses for Chat to place in every Kit email.

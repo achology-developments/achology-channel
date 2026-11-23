@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Branch C placing it (sent to it) and Kain's view of the page.
 What this needs from Code: on the Presuppositions page (Branch C), fill the history scroll (the Academy's "A Short History of Modern Applied Psychology" block) with the five chapters, ten moments and foot below, word for word.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.

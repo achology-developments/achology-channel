@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON a launch branch taking it with the free course journey brief.
 For Code's main session (S552), the branch holding BRIEF__Free_Course_Journey_Gaps_Closed_S480. What this needs: two steps Kain said yes to.
 
 Done when the Help answer is published at its address with its fields read back, and one TEST claim is confirmed in Karen's inbox (inbox or spam, said plainly) and in a test member inbox, in a DONE in TO Chat.
