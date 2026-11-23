@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Kain signing the Presuppositions page, then Branch C ships it and the WORDS file entry is added (block placed in preview, commit 98c26d0d, line one row at 1440).
 What this needs from Code: draw the site-wide questions block (achology_questions_block, form "topics") at the foot of Achology's Presuppositions page (Branch C) with the heading, line and three groups below, and add the same entry to WORDS__Question_Block_Groups_And_Lines_Site_Wide_20Nov.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
