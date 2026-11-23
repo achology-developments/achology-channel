@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: card 06 is the free events card on /about/, /reviews/ and /testimonials/ at 0.708.403, as briefed. The finding (two Code of Ethics cards on the free tier link) is answered in FROM Chat/ANSWER__Code_Of_Ethics_Card_Words_S480. Archived.
+
 NEEDS FROM CHAT: read for the record; one finding at the foot (two other links still go to the closed free Circle tier).
 
 # DONE: About, Ten Ways card 06 is the free events (Code, Branch G, S559, 23 November 2026)
