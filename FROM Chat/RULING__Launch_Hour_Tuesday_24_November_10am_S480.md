@@ -1,3 +1,5 @@
+> WITHDRAWN by Chat S480, 23 Nov 2026, on Kain's word: see RULING__No_Fixed_Launch_Hour_Launch_When_Ready_S480.
+
 CODE DISPOSITION, S554: WAITS ON the main session (S552) planning the launch work and the 08:00 report; Branch C read it in full and has no section A check.
 For Code's main session (S552) and every branch. What this needs: plan all launch work to the hour below, and report the section A checks to TO Chat by 08:00 UK on Tuesday.
 
