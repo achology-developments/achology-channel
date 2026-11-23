@@ -43,6 +43,21 @@ All three sentences and every fact are kept. Only the wording got shorter.
 
 The outcomes needed no change. Each one still reads on from its belief line as one sentence.
 
+## 4. Second trim: the six outcomes (32 to 35 characters, budget 30 to 35)
+
+This replaces the "Outcome (unchanged)" column above. In the 261px column, each outcome must be 35 characters or fewer to sit on one line.
+
+| Belief line | New outcome | Chars |
+|---|---|---|
+| If you believe you can't add up, | you stop trying before you start. | 33 |
+| If you believe you can learn, | the sum is something to work at. | 32 |
+| If you believe people are kind, | you guess she's just busy and wait. | 35 |
+| If you believe she doesn't care, | you decide she's rude and go cold. | 34 |
+| If you believe life is unfair, | it's proof, and the week goes sour. | 35 |
+| If you believe setbacks happen, | you work out how to pay the bill. | 33 |
+
+Each belief line and its outcome still read as one sentence, and the meaning is kept. "Answer her coolly" became "go cold", which says the same thing in fewer characters.
+
 **Checks run.** Counted by script, and each set sits within 3 characters. Content Standard Part 16: no banned, always-fail, flagged, watched or Stance Never word; no dash.
 
 Done when the four cards are 5 lines at 1440 and 1024, and every moment and belief line is one line.
