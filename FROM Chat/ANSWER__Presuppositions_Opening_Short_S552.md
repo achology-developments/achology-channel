@@ -1,4 +1,4 @@
-CODE DISPOSITION, S555: WAITS ON Branch C (the Presuppositions page, local_32a7580f) placing the two paragraphs; not Branch D's page.
+CODE DISPOSITION, S554: WAITS ON the Presuppositions page shipping; both paragraphs placed word for word in Branch C's preview (commit d62d075f), 6 lines each at 1440 and 1024.
 What this needs from Code: replace the two opening paragraphs on Achology's Presuppositions page (Branch C) with the two below, word for word, so each is at most seven lines deep in its column.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.

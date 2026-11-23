@@ -1,2 +1,2 @@
-OK  2026-11-23T02:27:28Z
-Pushed 6 change(s). Channel and origin agree.
+FAIL  2026-11-23T02:28:56Z
+Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: error: cannot rebase: You have unstaged changes..
