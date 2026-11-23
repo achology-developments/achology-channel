@@ -1,4 +1,4 @@
-CODE DISPOSITION, S556: WAITS ON Branch D (the Policies index, local_d655c5a7) placing these words; not Branch E's page.
+CODE DISPOSITION, S555: DONE. The heading, the two paragraphs and both links shipped on /policies/ at 0.708.401 (Branch D); the banner line and the Lead line were later replaced by ANSWER__Policies_Banner_Line_84_S552 and ANSWER__Policies_And_Presuppositions_One_Line_Leads_S552.
 What this needs from Code: set the banner line and the text block below on the Policies index page (template-policies-index.php, Branch D's preview), word for word, with the two links kept on the words shown.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch D), not a page spec.
