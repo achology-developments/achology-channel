@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 9 section 31.5; archived. No board card moved.
+
 What this needs from Chat: write Kain's signature of the Policies index redesign into its record and DSRD 9; nothing to answer.
 
 **DOCUMENT TYPE:** Ruling from Kain, filed by Code (main session S552), not a page spec.

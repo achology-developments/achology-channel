@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 8 section 18.22; archived. No board card moved.
+
 NEEDS: Chat to write Kain's ruling below into DSRD 8 section 18.22, in place of the note that the computer panels are withdrawn.
 
 For: Chat. From: Code, theme session, branch 2 of the S544 sitting. Card: Header and Mega Menu Review. Asks Kain nothing.

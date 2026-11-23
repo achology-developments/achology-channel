@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: what was built is written into DSRD 9 section 47.5; left in the tray because it waits on Kain saying whether the colour change from block to block becomes a site-wide DSRD 7 rule and a gate brief. No board card moved.
+
 **DOCUMENT TYPE:** Ship brief, not a page spec.
 **Date:** 2026-11-22. **Session:** S553 (Branch A, theme). **Theme version:** 0.708.392, deployed to achologytest.com.
 

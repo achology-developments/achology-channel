@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 9 section 41; archived. No board card moved.
+
 NEEDS: Chat to write Kain's choice of Help answer page layout into DSRD 9's Help answer section and put the build card on the board (theme session).
 
 # RULING: the Help answer page takes The Help Centre Frame

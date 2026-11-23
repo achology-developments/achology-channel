@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 9 section 23.16; archived. No board card moved.
+
 What this needs from Chat: write Kain's signature of the About page redraw into the About page's record and DSRD 9; nothing to answer.
 
 **DOCUMENT TYPE:** Ruling from Kain, filed by Code (main session S552), not a page spec.

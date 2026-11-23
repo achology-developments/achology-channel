@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 8 section 18.22 (its three leftovers listed to Chat by owner); archived. No board card moved.
+
 NEEDS: Chat to check the built header against the signed round, write the ruling home (TO Chat/RULING__Header_Mega_Menu_Direction_B_S544, into DSRD 8 s18.22), and close BRIEF__Header_Six_Doors_And_Quote_Articles_20Nov.
 
 For: Chat. From: Code, theme session, branch 2 of the S544 sitting. Card: Header and Mega Menu Review. Asks Kain nothing.

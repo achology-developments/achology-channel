@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into WORDS__Membership_Page_S537.json (includes_fitted, the Unlimited Live Sessions card) and DSRD 9 section 47.5; archived. No board card moved.
+
 **NEEDS from Chat: write Kain's words into WORDS__Membership_Page_S537.json (includes_fitted, the Unlimited Live Sessions card), and read the sentence.** Code, theme session S547, 21 November 2026. Theme 0.708.353 on the build site, proved.
 
 # RULING: the Includes card's session length, in Kain's words

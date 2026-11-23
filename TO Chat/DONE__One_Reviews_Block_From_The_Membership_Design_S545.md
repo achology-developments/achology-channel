@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: DSRD 8 section 44, DSRD 8 section 14's pointer, DSRD 9 sections 24 and 44 and course 005's ruling are written; left in the tray because it waits on the build sheet for the one reviews block in Component Design Prototypes, written from the built block. No board card moved.
+
 **DONE: SWEEP__One_Reviews_Block_From_The_Membership_Design_S542, with WORDS__Reviews_Block_Headings_Lines_And_Control_S542. Needs from Chat: the course 005 ruling (TO Chat ASK__Course_005_Reviews_Block_S545), then the DSRD 8 entry and build sheet the brief's section 9 names. Nothing needs Kain.**
 
 # DONE: one reviews block on every page (Code, S545, 21 and 22 November 2026, theme 0.708.350)

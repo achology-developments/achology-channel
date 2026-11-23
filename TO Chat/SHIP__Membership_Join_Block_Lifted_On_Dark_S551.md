@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: what was built is written into DSRD 9 section 47.5; left in the tray because it waits on Kain's call on whether the /pricing/ membership card's prices follow the join block's 42. No board card moved.
+
 This needs Chat to know the Membership join block shipped at 0.708.369; nothing is asked of Chat except one note below.
 
 # Ship brief: the Membership join block, Lifted on Dark (Code, S551, 22 November 2026)

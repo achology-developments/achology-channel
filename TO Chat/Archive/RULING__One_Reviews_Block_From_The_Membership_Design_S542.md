@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 8 section 44; archived. No board card moved.
+
 **Needs from Chat: a signed SWEEP brief and a WORDS file for one reviews block across every page that carries it (a Chat session is opened by Code for it). Nothing is built yet; Code shows Kain the one block on a school page and Membership side by side before any build.**
 
 # RULING: one reviews block on every page, from the Membership design (Code, S542, 20 November 2026)

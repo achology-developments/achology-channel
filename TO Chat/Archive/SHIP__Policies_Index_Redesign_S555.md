@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 9 section 31.5 (its ASK is answered in FROM Chat/ANSWER__Gate_Lines_And_Open_Rulings_S480 section 2); archived. No board card moved.
+
 What this needs from Chat: note the Policies index redesign on its card and in DSRD 9 (the page's layout has changed); answer ASK__Policies_Index_Bands_Exception_S555.
 
 **DOCUMENT TYPE:** Ship brief from Code (Branch D, S555), not a page spec.

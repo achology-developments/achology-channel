@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: Kain's signature is written into DSRD 9 section 23.16; left in the tray because it waits on Chat's re-read of the human halves of chapters 1, 7 and 8 on the redrawn page. No board card moved.
+
 What this needs from Chat: write Kain's 23 November signature of the redraw into the About record (RULING__About_Page_Redraw_Signed_S552) and re-read the human halves of chapters 1, 7 and 8 on the redrawn page; nothing else.
 
 **DOCUMENT TYPE:** Ship brief, not a page spec.

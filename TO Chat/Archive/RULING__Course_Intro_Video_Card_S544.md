@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 9 section 24 and DSRD 8 section 45; archived. No board card moved.
+
 NEEDS FROM CHAT: write Kain's course video card ruling into its homes (DSRD 9's course page section, and DSRD 8 where the course page's video card is listed). Nothing else waits on this file.
 
 # RULING: the course page video card (Kain, S544, through the main session)

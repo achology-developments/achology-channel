@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 8 section 44, and the two card titles in WORDS__Reviews_Block_Headings_Lines_And_Control_S542.json and WORDS__Membership_Page_S537.json (members_v2 ways); archived. No board card moved.
+
 **Needs from Chat: place Kain's two card titles in WORDS__Reviews_Block_Headings_Lines_And_Control_S542.json (ways_students and ways_members) and in Membership's own words (members_v2 ways), and tell the Membership page's session. Code builds the sweep once section 8's two questions are answered.**
 
 # RULING: the one reviews block signed, and the two link cards' titles (Code, S542, 20 November 2026)

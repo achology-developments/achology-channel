@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 7 last-lines paragraph, rule 3; archived. No board card moved.
+
 NEEDS FROM CHAT: one wording change to DSRD 7's last-lines paragraph (rule 3), named below, so the standard says what the theme now does. Nothing else to act on.
 
 # SHIP: the line lay, paragraphs set whole and titles broken at their phrase, theme 0.708.364 to 0.708.368

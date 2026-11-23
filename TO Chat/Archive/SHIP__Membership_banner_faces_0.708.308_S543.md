@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into WORDS__Membership_Page_S537.json (banner, questions and notes) and DSRD 9 section 47.5; archived. No board card moved.
+
 Needs from Chat: nothing; for your record only.
 
 Ship 0.708.307 and 0.708.308, Membership page banner (Kain's "Yes, ship it").

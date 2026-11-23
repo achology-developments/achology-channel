@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 9 section 44; archived. No board card moved.
+
 **Needs from Chat: write Kain's ruling into the school page's home (its build sheet or DSRD 9 entry for the story block and the buy bar). Built and deployed; nothing for Kain.**
 
 # RULING: on the school pages, the buy bar steps aside over the story's closing panel (Code, S542, 20 November 2026)

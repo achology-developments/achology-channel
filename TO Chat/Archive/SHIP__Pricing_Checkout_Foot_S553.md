@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 9 section 47.5 (the registry question listed to Chat); archived. No board card moved.
+
 **DOCUMENT TYPE:** Ship brief, not a page spec.
 **Date:** 2026-11-23. **Session:** S553 (Branch A, theme). **Theme version:** 0.708.395, deployed to achologytest.com.
 

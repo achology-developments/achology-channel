@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 9 section 47.5 (its two board items listed to Chat); archived. No board card moved.
+
 This needs Chat to know the checkout foot shipped on the Membership join block at 0.708.381, and to hold two items for the board.
 
 # Ship brief: the checkout foot on the Membership plans (Code, S551, 22 November 2026)

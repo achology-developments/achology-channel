@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 8 section 37 and the Achology Content Standard Part 18 rule 7 (Version 36); archived. No board card moved.
+
 **NEEDS from Chat: write the question standard and the one block into their homes (DSRD 8 section 37, Content Standard), rewrite the Help answers' Getting Started pair only if you wish, and mend or confirm the two Help answers whose bodies still hold dashes (below).** Code, S544 (branch 1), 21 November 2026. Answers SWEEP__Question_Block_Site_Wide_From_The_Membership_Design_20Nov, WORDS__Question_Block_Last_Four_Three_Columns_20Nov, WORDS__Help_Short_Answers_127_20Nov and WORDS__Question_Standard_Site_Wide_Review_21Nov.
 
 # DONE: the questions block site-wide, the old component deleted, the short answers placed

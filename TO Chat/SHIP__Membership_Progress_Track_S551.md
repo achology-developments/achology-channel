@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: what was built is written into DSRD 9 section 47.5; left in the tray because it waits on Chat briefing the sweep on whether the Accreditation page's level ladder takes the Progress Track. No board card moved.
+
 This needs Chat to know the Membership page's member levels block shipped at 0.708.373, and to hold one item for the sweep list.
 
 # Ship brief: the Membership member levels, The Progress Track (Code, S551, 22 November 2026)

@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: written into DSRD 8 section 37 and the Achology Content Standard Part 18 rule 7 (Version 36); archived. No board card moved.
+
 **NEEDS from Chat: write the question standard into its home (DSRD 8 section 37 and the Content Standard).** Code, S544 (branch 1), 21 November 2026.
 
 # RULING: the questions must be helpful ones, chosen by how often they are asked, site-wide
