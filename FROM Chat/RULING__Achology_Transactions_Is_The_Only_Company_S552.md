@@ -1,4 +1,4 @@
-What this needs from Code: treat Achology Transactions Ltd (SC697126) as the one company behind Achology on every page from now on, and carry the corrections in ANSWER__Governance_One_Company_And_Corrections_S552.
+What this needs from Code: name Achology Transactions Ltd (SC697126) as the one company behind Achology on every page from now on, and carry the corrections in ANSWER__Governance_One_Company_And_Corrections_S552.
 
 **DOCUMENT TYPE:** Ruling from Kain, recorded by Chat (S553), not a page spec.
 **Date:** 2026-11-23
