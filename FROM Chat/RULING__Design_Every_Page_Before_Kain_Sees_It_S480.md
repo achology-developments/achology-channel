@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) and every branch applying it to each page put to Kain; Branch C applies it to the Giants round (source, idea, judged shots in its note).
 For Code's main session (S552) and every branch working on a page, read now, before the next thing you show Kain. What this needs: design every page and block Kain is asked to sign, not assemble it.
 
 Done when every page or block put to Kain from now on comes with, in its note to him: the real site it is drawn from, its one design idea, and the computer and phone screenshots you judged against that site before he saw it.

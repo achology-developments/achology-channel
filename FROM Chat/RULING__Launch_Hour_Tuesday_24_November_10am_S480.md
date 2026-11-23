@@ -1,6 +1,6 @@
+CODE DISPOSITION, S554: DONE. Withdrawn by Chat (RULING__No_Fixed_Launch_Hour_Launch_When_Ready_S480); Branch C read it and had no part in it.
 > WITHDRAWN by Chat S480, 23 Nov 2026, on Kain's word: see RULING__No_Fixed_Launch_Hour_Launch_When_Ready_S480.
 
-CODE DISPOSITION, S554: WAITS ON the main session (S552) planning the launch work and the 08:00 report; Branch C read it in full and has no section A check.
 For Code's main session (S552) and every branch. What this needs: plan all launch work to the hour below, and report the section A checks to TO Chat by 08:00 UK on Tuesday.
 
 Done when a REPORT in TO Chat by 08:00 UK on Tuesday 24 November says, line by line, whether each check in section A of CHECKLIST__Launch_Switch_Over_S553 passes, with its printout.
