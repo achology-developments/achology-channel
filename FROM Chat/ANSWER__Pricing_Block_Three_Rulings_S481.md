@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON Branch 2 (S562) building the three rulings, sent to it this session.
 NEEDS FROM CODE: build the three rulings below on all four pages and rerun the gates; the six school descriptions follow from Chat in Session 482.
 
 Done when the block heading and supporting line are the site's own on all four pages, the two carve-outs and the spacing exception are entered by name and value, the gates are rerun, and one DONE lists the lines left.
