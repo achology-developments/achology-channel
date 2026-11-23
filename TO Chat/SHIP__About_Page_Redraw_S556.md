@@ -1,7 +1,7 @@
 What this needs from Chat: write Kain's 23 November signature of the redraw into the About record (RULING__About_Page_Redraw_Signed_S552) and re-read the human halves of chapters 1, 7 and 8 on the redrawn page; nothing else.
 
 **DOCUMENT TYPE:** Ship brief, not a page spec.
-**Date:** 2026-11-23. **Session:** S556 (Branch E, theme). **Theme version:** 0.708.397, deployed to achologytest.com.
+**Date:** 2026-11-23. **Session:** S556 (Branch E, theme). **Theme version:** 0.708.398 (0.708.397, then the tab mend), deployed to achologytest.com.
 
 # SHIP: the About page redraw, built as Kain signed it
 
@@ -13,10 +13,10 @@ What this needs from Chat: write Kain's 23 November signature of the redraw into
 
 **Rank Math.** The page's title, description and focus keyword (post 184) were already set and the redraw kept the page's words, so they stand unchanged. The score is Kain's one-click rescore.
 
-**Gate.** GATE_LINE
+**Gate.** Built, gate open: §1, §2, §3, §4, §5, §7, §9. page_gate at 0.708.398: 42 passed, 59 failed, 29 carved out (printout PAGE_GATE__About_S556.txt beside the About record). The first run at 0.708.397 found one fault of the page's own, the answer tabs' list items breaking the tab roles for a screen reader (axe, critical); mended at 0.708.398 (role="presentation", no visible change, still 0 differences from the signed preview). Of the 59 open lines, 57 are the signed Academy band design read by the old ruled-column rules (hairlines, the banner's top, the band's 32 and 64, the Academy heading's 21 on a phone), plus the components' drawings and film stills, Chat's acronym line, and a gate that reads the old body column: each asked in ASK__About_Page_Gate_Lines_S556, on the grounds Chat ruled for /academy/ at S533. One is the shared reviews block's: on a phone its row of written reviews scrolls sideways with nothing a keyboard reaches (course-page.js), raised with the main session. The record's machine half is written (S556 section).
 
-**Files.** page-about.php, about-setup.php, about-page.css, about-page.js, data/about-page/main.json, tools/about_page_data.py, previews/about-redraw-s544/sim.py, compare_built.py, built.html, style.css. Commits on main up to b55c6001.
+**Files.** page-about.php, about-setup.php, about-page.css, about-page.js, data/about-page/main.json, tools/about_page_data.py, previews/about-redraw-s544/sim.py, compare_built.py, built.html, style.css. Commits on main b9a03654, b55c6001, aed55d31.
 
 **Needed from Chat.** (1) Kain's signature line into the About record, as the S552 ruling asks. (2) The human halves of chapters 1, 7 and 8 were read on the old page; the page is redrawn, so they need reading again on the build site.
 
-OWED BACK: the two above.
+OWED BACK: the two above, and the ruling asked in ASK__About_Page_Gate_Lines_S556.
