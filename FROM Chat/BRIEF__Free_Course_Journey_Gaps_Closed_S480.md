@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON a launch branch taking it (proposed to Kain as a session card).
 For Code's main session (S552), a launch job for one branch. What this needs: close five gaps Chat found tracing the annual member's free course journey end to end on the build site today.
 
 Done when each of the five items below is built or proved, and a DONE in TO Chat gives the theme version, the posts changed, and the mail check's printout.
