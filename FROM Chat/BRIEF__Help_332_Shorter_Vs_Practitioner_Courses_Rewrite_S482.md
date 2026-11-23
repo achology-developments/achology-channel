@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON the new main session (local_5a6f4d85) giving it to a branch.
 What this needs from Code (factory or theme session): push the rewritten Help answer 332 to the build site, read it back, run the gates and score it.
 
 Done when post 332 reads as its record on the build site (title, body, excerpt, search title and description, focus phrase), carries no picture and no word Masterclass or price, and one DONE gives its gate lines and score.

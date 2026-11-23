@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON Branch 1 (local_d8278156) building it, routed by the new main session.
 For Code (the Six Day page's theme session, S562): what this needs: build Chat's pick for "Technique" and place the three shorter summary lines below, then rerun the 12 views and the three summaries.
 
 Done when no name on the Six Day pages ends on a single word at 1280 or 375, the three summaries run six lines or fewer at 375, and one DONE gives the rerun views.
