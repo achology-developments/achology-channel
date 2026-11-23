@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) starting a branch for the sweep fixes; Branch C read it in full, and its Beliefs preview takes the Ten Ways card 06 change on its next refetch of /about/.
 For Code's main session (S552), a launch job for one branch. What this needs: five fixes from Chat's sweep of all 1,224 pages in the build site's sitemaps today. Each one still offers visitors the closed free Circle tier or free coaching for people outside the community.
 
 Done when a rerun of the same sweep finds no invitation_token link, no "book free coaching sessions" line, no "free membership tier" answer, and no page answering as an empty Archives page at /academy/schools/ or /free-coaching/; the DONE in TO Chat gives the theme version and counts.
