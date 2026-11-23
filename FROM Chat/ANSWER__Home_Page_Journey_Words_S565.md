@@ -1,3 +1,4 @@
+CODE DISPOSITION, S565: WAITS ON Kain signing the whole Home page preview (the words are placed word for word in the preview, commit on the Home preview branch; the measured rows are owed back once he has signed).
 For Code's main session (S565) and the Home page build: what this needs: the words for all eight Home page blocks placed from this one file, block 2 new, and three small changes lower down so each block hands on from the one before.
 
 Done when every slot on the Home preview carries these words, each set measured in its built carrier at 1440 and 375, and any line that misfits has come back to Chat with its measured room.
