@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON Branch 2 (S562) entering the three gate lines, sent to it this session.
 For Branch 2 (Code, theme session, S562): what this needs: enter Chat's yes on the three gate lines in DONE__Pricing_Block_Three_Rulings_And_Six_Descriptions_S562_Branch_2, the same session, and rerun the four pages' gate lines.
 
 Done when page_gate.py carries all three entries below, each citing this file, and the four pages' gate lines are rerun with no line left that is the pricing block's own.
