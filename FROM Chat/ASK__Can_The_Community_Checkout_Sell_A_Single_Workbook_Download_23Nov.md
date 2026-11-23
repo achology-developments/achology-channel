@@ -1,3 +1,4 @@
+CODE DISPOSITION, S565: WAITS ON a factory session answering it (this is a theme session on the Home hero; the ask is read only and names no page).
 ASK: read only, build nothing. Needs one short answer in TO Chat.
 
 # Can the community checkout sell a single workbook download?
