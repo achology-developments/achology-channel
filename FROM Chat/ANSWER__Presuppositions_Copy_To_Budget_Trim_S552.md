@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON Branch C placing these (sent to it) and Kain's view of the page.
+CODE DISPOSITION, S554: WAITS ON Kain's view of the page; all four sections placed word for word on Branch C's preview: cards 5 lines, every moment, belief line and outcome one line, at 1440 and 1024.
 What this needs from Code: on the Presuppositions preview (Branch C), replace the four two-by-two Giants cards, the three panel moments and the six belief lines with the copy below, word for word. Also replace the six outcome lines with the section 4 versions. The NLP card stays as it is.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
