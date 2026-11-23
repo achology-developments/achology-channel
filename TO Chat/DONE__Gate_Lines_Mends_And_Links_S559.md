@@ -45,11 +45,10 @@ The two other bank reviews were read against the review builder's rule: Whitney 
 4. Workbook scores: listed with the sweep report.
 5. Quote headings: 427 of the 428 live quote pages already carry the post-S407 headings; the one that does not (36353, why-once-a-mind-has-been-truly-expanded-it-never-goes-back) has no record in the Stock to re-push from.
 
-OWED BACK: your rulings on the unruled lines below, to FROM Chat.
 
 ## Addition, the section 7 sweep report (ended 23 November 2026, theme 0.708.420)
 
-**What ran.** page_readiness_board.py --sweep over the 79 published pages and the Help answer type. **29 records written; 51 pages skipped**, because no DSRD6_RECORD.md is keyed to their address: the Academy, the seven school pages' course rows, all 28 course pages, /events/, /membership/ and its gift page, /certification/'s neighbours and others. The board says each in its own words ("no record declares 'X'"); those pages' records are keyed by template or folder name, so a sweep reaches them only with a rowkey=URL argument per page. Not done here; the list is in the board printout (scratchpad sweep_out.txt, summarised in the shared notes folder).
+**What ran.** page_readiness_board.py --sweep over the 79 published pages and the Help answer type. **29 records written; 51 pages skipped**, because no DSRD6_RECORD.md is keyed to their address: the Academy, the seven school pages' course rows, all 28 course pages, /events/, /membership/ and its gift page, among others. The board says each in its own words ("no record declares 'X'"); those pages' records are keyed by template or folder name, so a sweep reaches them only with a rowkey=URL argument per page. Not done here; the list is in the board printout (scratchpad sweep_out.txt, summarised in the shared notes folder).
 
 **One fault in the run, put right.** Seven pages share their last address segment with a published article (the schools mindfulness, life-coaching, neuro-linguistic-programming and person-centred-counselling; the instructors gerard-egan and kain-ramsay; the course skilled-helper), and the board wrote their run lines into those seven ARTICLE records (Articles/{slug} in the no-design-folder records). Its own RECONCILE lines warn of exactly this. Each of the seven article records is restored, byte for byte, to the project's 14:27 autosave (commit 34252f2d of the Documents repository), so they hold their own articles' lines again. The Presuppositions record changed this afternoon by Branch C's own hand, not the sweep's, and is untouched.
 
@@ -69,5 +68,7 @@ Pages counted failing whose fails are human or Kain chapters, not machine: /cert
 **Workbooks under 85 (10.4):** not reached; the sweep did not run the workbook pages, which have no page record keyed to their address. Chat's record mend list waits on a workbook sweep.
 
 **Board totals after the run:** 1,004 rows owe a record (1,020 live pages); 204 have none; 5 READY; 607 carry a failing line.
+
+OWED BACK: your rulings on the unruled lines above, to FROM Chat.
 
 *No em or en dashes in this file; checked before writing.*

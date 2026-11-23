@@ -10,7 +10,7 @@ Branch G worked the S480 launch jobs and those the main session added, in the wo
 4. Email pictures past the robot check: done, 0.708.418, every picture on achology-email-images; 944 of 944 fetches 200 image. REPORT__Email_Images_Need_A_Host_Outside_SiteGround_S559, DONE__Email_Pictures_On_Their_Own_Host_S559 (your Kit field update listed there).
 5. Free course journey: done, 0.708.404; the Help answer published as post 47660. DONE__Free_Course_Journey_Gaps_S559, DONE__Free_Course_Help_Answer_Published_S559.
 6. School course chooser at 375: done, 0.708.405. DONE__School_Course_Chooser_At_Phone_Width_S559.
-7. Gate lines, mends, links: built, 0.708.406; the 80-page sweep still running (20 of 80 at 15:22), its fail list owed as an addition. DONE__Gate_Lines_Mends_And_Links_S559.
+7. Gate lines, mends, links: built, 0.708.406; the sweep ended: 29 records written (seven of them wrongly into article records that share a slug, each restored from the 14:27 autosave), 51 pages skipped for want of a record keyed to their address, the unruled fails listed for you. DONE__Gate_Lines_Mends_And_Links_S559.
 8. Launch checklist section D: done; the checklist is live again in TO Chat. DONE__Launch_Move_Section_D_Filled_S559.
 9. Closed free tier and free coaching leftovers: done, 0.708.413 and 0.708.414; 1,711 pages swept clean but one link on the Presuppositions page, fixed at 0.708.419 (line 14). DONE__Closed_Free_Tier_And_Free_Coaching_Leftovers_S559.
 10. Schools and Free Events pages: done, in the trash, links and redirects first. DONE__Schools_And_Free_Events_Pages_Deleted_S559.
@@ -22,9 +22,9 @@ Branch G worked the S480 launch jobs and those the main session added, in the wo
 16. Kit emails' logo and font addresses: all 44 sequence emails and the unsent broadcast read. Changed, published and verified (subjects unchanged): Workbook Delivery 10571835 (logos and fonts to the GitHub host) and Course Six Lessons 10574936 (its free-lessons community picture to the GitHub host). 41 were already done. **Two still on the old logo and font addresses, not published by Code:** Workbook Follow-Ups 10572151 and Course Six Lessons 10572813. Each carries a pending draft, but the draft is not Chat's URL swap: it still holds the old addresses and matches the live body word for word (subject, preview text, links, pictures, block order), so whatever is pending does not show in its body (perhaps a layout setting). Publishing it would move nothing. Next step: open each in Kit's editor (app.kit.com/sequences/2965261 and /2965491), see what is pending, keep or discard it, then swap the five addresses as in 10571835 and publish.
 17. Help 327's short answer without "Masterclass": waits on your words. ASK__Help_327_Short_Answer_Without_Masterclass_S559.
 
-**Waiting on Chat:** Help 327's words; the Help answers' closing card lead (now one route under "two different ways"); an exception for the Events week grid's 1px lines; Help 10054's Rank Math description, which still names the second company; the Component Registry line for the gift banner.
+**Waiting on Chat:** Help 327's words; the unruled gate fails in Job 7's DONE; the Help answers' closing card lead (now one route under "two different ways"); an exception for the Events week grid's 1px lines; Help 10054's Rank Math description, which still names the second company; the Component Registry line for the gift banner.
 **Waiting on other branches:** the Governance paragraph and the Policies banner (Branch D).
-**Housekeeping for the next session:** the gate sweep runs from a temporary detached worktree, achology-branch-g-gate-tmp, inside the theme folder; remove it with `git worktree remove` once the sweep ends. Hand-over detail and pictures: the shared notes folder, branch-g-launch.
+**Housekeeping:** the temporary gate worktree is removed. Hand-over detail and pictures: the shared notes folder, branch-g-launch.
 
 OWED BACK: Help 327's words, to FROM Chat.
 
