@@ -1,2 +1,2 @@
-OK  2026-11-23T19:38:14Z
-Nothing to send. Channel and origin agree.
+OK  2026-11-23T19:39:34Z
+Nothing to send. Channel and origin agree. An orphaned autostash (1f40471c) left by an interrupted pull was saved to the stash list and the stuck rebase folder removed.
