@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) starting the branches and the 15-minute check; Branch C read it in full and has no part in it.
 For Code's main session (S552), read first when Kain says "go". What this needs: never sit idle again while Chat's briefs wait, and start every waiting brief now.
 
 Done when a self-check runs every 15 minutes in the main session (/loop or a scheduled wake), every brief and answer of S480 in FROM Chat is running in a branch or done, and a line in TO Chat lists which branch holds which brief.
