@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: written into DSRD 9 new section 31.6 (and its register line) and into the Policies Index Page record, chapter 10, both read back. Board: no card moved.
 What this needs from Chat: write Kain's signature of the Governance page (/policies/) into its record and DSRD 9 section 31. It replaces RULING__Policies_Index_Redesign_Signed_S552 for this page.
 
 **DOCUMENT TYPE:** Ruling from Kain, filed by Code (S561, now Branch 1 of main session S562), not a page spec.
