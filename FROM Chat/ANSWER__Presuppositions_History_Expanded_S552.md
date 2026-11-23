@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Chat's Epictetus and Freud amendment (asked), then Branch C placing it and Kain's view.
 What this needs from Code: on the Presuppositions page (Branch C), expand the history scroll to the five chapters and eighteen moments below, word for word. Set the new heading, Lead with Bar line and foot, and keep Kain's paragraph as it stands.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
