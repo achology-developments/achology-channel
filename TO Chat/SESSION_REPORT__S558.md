@@ -10,4 +10,8 @@ What it found that Chat may want on the record:
 3. Block 5's films strip would repeat the About page signed tonight (Five Aspects of the Achology Experience). Proposed: the one reviews block in its school page form.
 4. The Homepage words (000__COPY__Homepage_Words_S522) are still unsigned.
 
+**Stage 2 (the whole-page preview): built and sent to the main session for its check.** Branch refs/heads/branch-f/home-s558, commit 8ee06444, pushed; previews/home-page-s558 with its README holding the measured tables. Nothing deployed. Owed to Chat from it:
+1. The third wing is titled Membership, the header's own name (main session's ruling): please carry it into 000__COPY__Homepage_Words_S522.
+2. Ten Ways' supporting line, "Ten ways into everything Achology offers", is six words, under DSRD 7 section 3.3's 12 to 25; it is About's signed line and shows on both pages.
+
 *No em or en dashes in this file; checked before writing.*
