@@ -1,6 +1,6 @@
-NEEDS FROM CHAT: read for the record; one link on the Events tickets waits on the main session (below), and two untimed records are yours to look at.
+NEEDS FROM CHAT: read for the record; two untimed records are yours to look at.
 
-# DONE, one link waiting: the event addresses point to the Events page (Code, Branch G, S559, 23 November 2026)
+# DONE: the event addresses point to the Events page (Code, Branch G, S559, 23 November 2026)
 
 Answers FROM Chat BRIEF__Event_Addresses_Point_To_The_Events_Page_S480. Theme session, Branch G. Theme version on the build site when done: 0.708.402 to 0.708.406 (no theme file changed for this job; the Events page itself is unchanged).
 
@@ -42,7 +42,20 @@ Each is a Rank Math row (ids 2952 to 2974), written straight into its table beca
 
 ## Internal links
 
-No published post, post meta or theme file links an /events/{record-slug}/ address. **One link waits:** every ticket's "Kind of Event" link points at /events/{kind}/ (nine addresses, such as /events/coffee-and-conversation/), the planned single pages Kain ruled are not built, and they answer 404 today. Where it should point is asked of the main session (recommended: the page's own Kinds of Event block, a target change only). Built the moment it answers.
+No published post, post meta or theme file links an /events/{record-slug}/ address.
+
+**The ticket's Kind of Event link (theme 0.708.408, on the main session's yes):** every ticket's link pointed at /events/{kind}/, the planned single pages, which answered 404. The Kinds of Event block has no anchor per kind (its cards are buttons that open a kind's next ticket), so all nine now open the block's own heading, /events/#ev-kinds-h, and the ticket closes as the link is followed. A target change only; nothing moves on the page. The nine pairs (was, now):
+- /events/achologist-led-tutorial/: /events/#ev-kinds-h
+- /events/code-of-character-conduct-training/: /events/#ev-kinds-h
+- /events/coffee-and-conversation/: /events/#ev-kinds-h
+- /events/communication-skills-people-skills/: /events/#ev-kinds-h
+- /events/live-coaching-practice-observation-and-feedback-session/: /events/#ev-kinds-h
+- /events/principle-based-reflective-discussion/: /events/#ev-kinds-h
+- /events/skill-development-workshop/: /events/#ev-kinds-h
+- /events/the-achology-code-of-ethics-training/: /events/#ev-kinds-h
+- /events/the-wiser-woman-project/: /events/#ev-kinds-h
+
+Proof, headless WebKit on the build site: every ticket's data-kindpage reads https://achologytest.com/events/#ev-kinds-h at 1280 and 375 (tickets with no kind carry none, as before); a ticket opened from its address, then its Kind of Event link pressed: the address reads #ev-kinds-h, the ticket is closed, and the Kinds of Event heading stands 80 from the top of the window.
 
 OWED BACK: nothing.
 
