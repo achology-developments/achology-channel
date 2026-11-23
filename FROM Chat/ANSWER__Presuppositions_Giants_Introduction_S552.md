@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON Branch C placing it (sent to it) and Kain signing the page.
+CODE DISPOSITION, S554: WAITS ON Kain signing the whole page; placed word for word under the Giants Lead with Bar on Branch C's preview, 3 lines at 1440 and 1024; the stance paragraph is gone.
 What this needs from Code: on the Presuppositions preview (Branch C), set this paragraph straight under the Giants Lead with Bar, as the introduction to the five cards, word for word, in place of the old stance paragraph under the cards.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
