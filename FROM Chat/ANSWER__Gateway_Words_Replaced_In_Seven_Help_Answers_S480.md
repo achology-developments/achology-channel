@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the branch holding the free course journey brief placing these seven paragraphs; Branch C read it in full and has no part in it.
 For Code's main session (S552), the branch holding BRIEF__Free_Course_Journey_Gaps_Closed_S480. What this needs: Chat has done item 5's search itself; place these words, each replacing the whole paragraph named, in the record and on the build site.
 
 Done when none of the seven Help answers below names Achology Gateway, each shows the new paragraph word for word, each record is re-pushed, and the DONE lists the seven posts.

@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON Kain's view of the Presuppositions page and his call on trimming his history paragraph; Branch C placed the block word for word.
 What this needs from Code: on the Presuppositions page (Branch C), add the introduction block below straight after the hero, word for word: the heading, the Lead with Bar subtitle and two paragraphs of equal length.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.

@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the branch building the Six Day Free Lessons page placing these words; Branch C read it in full and has no part in it.
 For Code's main session (S552) and the branch building the Six Day Free Lessons page. What this needs: place these final words instead of the working words in BRIEF__Six_Day_Free_Lessons_Page_Preview_18Nov section "The page", item 1 and the locked days.
 
 Done when the preview for course 001 and the School of NLP shows these words word for word, with {course name}, {school name} and {weekday} filled, and no line breaks to one, two or three words at 375.
