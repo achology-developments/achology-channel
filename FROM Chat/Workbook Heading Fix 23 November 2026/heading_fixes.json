@@ -1,0 +1,451 @@
+{
+ "about": "Workbook landing page heading fixes, Chat S482, 23 November 2026. Each entry: replace old with new in the record's Landing page body and on the build site. Idea names that were plural or not a thing now agree with Is/Are.",
+ "headings": [
+  {
+   "slug": "beckwiths-four-stages-of-consciousness",
+   "workbook_slug": "beckwiths-four-stages-of-consciousness-workbook",
+   "old_h1": "What Is Beckwith’s Four Stages of Consciousness?",
+   "new_h1": "What Are Beckwith’s Four Stages of Consciousness?",
+   "old_h2": "What Beckwith’s Four Stages of Consciousness Is Used For",
+   "new_h2": "What Beckwith’s Four Stages of Consciousness Are Used For",
+   "old_people_use": "People use Beckwith’s Four Stages of Consciousness to:",
+   "new_people_use": "People use Beckwith’s Four Stages of Consciousness to:"
+  },
+  {
+   "slug": "first-impressions-and-snap-judgements",
+   "workbook_slug": "first-impressions-and-snap-judgements-workbook",
+   "old_h1": "What Is First Impressions and Snap Judgements?",
+   "new_h1": "What Are First Impressions and Snap Judgements?",
+   "old_h2": "What First Impressions and Snap Judgements Is Used For",
+   "new_h2": "What First Impressions and Snap Judgements Are Used For",
+   "old_people_use": "People use First Impressions and Snap Judgements to:",
+   "new_people_use": "People use First Impressions and Snap Judgements to:"
+  },
+  {
+   "slug": "six-principles-of-personal-productivity",
+   "workbook_slug": "six-principles-of-personal-productivity-workbook",
+   "old_h1": "What Is a Personal Productivity Principle?",
+   "new_h1": "What Are the Six Principles of Personal Productivity?",
+   "old_h2": "What a Personal Productivity Principle Is Used For",
+   "new_h2": "What the Six Principles of Personal Productivity Are Used For",
+   "old_people_use": "People use a Personal Productivity Principle to:",
+   "new_people_use": "People use the Six Principles of Personal Productivity to:"
+  },
+  {
+   "slug": "the-six-stages-of-personal-reflection",
+   "workbook_slug": "the-six-stages-of-personal-reflection-workbook",
+   "old_h1": "What Is The Six Stages of Personal Reflection?",
+   "new_h1": "What Are the Six Stages of Personal Reflection?",
+   "old_h2": "What The Six Stages of Personal Reflection Is Used For",
+   "new_h2": "What the Six Stages of Personal Reflection Are Used For",
+   "old_people_use": "People use The Six Stages of Personal Reflection to:",
+   "new_people_use": "People use the Six Stages of Personal Reflection to:"
+  },
+  {
+   "slug": "the-buddhas-four-noble-truths",
+   "workbook_slug": "the-buddhas-four-noble-truths-workbook",
+   "old_h1": "What Is the Four Noble Truths Teaching?",
+   "new_h1": "What Are the Four Noble Truths?",
+   "old_h2": "What the Four Noble Truths Teaching Is Used For",
+   "new_h2": "What the Four Noble Truths Are Used For",
+   "old_people_use": "People use the Four Noble Truths Teaching to:",
+   "new_people_use": "People use the Four Noble Truths to:"
+  },
+  {
+   "slug": "the-nine-attitudes-of-mindfulness",
+   "workbook_slug": "the-nine-attitudes-of-mindfulness-workbook",
+   "old_h1": "What Is the Attitudinal Foundation of Mindfulness?",
+   "new_h1": "What Are the Nine Attitudes of Mindfulness?",
+   "old_h2": "What the Attitudinal Foundation of Mindfulness Is Used For",
+   "new_h2": "What the Nine Attitudes of Mindfulness Are Used For",
+   "old_people_use": "People use the Attitudinal Foundation of Mindfulness to:",
+   "new_people_use": "People use the Nine Attitudes of Mindfulness to:"
+  },
+  {
+   "slug": "the-core-counselling-skills",
+   "workbook_slug": "the-core-counselling-skills-workbook",
+   "old_h1": "What Is a Counselling Skill?",
+   "new_h1": "What Are the Core Counselling Skills?",
+   "old_h2": "What a Counselling Skill Is Used For",
+   "new_h2": "What the Core Counselling Skills Are Used For",
+   "old_people_use": "People use a Counselling Skill to:",
+   "new_people_use": "People use the Core Counselling Skills to:"
+  },
+  {
+   "slug": "carl-rogers-person-centred-principles",
+   "workbook_slug": "carl-rogers-person-centred-principles-workbook",
+   "old_h1": "What Is Carl Rogers’ Person-Centred Principles?",
+   "new_h1": "What Are Carl Rogers’ Person-Centred Principles?",
+   "old_h2": "What Carl Rogers’ Person-Centred Principles Is Used For",
+   "new_h2": "What Carl Rogers’ Person-Centred Principles Are Used For",
+   "old_people_use": "People use Carl Rogers’ Person-Centred Principles to:",
+   "new_people_use": "People use Carl Rogers’ Person-Centred Principles to:"
+  },
+  {
+   "slug": "the-dimensions-of-personal-prejudice",
+   "workbook_slug": "the-dimensions-of-personal-prejudice-workbook",
+   "old_h1": "What Is a Dimension of Personal Prejudice?",
+   "new_h1": "What Are the Dimensions of Personal Prejudice?",
+   "old_h2": "What a Dimension of Personal Prejudice Is Used For",
+   "new_h2": "What the Dimensions of Personal Prejudice Are Used For",
+   "old_people_use": "People use a Dimension of Personal Prejudice to:",
+   "new_people_use": "People use the Dimensions of Personal Prejudice to:"
+  },
+  {
+   "slug": "five-ways-we-perceive-the-world",
+   "workbook_slug": "five-ways-we-perceive-the-world-workbook",
+   "old_h1": "What Is a Way of Perceiving?",
+   "new_h1": "What Are the Five Ways We Perceive the World?",
+   "old_h2": "What a Way of Perceiving Is Used For",
+   "new_h2": "What the Five Ways We Perceive the World Are Used For",
+   "old_people_use": "People use a Way of Perceiving to:",
+   "new_people_use": "People use the Five Ways We Perceive the World to:"
+  },
+  {
+   "slug": "the-12-roadblocks-to-communication",
+   "workbook_slug": "the-12-roadblocks-to-communication-workbook",
+   "old_h1": "What Is Gordon’s List of 12 Roadblocks?",
+   "new_h1": "What Are Gordon’s 12 Roadblocks to Communication?",
+   "old_h2": "What Gordon’s List of 12 Roadblocks Is Used For",
+   "new_h2": "What Gordon’s 12 Roadblocks to Communication Are Used For",
+   "old_people_use": "People use Gordon’s List of 12 Roadblocks to:",
+   "new_people_use": "People use Gordon’s 12 Roadblocks to Communication to:",
+   "old_find": "Gordon’s list of 12 roadblocks",
+   "new_find": "Gordon’s 12 roadblocks"
+  },
+  {
+   "slug": "frankls-six-keys-to-purpose",
+   "workbook_slug": "frankls-six-keys-to-purpose-workbook",
+   "old_h1": "What Is Frankl’s Six Keys to Purpose?",
+   "new_h1": "What Are Frankl’s Six Keys to Purpose?",
+   "old_h2": "What Frankl’s Six Keys to Purpose Is Used For",
+   "new_h2": "What Frankl’s Six Keys to Purpose Are Used For",
+   "old_people_use": "People use Frankl’s Six Keys to Purpose to:",
+   "new_people_use": "People use Frankl’s Six Keys to Purpose to:"
+  },
+  {
+   "slug": "the-core-communication-skills",
+   "workbook_slug": "the-core-communication-skills-workbook",
+   "old_h1": "What Is a Core Communication Skill?",
+   "new_h1": "What Are the Core Communication Skills?",
+   "old_h2": "What a Core Communication Skill Is Used For",
+   "new_h2": "What the Core Communication Skills Are Used For",
+   "old_people_use": "People use a Core Communication Skill to:",
+   "new_people_use": "People use the Core Communication Skills to:"
+  },
+  {
+   "slug": "carl-rogers-nineteen-propositions",
+   "workbook_slug": "carl-rogers-nineteen-propositions-workbook",
+   "old_h1": "What Is Carl Rogers’ Nineteen Propositions?",
+   "new_h1": "What Are Carl Rogers’ Nineteen Propositions?",
+   "old_h2": "What Carl Rogers’ Nineteen Propositions Is Used For",
+   "new_h2": "What Carl Rogers’ Nineteen Propositions Are Used For",
+   "old_people_use": "People use Carl Rogers’ Nineteen Propositions to:",
+   "new_people_use": "People use Carl Rogers’ Nineteen Propositions to:"
+  },
+  {
+   "slug": "six-steps-to-changing-your-thinking",
+   "workbook_slug": "six-steps-to-changing-your-thinking-workbook",
+   "old_h1": "What Is Six Steps to Changing Your Thinking?",
+   "new_h1": "What Are the Six Steps to Changing Your Thinking?",
+   "old_h2": "What Six Steps to Changing Your Thinking Is Used For",
+   "new_h2": "What the Six Steps to Changing Your Thinking Are Used For",
+   "old_people_use": "People use Six Steps to Changing Your Thinking to:",
+   "new_people_use": "People use the Six Steps to Changing Your Thinking to:"
+  },
+  {
+   "slug": "the-five-levels-of-human-experience",
+   "workbook_slug": "the-five-levels-of-human-experience-workbook",
+   "old_h1": "What Is the Five Levels of Human Experience Model?",
+   "new_h1": "What Are the Five Levels of Human Experience?",
+   "old_h2": "What the Five Levels of Human Experience Model Is Used For",
+   "new_h2": "What the Five Levels of Human Experience Are Used For",
+   "old_people_use": "People use the Five Levels of Human Experience Model to:",
+   "new_people_use": "People use the Five Levels of Human Experience to:"
+  },
+  {
+   "slug": "pacing-leading-and-sensory-acuity",
+   "workbook_slug": "pacing-leading-and-sensory-acuity-workbook",
+   "old_h1": "What Is Pacing, Leading and Sensory Acuity?",
+   "new_h1": "What Are Pacing, Leading and Sensory Acuity?",
+   "old_h2": "What Pacing, Leading and Sensory Acuity Is Used For",
+   "new_h2": "What Pacing, Leading and Sensory Acuity Are Used For",
+   "old_people_use": "People use Pacing, Leading and Sensory Acuity to:",
+   "new_people_use": "People use Pacing, Leading and Sensory Acuity to:"
+  },
+  {
+   "slug": "four-stages-of-communication",
+   "workbook_slug": "four-stages-of-communication-workbook",
+   "old_h1": "What Is the Four Stages of Communication Model?",
+   "new_h1": "What Are the Four Stages of Communication?",
+   "old_h2": "What the Four Stages of Communication Model Is Used For",
+   "new_h2": "What the Four Stages of Communication Are Used For",
+   "old_people_use": "People use the Four Stages of Communication Model to:",
+   "new_people_use": "People use the Four Stages of Communication to:",
+   "old_find": "the four stages of communication model",
+   "new_find": "the four stages of communication"
+  },
+  {
+   "slug": "conditions-where-people-thrive",
+   "workbook_slug": "conditions-where-people-thrive-workbook",
+   "old_h1": "What Is Conditions Where People Thrive?",
+   "new_h1": "What Are the Conditions Where People Thrive?",
+   "old_h2": "What Conditions Where People Thrive Is Used For",
+   "new_h2": "What the Conditions Where People Thrive Are Used For",
+   "old_people_use": "People use Conditions Where People Thrive to:",
+   "new_people_use": "People use the Conditions Where People Thrive to:",
+   "old_find": "Conditions Where People Thrive",
+   "new_find": "the conditions where people thrive"
+  },
+  {
+   "slug": "virginia-satirs-core-beliefs",
+   "workbook_slug": "virginia-satirs-core-beliefs-workbook",
+   "old_h1": "What Is Virginia Satir’s Core Beliefs?",
+   "new_h1": "What Are Virginia Satir’s Core Beliefs?",
+   "old_h2": "What Virginia Satir’s Core Beliefs Is Used For",
+   "new_h2": "What Virginia Satir’s Core Beliefs Are Used For",
+   "old_people_use": "People use Virginia Satir’s Core Beliefs to:",
+   "new_people_use": "People use Virginia Satir’s Core Beliefs to:"
+  },
+  {
+   "slug": "four-ways-to-solve-problems",
+   "workbook_slug": "four-ways-to-solve-problems-workbook",
+   "old_h1": "What Is the Four Ways to Solve Problems?",
+   "new_h1": "What Are the Four Ways to Solve Problems?",
+   "old_h2": "What the Four Ways to Solve Problems Is Used For",
+   "new_h2": "What the Four Ways to Solve Problems Are Used For",
+   "old_people_use": "People use the Four Ways to Solve Problems to:",
+   "new_people_use": "People use the Four Ways to Solve Problems to:",
+   "old_find": "the Four Ways to Solve Problems",
+   "new_find": "the four ways to solve problems"
+  },
+  {
+   "slug": "ericksons-creative-solution-questions",
+   "workbook_slug": "ericksons-creative-solution-questions-workbook",
+   "old_h1": "What Is Erickson’s Creative Solution Questions?",
+   "new_h1": "What Are Erickson’s Creative Solution Questions?",
+   "old_h2": "What Erickson’s Creative Solution Questions Is Used For",
+   "new_h2": "What Erickson’s Creative Solution Questions Are Used For",
+   "old_people_use": "People use Erickson’s Creative Solution Questions to:",
+   "new_people_use": "People use Erickson’s Creative Solution Questions to:"
+  },
+  {
+   "slug": "transference-and-countertransference",
+   "workbook_slug": "transference-and-countertransference-workbook",
+   "old_h1": "What Is Transference and Countertransference Explained?",
+   "new_h1": "What Are Transference and Countertransference?",
+   "old_h2": "What Transference and Countertransference Explained Is Used For",
+   "new_h2": "What Transference and Countertransference Are Used For",
+   "old_people_use": "People use Transference and Countertransference Explained to:",
+   "new_people_use": "People use Transference and Countertransference to:",
+   "old_find": "Transference and Countertransference Explained",
+   "new_find": "transference and countertransference"
+  },
+  {
+   "slug": "six-domains-of-self-concept",
+   "workbook_slug": "six-domains-of-self-concept-workbook",
+   "old_h1": "What Is the Six Domains of Self-Concept?",
+   "new_h1": "What Are the Six Domains of Self-Concept?",
+   "old_h2": "What the Six Domains of Self-Concept Is Used For",
+   "new_h2": "What the Six Domains of Self-Concept Are Used For",
+   "old_people_use": "People use the Six Domains of Self-Concept to:",
+   "new_people_use": "People use the Six Domains of Self-Concept to:"
+  },
+  {
+   "slug": "stages-of-human-connection",
+   "workbook_slug": "stages-of-human-connection-workbook",
+   "old_h1": "What Is the Stages of Human Connection?",
+   "new_h1": "What Are the Stages of Human Connection?",
+   "old_h2": "What the Stages of Human Connection Is Used For",
+   "new_h2": "What the Stages of Human Connection Are Used For",
+   "old_people_use": "People use the Stages of Human Connection to:",
+   "new_people_use": "People use the Stages of Human Connection to:"
+  },
+  {
+   "slug": "id-ego-superego",
+   "workbook_slug": "id-ego-superego-workbook",
+   "old_h1": "What Is Freud’s Id, Ego and Superego?",
+   "new_h1": "What Are Freud’s Id, Ego and Superego?",
+   "old_h2": "What Freud’s Id, Ego and Superego Is Used For",
+   "new_h2": "What Freud’s Id, Ego and Superego Are Used For",
+   "old_people_use": "People use Freud’s Id, Ego and Superego to:",
+   "new_people_use": "People use Freud’s Id, Ego and Superego to:"
+  },
+  {
+   "slug": "feelings-faith-and-facts",
+   "workbook_slug": "feelings-faith-and-facts-workbook",
+   "old_h1": "What Is Feelings, Faith and Facts?",
+   "new_h1": "What Are Feelings, Faith and Facts?",
+   "old_h2": "What Feelings, Faith and Facts Is Used For",
+   "new_h2": "What Feelings, Faith and Facts Are Used For",
+   "old_people_use": "People use Feelings, Faith and Facts to:",
+   "new_people_use": "People use Feelings, Faith and Facts to:"
+  },
+  {
+   "slug": "five-categories-of-belief",
+   "workbook_slug": "five-categories-of-belief-workbook",
+   "old_h1": "What Is the Five Types of Beliefs?",
+   "new_h1": "What Are the Five Types of Beliefs?",
+   "old_h2": "What the Five Types of Beliefs Is Used For",
+   "new_h2": "What the Five Types of Beliefs Are Used For",
+   "old_people_use": "People use the Five Types of Beliefs to:",
+   "new_people_use": "People use the Five Types of Beliefs to:"
+  },
+  {
+   "slug": "core-assumptions-of-cbt",
+   "workbook_slug": "core-assumptions-of-cbt-workbook",
+   "old_h1": "What Is The Core Principles of CBT?",
+   "new_h1": "What Are the Core Principles of CBT?",
+   "old_h2": "What The Core Principles of CBT Is Used For",
+   "new_h2": "What the Core Principles of CBT Are Used For",
+   "old_people_use": "People use The Core Principles of CBT to:",
+   "new_people_use": "People use the Core Principles of CBT to:"
+  },
+  {
+   "slug": "mindfulness-versus-meditation-explained",
+   "workbook_slug": "mindfulness-versus-meditation-explained-workbook",
+   "old_h1": "What Is Mindfulness Versus Meditation Explained?",
+   "new_h1": "What Is the Difference Between Mindfulness and Meditation?",
+   "old_h2": "What Mindfulness Versus Meditation Explained Is Used For",
+   "new_h2": "What the Difference Between Mindfulness and Meditation Is Used For",
+   "old_people_use": "People use Mindfulness Versus Meditation Explained to:",
+   "new_people_use": "People use the Difference Between Mindfulness and Meditation to:",
+   "old_find": "mindfulness versus meditation",
+   "new_find": "the difference between mindfulness and meditation"
+  },
+  {
+   "slug": "the-history-of-counselling",
+   "workbook_slug": "the-history-of-counselling-workbook",
+   "old_h1": "What Is The History of Counselling?",
+   "new_h1": "What Is the History of Counselling?",
+   "old_h2": "What The History of Counselling Is Used For",
+   "new_h2": "What the History of Counselling Is Used For",
+   "old_people_use": "People use The History of Counselling to:",
+   "new_people_use": "People use the History of Counselling to:"
+  },
+  {
+   "slug": "the-know-thyself-self-assessment",
+   "workbook_slug": "the-know-thyself-self-assessment-workbook",
+   "old_h1": "What Is The Know Thyself Self-Assessment?",
+   "new_h1": "What Is the Know Thyself Self-Assessment?",
+   "old_h2": "What The Know Thyself Self-Assessment Is Used For",
+   "new_h2": "What the Know Thyself Self-Assessment Is Used For",
+   "old_people_use": "People use The Know Thyself Self-Assessment to:",
+   "new_people_use": "People use the Know Thyself Self-Assessment to:"
+  },
+  {
+   "slug": "the-cultural-iceberg-model",
+   "workbook_slug": "the-cultural-iceberg-model-workbook",
+   "old_h1": "What Is The Cultural Iceberg Model?",
+   "new_h1": "What Is the Cultural Iceberg Model?",
+   "old_h2": "What The Cultural Iceberg Model Is Used For",
+   "new_h2": "What the Cultural Iceberg Model Is Used For",
+   "old_people_use": "People use The Cultural Iceberg Model to:",
+   "new_people_use": "People use the Cultural Iceberg Model to:"
+  },
+  {
+   "slug": "the-good-enough-principle",
+   "workbook_slug": "the-good-enough-principle-workbook",
+   "old_h1": "What Is The Good Enough Principle?",
+   "new_h1": "What Is the Good Enough Principle?",
+   "old_h2": "What The Good Enough Principle Is Used For",
+   "new_h2": "What the Good Enough Principle Is Used For",
+   "old_people_use": "People use The Good Enough Principle to:",
+   "new_people_use": "People use the Good Enough Principle to:"
+  },
+  {
+   "slug": "how-you-handle-problems",
+   "workbook_slug": "how-you-handle-problems-workbook",
+   "old_h1": "What Is Coping Styles and Problem Solving?",
+   "new_h1": "What Is Coping and Problem Solving?",
+   "old_h2": "What Coping Styles and Problem Solving Is Used For",
+   "new_h2": "What Coping and Problem Solving Is Used For",
+   "old_people_use": "People use Coping Styles and Problem Solving to:",
+   "new_people_use": "People use Coping and Problem Solving to:",
+   "old_find": "coping styles and problem solving",
+   "new_find": "coping and problem solving"
+  },
+  {
+   "slug": "how-your-past-shapes-you",
+   "workbook_slug": "how-your-past-shapes-you-workbook",
+   "old_h1": "What Is How Your Past Shapes You?",
+   "new_h1": "What Is the Influence of Your Past on Your Habits?",
+   "old_h2": "What How Your Past Shapes You Is Used For",
+   "new_h2": "What the Influence of Your Past on Your Habits Is Used For",
+   "old_people_use": "People use How Your Past Shapes You to:",
+   "new_people_use": "People use the Influence of Your Past on Your Habits to:",
+   "old_find": "how your past shapes you",
+   "new_find": "the influence of your past"
+  },
+  {
+   "slug": "how-to-learn-anything",
+   "workbook_slug": "how-to-learn-anything-workbook",
+   "old_h1": "What Is How to Learn Anything?",
+   "new_h1": "What Are the Three Ingredients of Learning?",
+   "old_h2": "What How to Learn Anything Is Used For",
+   "new_h2": "What the Three Ingredients of Learning Are Used For",
+   "old_people_use": "People use How to Learn Anything to:",
+   "new_people_use": "People use the Three Ingredients of Learning to:",
+   "old_find": "how to learn anything",
+   "new_find": "the three ingredients of learning"
+  },
+  {
+   "slug": "ikigai",
+   "workbook_slug": "ikigai-workbook",
+   "old_h1": "What Is Ikigai, Your Reason for Being?",
+   "new_h1": "What Is Ikigai?",
+   "old_h2": "What Ikigai, Your Reason for Being Is Used For",
+   "new_h2": "What Ikigai Is Used For",
+   "old_people_use": "People use Ikigai, Your Reason for Being to:",
+   "new_people_use": "People use Ikigai to:",
+   "old_find": "Ikigai, Your Reason for Being",
+   "new_find": "ikigai"
+  },
+  {
+   "slug": "who-am-i",
+   "workbook_slug": "who-am-i-workbook",
+   "old_h1": "What Is Who Am I Really?",
+   "new_h1": "What Is the Question of Who You Are?",
+   "old_h2": "What Who Am I Really Is Used For",
+   "new_h2": "What the Question of Who You Are Is Used For",
+   "old_people_use": "People use Who Am I Really to:",
+   "new_people_use": "People use the Question of Who You Are to:",
+   "old_find": "Who Am I Really",
+   "new_find": "the question of who you are"
+  },
+  {
+   "slug": "from-breakdown-to-breakthrough",
+   "workbook_slug": "from-breakdown-to-breakthrough-workbook",
+   "old_h1": "What Is From Breakdown to Breakthrough?",
+   "new_h1": "What Are Breakdown and Breakthrough?",
+   "old_h2": "What From Breakdown to Breakthrough Is Used For",
+   "new_h2": "What Breakdown and Breakthrough Are Used For",
+   "old_people_use": "People use From Breakdown to Breakthrough to:",
+   "new_people_use": "People use Breakdown and Breakthrough to:",
+   "old_find": "From Breakdown to Breakthrough",
+   "new_find": "breakdown and breakthrough"
+  },
+  {
+   "slug": "dialogue-discourse-diatribe-and-debate",
+   "workbook_slug": "dialogue-discourse-diatribe-and-debate-workbook",
+   "old_h1": "What Is Dialogue, Discourse, Diatribe and Debate?",
+   "new_h1": "What Are Dialogue, Discourse, Diatribe and Debate?",
+   "old_h2": "What Dialogue, Discourse, Diatribe and Debate Is Used For",
+   "new_h2": "What Dialogue, Discourse, Diatribe and Debate Are Used For",
+   "old_people_use": "People use Dialogue, Discourse, Diatribe and Debate to:",
+   "new_people_use": "People use Dialogue, Discourse, Diatribe and Debate to:"
+  }
+ ],
+ "sentences": [
+  {
+   "slug": "carl-rogers-nineteen-propositions",
+   "old": "lays out the propositions as one theory of how a person comes to see themselves, a theory put forward by Carl Rogers.",
+   "new": "lays out the propositions as one connected theory of how a person comes to see themselves."
+  },
+  {
+   "slug": "the-core-counselling-skills",
+   "old": "This lecture is one of the course’s 176.",
+   "new": "This lecture is one of the 176 lectures in the course."
+  }
+ ]
+}
