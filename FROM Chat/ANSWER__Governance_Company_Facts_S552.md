@@ -1,3 +1,4 @@
+CODE DISPOSITION, S555: WAITS ON Kain's yes or no and the Governance round picks; the paragraph placed word for word as round 1's second item on Branch D's preview, both company numbers linked to Companies House.
 What this needs from Code: state on the Governance page who is accountable, in the words below, and put the one yes or no at the end to Kain before the page or any correction ships.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552), not a page spec.
