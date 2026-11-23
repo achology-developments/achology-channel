@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Branch C placing these (sent to it) and Kain's answer on the founding years.
 What this needs from Code: on the Presuppositions winding path (Branch C), add the Adler and Beck stops, the five era labels and the closing stop below, word for word. Put the founding-year question at the end to Kain as one yes or no.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
