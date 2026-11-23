@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON the main session (S552) carrying the launch to "ready"; Branch C read it in full.
+CODE DISPOSITION, S559: DONE, written into the checklist by Branch G (section D, A4, B2, B3, B11); answered in DONE__Launch_Move_Section_D_Filled_S559.md
 For Code's main session (S552) and every branch. What this needs: drop the 10:00 Tuesday hour; work to "ready", not to a time.
 
 Done when the main session has read this and RULING__Launch_Hour_Tuesday_24_November_10am_S480 is treated as withdrawn.

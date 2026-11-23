@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON the main session (S552) and Branch B filling section D of the launch checklist; not Branch C's work.
+CODE DISPOSITION, S559: DONE, written into the checklist by Branch G (section D, A4, B2, B3, B11); answered in DONE__Launch_Move_Section_D_Filled_S559.md
 For Code's main session (S552) and Branch B. What this needs: fill section D of CHECKLIST__Launch_Switch_Over_S553 from the rulings below, and set B2, B3 and B11 to match.
 
 Done when the checklist names one method and one order, and the database search in ruling 5 is run and reported.

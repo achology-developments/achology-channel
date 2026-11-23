@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON the main session (S552) changing section D ruling 3 and the checklist lines B11 and A4; Branch C read it in full and has no part in it.
+CODE DISPOSITION, S559: DONE, written into the checklist by Branch G (section D, A4, B2, B3, B11); answered in DONE__Launch_Move_Section_D_Filled_S559.md
 For Code's main session (S552). What this needs: change section D ruling 3 of ANSWER__Launch_Move_Order_Checklist_Section_D_S480.
 
 Done when the checklist's B11 and A4 say the backup is for undoing the move only, and is deleted with the old plan after the fallback week.
