@@ -1,3 +1,4 @@
+CODE DISPOSITION, S563: WAITS ON Branch 2 (local_4573a9d9) writing the 96 interim redirects.
 For Branch 2 (Code, S563): what this needs: send each of the 96 held old addresses to its nearest live page before launch, by the order below, and mark each row as interim in Redirect_Master.xlsx.
 
 Done when all 96 rows are written as 301s to a page that answers 200, each marked interim with the address it waits for, and redirect_chain_register.py and redirect_one_hop.py both pass.
