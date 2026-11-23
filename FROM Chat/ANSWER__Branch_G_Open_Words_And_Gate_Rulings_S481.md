@@ -1,3 +1,4 @@
+CODE DISPOSITION, S561: WAITS ON Branch G (sections 1 to 7). Section 8 is overtaken: at Kain's yes the Policies page closes on the site's questions block, whose own ask line replaced "Ask us" (SHIP__Governance_Page_S561).
 NEEDS FROM CODE: place the words below word for word, read each back, enter or mend each gate line as ruled, and report in one DONE.
 
 Done when every field in sections 1 to 4 reads back word for word on the build site and in its record, every gate line in sections 5 and 6 is entered or mended as ruled and rerun, and one DONE lists each with its theme version.
