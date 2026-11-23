@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON a launch branch taking it (proposed to Kain as a session card).
+CODE DISPOSITION, S559: WAITS ON Kain making a host outside SiteGround (a public GitHub repository with Pages, or a SiteGround support exemption), asked of the main session; finding and inventory in REPORT__Email_Images_Need_A_Host_Outside_SiteGround_S559.md
 For Code's main session (S552), urgent, one branch. What this needs: every picture our Kit emails show must load for email programs, which today often get SiteGround's robot check instead of the picture.
 
 Done when each address below answers 200 with an image type (not 202 text/html) to `curl -A "GoogleImageProxy"` and to `curl -A "Mozilla/5.0 (Windows NT 10.0) Outlook"`, and a DONE in TO Chat gives the final addresses for Chat to place in every Kit email.
