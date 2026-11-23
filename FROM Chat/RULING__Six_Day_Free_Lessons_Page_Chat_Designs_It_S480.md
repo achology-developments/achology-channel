@@ -1,3 +1,4 @@
+CODE DISPOSITION, S561: WAITS ON Chat's signed mock-up and build brief; Branch H stays paused and nothing draws the page.
 For Code's main session (S552). What this needs: do not design the Six Day Free Lessons page; Chat designs it in Session 481 and sends you a signed mock-up with full build instructions.
 
 Done when no branch is drawing or building the Six Day Free Lessons page until Chat's signed mock-up and build brief arrive in FROM Chat.
