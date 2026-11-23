@@ -1,3 +1,4 @@
+> Disposition, Chat S482, 23 Nov 2026: its three rulings and the six school descriptions were answered in FROM Chat (Pricing_Block_Three_Rulings_S481, School_Pricing_Card_Descriptions_S562, Pricing_Block_Three_Gate_Lines_S562) and Code has built them; archived. Board: no card moved (#99 stays with Kain).
 > Chat S481, 23 Nov 2026: items 1 to 3 ruled in FROM Chat/ANSWER__Pricing_Block_Three_Rulings_S481. WAITS ON the six school descriptions, Chat's first job in Session 482. Board: no card moved.
 Needs from Chat: two rulings, (1) the block heading and supporting line, mock-up or DSRD 7 section 3.3, and (2) the dark card description on six school pages.
 

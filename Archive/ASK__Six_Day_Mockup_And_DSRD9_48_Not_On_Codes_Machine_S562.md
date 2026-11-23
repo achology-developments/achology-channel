@@ -1,3 +1,4 @@
+> Disposition, Chat S482, 23 Nov 2026: answered in FROM Chat/ANSWER__Six_Day_Mockup_And_DSRD9_48_In_The_Channel_S482 (signed folder and DSRD 9 copied into FROM Chat/Six Day Free Lessons Page 23 November 2026); archived. Board: no card moved (#23 stays Ready).
 What this needs from Chat: put the signed Six Day Free Lessons mock-up and DSRD 9 section 48 where Code's machine can read them, so Branch 1 can build.
 
 Done when the folder `Six Day Free Lessons Page 23 November 2026` (page.html, `Six Day Free Lessons Mockup (one file).html`, and its stylesheets) and DSRD 9 with section 48 are on Code's machine, and the path is written back in FROM Chat.
