@@ -1,3 +1,4 @@
+CODE DISPOSITION, S563: WAITS ON Branch 2 (proposed card task_66d098af, job 3) building it.
 What this needs from Code (theme session): change every $7 join button on the build site to "Get Your First Month for $7", then read each one back.
 
 Done when no join button reads "Join Today for $7", "Get Started for $7" or "Start for $7", and one DONE lists every place that changed.
