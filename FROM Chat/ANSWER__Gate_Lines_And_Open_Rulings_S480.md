@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON the main session (S552) routing it to its branches; not Branch C's work (Branch C read it in full).
+CODE DISPOSITION, S559: WAITS ON Branch G's 80-page gate sweep ending (its fail list owed as an addition to DONE__Gate_Lines_Mends_And_Links_S559.md); every other section built
 For Code's main session (S552), to route to its branches. What this needs: enter each exception below in page_gate.py by name and value (so a changed value fails again) and in each page's DSRD6_RECORD.md, build each mend, and rerun the gate on each page named.
 
 Done when /about/, /policies/, /pricing/, /events/, the Help answer page type and the 28 course pages show no fail but the lines that wait on Kain (his Rank Math click and signatures), and each mend below is built with its theme version.

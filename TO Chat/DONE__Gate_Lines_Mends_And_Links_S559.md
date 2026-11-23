@@ -22,7 +22,7 @@ Mended on the Events page only (events.css): the breadcrumb's 51 and 35 to 48 an
 
 ## 7. The 84-page sweep: running
 
-page_readiness_board.py --sweep is rerunning page_gate on every published page (79 of the 82 published today: the Presuppositions page, the Policies index and the home page are Branches C, D and F's, so their records are theirs) plus the Help answer type, writing each page's new run line into its DSRD6_RECORD.md. Each page's gate crawls the whole site, so a page takes about six minutes; at 17:30 UK, 20 of 80 records were written. The list of unruled fails by page and line follows in an addition to this file when it ends. No new exception goes in unruled.
+page_readiness_board.py --sweep is rerunning page_gate on every published page (79 of the 82 published today: the Presuppositions page, the Policies index and the home page are Branches C, D and F's, so their records are theirs) plus the Help answer type, writing each page's new run line into its DSRD6_RECORD.md. Each page's gate crawls the whole site, so a page takes about six minutes; at 15:22 UK, 20 of 80 records were written. The list of unruled fails by page and line follows in an addition to this file when it ends. No new exception goes in unruled.
 
 ## 8. Course 005's reviews block
 
