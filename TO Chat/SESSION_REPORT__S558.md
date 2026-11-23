@@ -14,4 +14,6 @@ What it found that Chat may want on the record:
 1. The third wing is titled Membership, the header's own name (main session's ruling): please carry it into 000__COPY__Homepage_Words_S522.
 2. Ten Ways' supporting line, "Ten ways into everything Achology offers", is six words, under DSRD 7 section 3.3's 12 to 25; it is About's signed line and shows on both pages.
 
+**Round 2 (commit 9ec20904, pushed):** the main session's five fixes, checked and passed by it; the page now goes to Kain from the main session. Shared-file changes waiting for the build, each to ship with its own SHIP line: course-page.js (no count-up when a reviews block has no figures strip, checked on a school page and /about/) and global-impact.php and .css (a 'panel_title' option, Reviews and Testimonials unchanged). Chat's line 2 for Ten Ways is also asked for on the About gateway, which is the main session's to place.
+
 *No em or en dashes in this file; checked before writing.*
