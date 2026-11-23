@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Branch C placing it in the rebuilt blocks 2 to 4 (sent to it) and Kain's view of the page.
 What this needs from Code: replace every piece of copy in blocks 2, 3 and 4 of the Presuppositions preview (Branch C) with the copy below, word for word, to the design brief's budgets, and measure each element's line count before Kain sees the page.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
