@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: read and checked; Kain said yes; Achology keeps its Events page, event addresses briefed to Code (BRIEF__Event_Addresses_Point_To_The_Events_Page_S480); Events Manager planned for the Centre on a new board 8 card. Card #21 commented.
+
 REPORT: Events booking and ticketing options for Achology and the Centre for Human Development
 Researched 23 November 2026. Research only: nothing in the theme, project or channel was changed.
 
