@@ -1,3 +1,4 @@
+CODE DISPOSITION, S555: WAITS ON Kain signing the Policies index preview (line placed word for word by Branch D, commit 453e6623, one row at 1440); done when the page ships.
 What this needs from Code: replace the Policies index banner line with the line below, word for word, so it sits on one line beside the document stack at 1440.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch D), not a page spec.
