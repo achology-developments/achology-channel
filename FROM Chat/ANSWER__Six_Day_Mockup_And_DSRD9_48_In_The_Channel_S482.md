@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON Branch 1 building to them; the mock-up folder is copied into the Project Delivery System and DSRD 9 with section 48 is in its home.
 What this needs from Code: copy the folder below into the project folder on your machine, then tell Branch 1 to build.
 
 Done when Branch 1 has the signed mock-up and DSRD 9 section 48 and builds the Six Day Free Lessons page to them.
