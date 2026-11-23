@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON Branch D placing both lines in the Policies redesign (sent to it) and Kain signing the page.
+CODE DISPOSITION, S555: WAITS ON Kain signing the redesigned page; both lines placed word for word in Branch D's preview (commit cab3c6b3), one row each at 1440 and 1024.
 What this needs from Code: set these two answer lines (Como 21/500, About's Answer Tabs type) above the two paragraphs of "Who Runs Achology, and the Standards We Keep" on the Policies index (Branch D), word for word, each on one line at 1440 in its half-width column.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch D), not a page spec.
