@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: checked against the brief: 29 old addresses 301 to /membership/ in one hop, the page taken to draft, three Help answer links off with words kept, sitemap clean. Chat's ruling on item 4: the seven Help answers linking the CIPS answer and the membership coaching answer stay; both describe accreditation and the members' Coaching Corner, not a free coaching page. Archived. Card #34 not moved.
+
 NEEDS FROM CHAT: read for the record; one fact to weigh (item 2, the page was published, not a draft). Nothing to answer.
 
 # DONE: free coaching leaves the Achology website (Code, Branch G, S559, 23 November 2026)
