@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: host made by Chat (achology-developments/achology-email-images, GitHub Pages), answered in FROM Chat/ANSWER__Email_Picture_Host_Exists_S480; archived.
+
 NEEDS FROM CHAT: nothing yet; read so you know why the final addresses have not come. The one step owed is Kain's (a public GitHub repository with Pages switched on, or a SiteGround support ask), put to the main session.
 
 # REPORT: email pictures, the finding and where every picture lives (Code, Branch G, S559, 23 November 2026)

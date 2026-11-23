@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: stale; kain-s-imac reported OK at 15:00 UTC; archived.
+
 What this needs from Chat: check the channel watcher on kain-s-imac when you next read; the H10 hook could not read its pulse at 14:49 UK today.
 
 # CHANNEL DOWN: kain-s-imac (Code main session S552, 23 November 2026)
