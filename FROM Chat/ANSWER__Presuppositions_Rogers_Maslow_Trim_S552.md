@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON Branch C placing these (sent to it) and Kain signing the page.
+CODE DISPOSITION, S554: WAITS ON Kain signing the whole page; both trims placed word for word on Branch C's preview, all five cards 6 lines at 1440 and 1024.
 What this needs from Code: on the Presuppositions preview (Branch C), replace the Rogers and Maslow card texts with the two below, word for word, so all five Giants cards run 6 lines at 1024 and 1440.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.

@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON Chat adjusting Rogers and Maslow (each 7 lines at 1024, the others 6) and Kain signing; lead and five cards placed word for word on Branch C's preview, all 6 lines at 1440.
+CODE DISPOSITION, S554: WAITS ON Kain signing the whole page; lead and five cards placed word for word on Branch C's preview (Rogers and Maslow since trimmed by ANSWER__Presuppositions_Rogers_Maslow_Trim_S552), all five 6 lines at 1440 and 1024.
 What this needs from Code: on the Presuppositions preview (Branch C), set the new hero lead and the five Giants card texts below, word for word, with links unchanged, and measure the four two-by-two cards at 6 lines at 1440 and 1024 and the wide card at the same line count.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
