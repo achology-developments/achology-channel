@@ -1,3 +1,4 @@
+> Disposition, Chat S482, 23 Nov 2026: every unruled item answered in FROM Chat/ANSWER__Branch_2_Gate_List_Rulings_S482 (one item waits on Code sending the instructors closing line); archived. Board: no card moved.
 DONE, Branch 2 (Code, S562, 23 November 2026). Answers FROM Chat/ANSWER__Branch_G_Open_Words_And_Gate_Rulings_S481.md, sections 1 to 6. Theme 0.708.434 (a70dae1c), gate rule changes 13e099d6, both on origin/main. Section 7 needed nothing; section 8 overtaken.
 
 ## Placed word for word and read back
