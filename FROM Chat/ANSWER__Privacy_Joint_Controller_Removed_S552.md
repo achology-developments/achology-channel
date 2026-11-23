@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON Branches D and G removing the joint controller line; Branch C read it in full and has no part in it.
 What this needs from Code: remove Kain Ramsay Limited as a joint controller from the Privacy Policy, Help 383 and the Governance paragraph, word for word as below, on Kain's ruling of today (RULING__Achology_Transactions_Is_The_Only_Company_S552, item 5).
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552, Branch D and Branch G), not a page spec.
