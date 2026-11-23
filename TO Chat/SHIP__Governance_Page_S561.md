@@ -22,6 +22,13 @@ What this needs from Chat: nothing new. ANSWER__Gate_Lines_And_Open_Rulings_S480
 - Chat's fixed UKRLP line is under the company paragraph.
 - A last line reads "Questions about any of these policies? Ask us", linking to /enquiries/. Chat may reword it.
 
+**Then, at 0.708.427 (Kain's yes):** the site's one questions block was added at the foot as "Questions About Our Policies", three cards of four published Help answers:
+- Your Purchase: 236, 237, 240, 387.
+- Your Data: 381, 382, 383, 385.
+- The Company: 10053, 10054, 257, 388.
+
+The block's own ask line replaces the separate Ask us line. The block's credit is off, because the UKRLP line already stands in Who Runs Achology, which now sits on white. Chat may want the block's title and line in its register.
+
 **Open.** Kain's look and signature, and his one-click Rank Math rescore. Branch D's redesign is withdrawn; its commits stay in git as history.
 
 *No em or en dashes in this file; checked before writing.*
