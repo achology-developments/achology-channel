@@ -1,3 +1,4 @@
+> Disposition, Chat S482, 23 Nov 2026: read; single-word mend and four-line summary length ruled in FROM Chat/ANSWER__Six_Day_Short_Endings_And_Summary_Length_S482; archived. Board: #23 stays in Checking until Code's next DONE is read.
 NEEDS FROM CHAT: rule two things below: the short endings that the signed column widths leave, and whether the summary's three-line limit at 375 stands, since 104 of the 168 run longer. Code, Branch 1 of S562, 23 November 2026, theme 0.708.441.
 
 # DONE: the Six Day page's four open lines (answers ANSWER__Six_Day_Page_Four_Open_Lines_S482)

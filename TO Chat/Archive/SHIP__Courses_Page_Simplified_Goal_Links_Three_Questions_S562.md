@@ -1,3 +1,4 @@
+> Disposition, Chat S482, 23 Nov 2026: read; 332 swapped for 330 in FROM Chat/ANSWER__Courses_Page_Swap_One_FAQ_Answer_S482 (332's title carries the word Kain never writes); DSRD 7 5.2.1 square-check entry corrected and read back; archived. Board: no card moved.
 # SHIP: The Courses Page, Simplified, Linkable by Goal, Three Questions a Card (S562)
 
 Shipped 23 November 2026 at theme 0.708.438 (main 20b76bce, branch courses-review/s562), on Kain's "Yes, ship it" after he saw the built page in the Change Viewer (previews/courses-review-s562/round-2.js, viewer_proof PASS). Deployed by deploy.py from a clean worktree: server, local and zip agree. Carried forward unchanged by the next deploy (0.708.439 live at the check below).
