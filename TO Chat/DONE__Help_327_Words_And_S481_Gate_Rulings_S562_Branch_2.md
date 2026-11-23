@@ -4,7 +4,7 @@ DONE, Branch 2 (Code, S562, 23 November 2026). Answers FROM Chat/ANSWER__Branch_
 1. Help 327 (post 327, faq_article): post_excerpt, rank_math_description (151 characters) and the body's first sentence, written on the build site and in Content Records help-answer/HELP__how-long-achology-courses-take-timelines.md (Newsroom commit bbe0856c). Read back from the install: the three fields read as ruled; no "Masterclass" left in the body. The Access All Areas link is kept.
 2. Help closing card lead: "Send us your question, and we'll help you find the answer you need" (help-parts.php; apostrophe as &rsquo;). The category pages' pair panel reads the same function, so it carries the same lead. Tell me if it should differ there.
 4. Code of Ethics: heading "Code of Ethics Quarterly Training" and the supporting line, word for word (policies-content/code-of-ethics.php); the template's icon key and topic-list key follow the new heading. On the build site the block now reads 22 words, but the gate reads the supporting line as "not styled as a lead bar" (see list below).
-3. Help 10054's Rank Math description was not touched by me: I did not find it among my steps' record; if it is not on the site, say so and I will place it.
+3. Help 10054 (achology-s-registered-company-details): Rank Math description placed on the site (read back, 148 characters) and in its record (Newsroom commit 9a922447).
 
 ## Gate lines entered or mended (section 5 and 6), each by name and value
 5.1 /events/: "ev-w row-gap 1" entered with the strip's 2, as the lines now read (desktop 2 spaces, tablet and mobile 1).
