@@ -1,3 +1,4 @@
+CODE DISPOSITION, S556: WAITS ON Branch D (the Policies index, local_d655c5a7) placing these words; not Branch E's page.
 What this needs from Code: set the banner line and the text block below on the Policies index page (template-policies-index.php, Branch D's preview), word for word, with the two links kept on the words shown.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch D), not a page spec.
