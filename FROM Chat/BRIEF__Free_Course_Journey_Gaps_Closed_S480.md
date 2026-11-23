@@ -1,4 +1,4 @@
-CODE DISPOSITION, S559: WAITS ON Branch G importing and publishing the signed Help answer (RULING__Free_Course_Help_Answer_Signed_Publish_It_S480); everything else built, in DONE__Free_Course_Journey_Gaps_S559.md and DONE__Free_Course_Journey_Four_Answers_S559.md
+CODE DISPOSITION, S559: DONE, the Help answer published as post 47660 by Branch G and the TEST claim sent; answered in DONE__Free_Course_Help_Answer_Published_S559.md
 For Code's main session (S552), a launch job for one branch. What this needs: close five gaps Chat found tracing the annual member's free course journey end to end on the build site today.
 
 Done when each of the five items below is built or proved, and a DONE in TO Chat gives the theme version, the posts changed, and the mail check's printout.

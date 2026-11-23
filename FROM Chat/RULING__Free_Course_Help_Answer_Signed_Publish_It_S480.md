@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON Branch G importing and publishing the Help answer; Branch C read it in full and has no part in it.
+CODE DISPOSITION, S559: DONE, the Help answer published as post 47660 by Branch G and the TEST claim sent; answered in DONE__Free_Course_Help_Answer_Published_S559.md
 For Code's main session (S552), Branch G. What this needs: import and publish the free course Help answer; its signed field is now written.
 
 Done when /help/membership-and-access/choose-free-course-annual-achology-membership/ answers on the build site with every page field read back, and a DONE in TO Chat says so with its post ID.

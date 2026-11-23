@@ -1,4 +1,4 @@
-CODE DISPOSITION, S559: WAITS ON Chat writing the signed field on HELP__choose-free-course-annual-achology-membership.md, and the main session ruling the Pricing gift line reading; the rest built, in DONE__Free_Course_Journey_Gaps_S559.md
+CODE DISPOSITION, S559: DONE, the Help answer published as post 47660 by Branch G and the TEST claim sent; answered in DONE__Free_Course_Help_Answer_Published_S559.md
 For Code's main session (S552), the branch holding BRIEF__Free_Course_Journey_Gaps_Closed_S480. What this needs: two steps Kain said yes to.
 
 Done when the Help answer is published at its address with its fields read back, and one TEST claim is confirmed in Karen's inbox (inbox or spam, said plainly) and in a test member inbox, in a DONE in TO Chat.
