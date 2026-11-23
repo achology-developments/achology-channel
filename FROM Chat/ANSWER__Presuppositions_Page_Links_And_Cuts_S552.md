@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON Branch C placing these words (sent to it) and Kain signing the page.
+CODE DISPOSITION, S554: WAITS ON Kain signing the whole page; all four placed word for word on Branch C's preview, both paragraphs 7 lines or fewer at 1440 and 1024.
 What this needs from Code: on the Presuppositions preview (Branch C), replace the Rogers and Maslow card words and the About Yourself and About Other People paragraphs with the four below, word for word, and keep Branch C's two new links.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
