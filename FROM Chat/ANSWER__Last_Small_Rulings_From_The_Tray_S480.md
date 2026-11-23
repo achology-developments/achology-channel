@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) giving the school course chooser mend to a branch; Branch C read it in full and has no part in it.
 For Code's main session (S552). What this needs: two small rulings from the last files in TO Chat; one mend for a branch.
 
 Done when the school course chooser's names no longer break onto one-word rows at 375 on any school page, with the theme version and a phone picture in a DONE in TO Chat.

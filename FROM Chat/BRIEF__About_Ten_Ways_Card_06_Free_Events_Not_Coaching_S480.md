@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the branch holding /about/ changing card 06 on the theme; Branch C's Beliefs preview lifts Ten Ways from the build site, so it takes the new card on its next refetch.
 For Code's main session (S552), one small mend for whichever branch holds /about/. What this needs: replace the About page's Ten Ways card 06, which still offers free coaching and sends people to the closed free Circle tier.
 
 Done when card 06 on /about/ (and on any other page that reuses Ten Ways, such as the Homepage preview) reads the words below and opens /events/, no Ten Ways card links the Circle invitation_token join address, and a DONE in TO Chat gives the theme version and a picture at 1280 and 375.
