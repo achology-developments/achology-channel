@@ -118,27 +118,28 @@ Two ties are Chat's own reading, and Kain may overturn them:
 
 1. Plato (fourth century BCE). Apology.
 2. Aristotle (fourth century BCE). Nicomachean Ethics, Book II. Translated by W. D. Ross.
-3. James, W. (1890). The Principles of Psychology.
-4. Freud, S. (1900). The Interpretation of Dreams.
-5. Adler, A. (1912). The Neurotic Constitution.
-6. Jung, C. G. (1912). Psychology of the Unconscious. English translation by Beatrice Hinkle, 1916.
-7. Maslow, A. H. (1943). A Theory of Human Motivation. Psychological Review.
-8. Frankl, V. E. (1946). Ein Psycholog erlebt das Konzentrationslager (Man's Search for Meaning).
-9. Rogers, C. R. (1957). The Necessary and Sufficient Conditions of Therapeutic Personality Change. Journal of Consulting Psychology 21, 95 to 103.
-10. Ellis, A. (1962). Reason and Emotion in Psychotherapy. Lyle Stuart.
-11. Seligman, M. E. P. and Maier, S. F. (1967). Failure to Escape Traumatic Shock. Journal of Experimental Psychology. With Maier, S. F. and Seligman, M. E. P. (2016). Learned Helplessness at Fifty: Insights From Neuroscience. Psychological Review.
-12. Beck, A. T. (1967). Depression: Clinical, Experimental, and Theoretical Aspects. Hoeber Medical Division, Harper & Row.
-13. Bandura, A. (1977). Social Learning Theory. Prentice-Hall.
-14. Bandler, R. and Grinder, J. (mid 1970s). The Structure of Magic. Science and Behavior Books.
-15. Egan, G. (1975). The Skilled Helper.
-16. Goleman, D. (1995). Emotional Intelligence: Why It Can Matter More Than IQ.
-17. Seligman, M. E. P. and Csikszentmihalyi, M. (2000). Positive Psychology: An Introduction. American Psychologist.
+3. Epictetus (no date shown). Enchiridion. English text credited to Elizabeth Carter (about 1750), Monadnock Valley Press. This is the citation as 39695 gives it.
+4. James, W. (1890). The Principles of Psychology.
+5. Freud, S. (1899). Die Traumdeutung (The Interpretation of Dreams). This is the same year and form as the Academy's Sources.
+6. Adler, A. (1912). The Neurotic Constitution.
+7. Jung, C. G. (1912). Psychology of the Unconscious. English translation by Beatrice Hinkle, 1916.
+8. Maslow, A. H. (1943). A Theory of Human Motivation. Psychological Review.
+9. Frankl, V. E. (1946). Ein Psycholog erlebt das Konzentrationslager (Man's Search for Meaning).
+10. Rogers, C. R. (1957). The Necessary and Sufficient Conditions of Therapeutic Personality Change. Journal of Consulting Psychology 21, 95 to 103.
+11. Ellis, A. (1962). Reason and Emotion in Psychotherapy. Lyle Stuart.
+12. Seligman, M. E. P. and Maier, S. F. (1967). Failure to Escape Traumatic Shock. Journal of Experimental Psychology. With Maier, S. F. and Seligman, M. E. P. (2016). Learned Helplessness at Fifty: Insights From Neuroscience. Psychological Review.
+13. Beck, A. T. (1967). Depression: Clinical, Experimental, and Theoretical Aspects. Hoeber Medical Division, Harper & Row.
+14. Bandura, A. (1977). Social Learning Theory. Prentice-Hall.
+15. Bandler, R. and Grinder, J. (mid 1970s). The Structure of Magic. Science and Behavior Books.
+16. Egan, G. (1975). The Skilled Helper.
+17. Goleman, D. (1995). Emotional Intelligence: Why It Can Matter More Than IQ.
+18. Seligman, M. E. P. and Csikszentmihalyi, M. (2000). Positive Psychology: An Introduction. American Psychologist.
 
-Moment 18 (Achology) has no citation. Its facts are our own: the About page and DSRD 5.
+Moment 19 (Achology) has no citation. Its facts are our own: the About page and DSRD 5.
 
-## One fact to note for Code
+## Freud's year, settled
 
-Our Freud biography (33622) dates The Interpretation of Dreams to 1900. The Academy page's history moment and its Sources give 1899 ("Freud, S. (1899). Die Traumdeutung"). Both are true: the book was dated 1900 but came out in late 1899. To keep the two pages from disagreeing in a visitor's eyes, Code may set the Academy's 1899 here as well. If so, change only the year, and the text's "In 1900" becomes "In 1899". Chat's view: follow the Academy and use 1899, because the Academy page is signed. It's a one-word change.
+This is now 1899, on the main session's call, to match the signed Academy page and its Sources. Our Freud biography (33622) gives 1900, the date printed on the book, which came out in late 1899. Only the year changed, in the moment and in the reading list.
 
 ## Checks run
 
@@ -149,6 +150,6 @@ Our Freud biography (33622) dates The Interpretation of Dreams to 1900. The Acad
 - Every headline is in title case.
 - The numbers 12, 28, 30, 40 and 100 are written as figures, as the Academy block sets them.
 
-Done when the scroll carries these five chapters, eighteen moments, the new heading and Lead with Bar line, Kain's paragraph unchanged, and the foot.
+Done when the scroll carries these five chapters, nineteen moments, the new heading and Lead with Bar line, Kain's paragraph unchanged, and the foot.
 
 OWED BACK: nothing to Chat.
