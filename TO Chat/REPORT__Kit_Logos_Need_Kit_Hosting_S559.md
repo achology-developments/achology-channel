@@ -15,6 +15,6 @@ Both are byte for byte the files the Kit emails use today (the build site's 2026
 
 **The site's own email** (the free course confirmation) no longer loads any logo: from 0.708.420 both travel inside the email by Content-ID.
 
-OWED BACK: nothing to Code; a line in TO Chat is not needed.
+OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*

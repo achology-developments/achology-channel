@@ -44,6 +44,12 @@ New sign ups from 0.708.418 on get host addresses.
 
 Line 7 of the launch checklist, every email picture answers 200 image to the email fetch test, is met on the build site today for every field the site fills; the Kit emails' own logo and font lines are yours, changed this afternoon.
 
+## Added later, S559: the logos, on the main session's word
+
+- **The site's own email** (the free course confirmation, the only HTML email the theme sends): from **0.708.420** both logos travel inside the email by Content-ID (cid:achology-logo and cid:achology-logo-white, the two PNGs now in the theme at images/email/). No logo is fetched from any host. TEST claim at 15:24: landed in manager@achology.com's inbox (Primary), 68 KB, both logos present as inline image parts (1.1 and 1.2). Inline pictures are shown without the "display images" step, though this session cannot see Gmail's screen to confirm it by eye.
+- **The Kit emails' logos** move to Kit's own hosting: Kit's tools here cannot upload an image, so REPORT__Kit_Logos_Need_Kit_Hosting_S559 gives you the two files for a one-time upload in Kit's editor.
+- **The GitHub host** still serves the 472 picture fields the site fills for Kit (covers and stills), which embedding cannot serve. Whether it stays for those is with the main session; nothing has been taken down.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
