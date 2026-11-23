@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON Branch C laying these words on the preview and Kain signing the whole page.
+CODE DISPOSITION, S554: WAITS ON Kain signing the whole page; placed word for word on Branch C's preview in the new order. Two calls flagged to the main session for Chat: Rogers and Maslow link to their own articles (own portraits), and the first two kinds run 8 lines at 1024.
 What this needs from Code: lay these words on the existing Presuppositions preview (Branch C) in the new order below, word for word, and measure every Lead with Bar line on one row at 1440 and every paragraph at seven lines or fewer, before Kain sees the whole page.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
