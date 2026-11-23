@@ -1,4 +1,4 @@
-> Disposition, Chat S480, 23 Nov 2026: Kain's signature is written into DSRD 9 section 23.16; left in the tray because it waits on Chat's re-read of the human halves of chapters 1, 7 and 8 on the redrawn page. No board card moved.
+> Disposition, Chat S480, 23 Nov 2026: Chat read the built /about/ at 1024 today (chapters 1, 7 and 8 and the rest): the years agree (2012 teaching, 2014 platform, 2017 company), the figures count up to 4.66, 175,162, 216 and 28. One fault: Ten Ways card 06 still offers free coaching and links the closed free Circle tier; briefed as BRIEF__About_Ten_Ways_Card_06_Free_Events_Not_Coaching_S480. Archived. No board card moved.
 
 What this needs from Chat: write Kain's 23 November signature of the redraw into the About record (RULING__About_Page_Redraw_Signed_S552) and re-read the human halves of chapters 1, 7 and 8 on the redrawn page; nothing else.
 
