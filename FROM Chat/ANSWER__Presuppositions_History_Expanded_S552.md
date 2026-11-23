@@ -35,25 +35,25 @@ The rule is that only a thinker with an article of their own on the build site g
 
 | # | Chapter | Years | Moments |
 |---|---|---|---|
-| 1 | Ancient Wisdom | c. 387 to c. 335 BCE | Plato, Aristotle |
+| 1 | Ancient Wisdom | c. 387 BCE to c. 100 CE | Plato, Aristotle, Epictetus |
 | 2 | The Birth of Psychology | 1890 to 1913 | James, Freud, Adler, Jung |
 | 3 | The Humanistic Turn | 1943 to 1957 | Maslow, Frankl, Rogers |
 | 4 | The Cognitive Revolution | 1962 to 1977 | Ellis, Seligman, Beck, Bandura |
 | 5 | Psychology Put to Work | 1970s to 2012 | Bandler and Grinder, Egan, Goleman, Seligman, Achology |
 
-- **Chapter one** is renamed "Ancient Wisdom", as the brief offered, because it now holds Plato as well as Aristotle.
-- **Chapter two** becomes "The Birth of Psychology". With James's Principles of Psychology (1890) and Freud's Interpretation of Dreams (1900) now in it, "Beyond Freud" no longer fits. Adler's and Jung's breaks with Freud close the chapter.
-- **Chapter one has only two moments**, because Socrates and the Stoics have no article.
+- **Chapter one** is renamed "Ancient Wisdom", as the brief offered, because it now holds Plato and Epictetus as well as Aristotle.
+- **Chapter two** becomes "The Birth of Psychology". With James's Principles of Psychology (1890) and Freud's Interpretation of Dreams (1899) now in it, "Beyond Freud" no longer fits. Adler's and Jung's breaks with Freud close the chapter.
+- **Epictetus's year, "c. 100 CE".** Our pages don't give his dates. The Seven Beliefs article (39689) says only that Epictetus "lived in the first and second centuries", so the moment says "In the first and second centuries CE", and the year label marks the turn of those two centuries. The main session's c. 55 to 135 CE isn't on any page of ours, so it isn't used.
 
 ## Step 3: the framing
 
 - **Heading (47 characters):** From Plato to Achology: The Ideas We Teach From
-- **Lead with Bar (100 characters):** Eighteen moments, from ancient Athens to today, that shaped the beliefs our courses are taught from.
+- **Lead with Bar (100 characters):** Nineteen moments, from ancient Athens to today, that shaped the beliefs our courses are taught from.
 - **Kain's paragraph, kept word for word:** "Our presuppositions are informed by the work and ideas of the respected historical figures listed below. In our experience, educational institutions rarely make public their beliefs and worldviews about the people they teach. We want to be fully transparent and share ours with you, since they inform every lecture across all our courses and schools." No fact in it is now wrong.
 
-## The eighteen moments
+## The nineteen moments
 
-Moments 1 to 17 run 362 to 405 characters (budget 360 to 420). Moment 18 runs 388 (budget 360 to 460). Headlines run 40 to 53 characters. All are in the present tense, and each thinker's name is in the first sentence so it can carry the link.
+Moments 1 to 18 run 362 to 412 characters (budget 360 to 420). Moment 19 runs 388 (budget 360 to 460). Headlines run 40 to 53 characters. All are in the present tense, and each thinker's name is in the first sentence so it can carry the link.
 
 | # | Ch | Year | Headline | Text | Chars | Behind | Source | |
 |---|---|---|---|---|---|---|---|---|
@@ -87,7 +87,7 @@ Moments 1 to 17 run 362 to 405 characters (budget 360 to 420). Moment 18 runs 38
 | 2 | Self-Knowledge Comes Before Personal Growth | Freud, Jung | 2 |
 | 3 | Wisdom Begins with Accurate Thinking | Plato, Beck, Bandler and Grinder | 3 |
 | 4 | Emotions Can Be Understood and Managed | Ellis, Goleman | 2 |
-| 5 | Your Emotional State Is Your Responsibility | Frankl, Seligman (1967) | 2 |
+| 5 | Your Emotional State Is Your Responsibility | Epictetus, Frankl, Seligman (1967) | 3 |
 | 6 | Personal Growth Comes Before a Better Life | Aristotle, Egan | 2 |
 | 7 | Personal Growth Always Serves a Purpose | Adler, Maslow, Seligman (1998) | 3 |
 
