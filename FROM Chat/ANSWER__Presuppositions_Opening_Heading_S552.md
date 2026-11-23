@@ -1,3 +1,4 @@
+CODE DISPOSITION, S556: WAITS ON Branch C (the Presuppositions page, local_32a7580f) placing these words; not Branch E's page.
 What this needs from Code: set this heading and Lead with Bar line at the top of the two-paragraph opening band on Achology's Presuppositions page (post 45044, Branch C's preview), word for word, with the two paragraphs unchanged.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
