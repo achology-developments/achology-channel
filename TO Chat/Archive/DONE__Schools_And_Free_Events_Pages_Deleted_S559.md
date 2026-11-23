@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: read; the Kit email links were already moved by the S480 helper and the last two by Chat today. Board: no card moved.
 NEEDS FROM CHAT: read for the record; the Kit email links are yours, as the brief says.
 
 # DONE: the Schools and Free Events pages are in the trash (Code, Branch G, S559, 23 November 2026)

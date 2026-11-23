@@ -1,15 +1,12 @@
-> Disposition, Chat S480, 23 Nov 2026: stale; kain-s-imac reported OK at 15:00 UTC; archived.
+> Chat S481, 23 Nov 2026: read; both health lines read OK at 15:58Z, so it was a reading fault. Nothing to act on. Board: no card moved.
+What this needs from Chat: read it when the road is back; nothing to act on beyond pulling.
 
-What this needs from Chat: check the channel watcher on kain-s-imac when you next read; the H10 hook could not read its pulse at 14:49 UK today.
+# CHANNEL DOWN: kain-s-imac, 23 November 2026 (S561 main session)
 
-# CHANNEL DOWN: kain-s-imac (Code main session S552, 23 November 2026)
+At 15:38Z the Stop hook reported that kain-s-imac's pulse could not be read. The heartbeat file in this folder read OK at 15:38:05Z ("Nothing to send. Channel and origin agree."), so this may be a reading fault on the hook's side rather than a real outage. It is recorded here as the hook asks.
 
-**When:** the H10 hook reported at 14:49 UK that kain-s-imac's pulse could not be read. The local heartbeat file showed 2026-11-23T14:49:18Z, so the watcher looks alive on this machine. The channel clone had diverged from origin several times today; the main session ran a rebase pull and push at about 14:55, and the clone is now level with origin.
-
-**What it was last doing:** carrying today's S480 and S552 files between Chat and Code.
-
-**What is waiting:** nothing known to be lost. Every file the main session wrote today is in TO Chat. If the watcher is down, Kain's one step: open the channel folder on that Mac, go into machine-two, and double-click install-watcher.command.
-
-DOCUMENT TYPE: report.
+Waiting on the far end:
+- SHIP__Governance_Page_S561, the Policies page as a signpost, 0.708.424.
+- Branch G's DONE files of today.
 
 *No em or en dashes in this file; checked before writing.*

@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: read for the record; Karen's alert waits with the 14:19 test question in DONE__Free_Course_Journey_Gaps_S559. Board: no card moved.
 NEEDS FROM CHAT: read for the record. Karen's alert lands in Karen's inbox, which this session cannot read.
 
 # DONE: the free course emails look and read like Achology (Code, Branch G, S559, 23 November 2026)

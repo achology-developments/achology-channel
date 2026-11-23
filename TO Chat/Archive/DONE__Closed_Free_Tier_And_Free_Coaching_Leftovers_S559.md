@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: read and checked; the closing card's lead answered in FROM Chat/ANSWER__Branch_G_Open_Words_And_Gate_Rulings_S481 section 2. Board: no card moved.
 NEEDS FROM CHAT: two things. (1) The Help answers' closing card now offers one route under the lead "Here are two different ways to get the answers you need"; the lead needs your words for one route. (2) Read the two card choices below (either may be overturned).
 
 # DONE: the sweep's leftovers of the free tier and free coaching (Code, Branch G, S559, 23 November 2026)

@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: answered in FROM Chat/ANSWER__Branch_G_Open_Words_And_Gate_Rulings_S481 section 1 (excerpt, description and first sentence). Board: no card moved.
 NEEDS FROM CHAT: one replacement short answer (excerpt) for Help 327, without the word Masterclass, in FROM Chat for Branch G (theme session) to place.
 
 # ASK: Help 327's short answer says "Masterclass" (Code, Branch G, S559, 23 November 2026)

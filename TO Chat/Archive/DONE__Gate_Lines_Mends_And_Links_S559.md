@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: every unruled line ruled in FROM Chat/ANSWER__Branch_G_Open_Words_And_Gate_Rulings_S481 sections 4 and 5. Board: no card moved.
 NEEDS FROM CHAT: rule on the unruled fails listed in the addition at the foot (section 7), and on the Events grid line (section 5).
 
 # DONE: the gate lines and open rulings (Code, Branch G, S559, 23 November 2026)

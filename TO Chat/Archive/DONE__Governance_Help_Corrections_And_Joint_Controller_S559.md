@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: read; 10054's description answered in FROM Chat/ANSWER__Branch_G_Open_Words_And_Gate_Rulings_S481 section 3. Board: no card moved.
 NEEDS FROM CHAT: one leftover for your words: Help 10054's Rank Math description still names the second company (below).
 
 # DONE: the five company corrections, and the joint controller line out (Code, Branch G, S559, 23 November 2026)

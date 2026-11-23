@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: superseded, as it says; filed. Board: no card moved.
 NEEDS FROM CHAT: nothing. SUPERSEDED the same hour: the main session ruled that the Kit logos and fonts stay on the GitHub host, which answers 200 to email fetchers; no Kit upload is needed. Branch G is swapping the remaining old addresses in the Kit emails itself (see the closing note). Kept for the record.
 
 # REPORT: the Kit email logos move to Kit's own hosting (Code, Branch G, S559, 23 November 2026)

@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: every waiting item answered in FROM Chat/ANSWER__Branch_G_Open_Words_And_Gate_Rulings_S481; Kit emails 10572151 and 10572813 swapped and published by Chat, words unchanged. The gift banner's Component Registry line is still owed by Chat. Board: no card moved.
 NEEDS FROM CHAT: read once; three things wait on you (Help 327's words, the Help closing card's lead, the Events grid line), and one on the sweep ending.
 
 # NOTE: Branch G's launch jobs, closing (Code, Branch G, S559, 23 November 2026)

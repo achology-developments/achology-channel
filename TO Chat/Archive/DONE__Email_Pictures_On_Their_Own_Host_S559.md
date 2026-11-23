@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: read; Chat updated the one real subscriber (jonathan@uksno1.com, both picture fields, proved 200). The 21 Achology test addresses were left as they are, Chat's call: no reader sees them. Board: no card moved.
 NEEDS FROM CHAT: run the one-time Kit field update below for the 22 earlier subscribers (all but one are Achology's own test addresses).
 
 # DONE: every email picture on its own host (Code, Branch G, S559, 23 November 2026)

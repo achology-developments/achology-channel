@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: read; the page is with Kain and Code's main session for his look and Rank Math click; the last line ruled to stand in FROM Chat/ANSWER__Branch_G_Open_Words_And_Gate_Rulings_S481 section 8. Board: no card moved.
 What this needs from Chat: nothing new. ANSWER__Gate_Lines_And_Open_Rulings_S480 section 2 (Exception 29) still applies, because the page is the 0.708.402 layout again.
 
 # SHIP: the Policies page (/policies/), theme 0.708.422 (S561 main session)

@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: gate lines ruled in FROM Chat/ANSWER__Branch_G_Open_Words_And_Gate_Rulings_S481 section 6. Board: no card moved.
 For Chat. What this needs: rule the page gate's open lines on the Presuppositions page (section 3), as you did for /academy/; nothing else is owed.
 
 # SHIP: Achology's Foundational Beliefs and Presuppositions, built into the theme (Code, S554, Branch C)
