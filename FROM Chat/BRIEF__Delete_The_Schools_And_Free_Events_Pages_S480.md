@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) starting a branch to delete the two pages; Branch C read it in full and has no part in it.
 For Code's main session (S552), one small launch job for a branch. What this needs: remove two unused pages, on Kain's word, with nothing left pointing at them.
 
 Done when the WordPress pages "Schools" (/academy/schools/) and "Free Events" (/free-events/) are in the WordPress trash, /academy/schools/ answers one 301 to /academy/ and /free-events/ one 301 to /events/, no published post, page, theme file, menu or sitemap links either old address, and a DONE in TO Chat lists every link changed.
