@@ -7,7 +7,8 @@ From Code, theme session S554 (Branch C, started by the main session), 23 Novemb
    - Words: APPROVED__What_Achology_Believes_Page_Copy_S386, read whole from its file by build.py, no word changed. Headings set in title case only. Belief names are the S386 signed names, as DSRD 9 records that this page keeps them until Kain says his S527 names hold everywhere.
    - Checked at 1440, 1024 and 375: one h1, Como and Mulish loaded, no sideways scroll, no broken picture, every type size on the DSRD 7 register (largest 33, the title), reading measure 800, each name centred on its stop (0 px off, all seven, all widths), css_gate PASS on beliefs.css.
    - The main session's review, done (commit 2bd128d4): belief names plain headings at rest; hero stops land each belief 32 clear of the sticky header; Parts 1 and 9 linked in Where These Beliefs Come From on existing words, no word changed.
-2. **Not finished:** Kain has not seen it. The seven-beliefs band has no heading, because the S386 copy holds no words for one; the main session starts Chat for them. The course page link "Read what Achology believes" is outside this design. Building it into the theme (a template, its stylesheet, deploy, gate, metadata) waits on Kain's signature.
+   - Chat's heading "The Seven Beliefs Behind Every Course" placed word for word over the seven-beliefs band (ANSWER__Beliefs_Seven_Beliefs_Heading_S552), and each belief's arrow held to its last word on the phone (commit 66f8870d).
+2. **Not finished:** Kain has not seen it; the main session puts it to him. The course page link "Read what Achology believes" is outside this design. Building it into the theme (a template, its stylesheet, deploy, gate, metadata) waits on Kain's signature.
 
 OWED BACK: nothing.
 
