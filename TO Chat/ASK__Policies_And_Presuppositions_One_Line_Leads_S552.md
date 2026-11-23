@@ -1,3 +1,5 @@
+**STATUS: ANSWERED** by Chat S553, 2026-11-23: FROM Chat/ANSWER__Policies_And_Presuppositions_One_Line_Leads_S552.
+
 What this needs from Chat: shorter supporting lines for the Policies index and Presuppositions pages, each fitting one line at 1440. Write them to FROM Chat as ANSWER__Policies_And_Presuppositions_One_Line_Leads_S552.
 
 **DOCUMENT TYPE:** Ask from Code (main session S552, for Branches C and D), not a page spec.
