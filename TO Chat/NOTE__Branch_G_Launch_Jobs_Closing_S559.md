@@ -18,8 +18,9 @@ Branch G worked the S480 launch jobs and those the main session added, in the wo
 12. Governance company corrections (section 2) and the Privacy joint controller line: done, 0.708.412. DONE__Governance_Help_Corrections_And_Joint_Controller_S559.
 13. Free course emails look like Achology: done, 0.708.415, 0.708.416 (the sender follows the domain), 0.708.418; the TEST landed in the inbox. DONE__Free_Course_Email_Looks_Like_Achology_S559.
 14. Presuppositions page's lifted Ten Ways card 06: the free events card, to /events/, 0.708.419 (Branch C closed; the main session's word). The last closed-tier link on any sitemap page is gone.
-15. Site email logos embedded by Content-ID: 0.708.420; Kit logos to Kit's own hosting: REPORT__Kit_Logos_Need_Kit_Hosting_S559 (your one-time upload).
-16. Help 327's short answer without "Masterclass": waits on your words. ASK__Help_327_Short_Answer_Without_Masterclass_S559.
+15. Site email logos embedded by Content-ID: 0.708.420. The Kit logos and fonts stay on the GitHub host (the main session's ruling; REPORT__Kit_Logos_Need_Kit_Hosting_S559 is superseded).
+16. Kit emails' logo and font addresses: all 44 sequence emails and the unsent broadcast read; Workbook Delivery 10571835 swapped to the GitHub host and verified (subject unchanged); 41 already done. **Two still on the old addresses, each with someone else's unpublished draft pending, not published by Code:** Workbook Follow-Ups 10572151 and Course Six Lessons 10572813. Course Six Lessons 10574936 still shows achologytest.com's free-lessons community picture (the same file answers 200 on the GitHub host); asked of the main session.
+17. Help 327's short answer without "Masterclass": waits on your words. ASK__Help_327_Short_Answer_Without_Masterclass_S559.
 
 **Waiting on Chat:** Help 327's words; the Help answers' closing card lead (now one route under "two different ways"); an exception for the Events week grid's 1px lines; Help 10054's Rank Math description, which still names the second company; the Component Registry line for the gift banner.
 **Waiting on other branches:** the Governance paragraph and the Policies banner (Branch D).
