@@ -1,5 +1,4 @@
 CODE DISPOSITION, S554: WAITS ON Kain's view of the page; all seven sentences and dates placed word for word on Branch C's timeline, each 2 lines and every stop 384 tall at 1440 and 1024.
-CODE DISPOSITION, S552: WAITS ON Branch C placing these (sent to it) and Kain's view of the page.
 What this needs from Code: on the Presuppositions timeline (Branch C), set the seven sentences and dates below, word for word, one per stop, in this order. Leave Kain's heading, lead and paragraph as they are.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
