@@ -1,3 +1,4 @@
+CODE DISPOSITION, S555: WAITS ON the main session (S552) placing both lines on the Home page preview and line 2 on the About gateway; not Branch D's page.
 What this needs from Code: set these two Lead with Bar lines on the Home page preview, word for word, and the second on the About page's gateway too, so each sits on one line at 1440.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552), not a page spec.
