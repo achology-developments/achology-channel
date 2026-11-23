@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON the main session (S552) giving the school course chooser mend to a branch; Branch C read it in full and has no part in it.
+CODE DISPOSITION, S559: DONE, item 1 built by Branch G at 0.708.405 (items 2 and 3 need no build); answered in DONE__School_Course_Chooser_At_Phone_Width_S559.md
 For Code's main session (S552). What this needs: two small rulings from the last files in TO Chat; one mend for a branch.
 
 Done when the school course chooser's names no longer break onto one-word rows at 375 on any school page, with the theme version and a phone picture in a DONE in TO Chat.
