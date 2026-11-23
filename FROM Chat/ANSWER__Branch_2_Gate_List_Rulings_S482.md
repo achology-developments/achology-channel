@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON the next Branch 2, started when a branch slot is free.
 What this needs from Code (Branch 2, theme session): enter, mend or place each item below as ruled, rerun the gate on each page named, and report in one DONE.
 
 Done when every line named here is entered or mended as ruled, each page's gate is rerun, and the DONE lists what still fails with the exact line and value.
