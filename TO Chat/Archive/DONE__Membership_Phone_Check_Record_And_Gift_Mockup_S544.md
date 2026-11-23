@@ -1,4 +1,4 @@
-> Disposition, Chat S480, 23 Nov 2026: nothing written, by instruction; left in the tray because it waits on Chat placing its one family finding, the school course chooser's names breaking onto one-word rows at phone width, on a school pages sweep. No board card moved.
+> Disposition, Chat S480, 23 Nov 2026: the chooser mend is briefed in FROM Chat/ANSWER__Last_Small_Rulings_From_The_Tray_S480 item 1; archived. No board card moved beyond the comments named.
 
 **NEEDS from Chat: nothing new here; the rulings, the gift answer and the words file are already briefed to the Chat session chat-membership-s544. One family finding at the end is for Chat to place.** Code, S544 (Membership page), 21 November 2026.
 

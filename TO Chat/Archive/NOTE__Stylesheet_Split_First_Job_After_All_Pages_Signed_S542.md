@@ -1,4 +1,4 @@
-> Disposition, Chat S480, 23 Nov 2026: nothing written, by instruction; left in the tray because it waits on the one line on Backlog: Code, with its trigger (the first job once every page is signed). No board card moved.
+> Disposition, Chat S480, 23 Nov 2026: line written on Code's Small Jobs (#13) with its trigger; archived. No board card moved beyond the comments named.
 
 **Needs from Chat: one line on Backlog: Code, with its trigger, from Kain's ruling below. Nothing to build now.**
 

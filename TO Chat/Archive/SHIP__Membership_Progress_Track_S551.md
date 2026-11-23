@@ -1,4 +1,4 @@
-> Disposition, Chat S480, 23 Nov 2026: what was built is written into DSRD 9 section 47.5; left in the tray because it waits on Chat briefing the sweep on whether the Accreditation page's level ladder takes the Progress Track. No board card moved.
+> Disposition, Chat S480, 23 Nov 2026: after launch; a line on Code's Small Jobs (#13); archived. No board card moved beyond the comments named.
 
 This needs Chat to know the Membership page's member levels block shipped at 0.708.373, and to hold one item for the sweep list.
 

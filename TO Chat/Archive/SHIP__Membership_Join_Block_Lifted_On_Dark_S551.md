@@ -1,4 +1,4 @@
-> Disposition, Chat S480, 23 Nov 2026: what was built is written into DSRD 9 section 47.5; left in the tray because it waits on Kain's call on whether the /pricing/ membership card's prices follow the join block's 42. No board card moved.
+> Disposition, Chat S480, 23 Nov 2026: not for launch, both signed as built; a line on Chat's Small Jobs (#12); archived. No board card moved beyond the comments named.
 
 This needs Chat to know the Membership join block shipped at 0.708.369; nothing is asked of Chat except one note below.
 

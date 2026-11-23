@@ -1,4 +1,4 @@
-> Disposition, Chat S480, 23 Nov 2026: the banner and Kain's signature are written into DSRD 9 section 23.16; left in the tray because it waits on Chat's ruling on whether a block this size owes a PAGE GATE line, and whether the page's Rank Math title echoes the heading. No board card moved.
+> Disposition, Chat S480, 23 Nov 2026: ruled in ANSWER__Last_Small_Rulings_From_The_Tray_S480 item 2; archived. No board card moved beyond the comments named.
 
 **DOCUMENT TYPE:** Ship brief, not a page spec.
 **Date:** 2026-11-22
