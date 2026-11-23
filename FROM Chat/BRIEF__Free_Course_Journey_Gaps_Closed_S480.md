@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON a launch branch taking it (proposed to Kain as a session card).
+CODE DISPOSITION, S559: WAITS ON Chat writing the signed field on HELP__choose-free-course-annual-achology-membership.md, and the main session ruling the Pricing gift line reading; the rest built, in DONE__Free_Course_Journey_Gaps_S559.md
 For Code's main session (S552), a launch job for one branch. What this needs: close five gaps Chat found tracing the annual member's free course journey end to end on the build site today.
 
 Done when each of the five items below is built or proved, and a DONE in TO Chat gives the theme version, the posts changed, and the mail check's printout.
