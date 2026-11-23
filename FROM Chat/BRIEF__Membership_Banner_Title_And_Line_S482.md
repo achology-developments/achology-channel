@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON the Home main session (local_f69dddea) adding it to Branch 2's Membership jobs.
 What this needs from Code (theme session): change the Membership page's banner title and the line under it to Kain's words, and lay both out evenly, then report the line counts.
 
 Done when the new words read in the banner, the title sits on two even lines and the line under it on three even lines at computer and tablet width, both wrap evenly on a phone, and one DONE gives the counts.
