@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON Branch C placing these (sent to it) and Kain signing the page.
+CODE DISPOSITION, S554: WAITS ON Kain signing the whole page; five labels and the NLP cut placed word for word on Branch C's preview, NLP card 7 lines at 1024, every link one line.
 What this needs from Code: on the Presuppositions preview (Branch C), set the five Giants card links to the short labels below, with the addresses unchanged, and replace the Bandler and Grinder card's words with the cut version, word for word.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
