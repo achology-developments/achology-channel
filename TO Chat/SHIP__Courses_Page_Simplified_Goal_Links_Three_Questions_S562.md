@@ -10,7 +10,7 @@ Also: the questions' hidden hover arrow taken out of the line on /courses/, so a
 
 Checked on the live page at 1440 and 375: goal ticked from the address, heading "Courses Best Aligned With Your Goals", instruction line gone, 3/3/3 questions, sort padding 16/8, foot 68/36 (the band's 64/32 plus the footer's 4 stripe), only cdRise moving, no script errors. Built mode also judged at 1024 before the ship.
 
-Page gate rerun on /courses/ at 0.708.438: 43 passed, 5 failed, 8 review, 22 carved out. None of the five comes from this change:
+Page gate rerun on /courses/ at 0.708.438, and again at 0.708.439 after the main session reported Branch 1's deploy briefly replaced 0.708.438 (the live check above already ran on 0.708.439): both runs 43 passed, 5 failed, 8 review, 22 carved out, the same five. None of the five comes from this change:
 - boundary-owner, desktop boundary 1 (results to questions band): the Explore More button's own 12 padding read as the last edge; the space measures 48 as wanted. Unchanged by this ship.
 - supporting-line, phone: the questions band heading at 21 on a phone, the band's own phone size (help.css), unchanged.
 - rank-math 86 under 90, keyword 'achology courses': read from the install; template copy is not what Rank Math scores.
