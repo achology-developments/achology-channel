@@ -1,4 +1,4 @@
-CODE DISPOSITION, S561: WAITS ON Branch G doing its four items (passed to Branch G by the main session, 23 November).
+CODE DISPOSITION, S559: DONE, the four items built by Branch G at 0.708.418; answered in DONE__Email_Pictures_On_Their_Own_Host_S559.md
 For Code's main session (S552), Branch G. What this needs: the email picture host now exists; move every email picture there and point the sign up code at it, as REPORT__Email_Images_Need_A_Host_Outside_SiteGround_S559 planned.
 
 Done when every workbook cover, course cover, lesson still and teaching still the Kit fields name loads from the host with 200 image to the GoogleImageProxy and Outlook fetch test, workbook-kit.php, course-kit.php and school-kit.php fill the fields with host addresses, the one-time Kit field update for earlier subscribers is listed, and a DONE in TO Chat gives the printouts.

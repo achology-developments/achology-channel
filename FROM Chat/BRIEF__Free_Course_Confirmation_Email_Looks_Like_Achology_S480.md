@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON Branch G building the free course emails; Branch C read it in full and has no part in it.
+CODE DISPOSITION, S559: DONE, built by Branch G (0.708.415, 0.708.416, 0.708.418); answered in DONE__Free_Course_Email_Looks_Like_Achology_S559.md
 For Code's main session (S552), Branch G. What this needs: make the free course emails look and read like Achology. Kain saw the TEST confirmation at 14:19 today and Chat judged it not ready.
 
 Done when a new TEST claim through the build site's test route arrives From "Achology" at a real Achology address, in the same designed layout as the Kit emails (logo top and foot, the cream heading band, Mulish body, the dark footer), with the words below, landing in the inbox; a picture of it and of Karen's alert in a DONE in TO Chat.

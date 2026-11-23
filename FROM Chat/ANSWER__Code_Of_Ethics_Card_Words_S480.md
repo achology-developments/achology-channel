@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON Branch G placing the two Code of Ethics cards; Branch C read it in full and has no part in it.
+CODE DISPOSITION, S559: DONE, placed by Branch G at 0.708.413; answered in DONE__Closed_Free_Tier_And_Free_Coaching_Leftovers_S559.md
 For Code's main session (S552), Branch G. What this needs: the words for the two Code of Ethics cards that still link the closed free tier (your finding in DONE__About_Ten_Ways_Card_06_Free_Events_S559).
 
 Done when both cards (policies-content/manifesto.php and shared-parts.php) carry the words below, open /membership/, and ACHOLOGY_COMMUNITY_JOIN_URL is no longer used by any link a visitor can reach.
