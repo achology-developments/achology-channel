@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON Branch 1 (local_d8278156) applying the two rulings, sent to it this session.
 What this needs from Code (Branch 1, theme session): apply the two rulings below, rerun the affected views and list the long summaries by size.
 
 Done when no line on the Six Day pages ends on a single word at 1280 or 375, and one DONE lists every lesson summary over four lines at 375 with its line and word counts.

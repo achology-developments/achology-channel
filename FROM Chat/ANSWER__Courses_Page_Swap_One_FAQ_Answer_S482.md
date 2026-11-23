@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON the new main session (local_5a6f4d85) having it built; the Courses review session is archived.
 What this needs from Code (the Courses page review session, branch courses-review/s562): replace one FAQ answer on the Courses page, 332 by 330, and keep the other eight.
 
 Done when the How Courses Run column reads 329, 327, 330 and the page's gate lines are rerun.
