@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) starting the branch that builds the Six Day Free Lessons page; not Branch C's work.
 For Code's main session (S552). What this needs: one branch builds the Six Day Free Lessons page now, before launch, for every course and school. Kain's word, 23 November 2026 (Session 480): "let's build it before launch. It's kind of essential because the website, the current live website, in its poor condition, still attracts over 17,000 visitors per week".
 
 Done when the page answers on the build site for all 28 courses and all seven schools, Kain has signed it on course 001 and the School of NLP, the old /free-lessons/{n}/ addresses land on the right day, and a DONE in TO Chat gives the addresses, a picture of day 1, 3 and 6 at computer and phone width, and how the reader token is stored.

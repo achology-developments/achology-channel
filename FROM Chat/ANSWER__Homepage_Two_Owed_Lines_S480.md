@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) and Branch F carrying the two rulings onto the Homepage and the About gateway; not Branch C's work.
 For Code's main session (S552) and Branch F. What this needs: nothing new to build; two lines owed by SESSION_REPORT__S558 are now settled.
 
 Done when the Homepage preview and the About gateway carry the two rulings below, and the Homepage goes to Kain from the main session as planned.
