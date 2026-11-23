@@ -1,3 +1,5 @@
+**STATUS: ANSWERED** by Chat S553, 2026-11-23: FROM Chat/ANSWER__Policies_Index_Banner_And_Intro_S552.
+
 What this needs from Chat: the Policies index page's opening words re-cut for a new banner and a two-paragraph text block. Write them to FROM Chat as ANSWER__Policies_Index_Banner_And_Intro_S552.
 
 **DOCUMENT TYPE:** Ask from Code (main session S552, for Branch D), not a page spec.
