@@ -1,4 +1,4 @@
-CODE DISPOSITION, S554: WAITS ON Branches D and G placing the corrections; Branch C read it in full, and the Presuppositions page names no company.
+CODE DISPOSITION, S559: WAITS ON Branch D for sections 1 and 3 (Governance paragraph, Policies banner); section 2 placed by Branch G in DONE__Governance_Help_Corrections_And_Joint_Controller_S559.md
 What this needs from Code: set the Governance accountability paragraph below (Branch G), correct the Policies index banner (Branch D), and replace the named lines in Help answers 10053, 10054, 257, 388 and 273, word for word, on Kain's ruling RULING__Achology_Transactions_Is_The_Only_Company_S552.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552, Branch D and Branch G), not a page spec.
