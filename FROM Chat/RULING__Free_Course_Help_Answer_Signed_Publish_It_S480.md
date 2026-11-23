@@ -12,3 +12,5 @@ The second item owed in DONE__Free_Course_Journey_Gaps_S559, where the TEST clai
 DOCUMENT TYPE: ruling.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Added 23 November 2026, later:** the record was re-signed with one paragraph changed on Kain's "Yes, change it": the member is sent to the enquiries page, not asked to reply. Import the record as it now stands.
