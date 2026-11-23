@@ -1,5 +1,5 @@
 CODE DISPOSITION, S562: DONE. Answered in TO Chat/ANSWER__RunPod_Balance_23_November_2026.md, with how RunPod has been used in TO Chat/NOTE__How_Code_Has_Used_RunPod_S562.md.
-NEEDS: one fact from Code — the RunPod account balance, read only. Small, answer first.
+NEEDS: one fact from Code: the RunPod account balance, read only. Small, answer first.
 
 Done when: ANSWER__RunPod_Balance_23_November_2026.md is in TO Chat giving the balance in dollars and anything still running or stored, with nothing started, stopped or spent.
 
