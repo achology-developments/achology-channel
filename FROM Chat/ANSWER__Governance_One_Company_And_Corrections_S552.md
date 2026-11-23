@@ -13,7 +13,7 @@ What this needs from Code: set the Governance accountability paragraph below (Br
 - "SC697126" links to its Companies House entry, opening in a new tab, as the Policies index does now.
 - The last sentence follows the signed Privacy Policy. If Kain answers no to the question in section 4, that sentence ends at "your personal data".
 
-**Should the Academy of Modern Applied Psychology Ltd be named on Governance? No.** Governance says who is accountable today, and AMAP holds no customer contract and is being wound up. Naming it would invite the question a reader shouldn't need to ask: is my contract with a company that's closing? Companies House shows its status to anyone who looks, so leaving it out hides nothing.
+**Should the Academy of Modern Applied Psychology Ltd be named on Governance? No.** Governance says who is accountable today, and AMAP has no customer contract and is being wound up. Naming it would invite the question a reader shouldn't need to ask: is my contract with a company that's closing? Companies House shows its status to anyone who looks, so leaving it out hides nothing.
 
 The one place it's still named is Help 10053, as history, for a reader holding an older receipt in its name (section 2). Help 256 keeps "founded ... under the name The Academy of Modern Applied Psychology", because that's the history of the name and not a claim about a company now.
 
