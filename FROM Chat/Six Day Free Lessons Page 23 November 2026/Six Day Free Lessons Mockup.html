@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Six Day Free Lessons Page</title>
+<style>
+:root { --dark:#354149; --orange:#C85015; --sand:#FBF9F6; --hair:rgba(53,65,73,.14); }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--sand); color: var(--dark); font: 400 16px/1.55 "Mulish", system-ui, sans-serif; }
+.g { padding: 24px; }
+h1 { margin: 0 0 4px; font: 600 24px/1.3 "Como", system-ui, sans-serif; }
+.intro { margin: 0 0 16px; max-width: 900px; }
+.tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 20px; }
+.tools span { margin: 0 4px 0 12px; font-weight: 700; font-size: 14px; }
+.tools span:first-child { margin-left: 0; }
+.tools button { padding: 8px 16px; border: 1px solid var(--hair); border-radius: 999px; background: #fff; color: var(--dark); font: 600 14px/1 system-ui, sans-serif; cursor: pointer; }
+.tools button[aria-pressed="true"] { background: var(--orange); border-color: var(--orange); color: #fff; }
+.pair { display: flex; gap: 32px; align-items: flex-start; }
+.fr .cap { margin: 0 0 8px; font-size: 13px; color: #5E6B75; }
+.box { overflow: hidden; border-radius: 12px; box-shadow: 0 0 0 1px var(--hair), 0 12px 32px rgba(53,65,73,.1); background: #fff; }
+.box iframe { display: block; border: 0; transform-origin: 0 0; background: #fff; }
+</style>
+</head>
+<body>
+<main class="g">
+<h1>The Six Day Free Lessons Page</h1>
+<p class="intro">The page a reader opens from their free lessons emails. Choose a course or a school, and the day the reader is on. Computer on the left, phone on the right. Press any open day on the dark track to play it.</p>
+<div class="tools">
+<span>Page</span><button type="button" data-k="kind" data-v="course" aria-pressed="true">Course 001</button><button type="button" data-k="kind" data-v="school" aria-pressed="false">School of NLP</button>
+<span>Reader is on</span><button type="button" data-k="day" data-v="1" aria-pressed="false">Day 1</button><button type="button" data-k="day" data-v="3" aria-pressed="true">Day 3</button><button type="button" data-k="day" data-v="6" aria-pressed="false">Day 6</button>
+</div>
+<div class="pair">
+<div class="fr"><p class="cap" id="cap">Computer</p><div class="box" id="cbox"><iframe id="comp" title="The page on a computer" style="width:1280px;height:3600px"></iframe></div></div>
+<div class="fr"><p class="cap">Phone, 375 wide</p><div class="box" style="width:375px;height:812px;overflow:auto"><iframe id="phone" title="The page on a phone" style="width:375px;height:7000px"></iframe></div></div>
+</div>
+</main>
+<script>
+var S = { kind: 'course', day: '3' };
+function load() {
+  var u = 'page.html?kind=' + S.kind + '&day=' + S.day;
+  document.getElementById('comp').src = u;
+  document.getElementById('phone').src = u;
+}
+function fit() {
+  var f = document.getElementById('comp'), box = document.getElementById('cbox');
+  var avail = document.querySelector('.g').clientWidth - 375 - 32;
+  var s = Math.max(0.3, Math.min(1, avail / 1280));
+  f.style.transform = 'scale(' + s + ')';
+  box.style.width = (1280 * s) + 'px'; box.style.height = (812 / 0.75 * 1) + 'px';
+  box.style.height = '812px'; box.style.overflow = 'auto';
+  box.style.height = (900 * s) + 'px';
+  document.getElementById('cap').textContent = 'Computer, 1280 wide, drawn at ' + Math.round(s * 100) + '%';
+  box.dataset.s = s;
+}
+function sizeFrames() {
+  ['comp', 'phone'].forEach(function (id) {
+    var f = document.getElementById(id);
+    try { var h = f.contentDocument.documentElement.scrollHeight; if (h > 200) f.style.height = h + 'px'; } catch (e) {}
+  });
+  var s = +document.getElementById('cbox').dataset.s || 1;
+  var f = document.getElementById('comp'), box = document.getElementById('cbox');
+  box.style.overflow = 'hidden'; box.style.height = (parseFloat(f.style.height) * s) + 'px';
+}
+document.querySelectorAll('.tools button').forEach(function (b) {
+  b.addEventListener('click', function () {
+    S[b.dataset.k] = b.dataset.v;
+    document.querySelectorAll('.tools button[data-k="' + b.dataset.k + '"]').forEach(function (o) { o.setAttribute('aria-pressed', o === b ? 'true' : 'false'); });
+    load();
+  });
+});
+['comp', 'phone'].forEach(function (id) { document.getElementById(id).addEventListener('load', function () { setTimeout(sizeFrames, 600); setTimeout(sizeFrames, 2000); }); });
+window.addEventListener('resize', function () { fit(); sizeFrames(); });
+fit(); load();
+</script>
+</body>
+</html>
