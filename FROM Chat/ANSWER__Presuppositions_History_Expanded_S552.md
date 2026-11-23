@@ -1,11 +1,13 @@
 CODE DISPOSITION, S552: WAITS ON Chat's Epictetus and Freud amendment (asked), then Branch C placing it and Kain's view.
-What this needs from Code: on the Presuppositions page (Branch C), expand the history scroll to the five chapters and eighteen moments below, word for word. Set the new heading, Lead with Bar line and foot, and keep Kain's paragraph as it stands.
+What this needs from Code: on the Presuppositions page (Branch C), expand the history scroll to the five chapters and nineteen moments below, word for word. Set the new heading, Lead with Bar line and foot, and keep Kain's paragraph as it stands.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
 **Date:** 2026-11-23
-**Answers:** the main session's message of 23 November 2026, on Kain's yes to a full education piece (no ASK file). It replaces ANSWER__Presuppositions_History_Scroll_S552. The ten moments in that file are kept word for word, and eight new ones are added.
+**Answers:** the main session's message of 23 November 2026, on Kain's yes to a full education piece (no ASK file). It replaces ANSWER__Presuppositions_History_Scroll_S552. The ten moments in that file are kept word for word, except Freud's year, and nine new ones are added.
 
-# ANSWER: the expanded history, eighteen moments
+**Amended in place, same day, on the main session's two calls:** Epictetus is added as moment 3, from the section in 39695, and Freud's year is now 1899 to match the signed Academy page.
+
+# ANSWER: the expanded history, nineteen moments
 
 ## Step 1: who has an article
 
@@ -22,6 +24,7 @@ The rule is that only a thinker with an article of their own on the build site g
 | Albert Bandura | What Is Bandura's Social Learning Theory in Simple Terms? (35188) | Yes, new |
 | Gerard Egan | Who Is Gerard Egan? (33605) | Yes, new |
 | Daniel Goleman | Who Is Daniel Goleman? (33600) | Yes, new |
+| Epictetus | The section "Epictetus and the Two Lists" in Your Emotional State Is Your Responsibility (39695), allowed by the main session's call | Yes, new |
 
 **Without an article, so no moment:**
 - **Socrates.** There's no article of his own. He's named inside Plato's moment, because Plato's biography tells his "knowing what he does not know".
@@ -56,6 +59,7 @@ Moments 1 to 17 run 362 to 405 characters (budget 360 to 420). Moment 18 runs 38
 |---|---|---|---|---|---|---|---|---|
 | 1 | 1 | c. 387 BCE | Plato Founds the Academy, a Place Built for Study | Around 387 BCE, Plato founds the Academy in Athens, one of the first places in the West built purely for study and argument. In his Apology, Socrates finds that his one advantage is knowing what he does not know, and Plato argues that clarity has to come before any decision about how to act. It stands behind our third presupposition, Wisdom Begins with Accurate Thinking. | 373 | 3 | 33619 | New |
 | 2 | 1 | c. 335 BCE | Aristotle Founds a School of His Own in Athens | Around 335 BCE, Aristotle returns to Athens and founds the Lyceum, which he runs for 12 years. His Nicomachean Ethics treats the good life as a skill to be built, not a rule to be followed, and argues that people become good the way they become good carpenters, by practising. It stands behind our sixth presupposition, Personal Growth Comes Before a Better Life. | 363 | 6 | 33592 | Kept |
+| 3 | 1 | c. 100 CE | Epictetus Sorts What Is and Isn't in Our Control | In the first and second centuries CE, Epictetus, who lived part of his life as a slave, teaches at his own school at Nicopolis. His handbook, the Enchiridion, opens by sorting what is in our control from what is not, with our opinions, desires and actions on the first list. He asks us to blame neither others nor ourselves. It stands behind our fifth presupposition, Your Emotional State Is Your Responsibility. | 412 | 5 | 39695, 39689 | New |
 | 4 | 2 | 1890 | William James Writes About Habit and the Mind | In 1890, after roughly 12 years of work, William James publishes The Principles of Psychology. Its chapter on habit warns that by 30 most of us have a character "set like plaster", then gives practical rules for building a new habit, because the way you live shapes who you become. It stands behind our first presupposition, Every Human Being Can Grow and Mature. | 363 | 1 | 33628 | New |
 | 5 | 2 | 1899 | Sigmund Freud Publishes The Interpretation of Dreams | In 1899, Sigmund Freud publishes The Interpretation of Dreams, his fullest account of the unconscious. He argues that "the ego is not master in its own house", so much of a person works out of their own sight, and that one person talking while another listens closely can bring it to light. It stands behind our second presupposition, Self-Knowledge Comes Before Personal Growth. | 379 | 2 | 33622 | New |
 | 6 | 2 | 1912 | Alfred Adler Founds Individual Psychology | In 1912, after breaking with Freud, Alfred Adler names his new direction Individual Psychology and founds a society for it. He asks what a person's whole life is moving towards, and argues that health lies in social interest, a real feeling of connection to and concern for other people. It stands behind our seventh presupposition, Personal Growth Always Serves a Purpose. | 373 | 7 | 33709 | Kept |
