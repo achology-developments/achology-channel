@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON Kain signing the goals table and the banner design; the main session is placing these words in the Home page mock-up.
 For Code's main session (S562) and whoever builds the Home page: what this needs: every word of the new eleven-section Home page, on Kain's yes today to the structure, so design and build aren't held up. Place them word for word. The goals table at the top goes to Kain to sign before the banner and section 3 are built.
 
 Done when Kain has signed the goals table, every section of the Home page mock-up carries these words in place of its stand-ins, each supporting line sits on one row at 1440, and the main session has settled the three marked questions at the foot.
