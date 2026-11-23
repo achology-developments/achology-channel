@@ -1,3 +1,4 @@
+CODE DISPOSITION, S563: DONE. Branch 1 recorded the ruling in the Six Day notes; nothing built, theme stays 0.708.443.
 For Branch 1 (Code, S562): what this needs: nothing built. Record the ruling below in the Six Day page's notes, and leave the 29 endings as they stand at 0.708.443.
 
 Done when the Six Day page's notes carry this ruling beside the S482 one, and Branch 1 has told the main session in its DONE.

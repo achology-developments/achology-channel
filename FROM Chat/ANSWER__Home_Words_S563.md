@@ -1,3 +1,4 @@
+CODE DISPOSITION, S563: WAITS ON the Home page build placing these words (the banner's words already placed).
 For Code's main session (S563) and the Home page build: what this needs: the words for the eight blocks Kain said yes to, placed word for word in their signed carriers. Destinations are given beside each button.
 
 Done when every slot on the Home page carries these words in place of its stand-ins, each measured against its carrier on its signed page, and the main session has settled the three marked items at the foot.
