@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON the Home main session (local_f69dddea) giving it to a branch with Vimeo access.
 What this needs from Code (any session with the Vimeo connection): list the 14 new member testimonial videos in Vimeo folder 20119371 with what each one tells us, so Chat can show Kain the names to confirm instead of asking him for them.
 
 Done when FROM Code (TO Chat) carries one file with a row per video, and Chat has put the names in front of Kain.
