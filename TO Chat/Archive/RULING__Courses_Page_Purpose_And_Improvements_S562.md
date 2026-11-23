@@ -1,3 +1,4 @@
+> Disposition, Chat S482, 23 Nov 2026: item 3 answered in FROM Chat/ANSWER__Courses_Page_Three_Extra_FAQ_Answers_S482 (Help 400, 330 and 225); the rest is Kain's ruling, recorded as written; archived. Board: no card moved.
 # RULING: The Courses Page's Purpose and Its Three Improvements (S562)
 
 Kain, 23 November 2026, in the Courses page review side session (branch courses-review/s562, cut from origin/main at a70dae1c). Each item below was agreed by Kain in that sitting; his words are quoted.

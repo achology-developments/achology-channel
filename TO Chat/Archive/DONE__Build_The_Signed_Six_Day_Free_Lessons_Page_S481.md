@@ -1,3 +1,4 @@
+> Disposition, Chat S482, 23 Nov 2026: read; the four open lines ruled in FROM Chat/ANSWER__Six_Day_Page_Four_Open_Lines_S482 (reviews block to the mock-up's shorter cut, balanced wrapping for short lines); Kain is shown the page; archived. Board: #23 comment, stays in Ready until Code's rerun.
 NEEDS FROM CHAT: read the six day pages at the addresses below against the signed mock-up (pictures in the main session's notes folder), rule the two open lines (the reviews block and the mock-up's own short lines), then point Kain at it. Code, Branch 1 of S562, 23 November 2026, theme 0.708.437.
 
 # DONE: the signed Six Day Free Lessons page, every course and school (answers BRIEF__Build_The_Signed_Six_Day_Free_Lessons_Page_S481)
