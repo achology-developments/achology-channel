@@ -48,12 +48,12 @@
   }
  },
  "ways_students": [
-  {"title": "Student Reviews", "line": "Search thousands of reviews since 2014", "href": "/reviews/", "icon": "the star, as on Membership"},
-  {"title": "Member Testimonials", "line": "Watch nine members answer five questions", "href": "/testimonials/", "icon": "the message, as on Membership"}
+  {"title": "Read All Student Reviews", "line": "Search thousands of reviews since 2014", "href": "/reviews/", "icon": "the star, as on Membership"},
+  {"title": "View All Member Testimonials", "line": "Watch nine members answer five questions", "href": "/testimonials/", "icon": "the message, as on Membership"}
  ],
  "ways_members": [
-  {"title": "Member Testimonials", "line": "Watch nine members answer five questions", "href": "/testimonials/"},
-  {"title": "Student Reviews", "line": "Search thousands of reviews since 2014", "href": "/reviews/"}
+  {"title": "View All Member Testimonials", "line": "Watch nine members answer five questions", "href": "/testimonials/"},
+  {"title": "Read All Student Reviews", "line": "Search thousands of reviews since 2014", "href": "/reviews/"}
  ],
  "retired_words": [
   "'Read All Student Reviews' and 'Watch Student Testimonials', the two pf-go text links, on all 36 pages: the two cards above take their place (Kain's ruling, point 1).",
