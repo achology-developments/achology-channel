@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: DONE. Branch 1 built the four rulings and answered them in its second DONE, live at 0.708.441.
 What this needs from Code (Branch 1, theme session): mend the reviews block and the short lines as ruled below, then rerun the 12 views and say so in one DONE.
 
 Done when the reviews block on the course and school Six Day pages matches the signed mock-up's cut, no title or track name ends on a line of one, two or three words at 1280 or 375, and the 12 comparison views are rerun.

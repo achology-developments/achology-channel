@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON the next main session checking which three answers went live; Chat's message to the Courses session named 400, 332 and 249, this file names 400, 330 and 225.
 What this needs from Code (the Courses page review session, branch courses-review/s562): add one published Help answer to each of the three FAQ columns on the Courses page, as chosen below.
 
 Done when each column on the Courses page lists three questions and the page's gate lines are rerun.

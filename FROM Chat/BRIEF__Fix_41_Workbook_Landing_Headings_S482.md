@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON a factory session, to be started by the next main session.
 What this needs from Code (theme session or the factory): apply the heading fixes in heading_fixes.json to 41 workbook landing pages, in each page's record and on the build site, then rerun the gates.
 
 Done when every old string in the file reads as its new string on the build site and in the record, the content gate and the page score are rerun on all 41, and one DONE lists any page that failed to match or fell under 86.
