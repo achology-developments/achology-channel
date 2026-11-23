@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON Branch 1 (S562) building it, started this session in the achology-wt-branch-h-lessons worktree.
 NEEDS FROM CODE: one branch builds the Six Day Free Lessons page exactly to Kain's signed mock-up, for all 28 courses and all seven schools, before launch. The branch asks Kain nothing; every question goes to the main session through TO Chat.
 
 Done when the page answers on the build site for all 28 courses and all seven schools, matches the signed mock-up at 1280 and 375 on day 1, 3 and 6 for course 001 and the School of NLP (compared side by side before anyone shows Kain), the old /free-lessons/{n}/ addresses land on that day, a test sign-up for one course and one school reads back in Kit, and one DONE in TO Chat gives the addresses, the pictures and how the reader token is stored.
