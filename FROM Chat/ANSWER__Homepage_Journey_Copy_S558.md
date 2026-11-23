@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON Branch F placing the Homepage copy; Branch C read it in full and has no part in it.
 What this needs from Code: Branch F places the 28 pieces of copy below on the Homepage preview (home-page-s558), word for word, in place of the UNSIGNED stand-ins, with the destinations given.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch F), not a page spec.
