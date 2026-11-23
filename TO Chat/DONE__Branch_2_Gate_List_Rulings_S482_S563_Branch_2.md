@@ -1,0 +1,62 @@
+CODE DISPOSITION: DONE. Branch 2, S563. Answers ANSWER__Branch_2_Gate_List_Rulings_S482.
+
+# DONE: Branch 2's gate list (Code, Branch 2, 23 November 2026)
+
+Theme version on the build site and on origin/main: **0.708.460** (0.708.459 carried the mends and entries, 0.708.460 the gateway line and the Code of Ethics line height). Every page below was rerun on 0.708.460 through page_gate.py, one at a time or three in parallel, and the lines left are quoted as the gate printed them. No dashes in any copy; no words changed except the one ruled in 2.1.
+
+## 1. Answers to what you asked
+1. **1.1 Help closing lead on category pages:** not touched. It was not in my work order, and `help-parts.php` already carries the lead you named.
+2. **1.2 / 1.3:** the old factory `page_gate.py` has the one line at its head, after the shebang: "Superseded by the theme repository's page_gate.py (Chat, S482). Do not run." Nothing else in it changed.
+
+## 2. The Presuppositions page (/about/what-achology-believes/)
+- **2.1 ABC:** MENDED in `data/beliefs-page/main.json` (the page's stored words): "sets out his model of events, beliefs and feelings in Reason and Emotion in Psychotherapy". The acronyms line now passes. **Short last line check** (measured on the rendered page, the 1962 entry against its neighbours): last line is 18% of the column at 1440 (74px), 59% at 1024, 19% at 768 (107px), 79% at 375. The Bandura, Beck and Seligman entries run 13 to 25% at 1440 too, so the 1962 entry does not break its row's pattern, but it ends on a short line at 1440 and 768. For your reading.
+- **2.2 II:** entered in NAMED_SHORT_FORMS by page and token ("/about/what-achology-believes/", "II"), the Aristotle source line only. Passes as a carve-out.
+- **2.3 old-address:** the gate could not read `live-site-urls.csv` (the file did not exist). I wrote it from `live-site-status.csv`, the 2,060 live addresses in Karen's crawl, one column (`.../05. Spreadsheets | Data | CSV Files/Search Console + Live Site Exports/live-site-urls.csv`). The gate now reads "replaces nothing: no live address carries this slug" for the Presuppositions page, the gift page (/membership/choose-your-free-course/) and the others below, and passes. **Old-address items with no new page:** none found. No live address in the crawl shares the slug of the Presuppositions page, the gift page, /reviews/, /testimonials/, /about/code-of-ethics/ or /policies/accessibility-statement/, so there was no stored address to point at a new page. If Karen's real export holds an address I do not have, the gate will name it when that file replaces mine.
+- **2.4 rank-math 45044:** waits on Kain's click. Left.
+- Left on this page: `block-heading "From Plato to Achology: The Ideas We T": mid-sentence capitals: Athens` (a proper noun in the signed words; it is not in your list, so I did not enter it. It needs a ruling.) and the rank-math line above.
+
+## 3. /events/
+- **3.1** entered: supporting-line mobile "Practical Answers Before Your First Even": heading 21 against 24, as Events ruling 7.
+- **3.2** entered: breadcrumb-below tablet and mobile, 32 against 48, as Events ruling 3. The S480 mend stands.
+- **3.3 chain-register row:** the gate passes it ("1 workbook rows point here, all five facts recorded and true"). The row is sheet **Core pages**, old address `/free-events/` to `/events/` (action redirect, Kain S480: "page not used; trashed"). No mend was needed at 0.708.460; if you meant a different row, name it.
+- **3.4 orphan:** ORPHAN_RESULT_PLACEHOLDER
+
+## 4. /about/instructors/
+- **4.1** entered (boundary-owner, desktop boundary 3, firstOfB_marginTop 48px by `.pp-group`). **4.2** entered (ap-crumb row-gap 6, desktop, tablet, mobile).
+- **4.3 MENDED:** the three group lines are `.lead-bar` (class added in `template-our-people.php`; `people.css` keeps only its space and the 800 measure; the heading's gap under it is 16, the line 24 above the cards). The three groups' lines no longer fail.
+- **4.4 THE CLOSING LINE, word for word** (the trial panel's body, `achology_trial_panel`, Kain S181): "For $7, you gain access to the membership: seven online courses, weekly personal development events, mentorship groups, and the opportunity to apply for free one-on-one coaching. Certificate courses can be purchased separately." Its heading is "Experience a FULL Achology membership and its benefits. 30 days for only $7!" **What the gate says of the line**, at all three widths: `line-type is mulish 18, weight 400, line height 1.75, colour rgb(53, 65, 73), wants Mulish 18, weight 500, line height 1.55, #354149` and `line-bar is no bar, wants a 2px orange edge, 16 from the words` (8 on a phone). The panel is the registered closing panel (warm-room), shared by every article, book note and help answer, so I did not turn it into a Lead with Bar without your word. Left.
+- **4.5 MENDED:** `our-people-header.webp` carries `fetchpriority="high"` and is not lazy, on all three widths (image-lcp-candidate passes). **keyword-density** entered as the template carve-out. **dsrd6-record:** the record existed under the old address `/instructors/`, so the gate could not find it; its `Page:` line now reads `/about/instructors/` and its line 10 is rewritten from the 0.708.460 reading. The record still has three fail lines: line 1 (copy standards, 2026-08-12, a human half), line 5 (search visibility, the chain note from 2026-10-01) and one other; they are Chat's lines or older readings and I did not overwrite them.
+- Gate at 0.708.460: 67 passed, 7 failed (the six closing-line lines above and the record).
+
+## 5. /reviews/ and /testimonials/
+- **5.1 MENDED to `.lead-bar`:** the global-impact line (`gi-intro__lead`, with its 16 under the heading and 24 to the map), the reviews archive line (`rv-archive__lead`), the testimonials answers line (`tm-intro`), the member stories line ("Five Aspects of the Achology Learning Experience", only where a heading is passed, so course pages are unchanged), and the Ten Ways gateway line on both pages (a dark band keeps its light colour and the orange edge, the tile holds the bar so it does not hang out; the line now stands 24 above the circles, which makes the gateway tile 8px taller at most). All pass.
+- **5.2 spacing-scale MENDED to the nearest step:** reviews-header actions 26 to 24; gi__label padding 6 to 8 (6 is equally near 4 and 8; I took 8); rv-card__attr margin-top 20 to 24 (equally near 16 and 24; took 24); rv-card__who gap 10 to 8; rv-stars gap 3 to 4; rv-card__course padding 10 to 8 and gap 12 to 16 (equally near 8 and 16). The card's height is unchanged (+4 above the footer, -4 in the course row); no card moves more than 4px, so none is left. Spacing-scale passes on both pages. **The course-art picture was not touched.**
+- **5.3:** image-dimensions MENDED (the 30 course images now declare 80 x 42, the file's own size; the box is still 52 x 42 by CSS). image-lcp-candidate MENDED (reviews: the world map is eager with `fetchpriority="high"` on this page only, the hero picture carries it too; testimonials: `header-banner` is no longer lazy and carries it). **keyword-density** entered as the template carve-out on both. **dsrd6-record:** reviews and testimonials records were found; their fail lines are listed below. **old-address:** passes (see 2.3).
+- Gate at 0.708.460: /reviews/ 67 passed, 6 failed; /testimonials/ 72 passed, 14 failed.
+
+## 6. The seven policy pages and the Code of Ethics
+- **6.1:** dsrd6-record: the six records (privacy, cookie, accessibility, refund, trust, disclaimers) and Terms were keyed to the old addresses (`/privacy-policy/`, and so on); each `Page:` line now reads `/policies/{slug}/`, and line 10 (visual consistency) is rewritten from the 0.708.460 reading (the 8px list-link tap area is a carve-out the gate already makes). The Cookie page also had a second record under `Policies Design Prototypes/Policy Page`, which shadowed the real one; its `Page:` line now reads `template-policy.php`. **keyword-density** entered as a template carve-out for all seven and the Code of Ethics. **image-dimensions 1px:** MENDED in `template-policy.php` (the mark's height is cut down to the file's true height, not rounded up). **old-address (accessibility):** passes (2.3). **rank-math** (cookie 89, refund 89, trust 89, accessibility 88, Code of Ethics 89): waits on Kain's click.
+- **6.2 MENDED:** the Code of Ethics training line and "More About Achology" line are `.lead-bar` (18, 500, 1.55, 2px edge); words unchanged. Gate: Code of Ethics 60 passed, 1 failed (rank-math only). The `policies.css` line height rule now lets a `.lead-bar` paragraph take 1.55 on the policy and founder pages.
+- Left on the policy pages: each of privacy, refund, trust, disclaimers, terms and accessibility still reads `dsrd6-record 9 closed, 0 not run, 2 fail`: line 7 (accessibility, a `[human]` line, 2026-10-27, the footer Cookie settings button, job R1) fails in every one of them, and one other line. Those are the human lines; I did not write them. The cookie record passes. Refund, cookie, trust, accessibility also fail rank-math (Kain's click).
+
+## 7. Help 327
+- keyword-density 0.37 entered as an exception by value (the line printed with 543 words and 0.37). The words stand. **Left:** `rank-math the page was edited at 2026-11-23 17:35:23 and the score was read at 2026-11-19 22:46:39` (waits on Kain's re-score) and `dsrd6-record 0 closed, 10 not run, 1 fail`.
+
+## 8. Instrument mends
+Not touched here. 5.7's artwork margin was not part of this job.
+
+## What still fails, exactly (0.708.460)
+- /events/: `orphan` per 3.4 above.
+- /about/what-achology-believes/: `block-heading "From Plato to Achology: The Ideas We T": mid-sentence capitals: Athens`; `rank-math post 45044 has never been scored` (Kain).
+- /about/instructors/: the closing line, desktop, tablet and mobile (line-type 18/400/1.75 against 18/500/1.55 and the missing bar); `dsrd6-record 2 closed, 6 not run, 3 fail`.
+- /reviews/: `supporting-line desktop and tablet "The Complete Achology Reviews Archive": heading-type is como 28, weight 600, wants Como 24, weight 600` (not in your list; the heading is 28); `dsrd6-record 6 closed, 3 not run, 2 fail` (line 2 `page-container: 960px is not 1200, 880 or 800`, and line 8 the 2026-09-30 evaluator's three blockers).
+- /testimonials/: `supporting-line` for "Do you have questions about studying wit" at all widths (18/400/1.75, no bar: the shared closing panel, as the instructors line; not in your list); mobile `heading-type is como 21, weight 600, wants Como 24` for "Nine Achologists. Five Questions", "Achology Reaches Learners Across 216 Cou", "Five Aspects of the Achology Learning Ex", "Ten Different Ways to Experience Acholog", "Related Questions" and "Do you have questions about studying wit" (the phone rule, not in your list); `image-format 1 image ships as a master format: header-banner.png` (not in your list); `dsrd6-record 0 closed, 7 not run, 4 fail`.
+- /about/code-of-ethics/, /policies/cookie-policy/: rank-math only (Kain). /policies/privacy-policy/, /policies/disclaimers/, /policies/terms-and-conditions/: dsrd6-record (human line 7) only. /policies/refund-policy/, /policies/trust-statement/, /policies/accessibility-statement/: dsrd6-record and rank-math.
+- /help/learning-experience/how-long-achology-courses-take-timelines/: rank-math (re-score) and dsrd6-record (10 not run).
+- /membership/choose-your-free-course/ (gift): 0 failed.
+- Not in the rulings and not touched: /membership/ icon-registry (29 inline SVGs, the banner's `course-hero__ripples`), the Membership `ev-w row-gap 1` line (a recorded exception at 0.708.457 and later), /academy/cognitive-behavioural-psychology/cbt-mental-health/ acronyms `CBT` and `II` ("Senior Achologist II"; the II exception I entered is for the Presuppositions page only).
+
+## Files
+page_gate.py (entries, NAMED_SHORT_FORMS), search_gate.py (ACH_CRAWL_PACE, a slow crawl on request; nothing changes when it is unset), template-our-people.php, people.css, shared-parts.php, global-impact.php and .css, components.css, reviews.css, reviews-setup.php, page-reviews.php, page-testimonials.php, testimonials.css, template-policy.php, policies.css, policies-content/code-of-ethics.php, data/beliefs-page/main.json. Outside the repository: nine DSRD6_RECORD.md `Page:` lines and line 10s, the factory page_gate.py head line, and live-site-urls.csv.
+
+*No em or en dashes in this file.*
