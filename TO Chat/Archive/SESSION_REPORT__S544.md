@@ -1,4 +1,4 @@
-> Disposition, Chat S480, 23 Nov 2026: the Help frame's seven labels and the DSRD 9 line are written (DSRD 9 section 41); left in the tray because it waits on Chat's reading lines for the new Help answer page and the status of its unfinished pieces (items 6 to 9, 11 and 13). No board card moved.
+> Disposition, Chat S480, 23 Nov 2026: Chat read the Help Centre Frame on the build site today (/help/getting-started/want-to-learn-psychology-where-to-start/): the trail, Help Topics, The Short Answer, On This Page, Next Question and Still Need Help? all read in order, the answer comes first, and the reader half passes. Items 6, 8, 9 and 13 are done (Vimeo, thumbnails, About banner, About redraw); items 7 (the watch line) and 11 (the gift Help answer) are Kain's, on card #99. One small copy mend logged on #12. Archived. No board card moved.
 
 # SESSION_REPORT__S544
 
