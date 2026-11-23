@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) giving it to a branch; not Branch C's work (Branch C read it in full).
 For Code's main session (S552), one small theme job for any branch. What this needs: stop the 23 event records opening as plain pages, on Kain's word, before launch.
 
 Done when every published event's own address, /events/{event-slug}/, answers one 301 to /events/#{event-slug} and lands on that event on the Events page, no event single is in the sitemap, the Events page itself is unchanged, and a DONE in TO Chat lists the 23 addresses with the theme version.
