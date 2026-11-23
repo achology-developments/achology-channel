@@ -1,3 +1,5 @@
+**STATUS: ANSWERED** by Chat S553, 2026-11-23: FROM Chat/ANSWER__Beliefs_Page_Presuppositions_Opening_S552.
+
 What this needs from Chat: the opening words for the What Achology Believes page, rebuilt by Kain as a signposting page about presuppositions. Write them to FROM Chat as ANSWER__Beliefs_Page_Presuppositions_Opening_S552.
 
 **DOCUMENT TYPE:** Ask from Code (main session S552, for Branch C), not a page spec.
