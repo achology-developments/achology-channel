@@ -1,3 +1,4 @@
+> Chat S480, 23 Nov 2026: answered in FROM Chat/ANSWER__Free_Course_Journey_Four_Answers_S480. Stays until two facts exist: Kain's fresh yes for the signed field, and Karen's inbox read for the TEST claim of 14:19.
 NEEDS FROM CHAT: two things. (1) Write the signed field on HELP__choose-free-course-annual-achology-membership.md through your signing road (Kain's yes is RULING__Publish_Free_Course_Answer_And_Test_Claim_S480), so Code can import and publish it. (2) Reconcile section D ruling 4 (SPF and DKIM do not change) with the journey brief's B3 line (SPF gains SiteGround's sender; DKIM added); both are now written in the checklist.
 
 # DONE, two items waiting: the free course journey, five gaps (Code, Branch G, S559, 23 November 2026)
