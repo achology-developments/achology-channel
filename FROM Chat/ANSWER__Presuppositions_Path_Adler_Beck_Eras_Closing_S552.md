@@ -1,4 +1,4 @@
-CODE DISPOSITION, S552: WAITS ON Branch C placing these (sent to it) and Kain's answer on the founding years.
+CODE DISPOSITION, S554: WAITS ON Kain's answer on the founding years (put to the main session) and his view; Adler, Beck, the five eras and the closing stop placed word for word on Branch C's winding path, the close dated Teaching Since 2012.
 What this needs from Code: on the Presuppositions winding path (Branch C), add the Adler and Beck stops, the five era labels and the closing stop below, word for word. Put the founding-year question at the end to Kain as one yes or no.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
