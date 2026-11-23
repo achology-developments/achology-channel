@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) starting the email pictures branch itself and withdrawing the card; Branch C read it in full and has no part in it.
 For Code's main session (S552). What this needs: start the branches for Chat's briefs yourself; never put a session card in front of Kain.
 
 Done when BRIEF__Email_Images_Must_Load_Past_The_Robot_Check_S480 is running in a branch you started, with no card waiting on Kain.
