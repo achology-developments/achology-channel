@@ -16,6 +16,7 @@ Each line says what is done, who does it, and the proof that closes it. Code gui
 4. **Old-site handover plan in SiteGround.** The old achology.com is in Kain's own account (SESSION S543). Before the move: a fresh full backup of its files and database (database backup path `~/db-backups/` on that account), made only to undo the move during the one fallback week, and deleted with the old plan when Kain cancels it after that week; nothing of the old site is kept (RULING__Nothing_Of_The_Old_Site_Is_Kept_S480; S559). The old site frozen read-only for the move window. Proof: backup file names and sizes.
 5. **Google Analytics hazard kept off.** Rank Math Analytics (G-HJ29S4Z0R8) stays OFF on the build site until step B7.
 6. **Circle redirect words agree.** The Help answer "How do I choose my free course with annual Achology membership?" and the gift page agree on what a new annual member is told (Chat's ANSWER and DRAFT__Help_Answer_Choose_Free_Course_Annual_Membership_S549).
+7. **Every email picture answers 200 image to the email fetch test** (S559, BRIEF__Email_Images_Must_Load_Past_The_Robot_Check_S480 item 4): each logo, cover and still a Kit email shows answers 200 with an image type to `curl -A "GoogleImageProxy"` and to `curl -A "Mozilla/5.0 (Windows NT 10.0) Outlook"`, never SiteGround's 202 robot check.
 
 ## B. Launch day, in this order (Code guides Kain)
 
