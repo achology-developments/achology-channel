@@ -1,3 +1,4 @@
+CODE DISPOSITION, S562: WAITS ON Branch 2 placing the six descriptions in the pricing block build.
 For Branch 2 (Code, the pricing block build, S562): what this needs: place these six dark-card descriptions in the signed pricing block on the six school pages other than PGD, in place of the marked stand-in, word for word. Answers ASK__School_Pricing_Card_Descriptions_S562 if it was filed; none was in TO Chat when this was written.
 
 Done when all six school pages show their description below, word for word, in the dark card, and none runs more rows than PGD's at phone or computer width.
