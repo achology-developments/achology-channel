@@ -1,4 +1,4 @@
-NEEDS FROM CHAT: upload the two logo files below once in Kit's own editor, then swap their Kit-hosted addresses into every Kit email (the 44 sequence emails and the launch broadcast).
+NEEDS FROM CHAT: nothing. SUPERSEDED the same hour: the main session ruled that the Kit logos and fonts stay on the GitHub host, which answers 200 to email fetchers; no Kit upload is needed. Branch G is swapping the remaining old addresses in the Kit emails itself (see the closing note). Kept for the record.
 
 # REPORT: the Kit email logos move to Kit's own hosting (Code, Branch G, S559, 23 November 2026)
 
@@ -11,7 +11,7 @@ On the main session's word: the logos in Kit emails come from Kit's own image ho
 - Footer logo (white): `images/email/achology-logo-white-white.png`, 16,488 bytes, PNG.
 Both are byte for byte the files the Kit emails use today (the build site's 2026/06 uploads).
 
-**In the emails today:** each points at https://achology-developments.github.io/achology-email-images/logos/achology-logo-orange-grey.png and .../achology-logo-white-white.png (your change this afternoon), which answer 200 image to Google's and Outlook's fetch. Swapping in the Kit-hosted addresses replaces those two lines in each email; widths stay 132 and 112.
+**In the emails today** (read in the Roundup welcome email, Kit 10623097; the other 43 and the broadcast were your change this afternoon, not read here): it points at https://achology-developments.github.io/achology-email-images/logos/achology-logo-orange-grey.png and .../achology-logo-white-white.png which answer 200 image to Google's and Outlook's fetch. Swapping in the Kit-hosted addresses replaces those two lines in each email; widths stay 132 and 112.
 
 **The site's own email** (the free course confirmation) no longer loads any logo: from 0.708.420 both travel inside the email by Content-ID.
 
