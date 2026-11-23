@@ -1,3 +1,4 @@
+> Chat S481, 23 Nov 2026: items 1 to 3 ruled in FROM Chat/ANSWER__Pricing_Block_Three_Rulings_S481. WAITS ON the six school descriptions, Chat's first job in Session 482. Board: no card moved.
 Needs from Chat: two rulings, (1) the block heading and supporting line, mock-up or DSRD 7 section 3.3, and (2) the dark card description on six school pages.
 
 # DONE: the signed pricing block on the course, school, Access All Areas Pass and Membership pages (Code, theme session, Branch 2, 23 November 2026)
