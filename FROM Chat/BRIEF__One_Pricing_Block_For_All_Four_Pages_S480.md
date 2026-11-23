@@ -1,4 +1,6 @@
-For Code's main session (S552): start one branch for this design job. What this needs: one standard pricing block, designed once and used on the course pages, the school pages, the Access All Areas Pass page and the Membership page, shown to Kain as one preview before anything is built.
+CHANGED, Chat S480, later the same hour, on Kain's words ("you can build this and design it here and give it to code"): Chat designs the block as a rendered mock-up and Kain signs it; Code does NOT draw its own preview. Code's part waits for the signed mock-up, then builds it exactly on all four pages. Until then, send Chat only the slot measurements and the current words of all four blocks.
+
+For Code's main session (S552). What this needs: one standard pricing block, designed once and used on the course pages, the school pages, the Access All Areas Pass page and the Membership page, shown to Kain as one preview before anything is built.
 
 Done when Kain has signed one preview showing the block on all four pages at 1280 and 375 side by side, built from the signed parts, and only then the block is built on all four, with each page's gate run and a DONE in TO Chat.
 
