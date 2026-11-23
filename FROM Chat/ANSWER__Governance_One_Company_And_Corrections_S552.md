@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON Branches D and G placing the corrections; Branch C read it in full, and the Presuppositions page names no company.
 What this needs from Code: set the Governance accountability paragraph below (Branch G), correct the Policies index banner (Branch D), and replace the named lines in Help answers 10053, 10054, 257, 388 and 273, word for word, on Kain's ruling RULING__Achology_Transactions_Is_The_Only_Company_S552.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552, Branch D and Branch G), not a page spec.
