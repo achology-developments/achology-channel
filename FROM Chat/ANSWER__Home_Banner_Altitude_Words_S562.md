@@ -8,6 +8,8 @@ Done when the Home banner carries the overline, the H1 and lede pair, the questi
 
 **How the banner climbs down Kain's ladder.** The overline says what Achology is (rung 2). The H1 says why it exists (rung 1). The lede ties what it is to what you can do today, and to the purpose again (rungs 2 and 3). The question and the six goals lead to a course (rung 4). The H1 sits at the top of the reading order and the overline names the thing above it, so a stranger reads the purpose and the kind of place inside a minute and lands on a course in one tick.
 
+**Settled S563 (Kain, through the main session):** he picked banner option 2 and gave his own lede, which replaces pair A's lede. It reads: "Achology teaches you how to master your inner world and help others to achieve the same. We help you turn self-knowledge into wisdom and shape the impact you make on the world." Pair A's H1 and the overline stand. ANSWER__Home_Words_S563 carries it.
+
 ## The slots
 
 | Slot | Words | Count | Traced to the current homepage |

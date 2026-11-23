@@ -5,6 +5,9 @@ Done when every slot on the Home page carries these words in place of its stand-
 **DOCUMENT TYPE:** answer from Chat (S563).
 **Read first, and used:** the plan page in research-s562/plan; each carrier's words read live on the build site today (/courses/ banner, the MIW school page's reviews block, the /certification/ stance block, the /academy/ four cards "Which Way of Studying Suits You?", the /about/ founders block, the /courses/ questions block); ANSWER__Home_Banner_Altitude_Words_S562 (pair A); ANSWER__Home_Page_Words_S562 (sections 4 and 6 folded into block 3); the vault beliefs on certification and on the wider training industry; DSRD 4 section 1; DSRD 5.
 
+
+**Kain's ruling, S563 (23 November 2026), through the main session.** He picked banner option 2: the field's faces from the Academy banner, set faintly behind the words, with the film blending in from the right. He gave his own lede, placed word for word: "Achology teaches you how to master your inner world and help others to achieve the same. We help you turn self-knowledge into wisdom and shape the impact you make on the world." It replaces pair A's lede in block 1. The overline, the H1 and the button stand. On the three marks: "towards your level" is cut from block 3, column 3. The UKRLP line takes the fourth proof figure only if the figures row can't carry a word, which the main session will measure. The Knowledge Hub card waits on Kain's publish question.
+
 This replaces ANSWER__Home_Page_Words_S562 wherever the two differ. That file's goals table now belongs to the Courses page's chooser and is not used on Home.
 
 
@@ -14,7 +17,7 @@ This replaces ANSWER__Home_Page_Words_S562 wherever the two differ. That file's 
 |---|---|---|---|
 | Overline | An Academy. A Community. A Movement. | 6 | Courses overline, 6 words |
 | H1 | Understand Yourself, Then Help Others Do the Same | 8 | Courses H1, two rows at most |
-| Lede | Achology is an online academy of psychology you can use. Take a course today, practise it with others, and grow wiser, not just smarter. | 24 | Courses lede, 23 words |
+| Lede | Achology teaches you how to master your inner world and help others to achieve the same. We help you turn self-knowledge into wisdom and shape the impact you make on the world. | 32 | Kain's own words, S563, placed word for word |
 | Button | Find the Right Course for You | 6 | Courses floating button |
 
 ## Block 2. The Proof Strip (the reviews block's figures row)
@@ -41,7 +44,7 @@ The figures are the register's and DSRD 5's (695,578; 216; 4.66). The reviews bl
 | Column 2 title | Learn It, Then Practise It | 5 |  |
 | Column 2 | Read for free in the Knowledge Hub, then take a course at your own pace. Next, practise what you learn live with other members, where people can see you use it. | 31 |  |
 | Column 3 title | Progress Checked by Someone Else | 5 |  |
-| Column 3 | Every course you finish earns a certificate. On the accreditation pathway, people who don't sell the courses check what you have practised before it counts towards your level. | 28 |  |
+| Column 3 | Every course you finish earns a certificate. On the accreditation pathway, people who don't sell the courses check what you have practised before it counts. | 28 |  |
 | Button 1 | Read Why Competence Comes First | 5 | → /certification/ |
 | Button 2 | See What Achology Believes | 4 | → /about/what-achology-believes/ |
 
@@ -132,7 +135,7 @@ The lede is the Courses page's purpose, as Kain said yes to it, so the close say
 
 | Block | Carrier's words (signed page) | Home's words |
 |---|---|---|
-| 1 | Overline 6, H1 2, lede 23 | Overline 6, H1 8 (two rows at most), lede 24 |
+| 1 | Overline 6, H1 2, lede 23 | Overline 6, H1 8 (two rows at most), lede 32, Kain's own |
 | 3 | Heading 6, line 21, column titles 4 to 5, columns 29 to 35 | Heading 7, line 20, titles 5, columns 28 to 31 |
 | 4 | Heading 6, line 22, labels 5 to 6, ticks 4 to 8, buttons 2 to 3 | Heading 7, line 21, labels 5 to 6, ticks 4 to 8, buttons 2 to 4 |
 | 5 | Heading 8, line 17 | Kept word for word |
@@ -148,7 +151,7 @@ The lede is the Courses page's purpose, as Kain said yes to it, so the close say
 
 1. **The Knowledge Hub card's button goes to /learn/,** which Branch 2's sweep found unpublished. It waits on the same publish question as the 113 redirects. Until then, the card can't go live as written.
 2. **The proof strip's fourth figure** is "SoMAP" over "Accredited Education", with SoMAP linked. The figures row expects a number. If the carrier can't take a word in the number slot, the line is: 10099815, UKRLP Registered, linked to the register.
-3. **Column 3 in block 3 says "towards your level",** meaning the member levels from Achologist to Master Achologist. If the page has nowhere a stranger can learn what a level is, cut the last three words, leaving "before it counts".
+3. **Settled S563:** "towards your level" is cut from block 3, column 3, because the page never explains levels.
 
 OWED BACK: the measured rows of the banner and the four cards at 1440 and 375.
 
