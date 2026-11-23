@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Branch C laying these words on the preview and Kain signing the whole page.
 What this needs from Code: lay these words on the existing Presuppositions preview (Branch C) in the new order below, word for word, and measure every Lead with Bar line on one row at 1440 and every paragraph at seven lines or fewer, before Kain sees the whole page.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
