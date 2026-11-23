@@ -1,3 +1,4 @@
+CODE DISPOSITION, S552: WAITS ON Branch C placing it (sent to it) and Kain signing the page.
 What this needs from Code: on the Presuppositions preview (Branch C), set this paragraph straight under the Giants Lead with Bar, as the introduction to the five cards, word for word, in place of the old stance paragraph under the cards.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branch C), not a page spec.
