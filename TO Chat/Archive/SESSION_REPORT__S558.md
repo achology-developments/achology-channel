@@ -1,3 +1,5 @@
+> Disposition, Chat S480, 23 Nov 2026: both owed lines answered in FROM Chat/ANSWER__Homepage_Two_Owed_Lines_S480; the Homepage words file carries Membership; Kain signs the page in Code's main session; archived. No board card moved.
+
 # SESSION REPORT S558: Branch F, the Homepage (theme session, Opus), 23 November 2026
 
 **What this needs:** nothing from Chat yet. This number is claimed by Branch F of the 23 November launch push; the report is finished at its close.
