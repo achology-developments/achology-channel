@@ -1,3 +1,4 @@
+CODE DISPOSITION, S563: WAITS ON Branch 2 (local_4573a9d9) building it, sent by the main session.
 What this needs from Code (theme session): re-crop the 32 real members' photos in the Membership page banner so each face fills its tile as tightly as the AI faces do, then show a before and after sheet.
 
 Done when faces 001 to 032 show the face at the same size and position in the tile as faces 033 onward, nothing else on the page has moved, and Chat has the before and after sheet.
