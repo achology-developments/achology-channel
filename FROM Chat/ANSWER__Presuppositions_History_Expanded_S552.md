@@ -98,6 +98,7 @@ Moments 1 to 18 run 362 to 412 characters (budget 360 to 420). Moment 19 runs 38
 - Egan: part 7, which is presupposition six.
 - Goleman: part 5, which is presupposition four.
 - Seligman 1998: part 8, which is presupposition seven.
+- Epictetus: his section sits inside part 6, Your Emotional State Is Your Responsibility, which is presupposition five.
 
 Two ties are Chat's own reading, and Kain may overturn them:
 - **Seligman 1967 behind presupposition five.** The article ends on "the one place where what you do still changes what happens".
@@ -107,8 +108,8 @@ Two ties are Chat's own reading, and Kain may overturn them:
 
 - **Closing sentence (136 characters):** Every course in all seven of our schools is taught from these seven presuppositions, and each one stands on the moments in this history.
 - **Figures:**
-  - 18 Moments.
-  - 17 Thinkers, counted as people: Plato, Aristotle, James, Freud, Adler, Jung, Maslow, Frankl, Rogers, Ellis, Seligman, Beck, Bandura, Bandler, Grinder, Egan and Goleman. Seligman has two moments but counts once. Steven Maier and Socrates are named inside other moments but have no moment of their own.
+  - 19 Moments.
+  - 18 Thinkers, counted as people: Plato, Aristotle, Epictetus, James, Freud, Adler, Jung, Maslow, Frankl, Rogers, Ellis, Seligman, Beck, Bandura, Bandler, Grinder, Egan and Goleman. Seligman has two moments but counts once. Steven Maier and Socrates are named inside other moments but have no moment of their own.
   - 7 Presuppositions.
   - 28 Courses (DSRD 5, section 1).
 - **Button:** Read the Founders' Letter

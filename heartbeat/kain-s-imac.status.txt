@@ -1,2 +1,2 @@
-FAIL  2026-11-23T13:53:21Z
-Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: error: cannot rebase: You have unstaged changes..
+OK  2026-11-23T13:53:34Z
+Pushed 1 change(s). Channel and origin agree. An orphaned autostash (005728e1) left by an interrupted pull was saved to the stash list and the stuck rebase folder removed.
