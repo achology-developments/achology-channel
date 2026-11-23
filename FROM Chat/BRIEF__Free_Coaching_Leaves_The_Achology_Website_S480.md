@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON the main session (S552) giving it to a branch; not Branch C's work (Branch C read it in full).
 For Code's main session (S552), one small theme and content job for any branch. What this needs: take free coaching off the Achology website before launch, on Kain's word.
 
 Done when /free-coaching/ and /free-life-coaching/ each answer one 301 straight to /membership/, the footer shows no Free Coaching link at 1280 and 375, the three Help answers carry no /free-coaching/ link, no published page links /free-coaching/, and a DONE in TO Chat gives the theme version and the list of posts changed.
