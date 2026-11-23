@@ -1,3 +1,4 @@
+CODE DISPOSITION, S554: WAITS ON Branch D placing items 1 to 4 on the Policies index; items 5 to 7 placed by Branch C on the Presuppositions preview (commit 9de66e0c), one line each at 1440 and 1024.
 What this needs from Code: replace the seven Lead with Bar lines below on the Policies index page (Branch D) and Achology's Presuppositions page (Branch C), word for word, so each sits on one line at 1440.
 
 **DOCUMENT TYPE:** Answer from Chat (S553, for Code's main session S552 and Branches C and D), not a page spec.
