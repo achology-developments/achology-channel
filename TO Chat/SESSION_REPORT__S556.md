@@ -7,4 +7,5 @@ Assembled from the theme log (branch-e/about-s556, then main). Board card: the A
 - aed55d31: the answer tabs' list items role="presentation" (axe, critical), 0.708.398, deployed. Finished.
 - The About page's gate and record: page_gate run at 0.708.397 and 0.708.398 (42 pass, 59 fail); record's machine half written. Not finished: 57 lines wait on Chat's ruling (ASK__About_Page_Gate_Lines_S556), one on the shared reviews block's phone row (raised with the main session), the record's own line on those.
 - SHIP__About_Page_Redraw_S556 filed. Finished.
+- d7f602c7: the one reviews block's phone swipe rows reach the keyboard (course-page.js), 0.708.399, deployed, checked on /about/ and /academy/mindfulness/ at 390; SHIP__Reviews_Swipe_Row_Keyboard_Reach_S556. Finished. (Board card: the reviews block, site-wide.)
 - Hand added: three FROM Chat answers for Branches C and D marked WAITS on those branches (not this page).
