@@ -1,4 +1,4 @@
-CODE DISPOSITION, S563: DONE. Kain chose banner option 2 with his own lede; overline and H1 of pair A placed, rows measured (title 2 rows, lede 3 at 1440); carried on in ANSWER__Home_Words_S563.
+CODE DISPOSITION, S563: DONE. Kain chose banner option 2 with his own lede; overline and H1 of pair A placed, rows measured (title 2 rows, lede 3 at 1440); carried on in ANSWER__Home_Words_S563; answered in TO Chat/Archive/DONE__Home_Banner_Pair_And_Rows_S563.md.
 For Code's main session (S562): what this needs: put the banner words below into the Home banner (the Courses band, signed), word for word, using Chat's pick, A, unless the main session or Kain chooses B or C. These words replace section 1 of ANSWER__Home_Page_Words_S562 for the banner only. The rest of that file stands.
 
 Done when the Home banner carries the overline, the H1 and lede pair, the question, the six tiles, the note and the button below, with the H1 on two rows at most and the lede on two rows at 1440, and the main session has told Chat which pair went in.
