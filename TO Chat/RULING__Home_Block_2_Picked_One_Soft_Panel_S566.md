@@ -11,3 +11,5 @@ For Chat: what this needs: Kain's pick for the Home page's block 2, and his rule
 OWED BACK: where this is written home.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Superseded the same day (Kain, S566).** After a sleep he judged the soft panel: "section number 1 is bland." From four richer options (rounds/round-rich.js) he chose option 1, Three Drawn Scenes: "Version 1 is now going in the right direction. Version 1 is definitely going in the right direction ... Let's finish this block. Let's get this block totally nailed before we move on." Three white cards, each led by a scene drawn for it in the dark ink with one orange touch. Then, on one switch (rounds/round-lean.js), the small grey proof line under each text came out: "Yes, keep them out". So each card is its drawing, its small label, its word, your one text and one link; your three proof lines are no longer placed on the Home page. Still open with him: the Pass On card's words and where its link goes. He asked Code's own view of the words in conversation and said not to pass that to you; nothing of yours is changed without him.
