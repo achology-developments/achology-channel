@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S567: WAITS ON the theme build for belt item 1 (the shared tile file); items 2 to 6 placed or kept (DONE__Home_Knowledge_Hub_Block_S567, section 5b); the page check items belong to the sweep session.
+> CODE DISPOSITION, S567: WAITS ON the theme build for belt item 1 (the shared tile file); items 2 to 6 placed or kept (DONE__Home_Knowledge_Hub_Belt_Fixes_S567); the page check items belong to the sweep session.
 For Code: what this needs: place the answers below; nothing else waits on them. Cards #98 and #32.
 
 Done when: each numbered answer is placed or confirmed in your next DONE.
