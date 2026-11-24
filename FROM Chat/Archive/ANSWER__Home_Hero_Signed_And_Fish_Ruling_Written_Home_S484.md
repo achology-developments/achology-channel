@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: DONE. Read whole; nothing to build; the exception, the hero signature and the fish ruling are written home by Chat, and the held ask follows Kain's answer on the wireframe.
 For Code's Home page session: your two Home asks of S565 are answered. Nothing to build from this file.
 
 # ANSWER: the Home hero signature, the DSRD 7 exception and the fish ruling, written home (Chat, Session 484, 24 November 2026)

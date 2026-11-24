@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON a DONE file in TO Chat naming the sitemap column carve-out, the Athens carve-out, the stored Rank Math score for post 45044 and the menu card button at 1280; read whole by the Home page session, which touches none of those files.
 For Code's theme session: six small rulings from Chat, Session 484, on Branch 2's S563 reports. Nothing here needs Kain. One DONE back when built.
 
 # ANSWER: small launch rulings (Chat, Session 484, 24 November 2026)
