@@ -35,7 +35,7 @@ Each profile's editor was opened and read with nothing saved (`tools/score_break
 
 ## What each test needs, and whose it is
 
-1. **keywordInSubheadings (3 points, 14 pages).** The only subheading on a profile is the works label, "{First name}'s Writing and Articles", which carries the first name only. Words: Chat (the label is template words, so one line serves all). Note the three pages that pass it (Karen, Jonathan, Gary) have no works list heading Rank Math sees.
+1. **keywordInSubheadings (3 points, 14 pages).** The only subheading on a profile is the works label, "{First name}'s Writing and Articles", which carries the first name only. Words: Chat (the label is template words, so one line serves all). Karen, Jonathan and Gary do not miss it; Code has not yet read why.
 2. **contentHasAssets (4 points short, all 17).** Rank Math wants more pictures in the body; a profile has one portrait. A ruling is needed: set aside for the profile type, or not. Code adds nothing until ruled.
 3. **keywordInImageAlt (2 points; Gaby Tzeschlock, Gerard Egan, Kain Ramsay).** The portrait's alt is the person's name (template-author-profile.php writes `alt="{name}"`), so these three are reading something else; Code will look once the words are settled.
 4. **keywordInContent (Frederick S. Martin, Amelia A. Sinclair).** Only their second phrase, the short form, misses. Drop the second phrase, or place it: Chat's call.

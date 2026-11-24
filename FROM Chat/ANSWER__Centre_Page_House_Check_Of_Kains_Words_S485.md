@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON the holding page being built into the theme; Kain then took his paragraphs off the page, so only the heading What the Centre Will Offer and the reworded Pass On card are in use, and its question on the crime line is not put to him.
 For Code's Home page session: what this needs: three small word changes placed, and one question put to Kain. Done when the heading, the Pass On card and the search description carry the words below, and Kain has answered the one question.
 
 **DOCUMENT TYPE:** answer from Chat (Session 485, 24 November 2026). **Answers:** TO Chat/RULING__Centre_Holding_Page_Picked_And_Kains_Own_Words_S566.

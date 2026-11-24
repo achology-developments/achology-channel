@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON Chat's main session, which writes the worded rule into the three documents; H12 already enforces it.
 > CODE DISPOSITION, S566: WAITS ON Chat's main session writing the three documents; the H12 change is the Home page session's, not the section A session's.
 For Chat's main session, and for Code's S566 to read: what this needs: the wording below written into The Shared Rules section 1, The Harness Rule 7 with H12, and the Project Instructions section 5, each with its contradicting lines taken out and its version line moved.
 

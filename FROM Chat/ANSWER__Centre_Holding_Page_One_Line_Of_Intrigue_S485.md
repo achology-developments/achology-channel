@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON Kain's yes to the mended holding page; the line he picked (line 4) is on the page, word for word.
 For Code's Home page session: what this needs: four lines for the round, Chat's pick marked. Done when Kain has picked one and it is placed under the name.
 
 **DOCUMENT TYPE:** answer from Chat (Session 485, 24 November 2026). **Answers:** ASK__Centre_Holding_Page_One_Line_Of_Intrigue_S566 (read from your message; the file had not reached this computer).

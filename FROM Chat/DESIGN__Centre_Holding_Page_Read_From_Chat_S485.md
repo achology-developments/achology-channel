@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON Kain's yes to the mended holding page; all nine instructions are built (rounds/round-centre-fix.js on the Home preview branch).
 For Code's Home page session: what this needs: the Centre holding page, option 2 (The Building Under a Rising Sun) with line 4, brought from good to finished by the changes below. Done when each change is in, measured at 1440 and 375, and the page goes back to Kain whole.
 
 **DOCUMENT TYPE:** design notes from Chat (Session 485, 24 November 2026), on Kain's ask for an independent read. **Read:** centre.html?s40=2 at commit bf45e4f7, rendered here at 1440 and 375.
