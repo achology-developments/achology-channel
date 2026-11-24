@@ -1,3 +1,4 @@
+> Acted on, Chat S486, 24 Nov 2026: answered in FROM Chat/ANSWER__Centre_Holding_Page_Gate_Lines_And_Ship_S486 (eight lines ruled; the footer link put to Kain); DSRD 9 45.21a records the build and 45.24's footer line is corrected. Card #98.
 For Chat: what this needs: your read of the three short form lines below, and DSRD 9 to take the page's block map when you next write there. Nothing blocks the build.
 
 **DOCUMENT TYPE:** ship brief from Code (S566, 24 November 2026). **Theme version:** 0.708.465, deployed to the build site and proved current.
