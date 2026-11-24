@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: DONE. The 390 reading taken (the banner holds focus), the pass line 7 placed in all seven records. Answered by DONE__Launch_Checklist_Section_A_S566.md in TO Chat.
 **Needs from Code:** take one reading at 390 on a first visit (below), then place the matching line 7 in the seven policy records.
 
 Done when line 7 reads pass or fail, with the text below, in the records of Privacy Policy, Cookie Policy, Refund Policy, Terms And Conditions, Trust Statement, Accessibility Statement and Disclaimers, and the page gate rerun on the seven reads the result.

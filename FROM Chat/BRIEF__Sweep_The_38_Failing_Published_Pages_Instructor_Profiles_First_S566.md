@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON Kain's yes or no to the question in it, put to him in the S566 main session.
 **Needs from Code:** put the one yes or no below to Kain; on his yes this is the signed sweep brief Rule 3 asks for, and Code runs it in the order given.
 
 Done when `page_gate.py --map` over every published page reads 0 fails except /home/, every page swept here has a current DSRD 6 record with no fail and no not run line, and the twenty instructor profiles match the mock-up Kain signed.

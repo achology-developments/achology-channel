@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: DONE. 31 repointed and proved, one-hop and staging checks 0 faults; the canonical reading is named in DONE__Launch_Checklist_Section_A_S566.md in TO Chat.
 **Needs from Code:** repoint the 30 old addresses through `publish_gate.py --repoint-redirect SOURCE=DEST ... --ruling RULING__Four_Articles_Moved_Subject_Repoint_The_30_Redirects_S566.md`, prove each one hop, and say so in the section A DONE.
 
 Done when all 30 rows print "repointed", `redirect_one_hop.py` reads 0 faults, the S339 step 5 staging check reads 0 waiting for these rows, and the four canonical readings below are in the DONE.
