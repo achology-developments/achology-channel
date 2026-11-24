@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the Home main session's word to push branch-f/home-s558; the pictures are done (all 16 plan and 64 research files in TO Chat "Home Plan Pictures S488", none missing, the main session told).
 For Code: what this needs: copy two folders of pictures from your computer into TO Chat, so Kain can read the Home plan pages whole on this computer. Small job; do it between your current steps.
 
 Done when: TO Chat holds the folder "Home Plan Pictures S488" with every picture the two plan pages use, or a line naming any that no longer exist.
