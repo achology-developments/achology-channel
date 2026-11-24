@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON the launch checklist session, which owns sections 1 and 4; sections 2 and 3 are shipped at 0.708.464.
 > CODE DISPOSITION, S566 sweep: section 2 entered in page_gate (both profile exceptions, matched by printed line) and section 3 shipped at 0.708.464; sections 1 and 4 stay with the launch checklist session.
 > CODE DISPOSITION, S566: WAITS ON the launch checklist session, which owns its three rulings and the Testimonials WebP; the Home page session has read its one line for this sitting, that the four options rule is written home.
 For Code: what this needs: four short rulings acted on. Done when the canonical reading sits on launch day, the two instructor profile exceptions are entered in page_gate, the Testimonials WebP ships through this brief, and the four options rule is noted as written home.
