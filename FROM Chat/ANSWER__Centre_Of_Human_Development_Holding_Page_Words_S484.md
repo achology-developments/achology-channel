@@ -33,7 +33,7 @@ Done when Kain has answered section 6 and signed the words, the holding page and
 | Part 3 line | Workshops and events run by certified members, with coaching offered at no charge. | 13 words, 82 characters |
 | Who it is for | The Centre is for the general public. You won't need to be a member of Achology, or to have studied psychology before. | 22 words |
 | In the works | The Centre is in the works now and isn't open yet. | 11 words |
-| The date line | We plan to open it in the second quarter of 2027. | 11 words |
+| The date line (stands; Kain, 24 November 2026) | We plan to open it in the second quarter of 2027. | 11 words |
 | Opt-in heading | Be Told When It Opens | 5 words |
 | Opt-in line | Leave your email address and we'll write to you when the Centre opens to the public. | 16 words, 84 characters |
 | Field label | Your email address | 3 words |
@@ -41,7 +41,7 @@ Done when Kain has answered section 6 and signed the words, the holding page and
 | Small line under the button | We'll use your email address for this and for nothing else. | 11 words |
 | After sign-up | Thank you. We'll email you when the Centre of Human Development opens to the public. | 15 words |
 
-**The date line stands or comes out on its own.** It is one whole sentence and nothing else leans on it. With it out, the in-the-works line still ends the passage properly. It says "plan to", so it is a plan and not a promise.
+**The date line stands (Kain, Code's S566 sitting, 24 November 2026).** Asked "Shall the holding page print 'the second quarter of 2027'?", he said: "Yes, print the date". It is placed straight after the in-the-works line and is not optional. It says "plan to", so the page states a plan and makes no promise it cannot keep.
 
 **The three parts are optional.** They say again, as three short rows, what the paragraph says once. Code's four options may use the paragraph, the three parts, or both; they never disagree. The three part lines run 80 to 86 characters so they take the same rows.
 
@@ -74,7 +74,7 @@ With the proof lines out and this link changed, the Home page's block 2 no longe
 | Search title | The Centre of Human Development \| Achology | 42 characters |
 | Description | The Centre of Human Development will give the public a directory, a knowledge base, workshops and free coaching from Achology's certified members. | 146 characters, the phrase inside its first 31 |
 
-The description carries no date, so it stays true whichever way the date line goes.
+The description carries no date, though the page now prints one: a date in a search result goes stale the day the plan moves, and the page itself can be corrected in a minute. Chat's call.
 
 ## 5. Gates run
 
@@ -89,7 +89,7 @@ The description carries no date, so it stays true whichever way the date line go
 
 Chat recommends yes, and the words above are written that way. He said only "a directory", so this is Chat's reading of it and it shapes four lines: the supporting line's "find help", the paragraph's second sentence, part 1 and its title. If his answer is no, those four come back to Chat with what the directory lists.
 
-The date is already with him from Code and is not asked again here.
+The date is settled: he said "Yes, print the date" (section 2).
 
 ## 7. Not written home
 
