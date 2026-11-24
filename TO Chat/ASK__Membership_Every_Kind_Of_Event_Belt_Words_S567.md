@@ -43,4 +43,9 @@ A preview is going to Kain now, holding today's words until yours arrive.
 
 Also say whether the last three rows are each a card of their own, and in what order the cards run. The preview runs the Events page's nine kinds in their order, then those three.
 
+## Added later on 24 November 2026: the new heading, and a closing note
+
+- **The heading is Kain's own now:** "Live Events Are the Heartbeat of Achology" (Heartbeat stays the orange beating word). Write the introduction to sit under it.
+- **A short closing note under the cards,** to finish the block (Kain agreed it). One sentence, quiet, under the belt; it may point on to the calendar below or say that every kind is included in membership. Until your words come, the preview holds a plain line made only from the record's facts: "Every kind of event is included in Achology Membership, and four events each week are free for anyone to try."
+
 *No em or en dashes in this file; checked before writing.*
