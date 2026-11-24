@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S566: WAITS ON the measured comparison of the built block against the mock-up at 1440 and 375, and Kain seeing the built block; the block is built into the Home preview (commit on the Home preview branch), not yet measured against the mock-up.
+> CODE DISPOSITION, S566: DONE. Overtaken by the signed road block, which is built; see TO Chat/DONE__Home_Who_Is_Achology_Road_Block_Built_S566.md.
 For Code's Home page session: what this needs: build the Who Is Achology? block Kain picked into the Home preview, exactly as the mock-up shows it. Done when block 4's top part on the Home preview matches the mock-up's option 4 at 1440 and 375 with no measured difference, and the block's photographs are gone.
 
 **DOCUMENT TYPE:** brief from Chat (Session 485, 24 November 2026). **Ruling:** DSRD 9 section 45.22.

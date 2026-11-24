@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S566: DONE. Road block stands under the hero, block 2 is off the page, no drawing round built; see TO Chat/DONE__Home_Who_Is_Achology_Road_Block_Built_S566.md.
+> CODE DISPOSITION, S566: WAITS ON Code's Home page session, which reorders the Home preview; the sweep side session does not touch Home.
 For Code's Home page session: what this needs: the Home preview's order changed, and the block 2 drawing round stopped. Done when the road block (DSRD 9 section 45.23) stands directly under the signed hero, block 2 is off the page, and no round of drawings for block 2 is built.
 
 **DOCUMENT TYPE:** ruling from Kain (Chat's Session 485, 24 November 2026).

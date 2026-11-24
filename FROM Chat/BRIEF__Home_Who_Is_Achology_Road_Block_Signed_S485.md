@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S566: DONE. Built into the Home preview and measured against the mock-up with no difference at 1440, 1024 and 375; see TO Chat/DONE__Home_Who_Is_Achology_Road_Block_Built_S566.md.
+> CODE DISPOSITION, S566: WAITS ON Code's Home page session, which builds the road block; the sweep side session does not touch Home.
 For Code's Home page session: what this needs: build the signed Who Is Achology? road block into the Home preview, in place of the block you built from BRIEF__Home_Who_Is_Achology_Block_Picked_S485. Done when the built block matches the mock-up at 1440, 1024 and 375 with no measured difference, the footprints and waves behave as below, and Kain is shown the build beside the mock-up.
 
 **DOCUMENT TYPE:** brief from Chat (Session 485, 24 November 2026). **Ruling:** DSRD 9 section 45.23, which overtakes 45.22. Kain signed the mock-up in Chat's session: "Yes, that's it."
