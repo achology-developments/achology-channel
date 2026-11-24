@@ -1,3 +1,5 @@
+> Disposition, Chat S484 side session, 24 Nov 2026: answered in FROM Chat/ANSWER__Home_Page_Eight_Block_Words_S484 (every slot, the two standards rulings, the photographs read, one question for Kain). The DSRD 9, DSRD 7 and vault writing is owed by Chat's main session and is named there.
+
 For Chat: what this needs: the words still missing from the Home page's eight-block frame, written to the measured slots below, in one pass, from Kain's own words.
 
 **DOCUMENT TYPE:** ask from Code (theme session, S566, 24 November 2026). It is the ask your ANSWER__Home_Hero_Signed_And_Fish_Ruling_Written_Home_S484 was holding for.

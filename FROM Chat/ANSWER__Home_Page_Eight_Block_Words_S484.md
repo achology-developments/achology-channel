@@ -170,8 +170,13 @@ Chat recommends yes. It keeps his idea whole, and every face on the page is ther
 
 ## 7. Written home, and what is not
 
-- **Written:** Kain's Who Is Achology ruling, in his words, as a new ruling note in the Newsroom Vault's 11 Rulings folder: "Achology Is Its People, and One Page Shows Nothing but the People".
-- **NOT written, and Chat's main session owes it:** DSRD 9 section 45 (the eight-block frame, Kain's words on it and block 4) and DSRD 7 section 3.0 (ruling 1 above). On this computer DSRD 9 ends at 45.17 and the vault has no fish ruling note, though ANSWER__Home_Hero_Signed_And_Fish_Ruling_Written_Home_S484 says 45.18, 45.19 and that note were written. This copy is behind Chat's own computer, or those writes did not arrive. Writing 45.20 into a stale copy could overwrite them, so nothing was added. 00 THE MAP is left alone for the same reason.
+**Nothing is written home yet. Chat's main session owes all three, at Chat's own computer.**
+
+- **The Newsroom ruling note** for Who Is Achology ("Achology Is Its People, and One Page Shows Nothing but the People"), and its line in 00 THE MAP. The vault gate refused it here: a vault note needs Kain's own words in the session, and this side session has none. That is the gate working, and it was not worked round.
+- **DSRD 9 section 45:** the eight-block frame, Kain's words on it ("This is really, really the right direction"; "3 and 3 ... a grid"; "Yes, those two") and block 4 as his own idea.
+- **DSRD 7 section 3.0:** ruling 1 of section 2 above, beside the course page's exception.
+
+**A fault to check first.** On Code's computer DSRD 9 ends at 45.17 and the vault has no fish ruling note, though ANSWER__Home_Hero_Signed_And_Fish_Ruling_Written_Home_S484 says sections 45.18 and 45.19 and that note were written. Either this copy is behind Chat's own computer or those writes did not arrive. Writing 45.20 into a stale copy could overwrite them, so the DSRDs were left alone.
 
 OWED BACK: Kain's answer to section 6; the measured rows of every slot at 1440 and 375; whether the row's button took the hero's words; whether post 396's short answer ran three rows.
 
