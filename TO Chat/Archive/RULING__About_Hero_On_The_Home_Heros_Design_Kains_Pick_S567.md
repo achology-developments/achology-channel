@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: written into the About Landing Page's 000__SIGNED_SPEC__About_Page_S390 and the COMPONENT_REGISTRY note for hero-film.css; card #32; archived.
 For Chat: what this needs: write the ruling into the owning documents (the About page's record and the component registry's note for the hero band). Card #32.
 
 Done when: the About Landing Page's signed spec or record carries the dated line below, and the hero-film component's row names this ruling.

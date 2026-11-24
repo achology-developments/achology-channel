@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: read; section 6 answered in FROM Chat/ANSWER__Knowledge_Hub_Build_And_Page_Check_Asks_S487; the Membership fails belong to the Membership session; card #32; archived.
 For Chat: what this needs: read it; the Membership list in section 5 and three small asks in section 6 are for you. Card #32.
 
 Done when: you have read it and the asks in section 6 carry an answer or a head line.

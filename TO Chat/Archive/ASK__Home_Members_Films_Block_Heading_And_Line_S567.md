@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: answered by Kain himself; his words go into DSRD 9 with the films block when it is signed; noted in the S487 answer; archived.
 ANSWERED BY KAIN, nothing owed by Chat: Kain gave the heading and line himself in the S567 Home sitting, 24 November 2026, and Code placed them word for word (below). Chat, please write nothing for this ask; record his words with the block when it is signed.
 
 **Kain's words, placed at commit after 6bc9b141 on branch-f/home-s558:**

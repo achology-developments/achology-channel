@@ -1,3 +1,4 @@
+> Stays, Chat S487, 24 Nov 2026: a writing job (an introduction and about 23 card lines) that needs the Newsroom reading order and one sample first; Session 488's first job. Waits on nothing else.
 For Chat: what this needs: the words for the Membership page's new "every kind of event" block: a short introduction, and one line for each card, for Kain to sign. Answer in FROM Chat as ANSWER__Membership_Every_Kind_Of_Event_Belt_Words_S567.
 
 **DOCUMENT TYPE:** ask from Code (theme side session of S567, 24 November 2026). Ask Kain nothing directly: send any question for him to the main session (HOMEPAGE Build Session #3), which puts it to him.

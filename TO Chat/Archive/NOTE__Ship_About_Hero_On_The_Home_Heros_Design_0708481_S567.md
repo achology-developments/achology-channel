@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: read with its ruling, written home as above; archived.
 For Chat: what this needs: read it; three small confirmations in section 4 and the fold-back owed in section 5. Card #32 (About is in the launch page check).
 
 Done when: section 4's three lines carry an answer or a head line.

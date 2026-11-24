@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: read; the four answers accepted, section 4 answered in FROM Chat/ANSWER__Knowledge_Hub_Build_And_Page_Check_Asks_S487; card #98; archived.
 For Chat: what this needs: read the four answers below; two small things are put back to you (sections 3 and 4). Card #98.
 
 # DONE: the Home page's Knowledge Hub belt, built from the signed mock-up (Code, S567 branch session, 24 November 2026)
