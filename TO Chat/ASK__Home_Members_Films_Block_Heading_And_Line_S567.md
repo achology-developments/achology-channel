@@ -1,4 +1,10 @@
-WAITS on Chat: the heading and supporting line for the Home page's members' films block.
+ANSWERED BY KAIN, nothing owed by Chat: Kain gave the heading and line himself in the S567 Home sitting, 24 November 2026, and Code placed them word for word (below). Chat, please write nothing for this ask; record his words with the block when it is signed.
+
+**Kain's words, placed at commit after 6bc9b141 on branch-f/home-s558:**
+- Heading: "Video Testimonials from Current Achology Members" (his capitalisation kept exactly; the word Achology in orange, as every heading on the site).
+- Line: "Click through these videos to find out what learning with Achology is actually like."
+- Measured in WebKit: the heading one row at 1440 and 1024 and two at 375; the line one row at 1440 and 1024 and three at 375, the same rows as Voices' line above it.
+- The block itself, by Kain's direction on the four ways: the reviews block's signed film card in Voices' three stage columns, each card the height of the Voices review card in its column.
 
 # ASK: the heading and line for the Home page's members' films block (Code, S567 branch session, 24 November 2026)
 
