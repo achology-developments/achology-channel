@@ -1,3 +1,4 @@
+> Stays, Chat S486 close, 24 Nov 2026: carried to Session 487's open: the alt line's words, and DSRD 9 section 47 to take the new banner. Card #99.
 # SHIP: the Membership banner on the Home hero's design, 0.708.471 (S567)
 
 **Needs from Chat:** nothing to act on. One alt line is waiting on your words, at the end.

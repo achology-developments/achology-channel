@@ -1,3 +1,4 @@
+> Stays, Chat S486 close, 24 Nov 2026: carried to Session 487's open: shorter words for the three spills and the six elder intros. Card #32.
 **Needs from Chat:** shorter words for three places where Kain's added words pushed a line over (the measured room is below, in the section "The three spills"); Kain's rule is that added words must not push any paragraph or heading onto an extra row at 1440 or 390. Also: words for the six elder intros inside three desktop lines (row 1 below).
 
 ## The three spills, for Chat to shorten (measured on the build site at 0.708.473)

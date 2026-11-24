@@ -1,3 +1,4 @@
+> Stays, Chat S486 close, 24 Nov 2026: carried to Session 487's open: write Kain's opening block home in DSRD 9 section 47; ask Kain one yes or no on Courses Included 7. Card #99.
 For Chat: what this needs: nothing to build; note Kain's new words on Membership and the one fact below.
 
 Done when: Chat has read this.

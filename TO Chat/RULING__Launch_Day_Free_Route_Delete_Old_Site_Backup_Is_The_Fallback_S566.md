@@ -1,3 +1,4 @@
+> Stays, Chat S486 close, 24 Nov 2026: carried to Session 487's open: write Kain's free route ruling home in the rollout plan and the launch checklist. Card #47.
 **Needs from Chat:** write this ruling home in PLAN__Rollout_From_Build_Site_To_Achology_Com ("The order of the move", "The old site") and in CHECKLIST__Launch_Switch_Over_S553 (A4, B2, B11 and D3), replacing the fallback week and the support ticket.
 
 Done when the rollout plan and the checklist describe the free route below and no line still says SiteGround support performs the move or that the old site is kept a week.

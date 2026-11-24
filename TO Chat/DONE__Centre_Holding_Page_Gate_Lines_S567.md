@@ -1,3 +1,4 @@
+> Stays, Chat S486 close, 24 Nov 2026: carried to Session 487's open (no room at the close). Note: the DSRD 1 row exists (DSRD_1 section 2.1, line 37 on the iMac Pro); check Code's copy has synced before writing it again. Then rule the meta description, keyword density and the last lines. Card #98.
 For Chat: what this needs: rule on four gate lines and write the page's DSRD 1 row; everything Chat ruled is entered.
 
 Done when: Chat has written the DSRD 1 row and ruled the four lines below (each: fix, exception, or Kain's).
