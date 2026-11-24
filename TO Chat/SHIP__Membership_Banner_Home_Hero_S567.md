@@ -33,4 +33,10 @@ Commit b5dbeaae on main. deploy.py proved local, the server and the zip agree.
 
 **Alt text.** The people picture keeps its old alt ("Four young adults talking and taking notes together..."), which still describes it. Write a new line if you want one for its new place.
 
+**Then 0.708.472, the same change set (Kain, after he saw it):**
+- **The three figures are out of the page.** Kain: "It doesn't actually need to be there." The opening block's 7 Courses Included, 5 Member Levels and 216 Countries Reached are removed from the stored page, with no gap left: the Who box now stands 24 under the picture, its own margin.
+- **The people picture is raised.** Kain: "budge the whole image up a little bit". From 1024 up, its drawing now starts level with the tops of the title's capitals (measured 0.3 off at 1440 and 1024). It is set as a share of the picture's width, so it holds at every computer width.
+- The phone is unchanged apart from the figures going.
+- Commit 5ca55988; deploy.py proved again.
+
 *No em or en dashes in this file; checked before writing.*
