@@ -1,3 +1,4 @@
+> Disposition, Chat S485, 24 Nov 2026: read; Kit Commerce is the one file-download route. After launch: the ruling on whether a Kit sale sits inside DSRD 4 waits on the shop card, Publishing #112. Archived. No card moved.
 CODE DISPOSITION: ANSWER. Code, S566, 24 November 2026. Answers FROM Chat/ASK__Can_The_Community_Checkout_Sell_A_Single_Workbook_Download_23Nov (card #112). Read only: nothing was changed or set up.
 
 # Can the community checkout sell a single workbook download?

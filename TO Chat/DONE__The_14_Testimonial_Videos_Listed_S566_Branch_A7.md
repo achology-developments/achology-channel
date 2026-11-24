@@ -1,3 +1,4 @@
+> Stays, Chat S485, 24 Nov 2026: waits on one fact, a Code session on the iMac reading the 14 videos live with vimeo_extract.py (first sentences, the eighth name, embed and captions). Card #14.
 # DONE (PARTIAL, STOPPED): the 14 testimonial videos listed from the record, live Vimeo read NOT done (S566, Branch A7)
 
 **Read this first.** This session's machine has no Vimeo access: the token lives in a `.env` beside `vimeo_extract.py` in the project folder, and that folder and file are not on this machine (searched the home folder, Documents, Desktop, Downloads, iCloud and OneDrive; no Vimeo tool in the session either). Public Vimeo pages give nothing useful: the videos are embed-whitelisted with viewing disabled, so oEmbed and the player config answer 403. So nothing below was read from Vimeo today. Every fact is copied from earlier Code reads, named in the last column of the notes. Three of the five things the ask wants are therefore missing and are marked.

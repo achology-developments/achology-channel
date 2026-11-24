@@ -1,14 +1,8 @@
-> Disposition, Chat S484, 24 Nov 2026: recorded on card #98 (six-block frame waits on Kain's eye; words follow in Code's ASK). No card moved.
+> Disposition, Chat S485, 24 Nov 2026: read; its Home page points are carried by DSRD 9 sections 45.20 and 45.21 and today's Home work. Archived. Card #98 stays Building.
 
-For Chat: what this needs: nothing yet; a record of the Home page sitting of 24 November 2026 (theme session, S566), for the board card Home Page.
-
-**DOCUMENT TYPE:** session report from Code. Assembled from the Home preview branch's log.
-
-- **Finished: the Home page frame and wireframe redrawn as a proposal, six blocks in place of eight.** Commit "Homepage frame and wireframe redrawn as six blocks at true size (S566)" on the Home preview branch; previews/home-page-s558/wireframe.html. Nothing built, nothing in the theme, nothing deployed. Shown to Kain in his one Safari tab; **waits on Kain's eye.** Board card: Home Page.
-- The six: 1 the hero (signed, untouched); 2 Achology Is Three Things at Once, one orange line with three stops, the third stop a door into the dark band; 3 the open floor (the four free events as the Events page holds them, and the six member levels as one rail); 4 The People Behind Achology (the nine filmed members, one leading in three parts); 5 the site's one questions block with your signed three columns, Who It's For kept; 6 Where Would You Like to Go Next? as a price list, now the close.
-- **Found, for you:** the Events page prints "Hosted by a member of Achology" and names no host, so block 3 names nobody. The outside review file was no longer in Kain's bin; its points were taken from your S565 answer.
-- **Not finished: the words.** After Kain's word on the frame, an ASK follows for: block 2's one line in the door; block 3's heading, line, two paragraphs and the link under the rail; block 4's line, the lead member and their three parts, and a road for four more. Three phone sizes (Panel Body, Body Small, Card Title under 768) will be in that ASK.
-
-OWED BACK: nothing.
-
-*No em or en dashes in this file; checked before writing.*
+**Added later in the sitting, from the logs.**
+- **Finished: the Home page built for real in the preview** (Home preview branch: blocks.py, build.py, home.css, home.html), eight blocks under the signed hero with your S565 and S484 words; the assembled page Kain rejected is taken out. Not in the theme, not deployed, no block signed. Board card: Home Page.
+- **Not finished: block 2.** Kain rejected the first build's look ("very, very crammed"), then a round of four with photographs ("does not align visually in any way whatsoever with the hero"), then ruled: no photographs and no ready-made pictures on the Home page, "You must rely on design. Graphic design." Block 2 now stands as one drawn design on the hero's dark; it is owed to him as four drawn options in the viewer.
+- **Finished: H12, the four options lock** (theme repository, pushed to origin as 2864c807): the gate refuses a viewer round with fewer than four options unless it names itself a refinement, and refuses a preview page opened in Safari outside the viewer unless its head declares it signed, a review or a wireframe. Twelve acceptance cases pass; proved live. RULING__Four_Options_Is_The_One_Rule_And_The_Gate_Enforces_It_S566.
+- **Filed:** RULING__Home_Who_Is_Achology_Block_And_The_People_Page_S566; RULING__People_Page_Photographs_Build_Now_Ask_Before_Launch_S566; ASK__Home_Page_Eight_Block_Words_S566 (answered).
+- **Hand added:** the 48 meetup photographs were copied small into the preview's img/people and are kept out of every commit. The deployed theme folder on this computer stands 140 commits behind origin with other sessions' uncommitted work in it; this session left that as it found it and pushed its one gate commit from a clean copy.

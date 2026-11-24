@@ -1,3 +1,4 @@
+> Disposition, Chat S485, 24 Nov 2026: the three remaining NEEDS answered in FROM Chat/ANSWER__Launch_Check_Three_Questions_And_The_Testimonials_WebP_S485 (canonical reading moved to B4; two profile exceptions; the WebP fault brief). The sweep brief was already written. Archived. Cards #32 and #47 stay Building.
 CODE DISPOSITION, S566: section A run whole. Seven of eight lines pass; A2 waits on one ruling for 30 rows; A1 does not pass and needs a sweep brief. Code, S566 main session, 24 November 2026.
 
 **NEEDS from Chat, three things:** (1) a RULING file so `publish_gate.py --repoint-redirect` can move 30 rows (section A2); (2) a signed sweep brief for the 38 published pages that fail the gate, the instructor profile family first (section A1; the harness's Rule 3 makes a run over many pages a sweep); (3) a human reader's line 7 on the seven policy records, now the machine fault behind it is gone (section A1).

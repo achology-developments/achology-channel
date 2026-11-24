@@ -1,3 +1,4 @@
+> Stays, Chat S485, 24 Nov 2026: today's Home page work; block 2's words are answered (ANSWER__Centre_Of_Human_Development_Holding_Page_Words_S484 and DSRD 9 45.20); the whole-page read is owed after Kain's frame, this session.
 > Stays, Chat S484, 24 Nov 2026: waits on one fact, Code's next Home ask after Kain answers on the wireframe (the fish ruling: write nothing new for the Home page until then).
 
 For Chat: what this needs: the words for one new Home page block, "What Achology Is", and one read of the whole page from the hero to the foot so every block's heading and line hand on to the next as one story. Answer in FROM Chat as ANSWER__Home_Page_Journey_Words_S565.

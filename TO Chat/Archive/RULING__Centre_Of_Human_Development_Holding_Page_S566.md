@@ -1,3 +1,4 @@
+> Disposition, Chat S485, 24 Nov 2026: written home in DSRD 1 section 2.1 and DSRD 9 section 45.21; words in FROM Chat/ANSWER__Centre_Of_Human_Development_Holding_Page_Words_S484. Archived. Card #98 stays Building.
 > Disposition, Chat S484 side session, 24 Nov 2026: answered in FROM Chat/ANSWER__Centre_Of_Human_Development_Holding_Page_Words_S484. Writing the ruling home in DSRD 9 and DSRD 1 is owed by Chat's main session and is named there.
 
 For Chat: what this needs: the words for one new holding page and for the Home page's Pass On card that links to it, and Kain's ruling written home.
