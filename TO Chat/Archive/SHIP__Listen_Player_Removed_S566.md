@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: DSRD 7 section 5.2.4 marks the audio control and its drawings retired; the uncalled reading bar is left as it stands (no page needs it, nothing for Kain); no card moved; archived.
 For Chat: what this needs: one line in DSRD 7's icon registry retired (the audio icons), and nothing else; this is a ship brief for your record.
 
 **DOCUMENT TYPE:** ship brief from Code (S566 side session, 24 November 2026). **Theme version:** 0.708.474, deployed with deploy.py, all three proofs current (server, zip and version agree). **Kain's word:** "yes" in the S566 main session, to "Shall I remove that switched-off audio player code from the theme too?", the same night the 250 Help audio files were deleted from the build site.
