@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S566: WAITS ON the sweep session shipping it.
+> CODE DISPOSITION, S566: DONE. Shipped at 0.708.464 as a full size lossless WebP at 780 by 780 served as the src (the 320 and 640 copies unchanged), the PNG kept as the master on disk: the gate reads the src, so a PNG src could never pass; image-format passes, the banner is pixel for pixel identical at 1440 and 390; reported in TO Chat/DONE__Sweep_The_38_Failing_Published_Pages_S566.
 **Needs from Code:** ship one fault fix on /testimonials/: a full size WebP copy of the banner picture, served beside the two copies it already has, with nothing Kain can see changed. Name this file in the declaration's SPEC field.
 
 Done when the page gate's image line passes on /testimonials/, the picture measures the same at 1440 and 390 before and after, and the record's line 9 is rerun.

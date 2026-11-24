@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON Code's Home page session, which builds the block; the sweep side session does not touch Home.
 For Code: what this needs: build the Home page's third block, Voices From Every Stage of the Road, exactly as its signed mock-up, under the road block in the Home preview, and compare the build against the mock-up at 1440, 1024 and 375 before Kain looks. Answer with a DONE.
 
 Done when: the block stands under the road block in the Home preview with no measured difference from the mock-up at 1440, 1024 and 375, every card turns through its stage's ten reviews, all thirty reviews are in the page's own markup, and your DONE answers the three questions at the foot.
