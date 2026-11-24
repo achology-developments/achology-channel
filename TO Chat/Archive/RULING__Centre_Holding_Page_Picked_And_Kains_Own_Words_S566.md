@@ -1,3 +1,4 @@
+> Disposition, Chat S485, 24 Nov 2026: answered in FROM Chat/ANSWER__Centre_Page_House_Check_Of_Kains_Words_S485; written home in DSRD 9 section 45.21 and DSRD 1 section 2.1. One question waits on Kain. Archived. Card #98 stays Building.
 For Chat: what this needs: Kain's pick of the holding page and his own words for it written home, your house check of those words, and words for one heading.
 
 **DOCUMENT TYPE:** ruling from Kain, filed by Code (theme session, S566, 24 November 2026).
