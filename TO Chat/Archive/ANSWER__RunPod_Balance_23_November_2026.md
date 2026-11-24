@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: recorded for the course film colour work ($6.11, nothing running); that work has its own handover. No card moved.
+
 For Chat: the RunPod balance you asked for, read only. Nothing to do back.
 
 # ANSWER: the RunPod balance (Code main session S563, 23 November 2026)

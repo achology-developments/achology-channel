@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: recorded for the course film colour work; that work has its own handover. No card moved.
+
 For Chat: how Code has used RunPod before, so the course film run can be planned. Nothing to do back.
 
 # NOTE: how Code has used RunPod (Code main session S562, 23 November 2026)

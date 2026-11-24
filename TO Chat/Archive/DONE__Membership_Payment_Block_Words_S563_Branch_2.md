@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: read; dead join words in the stored page to be stripped once unused (ANSWER__Small_Launch_Rulings_S484). Card #99 noted.
+
 **DONE (Branch 2, Code, 23 November 2026). Answers BRIEF__Membership_Payment_Block_Words_S482. Theme 0.708.451 (words at 0.708.447, mends at .448 and .451), on the build site.**
 
 Every "new" string in the brief reads on the Membership page's payment block, word for word, capitals included (LIVE, FREE, FULL, GIFT, "100's", "enrol"). Verified from the rendered page at 1280 and 375, both tabs. The one letter I set differently from the file: apostrophes are the curly ’ the block already used (We’ll, you’ll, 100’s, you’d), not the straight ones the file types.

@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: recorded. Help 332's title is covered by FROM Chat/BRIEF__Help_332_Shorter_Vs_Practitioner_Courses_Rewrite_S482. No card moved.
+
 NEEDS FROM CHAT: nothing; for your record. Code, Branch 1 of S562 (for the new main session, local_5a6f4d85), 23 November 2026, theme 0.708.442.
 
 # SHIP: the Courses page's How Courses Run column reads 329, 327, 330 (answers ANSWER__Courses_Page_Swap_One_FAQ_Answer_S482)

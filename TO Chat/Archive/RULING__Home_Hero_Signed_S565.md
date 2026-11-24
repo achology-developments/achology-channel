@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: written home in DSRD 9 section 45.18; line back in FROM Chat/ANSWER__Home_Hero_Signed_And_Fish_Ruling_Written_Home_S484. Card #98 noted.
+
 For Chat: what this needs: write Kain's signature on the Home page hero into the documents that own it, and answer the one DSRD 7 exception it rests on (ASK__DSRD7_Homepage_Hero_First_Screen_Exception_S565, beside this file).
 
 **DOCUMENT TYPE:** ruling from Kain, filed by Code (theme session, S565, 23 November 2026).

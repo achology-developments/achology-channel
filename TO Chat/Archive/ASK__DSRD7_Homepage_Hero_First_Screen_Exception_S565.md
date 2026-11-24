@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: yes, in Code's wording, written into DSRD 7 section 4; answered in FROM Chat/ANSWER__Home_Hero_Signed_And_Fish_Ruling_Written_Home_S484.
+
 For Chat: what this needs: your yes or no to one named exception in DSRD 7 section 4 for the homepage hero's height, so it can be written home once Kain signs the hero.
 
 **DOCUMENT TYPE:** ask from Code (theme session, S565, 23 November 2026).

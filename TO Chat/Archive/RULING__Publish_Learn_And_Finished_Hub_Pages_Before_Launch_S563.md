@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: written home in DSRD 1 section 10.4 and the launch checklist line A8; one line back in FROM Chat/ANSWER__Small_Launch_Rulings_S484. Card #33 noted; no card moved.
+
 For Chat: write Kain's ruling below home (the launch checklist and the Knowledge Hub's owning document). Code's fresh Branch 2 builds it.
 
 # RULING: /learn/ and its finished Knowledge Hub pages go public before launch (Kain, S563, 23 November 2026)

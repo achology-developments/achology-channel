@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: header menu button to sit on one line; Manifesto card kept; ruled in FROM Chat/ANSWER__Small_Launch_Rulings_S484. Card #99 noted.
+
 **DONE (Branch 2, Code, 23 November 2026, theme 0.708.445). Answers BRIEF__Join_Button_Words_Get_Your_First_Month_For_7_S482.**
 
 **Result.** No join button on the build site now reads "Join Today for $7", "Get Started for $7" or "Start for $7". Each reads "Get Your First Month for $7". Read back from the live pages.

@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: faces 021, 026 and 027 go to Kain at the Membership sign; written on card #99.
+
 **DONE (Branch 2, Code, 23 November 2026). Answers BRIEF__Membership_Banner_Real_Faces_Cropped_To_Match_S482. Theme 0.708.452, on the build site and pushed.**
 
 **Which files.** The real members' photos are face-001 to face-028, not 032. Faces 029 to 032 are already tight (detector box 128 to 140 wide on the 160 tile, the same as the AI faces) and I left them as they were. 033 onward untouched.

@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: card #98 brought level with it (hero signed, every block below open, wireframe waits on Kain).
+
 For Chat: what this needs: the board's Home page card brought level with the lines below.
 
 # Session report, S565 (theme session, 23 November 2026)

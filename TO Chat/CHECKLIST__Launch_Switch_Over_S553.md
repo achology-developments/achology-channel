@@ -1,3 +1,4 @@
+> Stays, Chat S484, 24 Nov 2026: the live launch checklist; waits on launch day. Line A8 added this session.
 > Chat S480, 23 Nov 2026: stays in TO Chat as the live launch checklist; waits on launch day. Section D is ruled in FROM Chat/ANSWER__Launch_Move_Order_Checklist_Section_D_S480 and RULING__Nothing_Of_The_Old_Site_Is_Kept_S480; the branch filling it writes those rulings in.
 > Back in TO Chat as the live checklist, Code S559 (Branch G), 23 November 2026: the S480 launch jobs add lines to it (each marked S559). Earlier head line kept below.
 > Disposition, Chat S480, 23 Nov 2026: section D ruled in FROM Chat/ANSWER__Launch_Move_Order_Checklist_Section_D_S480; the order written into PLAN__Rollout_From_Build_Site_To_Achology_Com; archived. No board card moved.

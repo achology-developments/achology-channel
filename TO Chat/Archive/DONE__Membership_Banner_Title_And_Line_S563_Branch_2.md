@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: balanced wrap kept, no tie; ruled in FROM Chat/ANSWER__Small_Launch_Rulings_S484. Card #99 noted.
+
 **DONE (Branch 2, Code, 23 November 2026). Answers BRIEF__Membership_Banner_Title_And_Line_S482. Theme 0.708.454, on the build site and pushed.**
 
 Kain's title and line read word for word in the banner (h1 "Achology Subscription Plans and Membership Community", accent on "Achology" kept). No hard breaks: the title keeps its balanced wrap, the line takes `text-wrap: balance`, and the banner's words column is 616 wide at 1024 and up (the third line of Kain's shape measures 612; the school banner's 560 made four lines). Where the column grew, the gap to the picture shrank to 24, so the picture sits a few pixels further right at 1440 and at 1024 its right edge runs to about 22 from the screen edge.

@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: Kain's sign-off recorded; card #10 moved to Done. The history scroll note is after-launch polish (ANSWER__Small_Launch_Rulings_S484, item 6).
+
 # SHIP: What Achology Believes (Presuppositions) page, finished, 0.708.450 (S562)
 
 Page: /about/what-achology-believes/ (post 45044). Branch beliefs-finish/s562, pushed to main, deployed by deploy.py (local, server and zip agree).

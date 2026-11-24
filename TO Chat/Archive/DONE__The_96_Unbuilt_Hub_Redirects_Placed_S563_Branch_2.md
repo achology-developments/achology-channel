@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: listing routes carved out of the sitemap column (DSRD 1 section 11.0); judgement calls stand; ruled in FROM Chat/ANSWER__Small_Launch_Rulings_S484. Card #33 noted; no card moved.
+
 **DONE (Branch 2, Code, 23 November 2026). Answers ANSWER__The_96_Unbuilt_Hub_Redirects_S563 (completes job 1).**
 
 All 96 held old addresses are written as 301s and proved from the server (96 of 96, 0 not proved), each to a page that answers 200. **Steps: step 1: 39, step 2: 10, step 3: 47, step 4: 0.** Redirect_Master.xlsx: each row's new_url is the interim target, status verified, basis begins INTERIM, and the note holds the address its page will have ("waits for ..."). Backup before the edit: /private/tmp/claude-501/b3/Redirect_Master.before96.xlsx.

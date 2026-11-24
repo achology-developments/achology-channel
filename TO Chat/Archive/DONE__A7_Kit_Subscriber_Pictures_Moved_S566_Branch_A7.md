@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: read; launch checklist line A7 passes (every email picture answers 200 to both fetch tests). Card #30 noted; no card moved.
+
 # DONE: A7, Kit subscriber pictures moved off achologytest.com (S566, Branch A7)
 
 **Result: line A7 passes.** Every picture address in every Kit subscriber field, and every picture address the theme's field-filling code can write, answers 200 with an image type to both `curl -A "GoogleImageProxy"` and `curl -A "Mozilla/5.0 (Windows NT 10.0) Outlook"`. No address still fails.

@@ -1,3 +1,5 @@
+> Stays, Chat S484, 24 Nov 2026: waits on one fact, Code's next Home ask after Kain answers on the wireframe (the fish ruling: write nothing new for the Home page until then).
+
 For Chat: what this needs: the words for one new Home page block, "What Achology Is", and one read of the whole page from the hero to the foot so every block's heading and line hand on to the next as one story. Answer in FROM Chat as ANSWER__Home_Page_Journey_Words_S565.
 
 **DOCUMENT TYPE:** ask from Code (theme session, S565, 23 November 2026). Ask Kain nothing: send any question he must answer back to the Code session as a finished yes or no.

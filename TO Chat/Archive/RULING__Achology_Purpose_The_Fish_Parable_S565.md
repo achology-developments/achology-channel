@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: written home in DSRD 9 section 45.19 and the Newsroom ruling 'Achology Gives People a Fish, Teaches Them to Fish, and Lets Them Teach Others, With No Ceiling and No Faculty'; line back in FROM Chat/ANSWER__Home_Hero_Signed_And_Fish_Ruling_Written_Home_S484. Card #98 noted.
+
 For Chat: what this needs: Kain's own statement of what Achology is for written into the documents that own it (the stance and the Home page's words), and used as the spine when you next write the Home page's words.
 
 **DOCUMENT TYPE:** ruling from Kain, filed by Code (theme session, S565, 24 November 2026).
