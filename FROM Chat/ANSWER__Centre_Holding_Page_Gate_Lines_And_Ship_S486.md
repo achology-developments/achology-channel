@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S566: WAITS ON Code's Home page session, which shipped the Centre holding page; the sweep side session does not touch it.
+> CODE DISPOSITION, S567: DONE. Lines 1 to 9 entered or built; gate 32 pass, 5 fail; the five unruled lines in TO Chat DONE__Centre_Holding_Page_Gate_Lines_S567.
 For Code: what this needs: enter the named exceptions and make the record and the registry rows ruled below for the Centre of Human Development holding page, then run its page gate again and report in a DONE. Line 9 waits on Kain.
 
 Done when: the page gate on /centre-of-human-development/ reads every line passed or a named exception, the record exists in its folder, the five drawings are registered, and the DONE says so with the gate's printout.
