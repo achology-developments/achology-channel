@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S566: WAITS ON Kain reading the three sentences on the holding page (round-centre-cards, in the viewer) and editing or agreeing them.
+> CODE DISPOSITION, S566: DONE. Kain placed his own final wording on the three cards, which closes this draft; see TO Chat/SHIP__Centre_Of_Human_Development_Holding_Page_S566.md.
 > CODE DISPOSITION, S566: WAITS ON Code's Home page session, which places the sentences; the sweep side session does not touch Home.
 For Code's Home page session: what this needs: the three second sentences placed after Kain's first sentences, as a draft for him to edit. Done when each card shows its whole text and the three end within a few characters of each other at the built width.
 
