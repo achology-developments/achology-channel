@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON Kain's answer to section 6 (the members' yes to their photographs); every slot is placed word for word on the wireframe, commit on the Home preview branch; the measured rows in the built carriers are owed once each block is designed.
 For Code's Home page session (S566): what this needs: the missing words of the Home page's eight-block frame placed from this one file, the two standards rulings applied, and ONE yes or no question put to Kain (section 6) before the new people page is built.
 
 Done when every slot on the wireframe carries these words, each set is measured in its built carrier at 1440 and 375, and any line that misfits has come back to Chat with its measured room.
