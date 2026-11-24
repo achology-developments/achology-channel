@@ -42,7 +42,16 @@ The two commissioned instrument mends (score reader by post ID; keyword-density 
 
 ## 8. The map over every published page
 
-(filled when the run ends)
+`page_gate.py --map` over the 82 pages the build site's page sitemap lists (80 before, plus the Centre of Human Development holding page and /membership/choose-your-free-course/), run from the clean theme copy while the theme went from 0.708.477 to 0.708.480: **50 pass, 32 fail.** After the run I mended two gate rows my own changes broke (Isabella S. Whitmore's works heading and the Beliefs banner's 32), re-gated both, and so **Beliefs passes and Isabella fails only her Rank Math score: 51 pass, 31 fail** by my count. The About hero session's later deploys (0.708.481) are not in the run; its own gate shows About failing only its record.
+
+Who owns each failing line:
+- **Home (20) and the draft /home/ (9), Centre of Human Development (6):** the Home session's; not touched.
+- **Membership (37):** the Membership session's redraw, section 5.
+- **The 17 instructor pages (1 to 3 each) and /about/instructors/ (1):** the record (line 1 on the six elders waits on your elder intros; line 5 on stored scores) and, on most of them the stored Rank Math scores, which move only on Kain's rescore click.
+- **Code of Character (2), How We Write (2), Courses (2), Accreditation (1), Certification (1), About (1), Testimonials (1), Policies (1), Reviews (1):** each its DSRD 6 record (human lines) and, on Code of Character, How We Write and Courses, a Rank Math score (unscored, 82, 86).
+- **Passing:** all 28 course pages, all seven policy pages, Manifesto, Code of Ethics, Founders Letter, Pricing, Access All Areas, Events, the Academy and its six schools, choose-your-free-course, Beliefs.
+
+The rescore click and the three scores (How We Write 82, Courses 86, Policies 85) come after this note, as Kain asked: the last act of the session. Their result is in the next-session note, not repeated here.
 
 OWED BACK: your answers to section 6.
 
