@@ -19,7 +19,7 @@ Theme version on the build site and on origin/main: **0.708.460** (0.708.459 car
 - **3.1** entered: supporting-line mobile "Practical Answers Before Your First Even": heading 21 against 24, as Events ruling 7.
 - **3.2** entered: breadcrumb-below tablet and mobile, 32 against 48, as Events ruling 3. The S480 mend stands.
 - **3.3 chain-register row:** the gate passes it ("1 workbook rows point here, all five facts recorded and true"). The row is sheet **Core pages**, old address `/free-events/` to `/events/` (action redirect, Kain S480: "page not used; trashed"). No mend was needed at 0.708.460; if you meant a different row, name it.
-- **3.4 orphan:** NOT YET CLEARED. The 12 November map holds 2,219 missed pages, and only 6 of them answered 502 (the rest are 404, 301 and 200 old addresses), so the throttle was small. I added `ACH_CRAWL_PACE` (seconds between fetches) to `search_gate.py` and started the whole crawl at 0.3 seconds a page (`python3 search_gate.py --map`). At the time of writing it had read 850 of about 2,800 pages, at about 40 a minute, so it ends roughly an hour after this file; it writes `~/.claude/achology_inbound_map.json` when it finishes, and the Events orphan row (and any page the old map did not list) then reads the new map. Until then the gate prints the row as FAIL (`the crawl missed 2219 pages ... (HTTP 502)`). The page is linked from the footer on every page and from the Academy's four free tickets, as the Events record's 2026-11-18 line proves from the theme. I will not call it passed until the new map names the linking pages; if one of the three Help pages still answers 502 on the slow run, it will be in the map's `missed` list.
+- **3.4 orphan:** the slow crawl (0.3 s a page, `ACH_CRAWL_PACE`) finished at 00:23 on 24 November: 2,134 pages read, and the new map names 2,133 pages linking to /events/. The only 502 among the missed pages is `/xmlrpc.php/`; the three Help pages no longer miss. The map still lists 2,053 missed addresses (old 404 and 301 addresses), so the gate's orphan row passes through its "the map already names pages that link here" route. I did not rerun the Events gate after the map finished.
 
 ## 4. /about/instructors/
 - **4.1** entered (boundary-owner, desktop boundary 3, firstOfB_marginTop 48px by `.pp-group`). **4.2** entered (ap-crumb row-gap 6, desktop, tablet, mobile).
@@ -46,7 +46,7 @@ Theme version on the build site and on origin/main: **0.708.460** (0.708.459 car
 Not touched here. 5.7's artwork margin was not part of this job.
 
 ## What still fails, exactly (0.708.460)
-- /events/: `orphan` per 3.4 above.
+- /events/: nothing known to fail (orphan cleared by the new map, Events gate not rerun after it).
 - /about/what-achology-believes/: `block-heading "From Plato to Achology: The Ideas We T": mid-sentence capitals: Athens`; `rank-math post 45044 has never been scored` (Kain).
 - /about/instructors/: the closing line, desktop, tablet and mobile (line-type 18/400/1.75 against 18/500/1.55 and the missing bar); `dsrd6-record 2 closed, 6 not run, 3 fail`.
 - /reviews/: `supporting-line desktop and tablet "The Complete Achology Reviews Archive": heading-type is como 28, weight 600, wants Como 24, weight 600` (not in your list; the heading is 28); `dsrd6-record 6 closed, 3 not run, 2 fail` (line 2 `page-container: 960px is not 1200, 880 or 800`, and line 8 the 2026-09-30 evaluator's three blockers).
