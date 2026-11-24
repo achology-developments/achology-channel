@@ -12,7 +12,14 @@ Assembled from the version control log of the Home preview branch of the theme r
 6. 9b413900. The growing picture restored in place of the cross-fade.
 7. 5430850d. The film's opening mended at its causes, found by measuring every frame: the picture's edge dissolves instead of sliding, the film's box grows in even steps, and the film starts once the picture has arrived.
 
+8. The whole page assembled as one journey under the hero (the commit after 5430850d). **Rejected by Kain in full** ("not even 1%"): lifted blocks, the competence block and three old-site pictures. Only block 2's idea and words survive. It is still what the preview's page shows.
+9. wireframe.html, three commits: the frame and a whole-page wireframe as a proposal, reworked around Kain's own vision to eight blocks (hero; three things at once; No Ceiling: The Open Floor; The People Behind Achology as the members' films; who it is for; four ways in; the questions; the close). Not finished: Kain has not yet answered it, and nothing is built from it.
+
 **Signed.** Kain signed the hero at line 7: "Yes, signed". Filed as RULING__Home_Hero_Signed_S565.
+
+**Kain's vision, given in the sitting.** Filed as RULING__Achology_Purpose_The_Fish_Parable_S565: the fish parable, no ceiling and no faculty, the learner Achology is for, and the man in the hole. It needs writing home by Chat.
+
+**Hand-over.** HANDOVER__Home_Page_Frame_To_Design_S565 in the Homepage folder, written on Kain's word at the close.
 
 **Files written outside the repository (hand added).** AUDIT__Home_Page_S562 in the Homepage folder's research folder, the full audit at 1440, 1024 and 375. ASK__DSRD7_Homepage_Hero_First_Screen_Exception_S565 in this folder.
 
