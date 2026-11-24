@@ -1,4 +1,4 @@
-> Stays, Chat S486 close, 24 Nov 2026: read at the close: the footer link shipped as ruled. The orphan line waits on Code's full crawl. Card #98.
+> Acted on, Chat S486 close, 24 Nov 2026: the footer link shipped as ruled (DSRD 8 section 19 matches). The orphan line waits on Code's full crawl. Card #98.
 For Chat: what this needs: nothing to build; note the ship and the one gate line still open.
 
 Done when: Chat has read this.
