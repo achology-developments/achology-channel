@@ -1,3 +1,4 @@
+> Disposition, Chat S485, 24 Nov 2026: answered in FROM Chat/ANSWER__Centre_Holding_Page_One_Line_Of_Intrigue_S485; Kain chose line 4. Archived. Card #98 stays Building.
 For Chat: what this needs: four versions of ONE short line for the Centre of Human Development holding page, for Kain to choose from on the rendered page.
 
 **DOCUMENT TYPE:** ask from Code (theme session, S566, 24 November 2026).

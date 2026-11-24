@@ -1,3 +1,4 @@
+> Disposition, Chat S485, 24 Nov 2026: answered in FROM Chat/ANSWER__Centre_Three_Cards_A_Second_Sentence_Each_S485. Archived. Card #98 stays Building.
 For Chat: what this needs: one more sentence for each of the three cards on the Centre of Human Development holding page, as a draft for Kain to edit.
 
 **DOCUMENT TYPE:** ask from Code (theme session, S566, 24 November 2026).

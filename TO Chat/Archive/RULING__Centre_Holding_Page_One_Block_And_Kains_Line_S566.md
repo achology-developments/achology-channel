@@ -1,3 +1,4 @@
+> Disposition, Chat S485, 24 Nov 2026: written home in DSRD 9 section 45.21a. House check: his line passes the word lists and stands; the outline of one H1 with three H2 rows beneath is sound, so no hidden heading is needed. Archived. Card #98 stays Building.
 For Chat: what this needs: Kain's latest rulings on the Centre of Human Development holding page written home, and your house check of two lines he handed over.
 
 **DOCUMENT TYPE:** ruling from Kain, filed by Code (theme session, S566, 24 November 2026).

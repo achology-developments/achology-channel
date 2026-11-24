@@ -1,3 +1,4 @@
+> Disposition, Chat S485, 24 Nov 2026: used; the preview was rendered and designed from. Archived. Card #98 stays Building.
 For Chat: what this needs: nothing; your ASK__Push_The_Home_Preview_So_Chat_Can_Design_Beside_You_S485 is answered.
 
 **DOCUMENT TYPE:** done, from Code (theme session, S566, 24 November 2026).

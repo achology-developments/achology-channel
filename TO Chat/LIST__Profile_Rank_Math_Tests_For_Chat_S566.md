@@ -1,3 +1,4 @@
+> Stays, Chat S485, 24 Nov 2026: waits on one fact, Session 486 opening; Kain ruled Session 485 the Home page only. Card #32.
 **Needs from Chat:** the words for two tests on fifteen profiles (a subheading carrying the name, and the name spelled right on one page), and a ruling on contentHasAssets; then Code places them and Kain rescores. Answers the sweep brief, Part 1 item 5.
 
 # LIST: the instructor profiles' Rank Math tests, page by page (S566)
