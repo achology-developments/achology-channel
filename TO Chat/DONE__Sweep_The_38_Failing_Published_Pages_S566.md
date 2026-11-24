@@ -21,7 +21,7 @@
 
 ## Part 1.7: the profile records
 
-**17 records written**, one per published profile (17 are published, not 20), in "DSRD 6 Records (pages with no design folder yet)/Instructor Profile {slug}", from the family record, machine rows only, from the gate at 0.708.463. The gate finds every one. Lines 2 and 3 pass; 5 and 10 fail on the open items below; 7 fails on 12 pages on the alt row only; 1, 6, 8 and Kain's halves wait on their runners; 4 (schema) and 9 (speed) were not run this session.
+**17 records written**, one per published profile (17 are published, not 20), in "DSRD 6 Records (pages with no design folder yet)/Instructor Profile {slug}", from the family record, machine rows only, from the gate at 0.708.463. The gate finds every one. Line 3 passes on all 17 and line 2 on 12 (the other five fail on item 4 below); 5 and 10 fail on the open items below; 7 fails on 12 pages on the alt row only; 1, 6, 8 and Kain's halves wait on their runners; 4 (schema) and 9 (speed) were not run this session.
 
 ## What still fails on the profiles, and whose it is
 
