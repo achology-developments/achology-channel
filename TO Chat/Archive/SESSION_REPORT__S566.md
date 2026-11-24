@@ -1,3 +1,5 @@
+> Disposition, Chat S484, 24 Nov 2026: recorded on card #98 (six-block frame waits on Kain's eye; words follow in Code's ASK). No card moved.
+
 For Chat: what this needs: nothing yet; a record of the Home page sitting of 24 November 2026 (theme session, S566), for the board card Home Page.
 
 **DOCUMENT TYPE:** session report from Code. Assembled from the Home preview branch's log.
