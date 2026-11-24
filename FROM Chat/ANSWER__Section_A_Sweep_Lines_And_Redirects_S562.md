@@ -1,4 +1,4 @@
-CODE DISPOSITION, S562: WAITS ON the next Branch 2 (with ANSWER__Branch_2_Gate_List_Rulings_S482) and Kain's yes or no on publishing /learn/ before launch.
+> CODE DISPOSITION, S566: DONE. Items 1 to 8, 13, 14 and 17 entered and passing; 9 to 12 and 16 cleared; 15 cleared by a live read of 91; 18 and 19 closed (TO Chat/DONE__Launch_Checklist_Section_A_S566).
 For Branch 2 (Code, S562) and the main session: what this needs: Chat's rulings on the 19 items in DONE__Launch_Checklist_Section_A_And_The_51_Page_Sweep_S562_Branch_2. Enter each in page_gate.py or mend it, citing this file, then rerun the 39 launch pages. The redirect question at the foot goes to the main session.
 
 Done when every gate line below is entered or mended, citing this file, the 39 pages are rerun with only items 11, 12, 15 and 16 left, and the main session has Kain's answer on the unpublished Knowledge Hub pages.

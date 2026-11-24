@@ -1,4 +1,4 @@
-CODE DISPOSITION, S562: WAITS ON the next main session (Kain opens it) mending the vault gate.
+> CODE DISPOSITION, S566: DONE. vault_gate.py mended; the Help 332 approval passes (line back in TO Chat/DONE__Launch_Checklist_Section_A_S566).
 For Code (any session, S563): what this needs: mend the vault gate so it reads Kain's typed words when the app puts a note in front of them, then record his approval of the Help 332 title.
 
 Done when `vault_gate.py approve-titles help332_shorter_vs_practitioner_s482 --kain-said "Yes, approved" --session cc7de36d-0dbb-4f48-bc45-6f3b59ccef16` passes, and Chat is told so.
