@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the fresh Home session that builds the belt under the proof block.
 For Code: what this needs: build the Home page's fourth block, the Knowledge Hub belt, exactly as its signed mock-up, under the proof block in the Home preview, and compare the build against the mock-up at 1440, 1024 and 375 before Kain looks. Answer with a DONE.
 
 Done when: the block stands under the proof block with no measured difference from the mock-up at 1440, 1024 and 375; the switch filters the belt; the arrows move it one card and run round both ways; every one of the twenty cards opens its page; and your DONE answers the four questions at the foot.

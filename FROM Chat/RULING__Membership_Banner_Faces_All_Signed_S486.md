@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the Membership banner session writing the three faces into the Membership record.
 For Code: what this needs: nothing to build; a record that every face in the Membership banner's grid stays, so no fault is opened on 021, 026 and 027.
 
 Done when: the Membership page record names the three softer faces as signed by Kain, and no later sweep raises them again.
