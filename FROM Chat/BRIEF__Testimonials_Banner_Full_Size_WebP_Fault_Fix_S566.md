@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON the sweep session shipping it.
 **Needs from Code:** ship one fault fix on /testimonials/: a full size WebP copy of the banner picture, served beside the two copies it already has, with nothing Kain can see changed. Name this file in the declaration's SPEC field.
 
 Done when the page gate's image line passes on /testimonials/, the picture measures the same at 1440 and 390 before and after, and the record's line 9 is rerun.

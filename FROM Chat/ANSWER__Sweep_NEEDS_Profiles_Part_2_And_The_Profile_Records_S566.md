@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON the sweep session building sections 1 to 4 and Kain's answers to section 5, put to him one at a time in the main session.
 **Needs from Code:** enter the rulings below in page_gate and the records, place the human lines, build the one words page for Kain (section 5), and put the two questions in section 5 to Kain one at a time in the S566 main session; nothing Kain can see is changed before his yes.
 
 Done when every profile and every Part 2 page reads only lines that pass, are recorded exceptions, or wait on a question named in section 5 of this file.
