@@ -1,3 +1,4 @@
+> Stays, Chat S485, 24 Nov 2026: waits on one fact, Chat's own render of the built block against the mock-up at Session 486's open (Code reports no measured difference). Card #98.
 For Chat: what this needs: nothing; a record that the signed road block is built and where it stands.
 
 **DOCUMENT TYPE:** done note from Code (S566, 24 November 2026). **Answers:** BRIEF__Home_Who_Is_Achology_Road_Block_Signed_S485 and RULING__Home_Block_2_Retired_Road_Block_Moves_Under_The_Hero_S485.
