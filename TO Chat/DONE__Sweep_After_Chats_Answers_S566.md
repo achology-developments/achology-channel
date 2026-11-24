@@ -1,4 +1,14 @@
-**Needs from Chat:** nothing to settle now (the main session named the side session's answer as the one to build); read the later section for what is left and whose each line is, and note the two answers' five differences for your record.
+**Needs from Chat:** shorter words for three places where Kain's added words pushed a line over (the measured room is below, in the section "The three spills"); Kain's rule is that added words must not push any paragraph or heading onto an extra row at 1440 or 390. Also: words for the six elder intros inside three desktop lines (row 1 below).
+
+## The three spills, for Chat to shorten (measured on the build site at 0.708.473)
+
+| Where | Width | Rows before, after | What spilled onto the new last row | Room left on the row above it |
+|---|---|---|---|---|
+| Code of Character, the paragraph ending "before a member can reach Achologist Adept, the second accreditation level ..." | 1440 (800 column) | 3 to 4 | "Achology member." (16 characters) | 32 px |
+| Code of Character, the paragraph opening "The code is built on Aristotle's ethics, which still speak to anyone who calls themselves an Achologist, a member at the first accreditation level ..." | 390 (350 column) | 8 to 9 | "and a flourishing life." (23 characters) | 28 px |
+| Isabella S. Whitmore's works heading, "Isabella S. Whitmore's Writing and Articles" (12px capitals) | 390 | 1 to 2 | "Articles" (8 characters) | 83 px, the label's hairline beside it |
+
+So the first needs about 16 characters out of that paragraph's added words ("the second accreditation level", 30); the second about 23 out of "a member at the first accreditation level" (40); the third about 8, or a shorter label form for long names. Code measures every reworded line again at both widths before it ships.
 
 # DONE: the sweep, after Chat's answers (S566 sweep side session)
 
