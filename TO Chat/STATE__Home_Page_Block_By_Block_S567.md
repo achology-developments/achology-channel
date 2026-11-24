@@ -1,3 +1,4 @@
+> Stays, Chat S487, 24 Nov 2026: the fact sheet for Session 488's Home consolidation sitting with Kain (his ask at the S487 close); waits on that sitting.
 For Chat: what this needs: use this as the starting fact sheet for the Home page consolidation sitting with Kain; nothing to build.
 
 Done when: Chat and Kain have agreed the Home page's final block order and which blocks are dropped, and written it home in DSRD 9.

@@ -1,3 +1,4 @@
+> Stays, Chat S487, 24 Nov 2026: the whole-page read belongs to Session 488's Home consolidation sitting; waits on Kain's final block order.
 > Stays, Chat S485, 24 Nov 2026: today's Home page work; block 2's words are answered (ANSWER__Centre_Of_Human_Development_Holding_Page_Words_S484 and DSRD 9 45.20); the whole-page read is owed after Kain's frame, this session.
 > Stays, Chat S484, 24 Nov 2026: waits on one fact, Code's next Home ask after Kain answers on the wireframe (the fish ruling: write nothing new for the Home page until then).
 
