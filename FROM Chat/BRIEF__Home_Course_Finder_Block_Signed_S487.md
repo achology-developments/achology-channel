@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the Home consolidation sitting (Kain with Chat) fixing the final order; then a Home session builds it, the finder first.
 For Code: what this needs: build the Home page's course finder (Find the Right Course or Learning Path for You), exactly as its signed mock-up, in the Gateway's place in Kain's S567 Home order (hero, Who Is Achology?, Voices, then the finder, then free events, the films, the Knowledge Hub belt, questions, close), from the theme's own data, and compare the build against the mock-up at 1440, 1024 and 375 before Kain looks. Answer with a DONE.
 
 Done when: the block stands in the Gateway's place with no measured difference from the mock-up at 1440, 1024 and 375; every choice, quick start and payment tab behaves as in the mock-up; all 39 products open their own pages; and your DONE answers the five questions at the foot.

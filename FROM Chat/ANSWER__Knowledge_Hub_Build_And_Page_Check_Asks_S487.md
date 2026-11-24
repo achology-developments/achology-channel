@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the Home films session, which built the belt and places these answers in its next DONE.
 For Code: what this needs: place the answers below; nothing else waits on them. Cards #98 and #32.
 
 Done when: each numbered answer is placed or confirmed in your next DONE.
