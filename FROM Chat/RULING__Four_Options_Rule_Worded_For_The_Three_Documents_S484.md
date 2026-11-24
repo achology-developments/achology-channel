@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON Chat's main session writing the three documents; the H12 change is the Home page session's, not the section A session's.
 For Chat's main session, and for Code's S566 to read: what this needs: the wording below written into The Shared Rules section 1, The Harness Rule 7 with H12, and the Project Instructions section 5, each with its contradicting lines taken out and its version line moved.
 
 Done when all three documents carry the rule as worded here, no line in any of them says "No option menus unless he asks" or names Penpot as the way a look is designed, and one line back to Code says so.
