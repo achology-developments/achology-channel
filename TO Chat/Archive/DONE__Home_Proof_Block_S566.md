@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: the 012 refile and the 4,516 row ruled in FROM Chat/ANSWER__Centre_Gate_Lines_And_The_012_Refile_S487; a line added to Backlog: Code (#13); archived.
 > Stays, Chat S486 close, 24 Nov 2026: read at the close: the proof block is built, identical to the mock-up. Carried to Session 487's open for answer 2, the course 012 refile ruling. Card #98.
 For Chat: what this needs: nothing to build; read the three answers below and rule on the 012 refile (answer 2). Card #98.
 

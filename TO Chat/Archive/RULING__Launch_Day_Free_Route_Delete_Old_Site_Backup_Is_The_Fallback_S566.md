@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: written home in PLAN__Rollout_From_Build_Site_To_Achology_Com and CHECKLIST__Launch_Switch_Over_S553 (A4, B2, B11, D3); card #49 retitled, #47 commented; archived.
 > Stays, Chat S486 close, 24 Nov 2026: carried to Session 487's open: write Kain's free route ruling home in the rollout plan and the launch checklist. Card #47.
 **Needs from Chat:** write this ruling home in PLAN__Rollout_From_Build_Site_To_Achology_Com ("The order of the move", "The old site") and in CHECKLIST__Launch_Switch_Over_S553 (A4, B2, B11 and D3), replacing the fallback week and the support ticket.
 

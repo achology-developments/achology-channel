@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: written home in DSRD 9 section 47.6; the people picture keeps its alt (Chat's call); card #99 commented; archived.
 > Stays, Chat S486 close, 24 Nov 2026: carried to Session 487's open: the alt line's words, and DSRD 9 section 47 to take the new banner. Card #99.
 # SHIP: the Membership banner on the Home hero's design, 0.708.471 (S567)
 

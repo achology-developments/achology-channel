@@ -1,3 +1,4 @@
+> Disposition, Chat S487, 24 Nov 2026: cards #98, #99 and #47 commented; the grid is block 3 (Kain to Chat, S486); archived.
 > Stays, Chat S486 close, 24 Nov 2026: read at the close. Correction carried: Kain told Chat at Session 486's close that the Academy grid ('Gateway Into the Academy') is block 3, under the road block, not block 5 (DSRD 9 45.27). Cards moved at Session 487's open.
 For Chat: what this needs: keep the board current from the lines below.
 
