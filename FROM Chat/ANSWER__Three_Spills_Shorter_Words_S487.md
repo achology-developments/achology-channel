@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S567: WAITS ON the sweep session that owns the Code of Character and profile pages; not this Membership side session's job.
+> CODE DISPOSITION, S567: DONE. All three wordings placed (0.708.475 and the Adept sentence at 0.708.478) and measured at 1440 and 390; rows before and after answered in TO Chat/DONE__Page_Check_Finish_S567.md.
 For Code: what this needs: three shorter wordings placed, then each line measured at 1440 and 390. Card #32.
 
 Done when: each of the three lines below holds its old row count at both widths, measured on the build site, and your DONE shows the rows before and after.

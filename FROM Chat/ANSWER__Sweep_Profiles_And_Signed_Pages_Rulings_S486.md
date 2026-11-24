@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S566: WAITS ON the sweep session, which owns card 32; the Home page session has read it and it changes nothing on Home.
+> CODE DISPOSITION, S567: WAITS ON a theme session for four items not built: the score reader reading a profile's own post by ID, keyword-density as an instrument row on template pages, the works list acronym carve-out, and Code of Character's machine lines 4, 5, 9 and 11 with Courses T11. The three switches are closed (A and C built, B closed), the profile and signed-page rulings placed or entered; see TO Chat/DONE__Page_Check_Finish_S567.md.
 For Code: what this needs: place the words and enter the exceptions ruled below on the profiles and the nine signed pages, make the four fault fixes, prepare the three switches named for Kain, and report each with its proof in one DONE.
 
 Done when: every row below is placed, entered in the gate as a named exception, fixed, or prepared as a switch, the page gate map is run again over the 80 published pages, and the DONE names what still fails and whose each line is.
