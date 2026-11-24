@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the Centre page's own session (gate lines) and a factory session (the 012 refile); not this Membership side session's job.
 For Code: what this needs: four Centre gate lines ruled, and the course 012 refile briefed as a factory job. Card #98.
 
 Done when: the Centre page's gate reads its remaining lines as ruled below, and a factory session has refiled the 012 reviews and trimmed reviews.csv.php to 4,516 rows, reported in one DONE.
