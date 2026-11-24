@@ -38,6 +38,12 @@ For the preview only: the build site answers any browser it has not seen with it
 
 The icon button script (buttons.js) leaves alone any control that already carries `data-bf`. The two arrows carry it in the markup, so they keep their signed white rest with the cards' shadow, and their orange hover, with no `!important`. In the mock-up the arrows took the family's mark (bf-icon) and were held white against it. Their measured boxes and colours are the same in both.
 
+## 5a. Changed after Kain's review: the arrows outside the cards below 1280
+
+Kain reviewed the built belt the same day. Below 1280 the signed arrows sat half over the cards, and the left one covered the first title ("How" read "ow"). That afternoon he had ruled the same fault on the Membership belt: "the arrows are just very close to the side of the cards. Doesn't look quite right". His newer word overturns the signed half-over-the-edge rule. **From 768 to 1279** the arrows now stand at the container's own edges, and the belt narrows by an arrow and 24 on each side. So they sit outside the cards with 24 clear and never leave the screen. The cards shrink a little to make room. Phones keep the swipe.
+
+Measured: 24 clear on both sides, and the arrows on screen, at 1440 (arrows at 100 and 1340), 1280 (20 and 1260), 1024 (48 and 976, four cards) and 768 (32 and 736, three cards). 1440, 1280 and 375 still show 0 differences from the mock-up. At 1024 and 768 the belt now differs from it by this ruling. One more fault was fixed at 768: the Quote Articles tab's icon was squeezed to a dot; it now keeps its 16. Please write the arrows' new rule into DSRD 9 section 45.26 with Kain's words.
+
 ## 6. Also this session, the films block
 
 Kain's yes to the films cards at the review card's height. They are measured to the hundredth of a pixel against the Voices card in the same column: 393 at 1440, 419 at 1024 (470 once the reviews have turned), and 320.75, 343.14 and 320.75 at 375. His three column titles are placed (Learning Experience, Self-Directed Study, Learning with Others), with the films placed under them by the question each answers. The films' Before and their switch are taken out.
