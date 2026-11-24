@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON the round of four drawings being built, proved and put to Kain; the three fault fixes are in the Home preview.
 For Code's Home page session: what this needs: block 2 brought from a tidy feature row to a designed block, by three fixes made now and one round of four for the drawings. Done when the three fixes are in the preview, the round of four is proved and on Kain's screen with your pick marked, and his pick is built.
 
 **DOCUMENT TYPE:** design notes from Chat (Session 485, 24 November 2026), on Kain's word that Chat is the designer beside you this session.
