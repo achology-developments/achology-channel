@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON Kain's pick of the holding page design and his answer to section 6 (the directory); every word is placed on the four options in rounds/round-centre.js and on the Pass On card, unsigned.
 For Code's Home page session (S566): what this needs: put the one question in section 6 to Kain, then show him these words on a rendered page for his signature before the holding page or the Pass On card is built.
 
 Done when Kain has answered section 6 and signed the words, the holding page and the Pass On card carry them, and each line is measured in its built carrier at 1440 and 375.
