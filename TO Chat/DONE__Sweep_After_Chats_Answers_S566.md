@@ -37,4 +37,23 @@
 - The three switches for Kain (the Lead with Bar on three signed lines, the questions heading, About's three spaces), each a proved round in the Change Viewer, and Kain's words page.
 - Why Rank Math misses keywordInImageAlt on Kain Ramsay and Gerard Egan; why Karen, Jonathan and Gary pass keywordInSubheadings.
 
+## Later the same day: built on the main session's word (it named the side session's answer)
+
+**The map now: 29 of 80 fail.** Manifesto and Founders Letter pass. What is left, by kind:
+- **The profiles (17), 1 to 3 fails each:** the record (line 1 fails on the six elders until Kain's words; line 5 on the stored scores until his rescore click); acronyms inside the works list (4 pages); keyword-density on Kain Ramsay and Gerard Egan (the gate reads their articles: the commissioned score reader mend is not built yet).
+- **How We Write, Courses:** the record, and their Rank Math scores (82, 86), each Kain's on its own.
+- **Code of Character:** the record (lines 1 and 6 wait on Kain's words; 4, 5, 9, 11 machine lines not yet run) and its unscored Rank Math (Kain's click).
+- **Accreditation, Certification, About, Policies, Reviews, Testimonials, /about/instructors/:** their records only (About's lines 4 and 9 wait on the About redraw; Policies line 1 waits on Chat's re-read).
+- **Membership, 37 fails, new and not this sweep's:** the page was redrawn under its signed exceptions (the gate's rows name "Who Achology Membership Is For"; the page now reads "Who Is Achology Membership For?" with a new section bar). It belongs to the session that redrew it.
+- **Home:** Kain's own session.
+
+**Built:**
+1. **contentHasAssets refused on the profile template** (Kain's "yes", 24 November, through the main session): `rank-math-feed.php` declines it for pages on template-author-profile.php, on the editor road and the bulk road. Alec Wells reads 86 in the editor (was 82). Stored scores move only on Kain's rescore click.
+2. **The warm room picture** loads eagerly with high priority where a profile has no articles (`loading` argument on the shared panel, default lazy, so no other page changes). image-lcp-candidate passes on Jackson P. Hartley.
+3. **Gate entries, each on its printed line:** the profiles' alt, works label and count line; the empty body row on the profiles, How We Write, Code of Character, Manifesto and Founders Letter; How We Write's step rows and body paragraphs; the body and panel lines on Code of Character and the Manifesto; the Founders Letter (84) and Policies (85) scores; the questions block at 21 on a phone; the 960 column; Certification's dark band line; Courses' button padding and guarantee badge.
+4. **Records:** R1 closed on Courses, About and the Policies index; R5 closed on Courses (T11 still open); About line 1 passes; Code of Character lines 1, 6 and 8.
+5. **The words page for Kain** (section 5 question 2): a board of five rows in the one Change Viewer, proved (13 measured, 0 failed), not opened; its address is with the main session. Its mirror fetches through a browser, because the build site answers this Mac's plain fetches with its bot check.
+
+**Not built, and why:** the score reader reading a profile's own post by ID, and keyword-density reading the words the theme hands Rank Math (two instrument mends, commissioned, need the gate's score path and the feed: their own change set); the acronym carve-out for the works list (needs the probe to tell the list's text from the page's own); Code of Character's machine lines 4, 5, 9 and 11; T11's reading on Courses; why Rank Math misses keywordInImageAlt on Kain Ramsay and Gerard Egan.
+
 *No em or en dashes in this file; checked before writing.*
