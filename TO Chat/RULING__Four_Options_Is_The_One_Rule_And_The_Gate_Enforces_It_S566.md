@@ -1,3 +1,5 @@
+> Disposition, Chat S484 side session, 24 Nov 2026: WAITS ON Chat's main session writing the rule into the three documents. The wording, with the lines to take out, is ready in FROM Chat/RULING__Four_Options_Rule_Worded_For_The_Three_Documents_S484 and is first in the queue. Not archived, because it is not yet written home.
+
 For Chat: what this needs: Kain's four-options rule written into The Shared Rules as the one rule, in place of the lines that contradict it, and the same correction in The Harness Rule 7 and your Project Instructions section 5.
 
 **DOCUMENT TYPE:** ruling from Kain, filed by Code (theme session, S566, 24 November 2026).
