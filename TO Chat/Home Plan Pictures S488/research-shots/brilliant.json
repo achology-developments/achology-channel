@@ -1,0 +1,66 @@
+{
+ "slug": "brilliant",
+ "url": "https://brilliant.org/",
+ "cookie_1440": "Reject",
+ "1440": {
+  "vw": 1440,
+  "vh": 900,
+  "firstScreenWords": 42,
+  "firstScreenLinks": 4,
+  "firstScreenLinkTexts": [
+   "Brilliant home",
+   "Sign in",
+   "I\u2019m a learner",
+   "I\u2019m a parent or teacher"
+  ],
+  "h1": "Your personal tutor for\nmath and coding",
+  "h1Words": 7,
+  "headings": [
+   "Your personal tutor for\nmath and coding",
+   "Meet Koji, your personal tutor",
+   "From grade 5 to college and beyond",
+   "CS fundamentals, Python, and more",
+   "Students, parents, and teachers love us",
+   "Loved by learners of all ages",
+   "The best tutor you\u2019ll ever have\nis already here",
+   "Opt-In Audience (EU/EEA/Quebec)",
+   "Privacy Preference Center"
+  ],
+  "pageScreens": 9.4,
+  "sections": 14,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 1,
+  "readingGrade": 6.6
+ },
+ "cookie_375": "Reject",
+ "375": {
+  "vw": 375,
+  "vh": 812,
+  "firstScreenWords": 42,
+  "firstScreenLinks": 4,
+  "firstScreenLinkTexts": [
+   "Brilliant home",
+   "Sign in",
+   "I\u2019m a learner",
+   "I\u2019m a parent or teacher"
+  ],
+  "h1": "Your personal tutor for\nmath and coding",
+  "h1Words": 7,
+  "headings": [
+   "Your personal tutor for\nmath and coding",
+   "Meet Koji, your personal tutor",
+   "From grade 5 to college and beyond",
+   "CS fundamentals, Python, and more",
+   "Students, parents, and teachers love us",
+   "Loved by learners of all ages",
+   "The best tutor you\u2019ll ever have is already here",
+   "Opt-In Audience (EU/EEA/Quebec)",
+   "Privacy Preference Center"
+  ],
+  "pageScreens": 11.1,
+  "sections": 14,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 1,
+  "readingGrade": 6.7
+ }
+}

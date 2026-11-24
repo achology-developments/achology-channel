@@ -1,0 +1,81 @@
+{
+ "slug": "wakingup",
+ "url": "https://www.wakingup.com/",
+ "cookie_1440": "Only necessary",
+ "1440": {
+  "vw": 1440,
+  "vh": 900,
+  "firstScreenWords": 42,
+  "firstScreenLinks": 16,
+  "firstScreenLinkTexts": [
+   "Waking Up",
+   "About",
+   "Support",
+   "Link to Facebook (opens in a new tab)",
+   "Link to Instagram (opens in a new tab)",
+   "Login",
+   "Become a Member",
+   "Home",
+   "Inside the App",
+   "Topics & Traditions",
+   "Teachers",
+   "All Content",
+   "Partnerships",
+   "Community",
+   "Shop",
+   "Try 7 Days for Free"
+  ],
+  "h1": "Your last meditation app.",
+  "h1Words": 4,
+  "headings": [
+   "Your last meditation app.",
+   "The Waking Up Difference",
+   "More Than Stress Relief",
+   "Start Listening",
+   "Explore Topics",
+   "Explore Traditions",
+   "Hear from 100+ teachers. Meditators, scientists, philosophers, poets, and more.",
+   "Ways to Practice",
+   "Frequently asked questions",
+   "Explore Waking Up Today",
+   "Cookie Settings for WakingUp.com"
+  ],
+  "pageScreens": 12.3,
+  "sections": 14,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 2,
+  "readingGrade": 9.5
+ },
+ "cookie_375": "Only necessary",
+ "375": {
+  "vw": 375,
+  "vh": 812,
+  "firstScreenWords": 11,
+  "firstScreenLinks": 3,
+  "firstScreenLinkTexts": [
+   "Waking Up",
+   "Open mobile menu",
+   "Try 7 Days for Free"
+  ],
+  "h1": "Your last meditation app.",
+  "h1Words": 4,
+  "headings": [
+   "Your last meditation app.",
+   "The Waking Up Difference",
+   "More Than Stress Relief",
+   "Start Listening",
+   "Explore Topics",
+   "Explore Traditions",
+   "Hear from 100+ teachers. Meditators, scientists, philosophers, poets, and more.",
+   "Ways to Practice",
+   "Frequently asked questions",
+   "Explore Waking Up Today",
+   "Cookie Settings for WakingUp.com"
+  ],
+  "pageScreens": 14.2,
+  "sections": 14,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 1,
+  "readingGrade": 9.5
+ }
+}

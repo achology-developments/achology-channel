@@ -1,0 +1,82 @@
+{
+ "slug": "calm",
+ "url": "https://www.calm.com/",
+ "cookie_1440": null,
+ "1440": {
+  "vw": 1440,
+  "vh": 900,
+  "firstScreenWords": 102,
+  "firstScreenLinks": 12,
+  "firstScreenLinkTexts": [
+   "Calm Logo - Link to calm.com Homepage",
+   "Sleep",
+   "Stress & Anxiety",
+   "Mindfulness",
+   "Calm Health",
+   "Log In",
+   "Try\u00a0Calm\u00a0for\u00a0Free",
+   "Try Calm for Free",
+   "Already have an account?",
+   "Cookie Policy",
+   "Accept All",
+   "Essential Cookies Only"
+  ],
+  "h1": "Calm your mind. Change your life.",
+  "h1Words": 6,
+  "headings": [
+   "Calm your mind. Change your life.",
+   "We're here to help you feel better.",
+   "Over 2 million 5-star reviews.",
+   "Start your free trial of\nCalm Premium.",
+   "Check out our blog for more meditation, sleep, stress, and mental health resources.",
+   "Frequently Asked Questions",
+   "Company",
+   "Offers",
+   "Calm for Organizations",
+   "Help",
+   "Cookie Preferences"
+  ],
+  "pageScreens": 7.1,
+  "sections": 7,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 5,
+  "readingGrade": 7.9
+ },
+ "cookie_375": null,
+ "375": {
+  "vw": 375,
+  "vh": 812,
+  "firstScreenWords": 97,
+  "firstScreenLinks": 8,
+  "firstScreenLinkTexts": [
+   "Calm Logo - Link to calm.com Homepage",
+   "Try\u00a0Calm\u00a0for\u00a0Free",
+   "Open Mobile menu",
+   "Try Calm for Free",
+   "Already have an account?",
+   "Cookie Policy",
+   "Accept All",
+   "Essential Cookies Only"
+  ],
+  "h1": "Calm your mind. Change your life.",
+  "h1Words": 6,
+  "headings": [
+   "Calm your mind. Change your life.",
+   "We're here to help you feel better.",
+   "Over 2 million 5-star reviews.",
+   "Start your free trial of\nCalm Premium.",
+   "Check out our blog for more meditation, sleep, stress, and mental health resources.",
+   "Frequently Asked Questions",
+   "Company",
+   "Offers",
+   "Calm for Organizations",
+   "Help",
+   "Cookie Preferences"
+  ],
+  "pageScreens": 7.9,
+  "sections": 7,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 0,
+  "readingGrade": 7.9
+ }
+}

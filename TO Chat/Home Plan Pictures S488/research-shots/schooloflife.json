@@ -1,0 +1,83 @@
+{
+ "slug": "schooloflife",
+ "url": "https://www.theschooloflife.com/",
+ "cookie_1440": null,
+ "1440": {
+  "vw": 1440,
+  "vh": 900,
+  "firstScreenWords": 185,
+  "firstScreenLinks": 20,
+  "firstScreenLinkTexts": [
+   "Cookiebot by Usercentrics - opens in a new window",
+   "Consent",
+   "Details",
+   "About",
+   "Manage cookies",
+   "Allow all cookies",
+   "MEMBERSHIP",
+   "ARTICLES",
+   "SHOP",
+   "AT WORK",
+   "THERAPY",
+   "ABOUT US",
+   "Try Membership",
+   "Location\nGlobal",
+   "Login/Signup",
+   "Search",
+   "SEE BLACK FRIDAY OFFERS",
+   "A Free Gift When You Spend Over \u00a335"
+  ],
+  "h1": "BLACK FRIDAY FOR THE EMOTIONALLY INTELLIGENT",
+  "h1Words": 6,
+  "headings": [
+   "BLACK FRIDAY FOR THE EMOTIONALLY INTELLIGENT",
+   "A Free Gift When You Spend Over \u00a335",
+   "Become a Member to Access All Articles",
+   "BOOK OF THE MONTH",
+   "The School of Life at Work",
+   "Online Psychotherapy Services",
+   "What Our Members Are Saying"
+  ],
+  "pageScreens": 6.2,
+  "sections": 8,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 1,
+  "readingGrade": 14.5
+ },
+ "cookie_375": null,
+ "375": {
+  "vw": 375,
+  "vh": 812,
+  "firstScreenWords": 123,
+  "firstScreenLinks": 12,
+  "firstScreenLinkTexts": [
+   "Cookiebot by Usercentrics - opens in a new window",
+   "Consent",
+   "Details",
+   "About",
+   "Allow all cookies",
+   "Manage cookies",
+   "Try Membership",
+   "Login",
+   "Menu",
+   "Search",
+   "SEE BLACK FRIDAY OFFERS"
+  ],
+  "h1": "BLACK FRIDAY FOR THE EMOTIONALLY INTELLIGENT",
+  "h1Words": 6,
+  "headings": [
+   "BLACK FRIDAY FOR THE EMOTIONALLY INTELLIGENT",
+   "A Free Gift When You Spend Over \u00a335",
+   "Become a Member to Access All Articles",
+   "BOOK OF THE MONTH",
+   "The School of Life at Work",
+   "Online Psychotherapy Services",
+   "What Our Members Are Saying"
+  ],
+  "pageScreens": 12.2,
+  "sections": 8,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 1,
+  "readingGrade": 14.5
+ }
+}

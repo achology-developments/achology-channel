@@ -1,0 +1,74 @@
+{
+ "slug": "stripe",
+ "url": "https://stripe.com/",
+ "cookie_1440": "Reject all",
+ "1440": {
+  "vw": 1440,
+  "vh": 900,
+  "firstScreenWords": 151,
+  "firstScreenLinks": 44,
+  "firstScreenLinkTexts": [
+   "Learn more",
+   "Dismiss announcement",
+   "Stripe homepage",
+   "Products",
+   "Solutions",
+   "Developers",
+   "Resources",
+   "Pricing",
+   "Sign in\nSign in",
+   "Contact sales",
+   "Get started",
+   "Sign up with Google",
+   "Dismiss chat",
+   "Chat now"
+  ],
+  "h1": "Financial infrastructure to grow your revenue. Accept payments, offer financial services and implement custom revenue models \u2013 from your first transaction to your billionth.",
+  "h1Words": 24,
+  "headings": [
+   "Financial infrastructure to grow your revenue. Accept payments, offer financial services and implement custom revenue models \u2013 from your first transaction to your billionth.",
+   "Financial infrastructure to grow your revenue. Accept payments, offer financial services and implement custom revenue models \u2013 from your first transaction to your billionth.",
+   "Flexible solutions for every business model.",
+   "The backbone of\u00a0global commerce",
+   "Powering businesses of all sizes.",
+   "Reliable, extensible infrastructure for every stack.",
+   "What's happening"
+  ],
+  "pageScreens": 16.5,
+  "sections": 15,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 9,
+  "readingGrade": 10.7
+ },
+ "cookie_375": "Reject all",
+ "375": {
+  "vw": 375,
+  "vh": 812,
+  "firstScreenWords": 85,
+  "firstScreenLinks": 36,
+  "firstScreenLinkTexts": [
+   "Learn more",
+   "Dismiss announcement",
+   "Stripe homepage",
+   "Toggle navigation menu",
+   "Get started",
+   "Sign up with Google"
+  ],
+  "h1": "Financial infrastructure to grow your revenue.",
+  "h1Words": 6,
+  "headings": [
+   "Financial infrastructure to grow your revenue.",
+   "Financial infrastructure to grow your revenue.",
+   "Flexible solutions for every business model.",
+   "The backbone of\u00a0global commerce",
+   "Powering businesses of all sizes.",
+   "Reliable, extensible infrastructure for every stack.",
+   "What's happening"
+  ],
+  "pageScreens": 25.4,
+  "sections": 15,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 2,
+  "readingGrade": 10.0
+ }
+}

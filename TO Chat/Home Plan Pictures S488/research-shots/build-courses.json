@@ -1,0 +1,75 @@
+{
+ "slug": "build-courses",
+ "url": "https://achologytest.com/courses/",
+ "cookie_1440": "Reject all",
+ "1440": {
+  "vw": 1440,
+  "vh": 900,
+  "firstScreenWords": 165,
+  "firstScreenLinks": 14,
+  "firstScreenLinkTexts": [
+   "Skip to content",
+   "Achology home",
+   "ACADEMY",
+   "MEMBERSHIP",
+   "KNOWLEDGE HUB",
+   "PRICING",
+   "ABOUT",
+   "HELP",
+   "Search",
+   "Sign In, opens in a new tab",
+   "Home",
+   "Most popular",
+   "Highest rated",
+   "Most in-depth"
+  ],
+  "h1": "Achology Courses",
+  "h1Words": 2,
+  "headings": [
+   "Achology Courses",
+   "Start With One of Our Most Popular Courses",
+   "FAQs About Our Online Psychology Courses",
+   "ABOUT US",
+   "COURSES",
+   "COMMUNITY",
+   "LEARN FOR FREE",
+   "SCHOOLS"
+  ],
+  "pageScreens": 4.3,
+  "sections": 2,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 2,
+  "readingGrade": 8.8
+ },
+ "cookie_375": null,
+ "375": {
+  "vw": 375,
+  "vh": 812,
+  "firstScreenWords": 111,
+  "firstScreenLinks": 5,
+  "firstScreenLinkTexts": [
+   "Skip to content",
+   "Achology home",
+   "Search",
+   "Open menu",
+   "Home"
+  ],
+  "h1": "Achology Courses",
+  "h1Words": 2,
+  "headings": [
+   "Achology Courses",
+   "Start With One of Our Most Popular Courses",
+   "FAQs About Our Online Psychology Courses",
+   "ABOUT US",
+   "COURSES",
+   "COMMUNITY",
+   "LEARN FOR FREE",
+   "SCHOOLS"
+  ],
+  "pageScreens": 10.7,
+  "sections": 2,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 2,
+  "readingGrade": 10.8
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "headspace",
+ "url": "https://www.headspace.com/",
+ "cookie_1440": null,
+ "1440": {
+  "vw": 1440,
+  "vh": 900,
+  "firstScreenWords": 140,
+  "firstScreenLinks": 18,
+  "firstScreenLinkTexts": [
+   "Feel your best for 50% off \u2192",
+   "For You",
+   "For Business",
+   "For Providers",
+   "Our Plans",
+   "Resources",
+   "About",
+   "Log in",
+   "Help",
+   "Get 50% off",
+   "Get 50% off",
+   "Terms & Conditions",
+   "Cancel anytime",
+   "Close",
+   "Learn more",
+   "I Agree",
+   "Sharing Settings"
+  ],
+  "h1": "",
+  "h1Words": 0,
+  "headings": [
+   "What kind of headspace are you looking for?",
+   "The mental health app for every moment",
+   "Members are enjoying happier and healthier lives",
+   "Trusted by thousands of employers, health plans, and partners globally",
+   "Explore our library",
+   "Join the millions who use Headspace every day",
+   "Frequently asked questions",
+   "Privacy Preference Center"
+  ],
+  "pageScreens": 9.5,
+  "sections": 11,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 3,
+  "readingGrade": 11.1
+ },
+ "cookie_375": null,
+ "375": {
+  "vw": 375,
+  "vh": 812,
+  "firstScreenWords": 116,
+  "firstScreenLinks": 11,
+  "firstScreenLinkTexts": [
+   "Feel your best for 50% off \u2192",
+   "Get 50% off",
+   "Terms & Conditions",
+   "Cancel anytime",
+   "Close",
+   "Learn more",
+   "I Agree",
+   "Sharing Settings"
+  ],
+  "h1": "",
+  "h1Words": 0,
+  "headings": [
+   "What kind of headspace are you looking for?",
+   "The mental health app for every moment",
+   "Members are enjoying happier and healthier lives",
+   "Trusted by thousands of employers, health plans, and partners globally",
+   "Explore our library",
+   "Join the millions who use Headspace every day",
+   "Frequently asked questions",
+   "Privacy Preference Center"
+  ],
+  "pageScreens": 10,
+  "sections": 11,
+  "sidewaysScroll": false,
+  "smallButtonTargets": 4,
+  "readingGrade": 9.0
+ }
+}
