@@ -33,7 +33,7 @@ E. **The R1 cookie button line** on the Courses, About and Policies index record
 3. and 4. **Manifesto and Founders Letter:** nothing more beyond A, C and D.
 5. and 6. **Accreditation and Certification, content width 960.** No 960 container is in DSRD 7. Find where it came from (the commit and any ruling). If Kain signed it, report it and Chat registers it in DSRD 7; if not, report what it should be. The white supporting line on Certification's dark band is right (DSRD 7 section 3.3: on a dark band the line keeps the band's light text colour): an instrument exception. Certification's tablet 48 and 48: read it against DSRD 7 sections 4 and 4.1 and say which rule asks for 32 before anything moves. Accreditation's "Begin With Membership" line at 0.2 above the stair: say whether it is the signed stair's own spacing.
 7. **Courses:** the button's own 12 padding read as a boundary is an instrument reading: exception. The guarantee badge (ach-guarantee-badge) is a signed drawing on the course cards: register it in the icon registry as a recorded drawing, and say where its ruling is. Lines R5, T11 and R1 stay with their jobs.
-8. **About, three off-scale spaces** (35, 18 and 10.8). Each snaps to its nearest step (32, 16 and 12). **Prepare one switch for Kain**, Before and After. Line 1 (R7) and lines 4 and 9 wait on the About redraw.
+8. **About, three off-scale spaces** (35, 18 and 10.8). Each snaps to its nearest step (32, 16 and 8; 12 is not a step, corrected S487). **No switch is prepared: Code changes each to its step and reports it (Kain, S567, 24 November 2026, standing).** Line 1 (R7) and lines 4 and 9 wait on the About redraw.
 9. **Policies index line 1:** Chat re-reads the page without the member identification paragraph and answers in a separate file. It waits on that read.
 
 ## The three switches for Kain
@@ -41,3 +41,10 @@ E. **The R1 cookie button line** on the Courses, About and Policies index record
 The Lead with Bar on the three signed block lines (A), the questions heading at 24 (B), and About's three spaces (8). Prepare each as its own round in the Change Viewer, passed by viewer_proof, and send the three addresses in the DONE. Chat brings them to Kain one at a time.
 
 *No em or en dashes in this file; checked before writing.*
+
+## Dated lines written at S487 (Chat, 24 November 2026, from RULING__Off_Scale_Is_Fixed_Never_Asked_And_Lead_With_Bar_Yes_S567)
+
+- **24 November 2026, ruling 1 (Kain, Code's S567 sitting, standing):** anything measured off DSRD 7's scale is brought to the nearest step and reported, never put to Kain. No Before and After switch is prepared for a scale snap. Item 8 above reads so; the same line is in DSRD 7 section 4.
+- **24 November 2026, ruling 2, switch A (Kain: "Yes, add the bar"):** the Lead with Bar is built at theme 0.708.476 on four lines: the line under "Code of Character and Conduct Training", the More About Achology lines on Code of Character and the Manifesto (one shared block), and the Manifesto's "Experience the Learning Power of Achology". Chat's call, Kain may overturn: the Founders Letter's More About line follows, so the family is the same (Code changes it and reports it in its DONE).
+- **24 November 2026, ruling 3, switch C (Kain, yes, on the scale):** About's banner top 35 to 32, the first answer 18 to 16, the learning block's 10.8 to 8, built at 0.708.477 and scoped to About. This corrects item 8's earlier "12".
+- **24 November 2026, switch B closed (Chat):** the questions heading already reads Como 24/600 on computers and 21 on phones, which is DSRD 7 sections 3.3 and 4.1 and Kain's 20 November ruling in help.css. Nothing to switch; no round is prepared.
