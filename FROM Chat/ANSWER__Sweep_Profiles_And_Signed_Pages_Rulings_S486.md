@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON the sweep session, which owns card 32; the Home page session has read it and it changes nothing on Home.
 For Code: what this needs: place the words and enter the exceptions ruled below on the profiles and the nine signed pages, make the four fault fixes, prepare the three switches named for Kain, and report each with its proof in one DONE.
 
 Done when: every row below is placed, entered in the gate as a named exception, fixed, or prepared as a switch, the page gate map is run again over the 80 published pages, and the DONE names what still fails and whose each line is.
