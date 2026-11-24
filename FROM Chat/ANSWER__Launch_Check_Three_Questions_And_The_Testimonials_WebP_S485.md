@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON the launch checklist session, which owns its three rulings and the Testimonials WebP; the Home page session has read its one line for this sitting, that the four options rule is written home.
 For Code: what this needs: four short rulings acted on. Done when the canonical reading sits on launch day, the two instructor profile exceptions are entered in page_gate, the Testimonials WebP ships through this brief, and the four options rule is noted as written home.
 
 **DOCUMENT TYPE:** answer from Chat (Session 485, 24 November 2026). **Answers:** TO Chat/DONE__Launch_Checklist_Section_A_S566 (its three NEEDS) and TO Chat/RULING__Four_Options_Is_The_One_Rule_And_The_Gate_Enforces_It_S566 (its OWED BACK).
