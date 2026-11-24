@@ -1,0 +1,112 @@
+@import url("http://127.0.0.1:8558/kh-subject.css");
+/* The Home page's Knowledge Hub block (Chat, Session 486). Every card is the Knowledge Hub card family (DSRD 8 section 6.0):
+   white shell, 12 corners, the family shadow, one picture zone, the type label, the title, a three line summary and the
+   footer bar with its call and its reading time. Each kind keeps its own picture: the article's photograph, the book
+   note's cover, the workbook's cover, the quote article's quote with Kain's portrait. */
+.hk{background:var(--color-sand)}
+.hk-head{display:flex;align-items:center;justify-content:space-between;gap:var(--sp-lg)}
+.hk-head .d-title{margin:0}
+.hk .lead-bar{margin:var(--sp-md) 0 0}
+/* the arrows: the icon button's disc, 44 round */
+.hk-arrows{display:flex;gap:var(--sp-sm);flex:none}
+.hk-arrow{width:44px;height:44px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;padding:0;background:var(--color-white);border:1px solid #DCD6D0;color:var(--color-dark);cursor:pointer;transition:border-color .2s ease,color .2s ease}
+.hk-arrow svg{width:20px;height:20px}
+.hk-arrow:hover{border-color:var(--color-orange);color:var(--color-orange-link)}
+.hk-arrow[disabled]{opacity:.4;cursor:default}
+/* the kind switch: the signed tab track, now the full width of the container, five equal tabs */
+.hk-pills{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));margin-top:var(--sp-lg);padding:4px;border:1px solid #EEEDED;border-radius:999px;background:var(--color-white)}
+.hk-tab{display:inline-flex;align-items:center;justify-content:center;gap:var(--sp-sm);height:40px;padding:0 18px;border:0;border-radius:999px;background:transparent;font-family:var(--font-heading);font-size:var(--text-14);font-weight:600;color:var(--color-soft-grey);cursor:pointer;white-space:nowrap}
+.hk-tab svg{width:16px;height:16px}
+.hk-tab:hover,.hk-tab.is-on{color:var(--color-dark)}
+/* the row */
+.hk-row{list-style:none;margin:20px 0 0;padding:4px 0 var(--sp-md);display:grid;grid-auto-flow:column;grid-auto-columns:258px;gap:var(--sp-lg);overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none}
+.hk-row::-webkit-scrollbar{display:none}
+@media (min-width:768px){.hk-row{margin-right:calc((100vw - 100%) / -2);padding-right:calc((100vw - 100%) / 2)}}
+.hk-foot{margin:var(--sp-md) 0 0;text-align:center}
+@media (max-width:767px){.hk-arrows{display:none}.hk-row{grid-auto-columns:78%}.hk-pills{display:flex;overflow-x:auto;scrollbar-width:none}.hk-tab{flex:none}}
+/* held against the Home page's own article rule, which pads every article 64 by 48 */
+/* the title is the card's link in dark ink, as the family's titles are (buttons.css colours every text link orange; a card title is not a text link) */
+/* THE BELT (Kain, Session 486): exactly four cards inside the container, no card running off the screen; one arrow
+   each side, outside the container, level with the middle of the cards; the belt runs round, so either arrow always moves it. */
+.hk-belt{position:relative}
+.hk .hk-row{grid-auto-columns:calc((100% - 3 * var(--sp-lg)) / 4);margin:20px 0 0;padding:4px 0 var(--sp-md);overflow-x:auto}
+@media (min-width:768px){.hk .hk-row{margin-right:0;padding-right:0}}
+.hk-belt .hk-arrows{position:absolute;inset:0 calc(-44px - var(--sp-lg));top:4px;bottom:var(--sp-md);display:flex;align-items:center;justify-content:space-between;pointer-events:none}
+.hk-belt .hk-arrow{pointer-events:auto;box-shadow:0 2px 12px rgba(53,65,73,.08)}
+/* narrower screens: the arrows step inside the edge so they never leave the screen */
+@media (max-width:1279px){.hk-belt .hk-arrows{inset:4px -22px var(--sp-md)}}
+@media (max-width:1023px){.hk .hk-row{grid-auto-columns:calc((100% - 2 * var(--sp-lg)) / 3)}}
+@media (max-width:767px){.hk-belt .hk-arrows{display:none}.hk .hk-row{grid-auto-columns:78%}}
+.hk-tie{white-space:nowrap}
+@media (max-width:767px){.hk .hk-head .d-title{font-size:var(--text-21,21px)}} /* DSRD 7 section 3.0: one step down on a phone, so each half of the heading holds one line */
+/* THE QUOTE ARTICLE'S OWN IMAGE (Kain, Session 486): every quote article's designed and signed quote image, shown
+   whole. Every card's picture zone takes that image's shape, 2400 by 1260, so the four kinds stand level. */
+
+/* THE SIGNED TILES IN THE BELT (Kain, Session 486): the Knowledge Hub's own tiles, as /learn/ draws them (kh-subject.css),
+   with the book shelf on (html.bg-book). The only rules added for the Home page: every tile is a column the height of the
+   row, every picture zone the book note shelf's own height (16 + 180 + 16), so the four kinds stand level; the reading
+   time at the foot; the quote article's own signed quote image, whole, on the quote card's warm cream. */
+.hk .hk-item{display:flex;margin:0}
+.hk .hk-item[hidden]{display:none}
+.hk .bx-tile{display:flex;flex-direction:column;width:100%;height:auto}
+.hk .bx-tile__img{height:212px;box-sizing:border-box;flex:none}
+.hk .bx-tile--article .bx-tile__img img{height:100%;aspect-ratio:auto}
+.hk .hk-quote .bx-tile__img{background:#FDFAF8;display:flex;align-items:center}
+.hk .hk-quote .bx-tile__img img{height:auto;aspect-ratio:2400 / 1260;object-fit:contain}
+.hk .bx-tile__body{flex:1 1 auto;display:flex;flex-direction:column}
+.hk .bx-tile__body .pk-meta{margin-top:auto;padding-top:var(--sp-sm)}
+.hk .bx-sub{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.hk .hk-row,.hk .hk-row *{text-align:left}
+/* EVERY PICTURE ZONE IN THE QUOTE IMAGE'S OWN SHAPE (Kain, Session 486): the quote article's signed image, 2400 by
+   1260, fills its zone edge to edge; the article's photograph fills the same shape; the book note and the workbook
+   stand on their signed shelf at 80 in 100 of the zone's height. */
+.hk .bx-tile__img{height:auto;aspect-ratio:2400 / 1260;padding:0}
+.hk .hk-quote .bx-tile__img{display:block}
+.hk .hk-quote .bx-tile__img img,.hk .bx-tile--article .bx-tile__img img{width:100%;height:100%;aspect-ratio:auto;object-fit:cover}
+.hk .bx-tile--book-note .bx-tile__img,.hk .bx-tile--workbook .bx-tile__img{display:flex;align-items:center;justify-content:center}
+html.bg-book .hk .bk,.hk .wk{height:80%;display:flex}
+html.bg-book .hk .bk img,.hk .wk img{height:100%;width:auto}
+/* the shelf zones keep the same shape: the cover is placed inside the zone, never sizing it */
+html.bg-book .hk .bx-tile--book-note .bx-tile__img,.hk .bx-tile--workbook .bx-tile__img{position:relative;display:block;padding:0;height:auto;aspect-ratio:2400 / 1260;overflow:hidden}
+html.bg-book .hk .bk,.hk .wk{position:absolute;top:9%;bottom:9%;left:50%;transform:translateX(-50%);height:auto;display:block;z-index:1}
+html.bg-book .hk .bk img,.hk .wk img{height:100%;width:auto;max-width:none}
+/* THE ARROWS WHITE AT REST (Kain, Session 486): white like the cards and the button, with the cards' own shadow, held
+   against the icon button family's transparent rest (buttons.js marks every icon button bf-icon). */
+.hk .hk-belt .hk-arrow{background:var(--color-white) !important;border:1px solid #EEEDED !important;box-shadow:0 2px 12px rgba(53,65,73,.08) !important;color:var(--color-dark) !important}
+.hk .hk-belt .hk-arrow:hover,.hk .hk-belt .hk-arrow:focus-visible{border-color:var(--color-orange) !important;color:var(--color-orange-link) !important;box-shadow:0 8px 28px rgba(53,65,73,.14) !important}
+/* THE LIBRARY BEHIND THE BLOCK (Kain, Session 486): the theme's own bookshelf image (images/bookshelf-book-notes.webp),
+   four ways, chosen in the viewer by ?L=1 to 4. The cards, the switch and the arrows stay on top, untouched. */
+.hk{position:relative;isolation:isolate;overflow:hidden}
+.hk > .d-inner{position:relative;z-index:1}
+.hk::before{content:"";position:absolute;inset:0;z-index:0;pointer-events:none;background:url("/images/bookshelf-book-notes.webp") center 30% / cover no-repeat;opacity:0}
+/* 1: faint across the whole band */
+html[data-lib="1"] .hk::before{opacity:.07}
+/* 2: behind the heading only, fading away down the block */
+html[data-lib="2"] .hk::before{opacity:.16;-webkit-mask-image:linear-gradient(180deg,#000 0%,rgba(0,0,0,.6) 28%,transparent 55%);mask-image:linear-gradient(180deg,#000 0%,rgba(0,0,0,.6) 28%,transparent 55%)}
+/* 3: stronger, the white cards standing on it; a sand wash behind the heading and line keeps them read */
+html[data-lib="3"] .hk::before{opacity:.18}
+html[data-lib="3"] .hk::after{content:"";position:absolute;left:0;right:0;top:0;height:300px;z-index:0;pointer-events:none;background:linear-gradient(180deg,var(--color-sand) 30%,rgba(251,249,246,0))}
+/* 4: no library, as now */
+html[data-lib="4"] .hk::before{opacity:0}
+/* 5: the Courses page banner's treatment (courses-directory.css .cd-band::before): the picture on the right 62 in 100
+   of the band, fading leftwards into the band's own colour from 55 in 100, so the words read on plain sand */
+html[data-lib="5"] .hk::before{left:auto;right:0;width:62%;background-position:right center;opacity:.3;-webkit-mask-image:linear-gradient(90deg,transparent,#000 55%);mask-image:linear-gradient(90deg,transparent,#000 55%)}
+@media (max-width:767px){html[data-lib="5"] .hk::before{width:100%;opacity:.16;-webkit-mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%);mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%)}}
+
+/* FOUR SUBTLER WAYS (Kain, Session 486: "a little bit more subtle ... 4 variations of subtle"). Strength alone barely
+   shows on a pale picture over sand, so each way differs in how the picture sits, all quieter than the 30 he saw. */
+html[data-lib="6"] .hk::before{left:auto;right:0;width:62%;background-position:right center;-webkit-mask-image:linear-gradient(90deg,transparent,#000 55%);mask-image:linear-gradient(90deg,transparent,#000 55%);opacity:.2}
+html[data-lib="7"] .hk::before{left:auto;right:0;width:62%;background-position:right center;-webkit-mask-image:linear-gradient(90deg,transparent,#000 55%);mask-image:linear-gradient(90deg,transparent,#000 55%);opacity:.26;filter:grayscale(1)}
+html[data-lib="8"] .hk::before{left:auto;right:0;width:62%;background-position:right center;-webkit-mask-image:linear-gradient(90deg,transparent,#000 55%);mask-image:linear-gradient(90deg,transparent,#000 55%);opacity:.3;filter:grayscale(1) sepia(.55) brightness(1.04)}
+html[data-lib="9"] .hk::before{left:auto;right:0;width:42%;background-position:right center;opacity:.22;-webkit-mask-image:linear-gradient(90deg,transparent,#000 75%);mask-image:linear-gradient(90deg,transparent,#000 75%)}
+@media (max-width:767px){html[data-lib="6"] .hk::before,html[data-lib="7"] .hk::before,html[data-lib="8"] .hk::before,html[data-lib="9"] .hk::before{width:100%;opacity:.12;-webkit-mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%);mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%)}}
+
+/* FOUR STRENGTHS OF THE SAND-TONED LIBRARY (Kain, Session 486: chosen by eye), spaced wide enough to see */
+html[data-lib="10"] .hk::before{left:auto;right:0;width:62%;background-position:right center;-webkit-mask-image:linear-gradient(90deg,transparent,#000 55%);mask-image:linear-gradient(90deg,transparent,#000 55%);filter:grayscale(1) sepia(.55) brightness(1.04);opacity:0.4}
+@media (max-width:767px){html[data-lib="10"] .hk::before{width:100%;opacity:0.24;-webkit-mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%);mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%)}}
+html[data-lib="11"] .hk::before{left:auto;right:0;width:62%;background-position:right center;-webkit-mask-image:linear-gradient(90deg,transparent,#000 55%);mask-image:linear-gradient(90deg,transparent,#000 55%);filter:grayscale(1) sepia(.55) brightness(1.04);opacity:0.28}
+@media (max-width:767px){html[data-lib="11"] .hk::before{width:100%;opacity:0.168;-webkit-mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%);mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%)}}
+html[data-lib="12"] .hk::before{left:auto;right:0;width:62%;background-position:right center;-webkit-mask-image:linear-gradient(90deg,transparent,#000 55%);mask-image:linear-gradient(90deg,transparent,#000 55%);filter:grayscale(1) sepia(.55) brightness(1.04);opacity:0.18}
+@media (max-width:767px){html[data-lib="12"] .hk::before{width:100%;opacity:0.108;-webkit-mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%);mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%)}}
+html[data-lib="13"] .hk::before{left:auto;right:0;width:62%;background-position:right center;-webkit-mask-image:linear-gradient(90deg,transparent,#000 55%);mask-image:linear-gradient(90deg,transparent,#000 55%);filter:grayscale(1) sepia(.55) brightness(1.04);opacity:0.1}
+@media (max-width:767px){html[data-lib="13"] .hk::before{width:100%;opacity:0.06;-webkit-mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%);mask-image:linear-gradient(180deg,transparent 0,transparent 30%,#000 60%)}}
