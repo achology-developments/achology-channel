@@ -1,0 +1,37 @@
+/* The Home page's proof block, Voices From Every Stage of the Road (Chat, Session 486). The block is the one reviews
+   block (DSRD 8 section 44, rvb and pfp) with one row of three review cards and no film and no figures; these rules
+   add only the three stage columns and their stage names (Overline 12/600, as the road block's stages). */
+.hpp{background:#fff}
+.hpp-cols{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:24px}
+.hpp-col{display:flex;flex-direction:column;gap:24px}
+.hpp-col .pfp-rv{flex:1 1 0;margin:0}
+.hpp-tag{display:flex;align-items:center;gap:8px;margin:0 0 -8px;font-family:var(--font-heading,'Como'),sans-serif;font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:#354149}
+.hpp-n{color:#B8460F}
+.hpp-dot{width:10px;height:10px;border-radius:50%;background:#ED6922;box-shadow:0 0 0 4px rgba(237,105,34,.16);flex:none}
+.hpp .rvb-ways{margin-top:32px}
+@media (min-width:1024px){.hpp-cols{row-gap:0}.hpp-col{display:grid;grid-template-rows:subgrid;grid-row:span 2;row-gap:16px}.hpp-tag{margin:0}.hpp-col .pfp-rv{flex:none}}
+@media (max-width:1023px){.hpp-cols{grid-template-columns:1fr;gap:32px}}
+/* The review card's title, as the signed card draws it (DSRD 8 section 14.2 item 2; reviews.css .rv-card__title as built): the reviewer's own words, lightly trimmed, four to six words. */
+.hpp .hpp-title{position:relative;z-index:2;font-family:var(--font-heading);font-size:var(--text-16,16px);font-weight:600;line-height:1.3;color:var(--color-dark,#354149);margin:0 0 16px}
+/* The course line steps apart from the date line above it: Card School (DSRD 7 section 3.1, 12/600) in brand dark, so the
+   card reads name, then verified and date in soft grey, then the course it is about. */
+.hpp.rvb .pfp-rv figcaption .pfp-rv__course{font-weight:600;color:var(--color-dark,#354149)}
+/* On the Home page the three reviews stand still, so each starts on the same line under its title, and the spare
+   height of a shorter review falls below it, above the name row (the signed card centres its words because its words
+   turn; these do not). */
+.hpp.rvb .pfp-rv blockquote{align-content:start}
+/* The course line: 8 (sm) under the verified line, and it wraps only when it must. */
+.hpp.rvb .pfp-rv figcaption .pfp-rv__course{margin-top:var(--sp-sm,8px);text-wrap:wrap}
+/* Cards That Turn, on the Home page (Kain, Session 486): each stage keeps ten real reviews in the page; one shows,
+   nine wait. A press anywhere on the card, or on its corner button, turns it with the Soft Fade the course page's
+   outcome cards use (pick 183): the card fades softly away and the next review of the same stage rises in with a
+   warm glow that settles. */
+.hpp-col .pfp-rv.is-held{display:none}
+.hpp-col .pfp-rv{cursor:pointer}
+.hpp-col .pfp-rv.is-fading{pointer-events:none;animation:pf1-out .26s ease-in forwards}
+.hpp-col .pfp-rv.is-glowing{animation:pf1-in .5s cubic-bezier(.2,.8,.2,1) .12s backwards,pf1-glow 1.6s ease-out .12s backwards}
+@media (prefers-reduced-motion:reduce){.hpp-col .pfp-rv.is-fading,.hpp-col .pfp-rv.is-glowing{animation:none}}
+/* The corner button sits in the card's top right corner, as the signed card draws it (course-page.css :root .pfp-rv__lab),
+   held there against the Home page's own button rules. */
+.hpp.rvb .hpp-col .pfp-rv{position:relative}
+.hpp.rvb .hpp-col .pfp-rv .pfp-rv__lab{position:absolute;top:var(--sp-md,16px);right:var(--sp-md,16px)}
