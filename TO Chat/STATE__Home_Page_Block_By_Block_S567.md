@@ -34,3 +34,5 @@ Done when: Chat and Kain have agreed the Home page's final block order and which
 Code builds the agreed order the moment the ruling lands, the finder first.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Pushed for Chat, S567 late:** the Home preview as it stands (films block and the Knowledge Hub belt, option 4, arrows beside the heading, no filter) is on GitHub as refs/heads/branch-f/home-s567 (commit f5f64cf1). The older branch-f/home-s558 on GitHub was left untouched.
