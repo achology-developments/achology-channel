@@ -47,5 +47,6 @@ Also say whether the last three rows are each a card of their own, and in what o
 
 - **The heading is Kain's own now:** "Live Events Are the Heartbeat of Achology" (Heartbeat stays the orange beating word). Write the introduction to sit under it.
 - **A short closing note under the cards,** to finish the block (Kain agreed it). One sentence, quiet, under the belt; it may point on to the calendar below or say that every kind is included in membership. Until your words come, the preview holds a plain line made only from the record's facts: "Every kind of event is included in Achology Membership, and four events each week are free for anyone to try."
+- **Every card line the same length.** Kain asked for every card's foot at one height with no empty gap above it. The cards now stand three across, each line in a column 304 wide at 1440 (Body 16 on 1.6), and the foot follows straight on. Lines of one row count give both at once: please write each card line to fill exactly four rows at 1440 (about 130 to 140 characters, as most of today's already are), and say so for any that cannot.
 
 *No em or en dashes in this file; checked before writing.*
