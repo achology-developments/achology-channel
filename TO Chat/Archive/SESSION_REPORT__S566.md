@@ -1,8 +1,11 @@
-> Disposition, Chat S485, 24 Nov 2026: read; its Home page points are carried by DSRD 9 sections 45.20 and 45.21 and today's Home work. Archived. Card #98 stays Building.
+> Acted on, Chat S486, 24 Nov 2026: read. The Centre sign-up is proved: Kit shows Kain on tag 26381995 (Website Centre of Human Development Launch Notify), tagged 16:14Z, one subscriber. Gate lines answered in FROM Chat/ANSWER__Centre_Holding_Page_Gate_Lines_And_Ship_S486. The proof block is briefed (BRIEF__Home_Proof_Block_Signed_S486). Kain's two new Home sections and the sweep answer's section 5 questions carry to the handover. Card #98.
 
-**Added later in the sitting, from the logs.**
-- **Finished: the Home page built for real in the preview** (Home preview branch: blocks.py, build.py, home.css, home.html), eight blocks under the signed hero with your S565 and S484 words; the assembled page Kain rejected is taken out. Not in the theme, not deployed, no block signed. Board card: Home Page.
-- **Not finished: block 2.** Kain rejected the first build's look ("very, very crammed"), then a round of four with photographs ("does not align visually in any way whatsoever with the hero"), then ruled: no photographs and no ready-made pictures on the Home page, "You must rely on design. Graphic design." Block 2 now stands as one drawn design on the hero's dark; it is owed to him as four drawn options in the viewer.
-- **Finished: H12, the four options lock** (theme repository, pushed to origin as 2864c807): the gate refuses a viewer round with fewer than four options unless it names itself a refinement, and refuses a preview page opened in Safari outside the viewer unless its head declares it signed, a review or a wireframe. Twelve acceptance cases pass; proved live. RULING__Four_Options_Is_The_One_Rule_And_The_Gate_Enforces_It_S566.
-- **Filed:** RULING__Home_Who_Is_Achology_Block_And_The_People_Page_S566; RULING__People_Page_Photographs_Build_Now_Ask_Before_Launch_S566; ASK__Home_Page_Eight_Block_Words_S566 (answered).
-- **Hand added:** the 48 meetup photographs were copied small into the preview's img/people and are kept out of every commit. The deployed theme folder on this computer stands 140 commits behind origin with other sessions' uncommitted work in it; this session left that as it found it and pushed its one gate commit from a clean copy.
+## Close of the Home session, 24 November 2026 (later)
+
+- **The Centre of Human Development holding page is built and live on the build site** at theme 0.708.466 (post 47676). Kain designed it with Code in the viewer and signed it. Detail: SHIP__Centre_Of_Human_Development_Holding_Page_S566. Open: the sign-up is not proved in Kit (the page thanked Kain, the tag shows no subscriber yet); the page gate lines wait on your rulings (ASK__Centre_Holding_Page_Gate_Lines_For_Ruling_S566); Rank Math fields set, not scored.
+- **Home preview:** the signed hero, then your signed road block, built and measured identical to your mock-up; block 2 retired by Kain's ruling (45.24). Pushed to origin branch-f/home-s566.
+- **Next session, in Kain's words:** he has built two more sections with you; we talk through where they go on the Home page, then work down the page one block at a time, with you designing the next block with him while Code builds the current one.
+- **Still to put to Kain from your sweep answer, section 5:** the two questions, one at a time.
+- The GitHub board could not be read at close: this Mac has no gh tool.
+
+*No em or en dashes in this section; checked before writing.*
