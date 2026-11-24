@@ -1,3 +1,4 @@
+> Stays, Chat S485, 24 Nov 2026: waits on one fact, Session 486 opening; Kain ruled Session 485 the Home page only. Card #32.
 **Needs from Chat:** confirm Kain's r10 and S097 rulings as exceptions (the profiles' hairline and breadcrumb lines), the profile Rank Math words and the contentHasAssets ruling (LIST__Profile_Rank_Math_Tests_For_Chat_S566), the Part 2 rulings (LIST__Part_2_Signed_Pages_Lines_For_Chat_S566), the human rows 1, 6 and 8 of the profile records, and the brief H2 needs for the Testimonials WebP.
 
 # DONE: the sweep of the failing published pages, carried from the S566 main session
