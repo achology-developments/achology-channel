@@ -56,4 +56,16 @@
 
 **Not built, and why:** the score reader reading a profile's own post by ID, and keyword-density reading the words the theme hands Rank Math (two instrument mends, commissioned, need the gate's score path and the feed: their own change set); the acronym carve-out for the works list (needs the probe to tell the list's text from the page's own); Code of Character's machine lines 4, 5, 9 and 11; T11's reading on Courses; why Rank Math misses keywordInImageAlt on Kain Ramsay and Gerard Egan.
 
+## Kain's answers to the words board (24 November, through the main session), built at 0.708.473
+
+- **Row 1, the six elder intros: No.** Kain's rule, in his words: "the copy in the first paragraph on every single Elder's intro can be no longer than 3 lines on desktop"; the clause put Achology and Achologist three times in the first sentence: "We can't just make changes like this without consequences". The intros stay as he wrote them. **For Chat:** any identification of Master Achologist must fit inside three desktop lines without repeating Achology. The six records' line 1 now waits on Chat under that rule.
+- **Row 2, Erika Nadeau: Yes.** "As the learning community grows" placed.
+- **Row 3, the works heading: Yes.** The full name on every profile (the registry's alt where set, so "Gaby Tzeschlock's Writing and Articles").
+- **Row 4, Code of Character: Yes.** "anyone who calls themselves an Achologist, a member at the first accreditation level"; "before a member can reach Achologist Adept, the second accreditation level"; "Aristotle's ethics" links to Project Gutenberg's The Nicomachean Ethics of Aristotle, eBook 8438 (gutenberg.org/ebooks/8438, checked by search; Gutenberg itself was down for maintenance), opening in a new tab as the page's SoMAP link does.
+- **Row 5, the Policies index: Kain's own words, placed exactly:** "What we believe about education, what practising Achology members pledge, and how our articles are written."
+
+**Measured at 1440 and 390, every changed line, before and after.** Three spill to an extra row: the Code of Character paragraph with Achologist Adept, 3 rows to 4 at 1440; the paragraph with Aristotle's ethics, 8 to 9 at 390; Isabella S. Whitmore's works heading, 1 row to 2 at 390. Everything else holds its rows: Erika's intro (3 and 8), the Policies line (2 and 3), the other 16 works headings (1 and 1).
+
+**Gates on the changed pages:** Erika Nadeau, Kain Ramsay, Code of Character and the Policies index show no new fail. Isabella S. Whitmore's long heading is printed cut at 40 characters, which the label exception now matches (mended, checked on the printed line). One new line there needs a ruling: on a phone her page's closing panel picture sits below the fold, so the gate wants it lazy there, while at computer width it stands above the fold and must load eagerly. One picture cannot be both.
+
 *No em or en dashes in this file; checked before writing.*
