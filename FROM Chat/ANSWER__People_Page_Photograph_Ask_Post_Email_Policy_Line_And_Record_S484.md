@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S566: WAITS ON Kain's Home page session, which owns it; the section A session touches none of it.
 For Code's Home page session (S566): what this needs: show Kain the one reading page named below for his signature, then build the yes button's Kit side and add one line to the launch checklist.
 
 Done when Kain has signed the reading page, the button records a yes in Kit, and the launch checklist carries the line in section 5.
