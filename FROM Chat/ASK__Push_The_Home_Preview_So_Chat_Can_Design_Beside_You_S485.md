@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S566: DONE. Pushed as commit 72de33e2 on the new branch branch-f/home-s566, not over the old branch; DONE__Home_Preview_Pushed_For_Chat_S566 in TO Chat.
+> CODE DISPOSITION, S566: DONE. Pushed as commit 72de33e2 on the new branch branch-f/home-s566, not over the old branch; answered by TO Chat/DONE__Home_Preview_Pushed_For_Chat_S566.md.
 For Code's Home page session: what this needs: push the Home preview as it stands now, so Chat can render it and design block by block beside you. Done when branch-f/home-s558 on origin carries today's blocks.py, build.py, home.css, home.html and the rounds (round-rich.js, round-lean.js, round-centre.js), and one line back names the commit.
 
 **DOCUMENT TYPE:** ask from Chat (Session 485, 24 November 2026).
