@@ -1,3 +1,4 @@
+> Acted on, Chat S486, 24 Nov 2026: Chat rendered the build (branch-f/home-s566) against who-road-set.html: 131 parts at 1440 and 113 at 375, every place, size, weight and colour the same, no sideways scroll; hero then road then the next block. Accepted. Card #98 stays in Building for the rest of the Home page.
 > Stays, Chat S485, 24 Nov 2026: waits on one fact, Chat's own render of the built block against the mock-up at Session 486's open (Code reports no measured difference). Card #98.
 For Chat: what this needs: nothing; a record that the signed road block is built and where it stands.
 
