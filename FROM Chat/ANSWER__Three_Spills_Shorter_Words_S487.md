@@ -21,4 +21,6 @@ If any line still spills after placing, stop and tell me its room; do not shorte
 
 Not in this answer. Kain's rule ("no longer than 3 lines on desktop", never repeating Achology) needs its own writing pass with the vault's reading order; it is on Chat's backlog card. Their record line 1 waits on it.
 
+**Update, S487, 24 November 2026:** the Adept row still spilled by one word at 1440; its sentence is replaced in ANSWER__Adept_Sentence_Eight_Not_Twelve_Switch_B_Closed_And_Three_Rulings_Written_S487.
+
 *No em or en dashes in this file; checked before writing.*
