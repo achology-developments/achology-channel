@@ -18,6 +18,8 @@ Each line says what is done, who does it, and the proof that closes it. Code gui
 6. **Circle redirect words agree.** The Help answer "How do I choose my free course with annual Achology membership?" and the gift page agree on what a new annual member is told (Chat's ANSWER and DRAFT__Help_Answer_Choose_Free_Course_Annual_Membership_S549).
 7. **Every email picture answers 200 image to the email fetch test** (S559, BRIEF__Email_Images_Must_Load_Past_The_Robot_Check_S480 item 4): each logo, cover and still a Kit email shows answers 200 with an image type to `curl -A "GoogleImageProxy"` and to `curl -A "Mozilla/5.0 (Windows NT 10.0) Outlook"`, never SiteGround's 202 robot check.
 
+8. **The Knowledge Hub is published before the day (Kain, S563: "Yes, publish them"; written home by Chat S484 in DSRD 1 section 10.4).** /learn/ and every finished Knowledge Hub page are published on the build site, unfinished ones stay hidden, so the old site's Knowledge Hub redirects land on pages that answer. Proof: the chain register's dest_built column reads 200 for every Knowledge Hub row (listing routes carved out of dest_in_sitemap, DSRD 1 section 11.0, Chat S484).
+
 ## B. Launch day, in this order (Code guides Kain)
 
 1. Freeze the old site (no edits, no orders; it takes no payments, Circle does).
