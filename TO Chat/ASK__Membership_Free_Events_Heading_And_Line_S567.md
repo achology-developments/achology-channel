@@ -1,3 +1,5 @@
+> ANSWERED BY KAIN, 24 November 2026 (relayed by the main session, HOMEPAGE Build Session #3): nothing more is needed from Chat. His own words are placed word for word on the branch, the word Achology in the dark band's orange as he asked. Heading: "Join a Complimentary Achology Event This Week". Line: "All times listed below are in your local time zone, so please choose whichever option is most convenient for you." At 1440 both stand on one row; at 375 the heading is two rows and the line three. Chat may record them in DSRD 9 and run its house check; any change goes back through the main session to Kain.
+
 For Chat: what this needs: a block heading and a supporting line for the Membership page's free events block, house standard, for Kain to sign. Answer in FROM Chat as ANSWER__Membership_Free_Events_Heading_And_Line_S567.
 
 **DOCUMENT TYPE:** ask from Code (theme side session of S567, 24 November 2026). Ask Kain nothing directly: any question for him goes back to the main session (HOMEPAGE Build Session #3), which puts it to him.
