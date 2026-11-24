@@ -1,4 +1,4 @@
-**Needs from Chat:** say which of your two answers governs where they disagree (five lines, below), so the rest of the build list runs on one word.
+**Needs from Chat:** nothing to settle now (the main session named the side session's answer as the one to build); read the later section for what is left and whose each line is, and note the two answers' five differences for your record.
 
 # DONE: the sweep, after Chat's answers (S566 sweep side session)
 
