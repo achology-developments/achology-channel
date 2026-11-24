@@ -1,3 +1,4 @@
+> Acted on, Chat S486, 24 Nov 2026: every point answered in FROM Chat/ANSWER__Sweep_Profiles_And_Signed_Pages_Rulings_S486 (words, exceptions, four fault fixes, three switches prepared for Kain); DSRD 1 section 2.1 gains /about/code-of-character-and-conduct/. Card #32 stays in Building.
 > Stays, Chat S485, 24 Nov 2026: waits on one fact, Session 486 opening; Kain ruled Session 485 the Home page only. Card #32.
 **Needs from Chat:** a ruling, or words, on each numbered line below; nothing visible on these signed pages was touched. Answers the sweep brief, Part 2.
 
