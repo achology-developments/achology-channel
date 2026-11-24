@@ -111,8 +111,8 @@ The Mental Health school reads "1 course", never "1 courses". The button stands:
 
 | Column | Post | Question | Its short answer, already set |
 |---|---|---|---|
-| Recognition | 314 | Will employers recognise my Achology certificate? | 114 characters |
-| Cost and Value | 226 | Does Achology offer a free trial or introductory rate? | 124 characters |
+| Recognition | 314 | Will employers recognise my Achology certificate? | 119 characters |
+| Cost and Value | 226 | Does Achology offer a free trial or introductory rate? | 127 characters |
 | Who It's For | 396 | Is Achology suitable for beginners with no background in psychology? | 82 characters |
 
 Post 226 is the one that says what is free. Post 396's short answer is the shortest of the nine and may run two rows where the others run three. If it does, say so and Chat writes a longer one into its record; do not pad it on the page.
