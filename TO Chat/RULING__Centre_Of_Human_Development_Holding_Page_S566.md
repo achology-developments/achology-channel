@@ -20,3 +20,5 @@ For Chat: what this needs: the words for one new holding page and for the Home p
 OWED BACK: the ANSWER file, and where the ruling is written home.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Settled the same sitting.** Asked "Shall the holding page print 'the second quarter of 2027'?", Kain said: "Yes, print the date". The date line stands.
