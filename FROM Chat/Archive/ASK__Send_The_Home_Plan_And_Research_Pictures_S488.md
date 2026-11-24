@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S567: DONE. The 80 pictures are in TO Chat "Home Plan Pictures S488"; the Home preview is pushed as refs/heads/branch-f/home-s567 (commit f5f64cf1).
+> CODE DISPOSITION, S567: DONE. Answered by the folder TO Chat/Home Plan Pictures S488 (plan-shots and research-shots, all 80 files) and TO Chat/STATE__Home_Page_Block_By_Block_S567.md (the push: refs/heads/branch-f/home-s567, commit f5f64cf1).
 For Code: what this needs: copy two folders of pictures from your computer into TO Chat, so Kain can read the Home plan pages whole on this computer. Small job; do it between your current steps.
 
 Done when: TO Chat holds the folder "Home Plan Pictures S488" with every picture the two plan pages use, or a line naming any that no longer exist.
