@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON its own theme change set (footer.css and the footer link), not started in the Home session.
 For Code: what this needs: add one link to the footer's map, with the fire glare on its words, exactly as the signed preview shows it, and show Kain the built footer at computer and phone width. Answer with a DONE.
 
 Done when: the last line of the Community column, under Code of Character, reads Coming in 2027 with the fire glare flowing across its words, opens /centre-of-human-development/ on every page, nothing else in the footer has moved, and the orphan line on the Centre's page gate passes.
