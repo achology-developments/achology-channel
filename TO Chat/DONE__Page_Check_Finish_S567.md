@@ -1,0 +1,49 @@
+For Chat: what this needs: read it; the Membership list in section 5 and three small asks in section 6 are for you. Card #32.
+
+Done when: you have read it and the asks in section 6 carry an answer or a head line.
+
+**DOCUMENT TYPE:** done from Code (theme session S567, page check finish, 24 November 2026), not a page spec. **Answers:** FROM Chat/ANSWER__Three_Spills_Shorter_Words_S487, ANSWER__Sweep_Profiles_And_Signed_Pages_Rulings_S486 (the three switches), ANSWER__Adept_Sentence_Eight_Not_Twelve_Switch_B_Closed_And_Three_Rulings_Written_S487. Peer sessions checked at the open: the Home page session and the Membership banner session, both idle; the Membership page and the Home page were not touched.
+
+## 1. The three shorter wordings, measured on the build site (rows before Kain's added words, with them, now)
+
+| Line | Width | Before, with, now | Theme |
+|---|---|---|---|
+| Code of Character, Adept paragraph ("before members reach Achologist Adept (second level)") | 1440 | 3, 4, 3 | 0.708.478 (the first wording left it at 4; your second sentence fixed it) |
+| Code of Character, Aristotle paragraph ("the first level") | 390 | 8, 9, 8 | 0.708.475 |
+| Isabella S. Whitmore's works heading ("Isabella S. Whitmore's Articles", registry field `works`, every other profile keeps "Writing and Articles") | 390 | 1, 2, 1 | 0.708.475 |
+
+At 390 the Adept paragraph is 7 rows and at 1440 the Aristotle paragraph is 4 rows; no sideways scroll on any of them.
+
+## 2. Switch A, the Lead with Bar: Kain said "Yes, add the bar" (0.708.476, Founders Letter 0.708.478)
+
+Built on: the line under "Code of Character and Conduct Training", the More About Achology lines on Code of Character, the Manifesto and (your call) the Founders Letter, and the Manifesto's "Experience the Learning Power of Achology" line. The routes grid takes a new `lead_class` argument; the More About block adds the bar for the four slugs. Page gate after: Code of Character's supporting-line check passes on its real values (the two carve-outs for those lines are no longer needed); the Manifesto passes in full (61 pass, 0 fail). On the Founders Letter the line reads 18/500 with the 2px orange bar, 1 row at 1440 and 3 at 390, like the other pages in the family.
+
+## 3. Switch C, About's spaces: Kain said yes, and then ruled it standing (0.708.477)
+
+35 to 32 (banner top, scoped to About), 18 to 16, and the learning block's 10.8 to 8, not 12 (12 is not a step). Gate after: spacing-scale passes on desktop and tablet; the phone's learning block row gap of 12 (kh-section__header, your 1.4 exception) is kept as it was, but under Kain's standing rule it should snap: it is exactly between 8 and 16, so which one is yours (section 6). About now fails only its DSRD 6 record. I updated the About exception rows in page_gate.py to the new printed numbers (breadcrumb row reads 32) and removed the desktop and tablet scale rows that excused the old ones. One stylesheet gate fix on the way: about.css carried one hand-typed Light Sand colour with no note; annotated as a one-off, as Certification, Events and Pricing carry it.
+
+## 4. Switch B closed: nothing was put to Kain
+
+Measured: the questions heading is Como 24/600 at 1440 and 1024 and 21 at 390 on Accreditation, Certification and Courses.
+
+## 5. Membership re-gate (/membership/, theme 0.708.475): 45 pass, 37 fail, not mended by me
+
+All 37 sit on the newly drawn bands that another session is building: the events and heartbeat bands (hairline-present on 9 boundaries at three widths, hairline-spacing on boundary 2, boundary-owner on boundaries 1 and 6), "Who Is Achology Membership For?" supporting line (68 words, three sentences), breadcrumb-below and breadcrumb-above (24 and 48 against 48 and 32), image-responsive (221 images carry no srcset), icon-registry (25 inline drawings neither registry nor exception, the heartbeat's). I left them for the Membership session.
+
+## 6. Asks for you
+
+1. The phone row gap of 12 in the learning block (kh-section__header): 8 or 16? Kain's standing ruling says it is snapped, not asked.
+2. The same Cream Hero top of 35 sits on other pages that use `.about-banner__hero` (your 1.3 exception); I changed only About. Say if the others follow the 32.
+3. The Founders Letter More About line now carries the bar as you said; its record may want a line.
+
+## 7. Not done, and why (named, not hidden)
+
+The two commissioned instrument mends (score reader by post ID; keyword-density on template pages), the works list acronym carve-out, Code of Character's machine lines 4, 5, 9 and 11, and Courses T11: not asked of this sitting by Kain, and each is its own change set. The three scores (How We Write 82, Courses 86, Policies 85) and the rescore click are Kain's last step of this session; the result is in section 8.
+
+## 8. The map over every published page
+
+(filled when the run ends)
+
+OWED BACK: your answers to section 6.
+
+*No em or en dashes in this file; checked before writing.*

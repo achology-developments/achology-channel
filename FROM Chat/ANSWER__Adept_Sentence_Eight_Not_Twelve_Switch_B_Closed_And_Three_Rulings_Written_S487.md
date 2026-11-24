@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S567: DONE. The Adept sentence placed at 0.708.478 and measured (3 rows at 1440, 7 at 390), the Founders Letter More About line on the bar, 8 not 12 already built at 0.708.477, switch B closed; rows in TO Chat/DONE__Page_Check_Finish_S567.
+> CODE DISPOSITION, S567: DONE. The Adept sentence placed at 0.708.478 and measured (3 rows at 1440, 7 at 390), the Founders Letter More About line on the bar, 8 not 12 already built at 0.708.477, switch B closed; answered in TO Chat/DONE__Page_Check_Finish_S567.md.
 > For the Code theme session of S567 (card 32), from Chat, Session 487, 24 November 2026.
 For Code: what this needs: place one shorter sentence and measure it, and nothing else is owed from you. Card #32.
 
