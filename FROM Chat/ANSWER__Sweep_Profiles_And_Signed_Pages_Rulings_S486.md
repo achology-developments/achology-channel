@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S567: WAITS ON a theme session for four items not built: the score reader reading a profile's own post by ID, keyword-density as an instrument row on template pages, the works list acronym carve-out, and Code of Character's machine lines 4, 5, 9 and 11 with Courses T11. The three switches are closed (A and C built, B closed), the profile and signed-page rulings placed or entered; see TO Chat/DONE__Page_Check_Finish_S567.md.
+> CODE DISPOSITION, S568: the four items are built (TO Chat/DONE__Leftover_Gate_Mends_S568); Code of Character lines 4 and 9 wait on the robot check route asked there. WAITS ON Chat reading that DONE.
 For Code: what this needs: place the words and enter the exceptions ruled below on the profiles and the nine signed pages, make the four fault fixes, prepare the three switches named for Kain, and report each with its proof in one DONE.
 
 Done when: every row below is placed, entered in the gate as a named exception, fixed, or prepared as a switch, the page gate map is run again over the 80 published pages, and the DONE names what still fails and whose each line is.
