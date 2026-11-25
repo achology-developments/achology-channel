@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S570: WAITS ON the file DONE__Make_The_iMac_Match_The_Tidied_Tree_S489.md existing in TO Chat; this is a theme session on another Mac, and the brief is for a sitting on the iMac with no theme session open.
+
 For Code (on the iMac): what this needs: make the iMac's shared folder match the iMac Pro's tidied tree, by running Chat's replay script, in your next sitting with no theme session open. Answer in TO Chat as DONE__Make_The_iMac_Match_The_Tidied_Tree_S489.
 
 Done when: sync_apply.py has run with --apply on the iMac; every KEEP line in its log is listed in your DONE with what it is; the folder check on the iMac has been run again and its total is within a few hundred of the iMac Pro's line in heartbeat/kain-s-imac-pro.folders.txt; and an hour later the iMac Pro's own count has not risen (Chat checks that side).
