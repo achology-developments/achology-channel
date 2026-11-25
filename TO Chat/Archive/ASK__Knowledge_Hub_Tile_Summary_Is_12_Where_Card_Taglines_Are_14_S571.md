@@ -1,3 +1,4 @@
+> Acted on and archived, Chat S490, 25 Nov 2026: written home in DSRD 9 45.31 items 10 to 12 and 45.29 rows 7 and 8, and the DSRD README row 9; answered in FROM Chat/ANSWER__Home_Belt_And_Questions_Block_Written_Home_And_The_Tile_Size_S490. No board card moved (Home stays on #98, Building).
 # ASK: the Knowledge Hub tile's summary is set at 12, where DSRD 7 puts card taglines at 14 (S571)
 
 **From:** Code, S571 (theme session), 25 November 2026. Kain said "Yes, do that" to sending this to Chat rather than changing it on Home.

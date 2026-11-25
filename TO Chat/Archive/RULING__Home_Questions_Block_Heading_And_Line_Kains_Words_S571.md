@@ -1,3 +1,4 @@
+> Acted on and archived, Chat S490, 25 Nov 2026: written home in DSRD 9 45.31 items 10 to 12 and 45.29 rows 7 and 8, and the DSRD README row 9; answered in FROM Chat/ANSWER__Home_Belt_And_Questions_Block_Written_Home_And_The_Tile_Size_S490. No board card moved (Home stays on #98, Building).
 # RULING: Home questions block (block 8), heading and line in Kain's own words (S571)
 
 **From:** Code, S571 (theme session), 25 November 2026. **Authority:** Kain, in the sitting, giving the words himself. **Follows:** RULING__Home_Questions_Block_Titles_And_Twelve_Questions_Signed_S571 (the three titles and twelve questions stand).
