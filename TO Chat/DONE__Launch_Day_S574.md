@@ -58,5 +58,3 @@ Deleting the old site took achology.com's whole DNS zone with it, and Change Pri
 7. After launch, with Kain one at a time: the DNS tidy (Zendesk, SendGrid, Amazon SES, Salesfire, Facebook: keep only what is used); the orange Achology word in headings (11 pages); karen@achology.com as an alias if wanted; the cut-off Amazon certificate record for cdn.achology.com when it renews.
 
 *No em or en dashes in this file; checked before writing.*
-
-*No em or en dashes in this file; checked before writing.*
