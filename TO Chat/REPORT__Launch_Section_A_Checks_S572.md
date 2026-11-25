@@ -7,7 +7,7 @@ Done when: every red line below has an owner and a fix.
 
 ## Summary, one line per item
 
-- **A1 gate sweep: FAIL.** `page_gate.py --map --no-purge` over all 82 addresses of the build site's page sitemap: 41 pass, 41 fail (exit 1). Rehearsal S568 was 51 pass, 28 fail over 79: **10 pages that passed then fail now** (section 1).
+- **A1 gate sweep: FAIL.** `page_gate.py --map --no-purge` over all 82 addresses of the build site's page sitemap: 41 pass, 41 fail (exit 1). Rehearsal S568 was 51 pass, 28 fail over 79: **10 pages that passed then fail now**, all on one new row, `achology-word` (read from the printouts, section 1); 16 pages carry that row in all.
 - **A2 redirect map: PARTIAL, nearly green.** `redirect_one_hop.py --quiet`: "0 faults across 2598 rows", exit 0. `redirect_chain_register.py --report` (read only, not refused by H9 this time): "500 of 500 destinations carry all five. 0 have an incomplete chain." exit 0. Redirect_Master.xlsx: 2,598 rows, **2,505 verified, 93 still "ruled"** (the checklist said 231 waiting; 138 were written since). The S339 step 5 staging check: not run. The 93 wait for `publish_gate.py --write-redirects-from`, which writes, so I did not run it. Every destination of theirs passes the register, so they no longer wait on unpublished pages (Code's job).
 - **A3 cutover gate: PASS (as designed).** `cutover_gate.py` plain, exit 0; closing lines: "The site is hidden, deliberately ... This is the expected state of the build ground". sitemap 1712 addresses; robots.txt 200.
 - **A4 old-site backup: already done by the main session.** Folder "Achology Old Site Backup 25 November 2026" in the home folder: `achology-full-2026-11-25.sql.gz` 51,594,645 bytes and `achology-files-2026-11-25.tar.gz` 3,567,277,339 bytes (3.4 GB total), dated 25 November 20:17 and 20:20. Proof is in DONE__Launch_A4_Old_Site_Backup_On_The_Mac_S572. I only listed the folder.
@@ -20,21 +20,23 @@ Done when: every red line below has an owner and a fix.
 
 ## 1. A1 detail: the 41 failing pages
 
-**Caution on method.** `--map` prints counts, not row names. A second, detailed run over the 41 pages (to name every failing row) was still running when this was written, so **row names below come from the rehearsal S568, the gate's own docs and inference, and each inference is marked.** Its printout will be the scratchpad file `failrows.txt` if it finishes; read it before mending.
+**Method (update, row names now read).** The detailed `page_gate.py --no-purge` run finished; row names below are read from its printouts (scratchpad `failrows_clean.txt`, `failrows2_clean.txt`, grouped in `grouped.txt`), not inferred. The two pages Home and `/home/` were not re-run (Home is the Home session's; `/home/` is not a built page). One limit: my first re-run matched a few truncated addresses to the wrong page, so I re-ran `/about/`, `/policies/`, `/membership/`, `/about/instructors/`, Karen Ramsay and Declan Fitzpatrick by hand; the other profiles' rows come from the first run, where five profiles (Karen, Amelia, Jackson, Isabella, Declan) show only the `rank-math` row.
 
-The 41: Home `/`; `/home/`; the Centre of Human Development; the Academy and its seven schools (8); Code of Character; Access All Areas; Membership; Accreditation; Certification; Courses; How We Write; About; Testimonials; Policies; Reviews; Disclaimers; `/about/instructors/`; and the 17 instructor profiles.
+The 41: Home `/`; `/home/`; the Centre of Human Development; the Academy and its seven schools (8); Code of Character; Access All Areas; Membership; Accreditation; Certification; Courses; How We Write; About; Testimonials; Policies; Reviews; Disclaimers; `/about/instructors/`; and the 17 instructor profiles. Only four failing row names exist among them:
 
-| Group | Pages | Fail rows | Sort |
-|---|---|---|---|
-| Home | `/` (2 fail, 10 review) | being closed by the Home session | not mine |
-| `/home/` | 1 fail, 0 pass | in the page sitemap but not a built page (a draft per the rehearsal) | **(a)** Code/main: confirm it is a draft and drop it from the sitemap or the list |
-| Centre of Human Development | 6 fail | the Home session's (S568 said so) | not mine |
-| **NEW since the rehearsal (passed then, fail now): Academy, the seven schools, Access All Areas, Disclaimers** (10 pages) | 2 fail each | rows not named. **Inference only:** exactly two rows each, and gate v7 (S572) added `achology-word-1000` and `achology-word-375` | **(a) or (c): Code to read the detailed printout first.** If it is `achology-word`, one mend over all ten (heading word Achology the heading's own colour) |
-| Instructor profiles (17) and `/about/instructors/` | 1 or 2 fail each | S568: record lines and stored Rank Math scores | **(b)** the record's human lines are Chat's; stored scores wait on Kain's rescore click; not a Code machine fault |
-| Code of Character, How We Write, Courses, Accreditation, Certification, About, Testimonials, Policies, Reviews | 1 to 3 fail each | S568: each record's human lines, and Rank Math on three | **(b)** Chat places the human lines; Rank Math scores wait on Kain's rescore |
-| Membership | 2 fail | outside the rehearsal's list | **(b)** Chat (its gate lines carry Chat's rulings) |
+**Row 1: `achology-word-1000` and `achology-word-375` (one fault, read at two widths): 16 pages. (a) a real fault Code can mend.** A heading sets the word Achology in the heading's own colour; the ruling (S571) wants it orange, light orange #FFC08F on a dark band. One mend in the shared heading CSS should cover all 16; none of the 16 is mended yet, and the rule's own checker is `tools/achology_word_check.js`. **These are the 10 pages that passed in the S568 rehearsal and fail now (gate v7 added the row, S572):** Academy (1 heading), the seven schools (2 each), Access All Areas (4), Disclaimers (1). **Six more carry it on top of their other rows:** Accreditation (2), Courses (1), Testimonials (1), Reviews (1), About (3), Membership (4). Examples named by the gate: "Practise With a Partner Collaborative Practice ..." on the schools, "What You Can Expect to Learn at Achology" on Access All Areas, "Achology Courses" on Courses, "About the Achology Brand" on Disclaimers, "About Achology" and "Achology Origins" on About.
 
-The honest gap: I could not group the rows by name.
+**Row 2: `rank-math`: 19 pages. (b) waits on Kain's rescore click, plus one (a).** 17 instructor profiles: Karen Ramsay 76, Gaby Tzeschlock 73, Benjamin Lockwood 87, and 82 on Jonathan Frost, Gary Kennedy, Erika Nadeau, Andrew Nelson, Alec Wells, Amelia Sinclair, Jackson Hartley, Isabella Whitmore, Frederick Martin, Evelyn Montgomery, Declan Fitzpatrick, Charlotte Avery (bar is 90). **Not (b):** the Centre of Human Development (post 47676) and Code of Character (post 46067) read "has never been scored: it is not in the score table"; those are (a) for Code (one score run and entry in the score table, by the rule that only Code writes a score).
+
+**Row 3: `dsrd6-record`: 23 pages. (b) Chat's human lines, with Kain rows.** Counts as printed ("closed / not run / fail"): Centre 0/10/1; Code of Character 5/3/3; Accreditation 4/5/1; Certification 9/0/2; Courses 2/6/2; How We Write 8/0/1; Testimonials 0/7/4; Reviews 6/3/2; About 6/3/2; Policies 10/0/1; `/about/instructors/` 3/6/2; and these profiles at 1 fail each: Jonathan Frost, Gary Kennedy, Gaby Tzeschlock, Erika Nadeau, Andrew Nelson, Alec Wells, Gerard Egan, Kain Ramsay (3 fail), Frederick Martin, Evelyn Montgomery, Charlotte Avery, Benjamin Lockwood. The record lines are Chat's and Kain's; Code only writes what they return.
+
+**Row 4: Centre of Human Development only, 4 more rows ((a) Code or the Home session):** `meta-description` 157 characters (limit 155), `address` ("matches no address DSRD 1 names"), `orphan` ("the crawl missed 2053 pages ..." with 404s such as /company/achology/), and `keyword-density` ("the body is empty": the same template-page carve-out Chat ruled for Home in ANSWER S492, not yet entered for the Centre). Its other rows are recorded carve-outs.
+
+**Sort in one view:**
+- **(a) Code can mend:** `achology-word` on 16 pages (one mend), the Centre's four rows, and the Centre and Code of Character score entries.
+- **(b) Chat or Kain must rule or do:** the `dsrd6-record` human and Kain rows on 23 pages; 17 profile scores below 90 (Kain's rescore click).
+- **(c) a gate row to teach (exception):** none seen except the Centre's `keyword-density`, which wants the template-page carve-out Chat already ruled for Home.
+- **Home** (2 fail) and the Centre's wider rows are the Home session's; `/home/` (1 fail) is a sitemap entry, not a built page: Code to confirm it is a draft and drop it from the sitemap.
 
 Also found: `BRIEF__Accessibility_Statement_Stops_Saying_The_Site_Is_Being_Rebuilt_S492` is still open, so that page still says it is being rebuilt; it must be done before launch.
 
