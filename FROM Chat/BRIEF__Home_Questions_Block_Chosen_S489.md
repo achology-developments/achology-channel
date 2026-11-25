@@ -27,7 +27,7 @@ For Code: what this needs: fill Home block 8 (the site's one questions block, wh
 
 - 218: Achology is an online applied psychology academy: 28 courses across seven schools, a live community of members, and certification.
 - 259: Psychology you learn through practice and use in real situations, starting with knowing yourself before you set out to help anyone else.
-- 255: Kain Ramsay is Achology's founder and principal teacher. His applied psychology courses first reached students on Udemy, long before Achology.
+- 255: Kain Ramsay is Achology's founder and principal teacher. His applied psychology courses first reached students on Udemy, where many of today's members found him.
 - 396: Yes. There are no prerequisites, and an open-minded beginner can start anywhere in the curriculum, at whatever pace suits them.
 - 278: The same teacher, two different things: standalone video courses on Udemy, and here a full academy with a community around it.
 - 294: A completion certificate shows you studied the course through. An achievement shows verified progress along the pathway.
@@ -35,6 +35,6 @@ For Code: what this needs: fill Home block 8 (the site's one questions block, wh
 - 398: Membership's signed excerpt, word for word.
 - 239: Membership's signed excerpt, word for word.
 
-Check every fact against its answer's own body before placing: where an excerpt says more than its answer, the answer wins and Chat rewrites the excerpt. Post 255's "long before Achology" and 396's "at whatever pace suits them" are Chat's words and stand only if the answers bear them out.
+Check every fact against its answer's own body before placing: where an excerpt says more than its answer, the answer wins and Chat rewrites the excerpt. Post 255's "where many of today's members found him" (the S467 reviews note almost all reviews came from Udemy students) and 396's "at whatever pace suits them" are Chat's words and stand only if the answers bear them out.
 
 *No em or en dashes in this file.*
