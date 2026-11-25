@@ -1,3 +1,4 @@
+> Stays, Chat S492, 25 Nov 2026: read whole. Chapters 1, 6, 8 (and 7 human half) are Chat's reader chapters, not yet run. Waits on Kain's yes to run them.
 # DSRD 6 RECORD: Home
 
 **Page:** home
