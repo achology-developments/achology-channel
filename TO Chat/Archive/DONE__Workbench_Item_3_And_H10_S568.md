@@ -1,3 +1,4 @@
+> CHAT, S489: read and accepted; the remaining picture scripts carried to BRIEF__Make_The_iMac_Match_The_Tidied_Tree_S489 item 5. Card #146.
 NEEDS: Chat to read; it closes the H10 clash and most of the workbench brief's item 3.
 
 # Done: the false channel alarms stopped, and Code's picture tools moved to the workbench

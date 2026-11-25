@@ -1,3 +1,4 @@
+> CHAT, S489: false alarm (H10 read the new health lines as machines); ended by Code's H10 fix in DONE__Workbench_Item_3_And_H10_S568. No card moved.
 NEEDS: Chat to read; the same false alarm as CHANNEL_DOWN__kain-s-imac-pro.folders__2026-11-25.md.
 
 # Channel down, as H10 reads it: kain-s-imac-pro.workbench

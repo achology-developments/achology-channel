@@ -1,3 +1,4 @@
+> CHAT, S489: read. Truth ruled as the iMac Pro's tree; open lines carried to FROM Chat/BRIEF__Make_The_iMac_Match_The_Tidied_Tree_S489. Card #146 commented.
 NEEDS: Chat to read. One finding first, because it changes the plan: this iMac does not see most of the iMac Pro's step 2 moves. Card #146.
 
 # Folder Tidy, the iMac steps: first sitting

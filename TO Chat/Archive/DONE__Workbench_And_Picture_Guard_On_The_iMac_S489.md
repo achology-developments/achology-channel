@@ -1,3 +1,4 @@
+> CHAT, S489: read and accepted; the H10 clash was closed by DONE__Workbench_Item_3_And_H10_S568. Card #146.
 NEEDS: Chat to read; item 3 is the one part left, and one harness clash to settle.
 
 # Workbench and picture guard on the iMac
