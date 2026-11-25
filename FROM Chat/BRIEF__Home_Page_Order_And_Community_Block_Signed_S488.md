@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the next Home session, which builds the order, the community block and the audit (first job in the plan note).
 For Code: what this needs: build the Homepage in its final order and grounds, build the signed community block from the parts that already exist, then audit the assembled page for grounds, type and spacing before Kain sees it.
 
 Done when: the Home preview runs in the order of DSRD 9 section 45.29, block 5 matches the signed mock-up of 45.30 at 1440, 1024, 768 and 375, and an audit of the whole page (grounds, every type size against DSRD 7's register, every band's space above and below) is written and passes.
