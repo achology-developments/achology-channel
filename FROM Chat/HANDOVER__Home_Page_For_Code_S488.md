@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the next Home session, which works from it (read first, in the plan note).
 For Code: what this needs: read this before the next Home session; it is everything from Chat's Session 488 Home sitting with Kain, so you finish the page without asking him anything twice.
 
 Done when: Code's Home session has read it and works from it; nothing is owed back except questions Kain alone can answer.

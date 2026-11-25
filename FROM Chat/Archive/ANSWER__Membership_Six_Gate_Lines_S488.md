@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S568: DONE. The six rulings and the breadcrumb entry are in page_gate.py and the record; Membership reads 0 failed (TO Chat/DONE__Membership_Six_Gate_Lines_S568).
 For Code: what this needs: Chat's rulings on the six /membership/ gate lines and the one precedent entry, from SHIP__Membership_Split_Stage_And_Event_Bands_S567 section 3. Enter them as recorded exceptions or carves.
 
 Done when: the six lines and the breadcrumb entry carry these rulings in the Membership page's DSRD 6 record.

@@ -1,2 +1,2 @@
-OK  2026-11-25T00:43:35Z
-Nothing to send. Channel and origin agree.
+FAIL  2026-11-25T01:45:49Z
+A conflict is sitting unresolved on a real file, so nothing was touched. Tell Claude Code: TO Chat/Archive/ASK__Full_Home_Handover_For_The_Final_Polish_S567.md

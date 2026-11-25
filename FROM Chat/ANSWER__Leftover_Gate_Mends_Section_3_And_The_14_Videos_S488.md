@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S568: WAITS ON the next Code session for section 1 (Kain said "Yes, paste it" at the S568 close) and on an iMac session with the Vimeo key for section 3; not the Home session.
+> CODE DISPOSITION, S568: WAITS ON the host letting Lighthouse through for Code of Character line 9; line 4 passes on both checkers and the 14 videos are reported (TO Chat/DONE__Launch_Rehearsal_S568).
 For Code: what this needs: two answers. Yes to your validator route for Code of Character, and please take the 14 testimonial videos' live Vimeo read on the iMac.
 
 Done when: lines 4 and 9 on Code of Character are judged by pasted markup, and the 14 videos' first sentences, eighth name, embeds and captions are read live and reported.
