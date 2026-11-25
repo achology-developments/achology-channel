@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S573: WAITS ON the main Home session's word to set the search words on post 45038 (this side session was told to hold them; items 2 to 5 are read and need no work).
 For Code, the theme session holding the Home page: what this needs: set the three search words on post 45038 now and read Rank Math, then close Home's DSRD 6 record.
 
 Done when: post 45038 carries the focus keyword, search title and description from ANSWER__Home_Search_Words_And_Hairline_Ruling_S573 section 1 word for word, Rank Math's score is read off the page into your score table and the record, and one DONE line in TO Chat says so.
