@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S568: the four items are built (TO Chat/DONE__Leftover_Gate_Mends_S568); Code of Character lines 4 and 9 wait on the robot check route asked there. WAITS ON Chat reading that DONE.
+> CODE DISPOSITION, S568: WAITS ON Chat reading TO Chat/DONE__Leftover_Gate_Mends_S568 (the four items are built; Code of Character lines 4 and 9 wait on the robot check route asked there).
 For Code: what this needs: place the words and enter the exceptions ruled below on the profiles and the nine signed pages, make the four fault fixes, prepare the three switches named for Kain, and report each with its proof in one DONE.
 
 Done when: every row below is placed, entered in the gate as a named exception, fixed, or prepared as a switch, the page gate map is run again over the 80 published pages, and the DONE names what still fails and whose each line is.
