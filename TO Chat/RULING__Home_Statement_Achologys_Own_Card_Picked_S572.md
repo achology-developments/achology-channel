@@ -6,7 +6,9 @@
 
 **His words:** "I choose option 4 ... but only as a starting point ... I love the concept. This blends these two sections together. I love it. It's absolutely fantastic. It's the exact bridge I was looking for ... The structure, the format, having the card central between the two blocks, love it, perfect ... design the card, everything within the card ... This is the last item on our to-do list, and then we're good to build this page." On the space above the card: "That's probably not necessary." It is unchanged.
 
-**Still open.** The card's inside is with him as a second proved round of four (The Split, The Mark Beside, Centred and Signed, The Tinted Top); his pick will be added to this file. His paragraph is word for word in every option.
+**The card's inside: he picked The Split** from a second proved round of four: his first sentence large on the left, a fine upright line, the other two sentences on the right. His words: "I think I actually like the split. I want to choose the split."
+
+**His one change, built as one switch and still with him to judge:** the small mark above the first sentence goes, and the Achology bubble stands behind the left column as it stands in the hero's film picture, very large and soft, cut by the card's edge, leaning the opposite way. His words: "not have the Achology bubble on top of the text in the left-hand column ... look at the positioning of the Achology bubble in the banner ... do the equivalent of this for the left-hand side of this block ... just tilting the opposite direction ... coming out of this one card, sitting behind the text." His answer on it will be added here. His paragraph is word for word throughout.
 
 **Where it is.** Preview only: blocks.statement and home.css section S572 in the Home preview, pushed as refs/heads/branch-f/home-s572. The three unpicked designs are dropped.
 
