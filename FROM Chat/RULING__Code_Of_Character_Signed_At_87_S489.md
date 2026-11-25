@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S570: DONE. Read; the Code of Character and Conduct page is left as it is at 87, nothing built.
+
 For Code: what this needs: nothing to build. Kain signed off the Code of Character and Conduct page (post 46067) at its Rank Math score of 87, as it stands.
 
 Done when: Code has read this; the page is left as it is, with no lift to 90, no more words and no more pictures.
