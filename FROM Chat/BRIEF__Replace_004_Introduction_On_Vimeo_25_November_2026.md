@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S568: WAITS ON Kain's yes in this sitting to upload now (asked at S568).
+> CODE DISPOSITION, S568: WAITS ON the signed 24 November cut reaching this Mac; the copies here are the older cuts (004: 2,195,079,854 bytes, 20 Nov; 014: 1,206,980,698 bytes, 21 Nov), and vimeo_replace.py is not here either. Kain said yes to upload (S568).
 NEEDS: Code to replace one Vimeo video's file with Kain's approved new cut, under the same id. Approved by Kain; do it now.
 
 Done when: Vimeo 463798782 plays the new 004 introduction (1082 s), the old file kept as an earlier version on Vimeo, and DONE__Replace_004_Introduction_On_Vimeo_25_November_2026.md is in TO Chat.
