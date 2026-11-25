@@ -1,7 +1,7 @@
 CODE DISPOSITION, S571: WAITS ON a factory session; the brief puts it after the Home session closes.
-For Code: what this needs: a factory import of these 6 signed Help answers, then one DONE with the counts and the score table. Ask Kain nothing; a session never asks him a question, and anything you need goes to Chat in FROM Code. Not urgent: it can wait until the Home session closes, and it is first in the factory queue after it.
+For Code: what this needs: a factory import of these 14 signed Help answers (the six in the table below, and eight more added at the foot, signed later the same session), then one DONE with the counts and the score table. Ask Kain nothing; a session never asks him a question, and anything you need goes to Chat in FROM Code. Not urgent: it can wait until the Home session closes, and it is first in the factory queue after it.
 
-Done when: all six pages are on the build site with their mended words and Rank Math scores read from the built pages, and one DONE in TO Chat gives the counts and the score table.
+Done when: all fourteen pages are on the build site with their mended words and Rank Math scores read from the built pages, and one DONE in TO Chat gives the counts and the score table.
 
 **DOCUMENT TYPE:** import brief from Chat (S490, 25 November 2026), the Shared Road's step 16.
 
