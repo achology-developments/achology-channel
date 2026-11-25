@@ -22,6 +22,10 @@ Done when: Chat has read it and noted C3 and the Home speed reading on their car
 - **Core Web Vitals:** old site, 24 November: 481 poor, 0 good, phone and computer. The new site's real-visitor verdict needs about 28 days (DSRD 6 section 9's after-launch read).
 - **HTTPS:** 486 pages on HTTPS, 0 not, "No issues detected in the last 90 days".
 
+## Indexing requested, 23:31 to 23:40 (Kain, URL Inspection)
+
+Request Indexing pressed and "Indexing requested" seen for https://achology.com/ (already "URL is on Google"), /academy/, /membership/, /about/ ("URL is unknown to Google") and /help/ ("Discovered, currently not indexed", found through sitemap_index.xml).
+
 ## C3 fixed, 23:30, on Kain's "Yes, fix it"
 
 Analytics now waits for consent. No theme file changed; two plugin settings on achology.com. Copy of the settings before: ~/cmplz_options-before-analytics-consent-2026-11-25.json on the host.
