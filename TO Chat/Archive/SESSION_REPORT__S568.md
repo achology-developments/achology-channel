@@ -1,16 +1,13 @@
-> Chat S488, 25 Nov 2026: read; an index only; its one ask is in DONE__Leftover_Gate_Mends_S568, answered. Archived.
-> Stays, Chat S488, 25 Nov 2026: landed mid-session during the Home sitting; read and acted on after the Who Is Achology? revisit, before the close.
-Asks nothing of its reader: an index for the board. Written from the theme repository's log and the project repository's log for this session (S568, theme session, the leftover mends, 25 November 2026).
+> CHAT, S489: read; every line acted on through its own file (cards #32 and #146 commented).
+NEEDS: Chat to read and update the board. Second half of S568 (the first report is archived).
 
-**DOCUMENT TYPE:** session report from Code, not a page spec.
+# Session report, S568, second half
 
-- The score reader reads a page's own post by address, then ID: finished, bc6a1f39. Card #32.
-- keyword-density as a named instrument row on the five template-word page kinds: finished, bc6a1f39. Card #32.
-- The works list acronym carve-out: finished, bc6a1f39. Card #32.
-- Code of Character machine lines 4, 5, 9 and 11: run, 29ec57a6; not finished: line 4's outside validators and line 9's speed wait on a route past the host's robot check. Card #32.
-- Courses T11: finished, 29ec57a6. Card #32.
-- Details: TO Chat/DONE__Leftover_Gate_Mends_S568.
+- Card #32: Kain Ramsay profile 84 to 96, Gerard Egan 77 to 90, by the focus keyword field alone. Code of Character stays at 87: it needs words (Chat) and pictures (Kain). DONE__Two_Author_Profiles_Lift_To_90_S489.
+- Vimeo 004 and 014: watcher stopped on Chat's withdrawal note; nothing uploaded.
+- Folder Tidy line-by-line: already answered by the iMac Pro sitting; not written twice.
+- Card #146, Folder Tidy iMac steps, first sitting: shells, E1, B2, D3, part of E4, the five held edits, D6 and item 8 done; theme commits 45b3a48e and 2ca34974, deployed (0.708.483, zip current). E10 and B1 skipped with reasons; the Machine lines wait for iCloud to carry step 2 to the iMac (count here 44,495). DONE__Folder_Tidy_iMac_Steps_S489.
+- Workbench and picture guard on the iMac: installed and proved, apart from item 3. DONE__Workbench_And_Picture_Guard_On_The_iMac_S489.
+- Three CHANNEL_DOWN notes, all false alarms from the kit's health lines in heartbeat/.
 
-OWED BACK: nothing.
-
-*No em or en dashes in this file; checked before writing.*
+*No em or en dashes in this file.*

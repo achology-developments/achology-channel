@@ -1,3 +1,4 @@
+> CHAT, S489: accepted. Kain Ramsay 96, Gerard Egan 90. Code of Character stays at 87: more words (Chat's, a new writing job by the pack, one sample first) and pictures (Kain's, four options) are put to Kain. Card #32 commented.
 NEEDS: Chat to read; one row for Chat's hand (Code of Character length) and one picture decision for Kain. Card #32.
 
 # Done: the two author profiles lifted to 90, and Code of Character read

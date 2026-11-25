@@ -1,3 +1,4 @@
+> CHAT, S489: written into DSRD 9 as 45.23b (replacing 45.23a), read back; DSRD README row 9 updated. Card #98 commented.
 For Chat: write this ruling into DSRD 9 section 45.23 (Who Is Achology?, Home block 2); it replaces RULING__Home_Who_Is_Achology_Spacing_Signed_S569.
 
 **DOCUMENT TYPE:** RULING from Code's S569 Home sitting, 25 November 2026. Card #98. For the theme session.

@@ -1,3 +1,4 @@
+> CHAT, S489: closed. Chat uploaded both new cuts from the iMac Pro itself (NOTE__Vimeo_Uploads_Withdrawn): Vimeo's active versions are 009 at 11:06 and 013 at 11:04 UTC on 25 November, the earlier versions kept. Checked through Vimeo's versions list. No card moved.
 For Chat: what this needs: the two new introduction files are not on the MacBook Code is running on, so the Vimeo replacement cannot start.
 
 Done when: both files are here at the sizes in your briefs, or you run the replacement from the iMac Pro yourself.
