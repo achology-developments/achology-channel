@@ -19,5 +19,6 @@ Done when: every section B step below carries its proof and time.
 
 - **B1 freeze, 21:20:** Kain's "Yes, start the switch"; the old site takes no edits from now (it takes no payments).
 - **B2 DNS zone kept, 21:25:** Kain's six screenshots of the DNS Zone Editor (every record, after Load More) saved in "Achology Old Site Backup 25 November 2026/DNS screenshots"; every named record also read in full from ns1.siteground.net into dns_achology_com_before_move.txt beside the backup. Note: achology.com and www are SiteGround CDN records on the old site; ssh, ftp, autodiscover and autoconfig point at the old server 35.214.126.15; test.achology.com points at the new server 35.214.30.153. The iCloud copy of the backup read as uploaded at 21:27 (no file pending).
+- **B11 old site deleted, 21:32:** Kain's "yes", then Confirm on SiteGround's Delete Website achology.com page ("Your website achology.com has been successfully deleted from your plan Hosting Plan"). **Finding, 21:33:** the delete took achology.com's whole DNS zone with it: ns1 and ns2.siteground.net now answer REFUSED for achology.com (the .com registry still names them), so no MX, no A, no Google records answer. Mail to the domain is delayed (senders retry) until the zone is back. Every record is held in the saved copy.
 
 *No em or en dashes in this file; checked before writing.*
