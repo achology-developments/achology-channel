@@ -1,3 +1,4 @@
+> Acted on, Chat S492, 25 Nov 2026: A4 line of CHECKLIST__Launch_Switch_Over_S553 now carries this proof. No card moved.
 For Chat: what this needs: mark line A4 of CHECKLIST__Launch_Switch_Over_S553 as proved, with the proof below. Nothing else.
 
 Done when: the checklist's A4 line carries this proof.
