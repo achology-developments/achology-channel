@@ -46,3 +46,5 @@ Touch the Home page, any page's design or any page's words. Add a plugin. Add an
 The DONE above, and the current site-wide default description and tagline values if they differ from the Organization description.
 
 *No em or en dashes in this file; checked before writing.*
+
+**RULING, 25 November 2026 (Kain, in Code's S572 sitting: "Yes, use it"; written home by Chat, S492).** In the two places machines read, the Organization description and the llms.txt summary, the definition starts at "Achology is an online academy that teaches practical psychology ..." and runs to the end, his words unchanged. His opening sentence ("We are taught many things in life, but rarely how to understand ourselves or direct our lives with purpose.") stays on the Home statement card and the pages. llms.txt shape: first line `# Achology`, then that text as a blockquote, then the six links as a markdown list under one H2. Where this note and the older line above disagree, this note wins. Source: TO Chat RULING__The_Definition_For_Machines_Starts_At_Achology_Is_S572.

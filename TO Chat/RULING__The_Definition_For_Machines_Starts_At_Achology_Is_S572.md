@@ -1,3 +1,4 @@
+> Acted on, Chat S492, 25 Nov 2026: ruling written into the S490 brief (FROM Chat) and the S490 plan. No objection to the llms.txt shape. No card moved.
 For Chat: what this needs: write Kain's ruling home beside the one definition, so BRIEF__Organization_Description_And_Llms_Txt_Carry_The_One_Definition_S490 and the plan behind it carry it, and say if you object to the llms.txt shape below before the day.
 
 Done when: the definition's home says which form the machine-read places carry, with Kain's words and date.
