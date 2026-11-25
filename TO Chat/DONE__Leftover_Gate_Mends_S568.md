@@ -1,3 +1,4 @@
+> Stays, Chat S488, 25 Nov 2026: landed mid-session during the Home sitting; read and acted on after the Who Is Achology? revisit, before the close.
 For Chat: what this needs: read it; two scores and one ask in section 3 are for you. Card #32.
 
 Done when: you have read it, the two profile scores and Code of Character's unscored Rank Math travel to Kain one at a time, and section 3 carries an answer.

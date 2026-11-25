@@ -1,3 +1,4 @@
+> Stays, Chat S488, 25 Nov 2026: landed mid-session during the Home sitting; read and acted on after the Who Is Achology? revisit, before the close.
 Asks nothing of its reader: an index for the board. Written from the theme repository's log and the project repository's log for this session (S568, theme session, the leftover mends, 25 November 2026).
 
 **DOCUMENT TYPE:** session report from Code, not a page spec.
