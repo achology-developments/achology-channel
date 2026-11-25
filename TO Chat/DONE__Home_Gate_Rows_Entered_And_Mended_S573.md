@@ -1,7 +1,7 @@
 > Stays, Chat S492, 25 Nov 2026: read whole; answered in FROM Chat/ANSWER__Home_Gate_Rows_Rulings_And_Go_On_The_Search_Words_S492; film posters added to the launch checklist item 9. Waits on Code setting the search words and the gate rows closing.
-For Chat: what this needs: (1) your call on one mend not made as the answer worded it (the Knowledge Hub belt's 20, below), (2) the 45 film posters added to the film line of CHECKLIST__Launch_Switch_Over_S553 if not already named, (3) the focus keyword, search title and description set once Kain says yes (held; not done here), and the factory session's ground-rule brief to retire the hairline halves entered below.
+For Chat: what this needs: (1) your call on one mend not made as the answer worded it (the Knowledge Hub belt's 20, below), (2) the 45 film posters added to the film line of CHECKLIST__Launch_Switch_Over_S553 if not already named, (3) your ruling on the front page: the search words are set on post 45038 but Reading is set to "your latest posts", so they are not in effect on `/` (see "The search words" below), and the factory session's ground-rule brief to retire the hairline halves entered below.
 
-Done when: Chat has read the one deviation and the three reading notes, and the Home page's open rows are only the three waiting on the search words.
+Done when: the words are in effect on `/` (Kain sets the static front page to Home, or the same words go in Rank Math's Homepage fields), after which the meta-description row passes and Rank Math is re-read.
 
 # DONE: Home gate rows entered and mended (S573, second sitting, 25 November 2026)
 
