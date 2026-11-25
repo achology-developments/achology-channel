@@ -1,3 +1,4 @@
+> Stays, Chat S492, 25 Nov 2026: read whole. Part 1 item 12 (Accessibility Statement words) is Chat's; items 1 to 11 are Code's or Kain's. Waits on Kain's yes to write the Accessibility Statement words. No card moved.
 REPORT, read-only audit, 25 November 2026. Written by a Sonnet side session of Code's S572 main session. Changed no site, theme file, disposition or channel file; archived and deleted nothing; fetched no page; ran no gate. It asks Kain nothing: questions are in part 4 for the main session.
 
 **Read:** the first lines of all 299 FROM Chat files (three helper readers took a third each, grep-checking TO Chat and TO Chat/Archive and the theme at 0.708.490), both queue files, the theme queue, every live file in TO Chat, the Finish List plan, the launch checklist and the S572/S573 session reports. Where a point belongs to the launch-checks session, this says "see the section A report" (TO Chat/REPORT__Launch_Section_A_Checks_S572.md).
