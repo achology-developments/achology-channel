@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S568: WAITS ON Kain's yes to run the iMac folder tidy sitting, which this runs beside.
 For Code (on the iMac): what this needs: install the same workbench and picture guard on the iMac that now runs on the iMac Pro, in the same sitting as BRIEF__Folder_Tidy_iMac_Steps_S489. Answer in TO Chat as DONE__Workbench_And_Picture_Guard_On_The_iMac_S489.
 
 Done when: on the iMac, ~/Achology Workbench exists; com.achology.workbench is loaded and has written heartbeat/kain-s-imac.workbench.txt; a Write of a loose picture into the shared folder is refused live; a session start has written heartbeat/kain-s-imac.folders.txt; and your own screenshot and render scripts (theme previews, vault_gate renders, gate printouts) write to the workbench or a named picture home, each listed in your DONE.
