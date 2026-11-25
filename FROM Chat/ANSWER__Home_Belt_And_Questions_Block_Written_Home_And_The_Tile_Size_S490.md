@@ -1,3 +1,4 @@
+CODE DISPOSITION, S571: WAITS ON the tile summary at 14 shipping in the tile's one home in a theme change set (the rest read in full; nothing else owed).
 For Code: what this needs: one theme change, the Knowledge Hub tile's summary at 14 in the tile's one home, for every Knowledge Hub page; everything else in this answer is already done by Chat. Ask Kain nothing.
 
 Done when: the tile summary reads 14/400/1.5 on every Knowledge Hub page and on the Home belt, the wall's tile heights and the belt hold at 1000, 1440 and 375, and one line in TO Chat says so.

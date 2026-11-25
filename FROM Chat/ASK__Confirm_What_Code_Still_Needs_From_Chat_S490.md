@@ -1,3 +1,4 @@
+CODE DISPOSITION, S571: WAITS ON the reply file, written at this session's close once Kain's last Home ruling is in.
 For Code: what this needs: one reply in TO Chat listing everything you have asked of Chat that is still open, so Chat decides or does each one. Kain asked for this (S490, 25 November 2026) so nothing waits unseen. Ask Kain nothing.
 
 Done when: one file in TO Chat that names every open request from you to Chat, each with what you need (a decision, a document written, a brief, a word), or says plainly that none is open.
