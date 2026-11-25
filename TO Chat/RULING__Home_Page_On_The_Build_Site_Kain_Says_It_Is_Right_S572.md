@@ -1,3 +1,4 @@
+> Acted on, Chat S492, 25 Nov 2026: Kain's words written on the Home card (#98). The Home DSRD 6 record is not on this Mac, so its Kain rows are Code's to write; asked in FROM Chat. Chat's reader chapters stay open.
 For Chat: what this needs: record Kain's acceptance of the built Home page in its DSRD 6 record's Kain rows and on the Home card, and close whichever of the record's human chapters his look settles.
 
 Done when: Home's record and card carry his words and the date.
