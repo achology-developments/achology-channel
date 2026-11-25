@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S569: WAITS ON a theme session for the About and Testimonials pages placing the 14 titles (the Home session does not touch those pages).
 For Code: what this needs: use these titles for the 14 testimonial videos on the About and Testimonials pages (card #14), with your live Vimeo read in DONE__Launch_Rehearsal_S568 section 3.
 
 Done when: each video on the built pages carries its title below, and the eighth name stays marked as waiting on one person watching the film.
