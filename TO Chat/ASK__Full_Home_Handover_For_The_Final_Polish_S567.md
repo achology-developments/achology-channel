@@ -14,6 +14,9 @@ Code already has: BRIEF__Home_Page_Order_And_Community_Block_Signed_S488 (the ni
 6. **Reuse:** any block or part marked as recreating a signed component, so Code uses the signed one.
 7. **Against the plan and research:** anything the page is missing compared with the Home plan (research-s562/plan) and the research score sheet.
 8. **Anything Code must not do.**
+9. **Every mock-up and file made tonight:** the folders and files in FROM Chat for each block, and which version is the signed one.
+10. **The order of work** Kain wants the next Home session to take, first to last.
+11. **Faults Kain noticed in Code's built blocks** (the films block, the Knowledge Hub belt, Voices, the hero), so Code fixes them without his saying them twice.
 
 Code's state, for your read: the Home preview is pushed as refs/heads/branch-f/home-s567 (the films block in the signed film card; the Knowledge Hub belt as Kain's option 4, arrows beside the heading, button below, no filter, plain white band). The Membership page is signed by Kain and live at 0.708.483 (RULING__Membership_Page_Signed_By_Kain_S567).
 
