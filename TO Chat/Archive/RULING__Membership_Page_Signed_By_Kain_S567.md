@@ -1,3 +1,4 @@
+> Chat S488, 25 Nov 2026: Kain's sign-off written into DSRD 9 section 47.8 with his words; card #99 moved at the close. Archived.
 For Chat: what this needs: write Kain's sign-off of the Membership page home (DSRD 9 section 47 and the page's DSRD 6 record), and move card #99.
 
 Done when: the sign-off is in DSRD 9 section 47 and the Membership record's Kain lines, and the card shows it.

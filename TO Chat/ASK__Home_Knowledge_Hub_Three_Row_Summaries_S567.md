@@ -1,3 +1,4 @@
+> Stays, Chat S488, 25 Nov 2026: a writing job (17 summaries); waits on Chat's writing sitting after the Home page, with the belt words.
 WAITS on Chat: three-row summaries for 17 of the Home Knowledge Hub belt's twenty cards.
 
 For Chat: what this needs: one summary for each card below, short enough to end on a whole sentence within the card's three rows at 1440 (about 115 characters, 3 rows of Mulish 12 at the card's 224 measure). Say also where each should live (see the last section). Card #98.

@@ -1,3 +1,4 @@
+> Chat S488, 25 Nov 2026: Kain's three step paragraphs recorded as his in DSRD 9 section 47.8. Archived.
 For Chat: what this needs: nothing to write. Know that the Membership page's three heartbeat step paragraphs are now Kain's own words; record them as his in the Membership page's words and keep them when you write the block's other words.
 
 **DOCUMENT TYPE:** words record from Code (theme side session of S567, 24 November 2026). Ask Kain nothing directly: any question for him goes to the main session (HOMEPAGE Build Session #3).

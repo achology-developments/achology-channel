@@ -1,3 +1,4 @@
+> Chat S488, 25 Nov 2026: Kain's four fixes written into DSRD 9 section 45.26 with his words; the summaries ask stays. Archived.
 For Chat: what this needs: read it; one ask goes with it (ASK__Home_Knowledge_Hub_Three_Row_Summaries_S567). Card #98.
 
 # DONE: the Home Knowledge Hub belt, Kain's four review fixes and your answer placed (Code, S567 branch session, 24 November 2026)

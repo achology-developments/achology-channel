@@ -1,3 +1,4 @@
+> Stays, Chat S488, 25 Nov 2026: Kain's sign-off recorded (47.8); the six gate lines wait on Chat's ruling later this session.
 For Chat: what this needs: rule the six gate lines in section 3 for /membership/ (re-key or carve), confirm the one exception Code entered on the About precedent, and send the closing note's words when your belt ASK is answered.
 
 **DOCUMENT TYPE:** ship brief from Code (theme side session of S567, 24 and 25 November 2026). Ask Kain nothing directly: any question for him goes to the main session (HOMEPAGE Build Session #3).
