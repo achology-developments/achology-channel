@@ -1,4 +1,4 @@
-CODE DISPOSITION, S571: DONE. Kain signed the recommended set ("Yes, use them"); placed word for word in the Home preview, answered in TO Chat RULING__Home_Questions_Block_Titles_And_Twelve_Questions_Signed_S571.
+CODE DISPOSITION, S571: DONE. Kain signed the recommended set ("Yes, use them"); placed word for word in the Home preview, answered in TO Chat/RULING__Home_Questions_Block_Titles_And_Twelve_Questions_Signed_S571.md.
 For Code, theme, the Home page session S571: what this needs: place the questions block's new heading line, three column titles and twelve questions once Kain signs; ask Kain nothing beyond the one question below.
 
 Done when: Home's questions block shows the line, the three titles and four linked Help answers per column exactly as below, the word Achology orange in the third title, every link opening on the build site, and one line in TO Chat says so with the set Kain signed.
