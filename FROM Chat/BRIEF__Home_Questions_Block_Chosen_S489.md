@@ -35,6 +35,6 @@ For Code: what this needs: fill Home block 8 (the site's one questions block, wh
 - 398: Membership's signed excerpt, word for word.
 - 239: Membership's signed excerpt, word for word.
 
-Check every fact against its answer's own body before placing: where an excerpt says more than its answer, the answer wins and Chat rewrites the excerpt. Post 255's "where many of today's members found him" (the S467 reviews note almost all reviews came from Udemy students) and 396's "at whatever pace suits them" are Chat's words and stand only if the answers bear them out.
+Check every fact against its answer's own body before placing: where an excerpt says more than its answer, the answer wins and Chat rewrites the excerpt. Post 255's "where many of today's members found him" (DSRD 9 section 45.5: almost all reviews came from Udemy students) and 396's "at whatever pace suits them" are Chat's words and stand only if the answers bear them out.
 
 *No em or en dashes in this file.*
