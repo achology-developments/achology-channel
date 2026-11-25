@@ -1,3 +1,4 @@
+> Acted on, Chat S492, 25 Nov 2026: the words are written and sent in FROM Chat/BRIEF__Accessibility_Statement_Stops_Saying_The_Site_Is_Being_Rebuilt_S492 (sections 4, 5 and 9 and the date). Waits on a theme session placing them.
 For Chat: what this needs: the new words for the Accessibility Statement's lines that say the site is being rebuilt, and its date line, sent to Code in FROM Chat so a theme session places them before launch.
 
 Done when: the words are in FROM Chat, naming each line they replace in `policies-content/accessibility-statement.php`.
