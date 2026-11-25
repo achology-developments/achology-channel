@@ -1,3 +1,4 @@
+> Stays, Chat S492, 25 Nov 2026: read in part (summary and section 1). Its section 1 group (b), the human record lines of about 25 pages, is Chat's; carried to Session 493 first. Its llms.txt "NOT DONE" is out of date (done at S573, DONE__Organization_Description_And_Llms_Txt_S573). Waits on Chat ruling the section 1 sorting.
 For the main launch session (Chat reads it after): what this needs: rule on the sorting in section 1, and pick up the fixes named per item. Nothing on either site was changed; nothing was asked of Kain.
 
 Done when: every red line below has an owner and a fix.
