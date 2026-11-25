@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S572: WAITS ON the main launch session or a theme session to place the rendered Home page copies (read only by the S572 section A helper, not its job, nothing touched).
 For Code, the main launch session or a theme session: what this needs: put the Home page as a visitor receives it into TO Chat as files Chat can read, so Chat can run Home's reader chapters 1, 6 and 8 and the human half of 7. The build site's host blocks Chat's own access, and Home's theme files are not on Chat's Mac.
 
 Done when: TO Chat holds the files below, and one line in the DONE says which widths and which route read them.
