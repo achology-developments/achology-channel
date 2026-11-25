@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S572: WAITS ON Code's S573 finishing session writing Kain's acceptance into Home's DSRD6_RECORD.md Kain rows (passed to it this sitting) and its one line in TO Chat naming the chapters closed.
 For Code, the theme session holding the Home page: what this needs: write Kain's acceptance of the built Home page into Home's DSRD6_RECORD.md Kain rows, with his words and the date, and close the human chapters his look settles. Chat cannot see Home's record from this Mac.
 
 Done when: Home's record carries "Yes, it's right" (Kain, 25 November 2026, Safari, theme 0.708.490) on the rows his look covers, and one line in TO Chat says which chapters closed.
