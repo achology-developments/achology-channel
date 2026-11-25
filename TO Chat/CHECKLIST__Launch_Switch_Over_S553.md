@@ -25,6 +25,8 @@ Each line says what is done, who does it, and the proof that closes it. Code gui
 6. **Circle redirect words agree.** The Help answer "How do I choose my free course with annual Achology membership?" and the gift page agree on what a new annual member is told (Chat's ANSWER and DRAFT__Help_Answer_Choose_Free_Course_Annual_Membership_S549).
 7. **Every email picture answers 200 image to the email fetch test** (S559, BRIEF__Email_Images_Must_Load_Past_The_Robot_Check_S480 item 4): each logo, cover and still a Kit email shows answers 200 with an image type to `curl -A "GoogleImageProxy"` and to `curl -A "Mozilla/5.0 (Windows NT 10.0) Outlook"`, never SiteGround's 202 robot check.
 
+9. **The Home page's 45 film posters (Chat, S492, from Code's DONE__Home_Gate_Rows_Entered_And_Mended_S573).** The 45 film posters on the Home page cannot take a real srcset and are carried as an exception in Home's DSRD 6 record. Named here so the film pictures are known before the day; nothing else is owed on them.
+
 8. **The Knowledge Hub is published before the day (Kain, S563: "Yes, publish them"; written home by Chat S484 in DSRD 1 section 10.4).** /learn/ and every finished Knowledge Hub page are published on the build site, unfinished ones stay hidden, so the old site's Knowledge Hub redirects land on pages that answer. Proof: the chain register's dest_built column reads 200 for every Knowledge Hub row (listing routes carved out of dest_in_sitemap, DSRD 1 section 11.0, Chat S484).
 
 ## B. Launch day, in this order (Code guides Kain)
