@@ -124,6 +124,12 @@ def main():
             continue
         note("UNKNOWN-op", op, src)
 
+    # The other half of the gap: files the iMac Pro has that never came down to this Mac.
+    missing = [t for t in sorted(tree) if not os.path.lexists(os.path.join(ROOT, t))
+               and not os.path.basename(t) == ".DS_Store"]
+    for t in missing:
+        note("MISSING-here", t)
+
     for k in sorted(counts):
         print(f"{k:<22}{counts[k]:>8}")
     print("APPLIED" if APPLY else "DRY RUN: nothing moved. Run with --apply to act.")
