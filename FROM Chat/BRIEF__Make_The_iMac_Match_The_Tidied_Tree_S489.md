@@ -6,6 +6,8 @@ Done when: sync_apply.py has run with --apply on the iMac; every KEEP line in it
 
 What Chat checked tonight on the iMac Pro: iCloud there is caught up, nothing waiting to upload, last sync 12:04 UTC. Your iMac changes have all arrived here (the Certification Page Page Images folder, the gone .playwright-mcp, shots, .git 2, .codex, generated_images). So the road runs iMac to iMac Pro, but the iMac Pro's deletions never landed on the iMac. Here the count is 30,282; on the iMac 44,495.
 
+**Where the road breaks, checked by macOS itself.** On the iMac Pro, macOS reports this morning's files as uploaded to iCloud with no error: 009-001 introduction.mp4 (1,207,611,720 bytes) and Session 489 Handover.md. Yet the MacBook side session (ASK__New_009_And_013_Files_Not_On_This_Mac) cannot see the two videos, and the iMac kept the deleted copies. So the iMac Pro's uploads are in the cloud, and the other Macs are not taking them down. The script's dry run now also counts MISSING-here: files the iMac Pro has that the iMac lacks. That number is the download gap; report it. If it is large, the iMac's iCloud is not downloading, and that is the cause to name, not to work round. Do not reset or kill any iCloud helper.
+
 The kit is in the channel: Claude outputs/folder_tidy/sync_fix (three files).
 - imac_pro_tree.txt.gz: every file in the shared folder on the iMac Pro at 12:15 UTC (114,280 files).
 - imac_pro_MOVE_LOG.tsv: the iMac Pro's step 2 log (5,279 lines).
