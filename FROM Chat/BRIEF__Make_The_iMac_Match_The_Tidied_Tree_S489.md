@@ -13,7 +13,7 @@ The kit is in the channel: Claude outputs/folder_tidy/sync_fix (three files).
 - imac_pro_MOVE_LOG.tsv: the iMac Pro's step 2 log (5,279 lines).
 - sync_apply.py: replays that log on the iMac. It acts only where the tree proves the item is still gone on the iMac Pro. It never deletes: removals go to ~/Folder Tidy Holding 25 November 2026 (iMac)/from iMac Pro log. It never touches anything holding a .git (so achology-s566 and achology-factory stay), nor anything changed after 01:00 UTC on 25 November (reported as KEEP-changed-since for you to read). A MOVE whose destination already exists moves across only the files the destination lacks.
 
-1. Run `python3 sync_apply.py` (dry run) and read the counts. Run it on the iMac only.
+1. Run `python3 sync_apply.py` (dry run) and read the counts, MISSING-here among them. Run it on the iMac only. If MISSING-here is in the thousands, stop after step 3 and report: the moves wait until the iMac has caught up.
 2. Run `python3 sync_apply.py --apply`.
 3. Run `brctl status` and note whether iCloud on the iMac reads caught-up. If it is not, say what it shows: that is the cause.
 4. Run the folder check and report both numbers.
