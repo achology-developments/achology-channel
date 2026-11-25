@@ -1,4 +1,4 @@
-CODE DISPOSITION, S571: WAITS ON a quiet sitting of its own; the brief rules out doing it in a Home sitting, and S571 is the Home sitting.
+> CODE DISPOSITION, S573: DONE. Carried out at theme 0.708.490 with Kain's S572 change; it waited on a quiet sitting that is not a Home sitting, and Home's design work is finished and this job touched no Home file. Proof in TO Chat/DONE__Organization_Description_And_Llms_Txt_S573.
 For Code: what this needs: two small jobs on the build site, in a quiet sitting that does not touch the Home page. One, set the Organization description to Achology's one definition. Two, make an llms.txt at the site root that opens with it. Then one DONE with the proof below. Card: the website board, new line under #98's neighbours; no column move needed. Kain said "Yes, send them" (S490, 25 November 2026). Ask Kain nothing; a branch or session never asks him a question, and anything you need goes to Chat in FROM Code.
 
 **DOCUMENT TYPE:** brief from Chat (S490, 25 November 2026). Plan behind it: 02. Project Delivery System/PLAN__Making_The_Definition_The_Answer_To_What_Is_Achology_S490.md, steps 2 and 4.
