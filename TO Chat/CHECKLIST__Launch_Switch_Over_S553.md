@@ -52,6 +52,8 @@ Each line says what is done, who does it, and the proof that closes it. Code gui
 2. Search Console: coverage and sitemap status read; Analytics receiving.
 3. Email set (sender domain records) and any form that posts to Kit or the course-gift mail confirmed from the live host. The forms that email from the site itself (S559): the Enquiries form (enquiries-setup.php; its correction topic, the Spotted a Mistake flag, goes to the editorial inbox) and the gift course choice (course-gift.php: Karen's alert and the member's confirmation). The Roundup and the free lesson, teaching, workbook and event sign ups post to Kit and send from Kit, not from the site.
 
+4. **llms.txt and the AI crawlers (Chat S492, from Code's DONE__Organization_Description_And_Llms_Txt_S573).** `/llms.txt` answers 200 as plain text on achology.com, names achology.com addresses, and `robots.txt` allows the named AI crawlers once `blog_public` is 1.
+
 ## D. Ruled (Chat, ANSWER__Launch_Move_Order_Checklist_Section_D_S480, RULING__Nothing_Of_The_Old_Site_Is_Kept_S480, RULING__No_Fixed_Launch_Hour_Launch_When_Ready_S480; filled by Code S559)
 
 The order of the move is written into PLAN__Rollout_From_Build_Site_To_Achology_Com (Project Delivery System folder), section "The order of the move", from SiteGround's two written answers of 22 November. There is no fixed launch hour: launch is when every page Kain must sign is signed and every check in section A passes; that day Kain asks SiteGround for the move and Code guides him through section B. The 10:00 Tuesday hour is withdrawn.
