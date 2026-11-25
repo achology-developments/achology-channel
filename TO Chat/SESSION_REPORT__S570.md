@@ -9,6 +9,8 @@
 - Finished: the polish of the pick (one large paragraph, one three-column grid, nothing floating, spaces on the scale), then Kain's four further mends (hairline, steeper climb, the tie family, the third drawing). Kain: "Yes, it's right". Same card. The record is RULING__Home_What_Is_Achology_The_Climb_With_The_Sign_Picked_S570 in this folder.
 - Finished: shoot_what.js, which pictures the block in WebKit and lists every gap above and beneath every part, flagging any off DSRD 7's space scale. Same card.
 - Finished: the photograph options, their pictures, journey_img.py and the four spent rounds removed from the preview. Same card.
+- Finished: Kain's rewritten bridging paragraph placed word for word after the sign-off ("...at different stages of their personal growth and development journeys."), and the paragraph's phone size mended to Body 16. Same card.
+- For the next sitting, Kain's words at the close: "at the start of the next session, I just have some copy changes to give you for block 2 and block 3 as well".
 - Read, nothing to build: FROM Chat RULING__Code_Of_Character_Signed_At_87_S489. Card 32.
 - Not finished, and not this session's: FROM Chat BRIEF__Make_The_iMac_Match_The_Tidied_Tree_S489, which waits for a sitting on the iMac with no theme session open.
 - Not finished: the block's styles still carry the unpicked options' rules, and the polish and mend rules as separate layers (classes wj--p and wj--t); folding them into one set of rules is housekeeping owed before the block is built into the theme.
