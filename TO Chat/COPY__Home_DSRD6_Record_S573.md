@@ -1,4 +1,3 @@
-> Stays, Chat S492, 25 Nov 2026: read whole. Chapters 1, 6, 8 (and 7 human half) are Chat's reader chapters, not yet run. Waits on Kain's yes to run them.
 # DSRD 6 RECORD: Home
 
 **Page:** home
@@ -33,7 +32,7 @@ DSRD 6 §0: Code writes the machine lines, Chat writes the human-reading lines, 
 | 1 | Copy standards | machine + human reader | not run |
 | 2 | Page structure and headings | machine | pass, 2026-11-25, [machine, theme 0.708.490] page_gate v9 on the build site: 16 checks pass, 5 recorded carve-outs (the signed Home headings and supporting lines, the hero h1, header-to-content; each entered from Chat's ANSWER__Home_Search_Words_And_Hairline_Ruling_S573 section 5 and listed under Recorded exceptions below) |
 | 3 | Metadata and preview data | machine | pass, 2026-11-25, [machine, theme 0.708.490] meta-title 59 characters (Achology: Understand Yourself, Then Help Others Do the Same) and meta-description 150 characters, both Kain's signed words ("Yes, those words"), served now that Home is the static front page; address `/` matches DSRD 1; canonical and indexing are the noindex build-ground carve-out (section 3 row 3, S245); the open graph picture is handled sitewide |
-| 4 | Schema markup | machine | not run |
+| 4 | Schema markup | machine | pass, 2026-11-25, [machine, theme 0.708.491, live on achology.com] Schema Markup Validator on https://achology.com/: 0 errors, 0 warnings (WebPage, EducationalOrganization, WebSite, ImageObject); Google's Rich Results Test crawled the live page successfully at 23:11 and flags nothing (no rich result type applies to Home); the one JSON-LD block parses and names only achology.com |
 | 5 | Search visibility | machine | pass, 2026-11-25, [machine, theme 0.708.490] Rank Math 97 for post 45038, keyword `achology`, over the 95 target; read from the editor's analyser with nothing saved (tools/score_run.py, session minted and revoked) and written in Code's score table, `~/.claude/achology_rank_math_scores.tsv`, row `45038 97 settled achology`; the page_gate rank-math row reads the same table and prints PASS. The one failing Rank Math test is keywordInImageAlt: Home's pictures are decorative, Chat's call, no alts written (ANSWER__Home_Keyword_Density_Carve_Out_And_Image_Alts_S492 item 2). keyword-density is the template-page carve-out the Courses, Accreditation, Policies and Events pages take (same answer, item 1) |
 | 6 | AI visibility | human reader | not run |
 | 7 | Accessibility | machine, then human reader | not run |
