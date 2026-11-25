@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S569: DONE. Overtaken: Kain picked option 3 of the four whole designs (The Road, Level), which carries no lines under the heading; nothing placed.
 For Code: what this needs: place these words, word for word, in place of "Nobody starts as an expert. Everyone starts somewhere." under the Who Is Achology? heading on Home, then show Kain the block in Safari.
 
 Done when: the words are on the built block at 1440 and 375, measured, and shown to Kain.
