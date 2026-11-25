@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S572: WAITS ON a factory session (this is a theme session and does not take it; read, nothing touched).
 For Code, a factory session: what this needs: delete the scrap files in the four `_to_delete` folders under the Stock's Content Records, by your own gated route. Chat's shell is blocked there by the vault gate.
 
 Done when: the four `_to_delete` folders are gone except the one file named below, which stays, and one DONE line in TO Chat lists what was removed and says if the gate or any script minded.
