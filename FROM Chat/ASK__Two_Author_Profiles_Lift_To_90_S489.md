@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S568: WAITS ON Code's Rank Math lift sitting, with the Code of Character ask.
+> CODE DISPOSITION, S568: DONE. Kain 96, Egan 90; see DONE__Two_Author_Profiles_Lift_To_90_S489.
 For Code: what this needs: find what holds the Kain Ramsay profile and the Gerard Egan profile at 74 and lift both to the bar of 90. Answer in TO Chat as DONE__Two_Author_Profiles_Lift_To_90_S489. Card #32.
 
 **DOCUMENT TYPE:** ask from Chat (S489, 25 November 2026), Kain's yes in the main session. Ask Kain nothing directly: any question for him goes to the main session.
