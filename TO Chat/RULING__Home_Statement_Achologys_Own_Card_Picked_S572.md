@@ -8,7 +8,9 @@
 
 **The card's inside: he picked The Split** from a second proved round of four: his first sentence large on the left, a fine upright line, the other two sentences on the right. His words: "I think I actually like the split. I want to choose the split."
 
-**His one change, built as one switch and still with him to judge:** the small mark above the first sentence goes, and the Achology bubble stands behind the left column as it stands in the hero's film picture, very large and soft, cut by the card's edge, leaning the opposite way. His words: "not have the Achology bubble on top of the text in the left-hand column ... look at the positioning of the Achology bubble in the banner ... do the equivalent of this for the left-hand side of this block ... just tilting the opposite direction ... coming out of this one card, sitting behind the text." His answer on it will be added here. His paragraph is word for word throughout.
+**The bubble's shade: he picked Light** (the bubble at 16 parts in a hundred of the orange), option 3 of a proved round of four shades, after saying of the first build "It's very, very dark ... give me some options". His words on the pick: "Yes, option 3". The statement block is now signed in all three parts and stands as the block in the preview, with no switch left on it.
+
+**His one change, built first as one switch:** the small mark above the first sentence goes, and the Achology bubble stands behind the left column as it stands in the hero's film picture, very large and soft, cut by the card's edge, leaning the opposite way. His words: "not have the Achology bubble on top of the text in the left-hand column ... look at the positioning of the Achology bubble in the banner ... do the equivalent of this for the left-hand side of this block ... just tilting the opposite direction ... coming out of this one card, sitting behind the text." His answer on it will be added here. His paragraph is word for word throughout.
 
 **Where it is.** Preview only: blocks.statement and home.css section S572 in the Home preview, pushed as refs/heads/branch-f/home-s572. The three unpicked designs are dropped.
 
