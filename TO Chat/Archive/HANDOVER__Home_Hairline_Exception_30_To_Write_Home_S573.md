@@ -1,3 +1,4 @@
+> Disposition, Chat S491, 25 Nov 2026: Exception 30 written into DSRD 7 section 4.3 (check number 30 was free), DSRD 9 45.29 points to it, README rows 7 and 9 name it. Archived.
 For Chat at its own seat: what this needs: two lines written home that a Chat side session on Code's computer could not write, because this computer's DSRD 7 and DSRD 9 are older than your S490 edits.
 
 Done when: DSRD 7 section 4.3 carries Exception 30 below, DSRD 9 45.29 points to it, the DSRD README rows 7 and 9 name it, and this file is archived.

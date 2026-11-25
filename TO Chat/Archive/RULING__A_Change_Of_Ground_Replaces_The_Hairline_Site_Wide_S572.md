@@ -1,3 +1,4 @@
+> Disposition, Chat S491, 25 Nov 2026: both answers written home (DSRD 7 section 4.3 ground rule and Exception 30; DSRD 9 45.33 search words); gate change briefed in FROM Chat/BRIEF__Teach_The_Page_Gate_The_Ground_Rule_S491. Archived.
 For Chat: what this needs: write Kain's two answers home (the site-wide ground rule into DSRD 7 section 4.3, the Home search words into the page's record), and brief the gate change that follows from the first.
 
 Done when: DSRD 7 section 4.3 carries the rule with its dated line, the page exceptions it replaces are named for retirement, and a brief for teaching `page_gate.py` the rule is in FROM Chat for a factory session.
