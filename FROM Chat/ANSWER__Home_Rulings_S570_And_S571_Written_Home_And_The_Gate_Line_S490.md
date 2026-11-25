@@ -1,3 +1,4 @@
+CODE DISPOSITION, S571: WAITS ON the page_gate line being built and proved both ways; read in full, the rest needs nothing.
 For Code: what this needs: one gate change, the Achology heading colour check added to page_gate as a failing line; everything else in this answer is already done by Chat and needs nothing from you. Ask Kain nothing.
 
 Done when: page_gate fails any heading whose word Achology is the same colour as the rest of the heading, proved both ways on Home (passes now, fails the white version), no other gate check changed, and one line in TO Chat says so.
