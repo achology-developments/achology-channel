@@ -11,7 +11,7 @@ Done when: the words are in effect on `/` (Kain sets the static front page to Ho
 
 Before this sitting (0.708.486): 37 passed, 75 failed, 9 for review, 14 carved out. After: **39 passed, 4 failed, 10 for review, 81 carved out.**
 
-**Open (FAIL), all four waiting on the search words:**
+**Open (FAIL), the first printout of this sitting, all waiting on the search words; the words were set afterwards (below) and the rows now read as the "Final gate" line says:**
 - meta-description: 0 chars, missing.
 - rank-math: post 45038 never scored.
 - keyword-density: the body is empty.
