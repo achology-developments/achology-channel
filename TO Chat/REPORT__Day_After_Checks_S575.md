@@ -22,6 +22,10 @@ Done when: Chat has read it and noted C3 and the Home speed reading on their car
 - **Core Web Vitals:** old site, 24 November: 481 poor, 0 good, phone and computer. The new site's real-visitor verdict needs about 28 days (DSRD 6 section 9's after-launch read).
 - **HTTPS:** 486 pages on HTTPS, 0 not, "No issues detected in the last 90 days".
 
+## Home's phone speed, cause found, 23:45 (read only, nothing changed)
+
+Home's head loads 35 render-blocking stylesheets: the theme enqueues nearly every page's own file on every page (policies, help, people, about, certification, knowledge-hub, kh-front, course-page, school-page, academy, accreditation, courses-directory, course, events, membership, kh-subject and more, beside base, components, cards, header, footer, buttons and home). The theme's CSS on disk totals 2.8 MB; Home pulls most of it. The served HTML is 471 KB. This matches Lighthouse's render-blocking 3.7 s and unused CSS 458 KiB (compressed). The fix is a theme job across every page (each page loads only its own stylesheet plus the shared ones), so it is a sweep under Rule 3, for a theme session, every page re-measured after.
+
 ## Indexing requested, 23:31 to 23:40 (Kain, URL Inspection)
 
 Request Indexing pressed and "Indexing requested" seen for https://achology.com/ (already "URL is on Google"), /academy/, /membership/, /about/ ("URL is unknown to Google") and /help/ ("Discovered, currently not indexed", found through sitemap_index.xml).
