@@ -1,3 +1,4 @@
+> Stays, Chat S491, 25 Nov 2026: read; nothing owed by Chat. Waits on Code's S572 close.
 > Stays, Chat S490, 25 Nov 2026: read; its S572 rulings are written into DSRD 9 45.32. Waits on Code's S572 close, which completes its report.
 # SESSION REPORT, S572 (theme session, 25 November 2026)
 

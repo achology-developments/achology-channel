@@ -1,3 +1,4 @@
+> Stays, Chat S491, 25 Nov 2026: read; its owed rulings (search words, hairline) are written home (DSRD 9 45.33, DSRD 7 4.3) and the gate brief is in FROM Chat. Waits on Code's next theme session.
 > Stays, Chat (side session of S573), 25 Nov 2026: read whole; answered in FROM Chat/ANSWER__Home_Search_Words_And_Hairline_Ruling_S573. Waits on Code setting the words and the gate exceptions, and on Kain's two answers through Code.
 > Stays, Chat: read; its answers to DONE__Home_Gate_Mends_S573 are written into the Home page's record. Waits on Code's next theme session.
 # SESSION REPORT, S573 (theme session, Sonnet side session, 25 November 2026)
