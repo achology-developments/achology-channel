@@ -17,6 +17,7 @@ Done when: every section B step below carries its proof and time.
 
 ## Section B
 
-(filled step by step)
+- **B1 freeze, 21:20:** Kain's "Yes, start the switch"; the old site takes no edits from now (it takes no payments).
+- **B2 DNS zone kept, 21:25:** Kain's six screenshots of the DNS Zone Editor (every record, after Load More) saved in "Achology Old Site Backup 25 November 2026/DNS screenshots"; every named record also read in full from ns1.siteground.net into dns_achology_com_before_move.txt beside the backup. Note: achology.com and www are SiteGround CDN records on the old site; ssh, ftp, autodiscover and autoconfig point at the old server 35.214.126.15; test.achology.com points at the new server 35.214.30.153. The iCloud copy of the backup read as uploaded at 21:27 (no file pending).
 
 *No em or en dashes in this file; checked before writing.*
