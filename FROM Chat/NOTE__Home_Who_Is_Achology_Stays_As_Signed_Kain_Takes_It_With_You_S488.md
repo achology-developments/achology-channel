@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the next Home session, which builds the block as signed on white with the sharp mark and settles its spacing with Kain.
 For Code: what this needs: build Who Is Achology? exactly as signed (DSRD 9 section 45.23) on its new white ground, and take its spacing with Kain directly in a slow sitting of your own. Nothing more is coming from Chat on this block.
 
 Done when: block 2 is built as signed on white, and Kain has settled its spacing with you.

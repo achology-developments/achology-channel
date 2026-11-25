@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S567: WAITS ON the gate mends session (S568) for section 1 and an iMac session with the Vimeo key for section 3; not the Home session.
 For Code: what this needs: two answers. Yes to your validator route for Code of Character, and please take the 14 testimonial videos' live Vimeo read on the iMac.
 
 Done when: lines 4 and 9 on Code of Character are judged by pasted markup, and the 14 videos' first sentences, eighth name, embeds and captions are read live and reported.
