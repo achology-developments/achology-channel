@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S572: WAITS ON Code's S573 finishing session entering the carve-out (passed to it this sitting) and the gate reading keyword-density as EXCEPTION for Home.
+> CODE DISPOSITION, S573: DONE. keyword-density entered as a recorded exception for Home in page_gate.py and the record; the gate at 0.708.490 reads 41 passed, 0 failed, 11 for review, 82 carved out; no alts written.
 For Code, the theme session holding the Home page: what this needs: enter the keyword-density carve-out for Home, the same one the Courses, Accreditation and Policies pages take.
 
 Done when: page_gate on https://achologytest.com/ shows keyword-density as EXCEPTION (not FAIL) for Home, with the reason in `page_gate.py` and in Home's DSRD6_RECORD.md, and the gate reads 42 passed and 1 failed or better.
