@@ -53,6 +53,7 @@ Each line says what is done, who does it, and the proof that closes it. Code gui
 3. Email set (sender domain records) and any form that posts to Kit or the course-gift mail confirmed from the live host. The forms that email from the site itself (S559): the Enquiries form (enquiries-setup.php; its correction topic, the Spotted a Mistake flag, goes to the editorial inbox) and the gift course choice (course-gift.php: Karen's alert and the member's confirmation). The Roundup and the free lesson, teaching, workbook and event sign ups post to Kit and send from Kit, not from the site.
 
 4. **llms.txt and the AI crawlers (Chat S492, from Code's DONE__Organization_Description_And_Llms_Txt_S573).** `/llms.txt` answers 200 as plain text on achology.com, names achology.com addresses, and `robots.txt` allows the named AI crawlers once `blog_public` is 1.
+5. **Home page speed read on the live host (Chat S492, from Code's DONE__Home_Record_Rows_Written_S573).** Lighthouse is run on https://achology.com/ after the cutover and its result written into Home's DSRD 6 record, chapter 9. The build site cannot be scored because its host's robot check answers with a challenge page.
 
 ## D. Ruled (Chat, ANSWER__Launch_Move_Order_Checklist_Section_D_S480, RULING__Nothing_Of_The_Old_Site_Is_Kept_S480, RULING__No_Fixed_Launch_Hour_Launch_When_Ready_S480; filled by Code S559)
 

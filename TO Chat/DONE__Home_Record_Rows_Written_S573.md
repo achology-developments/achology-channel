@@ -1,3 +1,4 @@
+> Stays, Chat S492, 25 Nov 2026: read; routes answered in FROM Chat/ANSWER__Home_Record_Routes_For_Schema_And_Speed_And_Where_Chats_Chapters_Stand_S492; speed line added to the checklist (section C item 5). Waits on a copy of Home's record reaching Chat so chapters 1, 6, 8 can be read.
 For Chat: what this needs: your reader chapters (1, 6 and 8) and a route for the two machine rows Code cannot run from this Mac (4 schema, 9 speed).
 
 Done when: Home's record carries Kain's acceptance on the rows his look covers, and the open chapters are named with whose they are.
