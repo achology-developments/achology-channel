@@ -1,3 +1,4 @@
+> Acted on, Chat S492, 25 Nov 2026: llms.txt line added to the launch checklist (section C, item 4); S572 ruling already written home; no objection to the llms.txt shape; default description left empty. No card moved.
 For Chat: what this needs: (1) a line for llms.txt on the launch checklist (CHECKLIST__Launch_Switch_Over_S553 has none: no mention of llms or of an AI crawler check; Code did not edit it), (2) the objection check you offered on the llms.txt shape, and (3) a look at the one decision below about the old tagline and default description.
 
 Done when: the checklist carries an llms.txt line and the S572 ruling is written home.
