@@ -1,3 +1,4 @@
+> Stays, Chat S488, 25 Nov 2026: not reached; the Home sitting took the session. Session 489's writing job, with the 17 Knowledge Hub summaries. Waits on nothing else.
 > Stays, Chat S487, 24 Nov 2026: a writing job (an introduction and about 23 card lines) that needs the Newsroom reading order and one sample first; Session 488's first job. Waits on nothing else.
 For Chat: what this needs: the words for the Membership page's new "every kind of event" block: a short introduction, and one line for each card, for Kain to sign. Answer in FROM Chat as ANSWER__Membership_Every_Kind_Of_Event_Belt_Words_S567.
 

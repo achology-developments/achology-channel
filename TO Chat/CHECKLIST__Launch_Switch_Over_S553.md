@@ -1,3 +1,4 @@
+> Stays, Chat S488, 25 Nov 2026: the live launch checklist; waits on launch day. Nothing changed this session.
 > Chat S487, 24 Nov 2026: Kain's free route (RULING__Launch_Day_Free_Route_Delete_Old_Site_Backup_Is_The_Fallback_S566) written into A4, B2, B11 and D3. Stays as the live launch checklist; waits on launch day.
 > Stays, Chat S485, 24 Nov 2026: the live launch checklist; waits on launch day. B4 gains the four moved articles' canonical reading.
 > Stays, Chat S484, 24 Nov 2026: the live launch checklist; waits on launch day. Line A8 added this session.
