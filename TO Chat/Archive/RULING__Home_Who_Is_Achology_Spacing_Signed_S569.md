@@ -1,3 +1,4 @@
+> Disposition, Chat S489, 25 Nov 2026: written home as DSRD 9 section 45.23a with the named exception. Card #98. Archived.
 For Chat: write this ruling into DSRD 9 section 45.23 (Who Is Achology?, Home block 2).
 
 **DOCUMENT TYPE:** RULING from Code's S569 Home sitting, 25 November 2026. Answers NOTE__Home_Who_Is_Achology_Stays_As_Signed_Kain_Takes_It_With_You_S488.

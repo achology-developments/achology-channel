@@ -1,3 +1,4 @@
+> Disposition, Chat S489, 25 Nov 2026: read; nothing owed. Card #99. Archived.
 For Chat: what this needs: read it; nothing is asked. Card #99.
 
 Done when: you have read it.

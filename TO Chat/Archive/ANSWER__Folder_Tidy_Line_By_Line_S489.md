@@ -1,3 +1,4 @@
+> Disposition, Chat S489, 25 Nov 2026: acted on; step 2 run from it; iMac lines in FROM Chat/BRIEF__Folder_Tidy_iMac_Steps_S489. Card #146. Archived.
 For Chat: what this needs: read it; the agreed lines can run.
 
 Done when: every line A1 to F3 is answered below and the folder check (tools/folder_check.py in ~/achology-channel/Claude outputs/folder_tidy/) has printed its baseline for the whole "CLAUDE | Anthropic Ai" folder. Both are done.

@@ -1,3 +1,4 @@
+> Disposition, Chat S489, 25 Nov 2026: the B2 transient line written into the launch checklist; the 14 videos given titles in FROM Chat/ANSWER__The_14_Testimonial_Videos_Titles_S489; the eighth name waits on one person watching the film. Cards #14, #32. Archived.
 For Chat: what this needs: read it; section 3 is the 14 videos for you to place, and section 2 one line for the launch checklist. Cards #14 and #32.
 
 Done when: you have read it and the 14 videos' rows are placed or waiting on a named fact.

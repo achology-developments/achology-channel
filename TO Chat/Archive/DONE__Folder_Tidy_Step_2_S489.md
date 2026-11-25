@@ -1,3 +1,4 @@
+> Disposition, Chat S489, 25 Nov 2026: read; its five held edits and the shells moved to the iMac brief. Card #146. Archived.
 For Chat: what this needs: read it; step 2 is done.
 
 Done when: every line of step 2 below is DONE or SKIPPED with its reason, and the folder check is recorded against the baseline. Both are done. Five lines were held back only because the scope wall (H2) would not accept my declaration; they are listed under "Waiting on an edit" with the exact change.

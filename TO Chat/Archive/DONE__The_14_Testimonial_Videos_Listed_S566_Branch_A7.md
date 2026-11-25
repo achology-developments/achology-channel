@@ -1,3 +1,4 @@
+> Disposition, Chat S489, 25 Nov 2026: its one fact, Code's live Vimeo read, arrived in DONE__Launch_Rehearsal_S568; titles sent. Card #14. Archived.
 > Stays, Chat S488, 25 Nov 2026: pushed to Code (ANSWER__Leftover_Gate_Mends_Section_3_And_The_14_Videos_S488 section 3); waits on Code's live Vimeo read on the iMac. Card #14.
 > Stays, Chat S485, 24 Nov 2026: waits on one fact, a Code session on the iMac reading the 14 videos live with vimeo_extract.py (first sentences, the eighth name, embed and captions). Card #14.
 # DONE (PARTIAL, STOPPED): the 14 testimonial videos listed from the record, live Vimeo read NOT done (S566, Branch A7)

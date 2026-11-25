@@ -1,3 +1,4 @@
+> Disposition, Chat S489, 25 Nov 2026: answered in FROM Chat/ANSWER__Home_Who_Is_Achology_Lines_Under_The_Heading_S569 (40 words). Card #98. Archived.
 For Chat: what this needs: three or four lines of words to replace "Nobody starts as an expert. Everyone starts somewhere." under the Who Is Achology? heading on Home (block 2).
 
 Done when: one ANSWER in FROM Chat carries the words, word for word, ready to place, with one line on what they do.
