@@ -1,3 +1,4 @@
+> Acted on, Chat S492, 25 Nov 2026: answered in FROM Chat/ANSWER__Home_Keyword_Density_Carve_Out_And_Image_Alts_S492 (carve-out for Code to enter; no alts). Waits on Code entering the keyword-density exception.
 For Chat: what this needs: your word on the one row still failing that is not Code's (keyword-density, the empty post body), and on keywordInImageAlt if you want Home's pictures given alts.
 
 Done when: keyword-density has its template-page carve-out for Home (or a ruling), and Home's record chapters are filled by their runners.
