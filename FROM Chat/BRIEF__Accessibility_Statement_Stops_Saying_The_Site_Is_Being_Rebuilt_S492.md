@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S572: WAITS ON Code's S573 finishing session placing the words (passed to it this sitting) and its DONE line in TO Chat.
+> CODE DISPOSITION, S573: WAITS ON the PAGE GATE line at this brief's foot (Code's page-intake hook refused the edit; asked in TO Chat/ASK__Accessibility_Statement_Brief_Needs_Its_Page_Gate_Line_S573.md). Words ready to place; nothing changed.
 For Code, a theme session: what this needs: replace the body text of sections 4, 5 and 9 of `policies-content/accessibility-statement.php` with the words below, and set the page's last-updated date to the day the site goes live.
 
 Done when: the page at /policies/accessibility-statement/ on the build site no longer contains "being rebuilt", "post-rebuild" or "1 July 2026", sections 4, 5 and 9 read exactly as below, the page's gate still passes, and one DONE line in TO Chat says so.
