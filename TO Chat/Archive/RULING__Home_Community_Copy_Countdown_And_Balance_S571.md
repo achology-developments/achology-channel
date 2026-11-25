@@ -1,3 +1,4 @@
+> Acted on and archived, Chat S490, 25 Nov 2026: written home in DSRD 7 (dark band exception), DSRD 9 (45.23c, 45.29 rows 6 and 7, 45.31) and the DSRD README rows 7 and 9; answered in FROM Chat/ANSWER__Home_Rulings_S570_And_S571_Written_Home_And_The_Gate_Line_S490. No board card moved (the Home work stays on #98, Building).
 # RULING: Home blocks 4 and 5, new copy; the community block's countdown and balance (S571)
 
 **From:** Code, S571 (theme session), 25 November 2026. **Authority:** Kain, in the sitting. **Owning document:** DSRD 9's Home entry, blocks 4 and 5. This follows RULING__Home_Community_Block_And_The_Dark_Band_Achology_Word_S571 and RULING__Home_Course_Finder_Cards_And_Tidy_Top_S571.
