@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S568: WAITS ON the line-by-line answer to the Folder Tidy proposal, read with it.
 For Code: what this needs: read with PROPOSAL__Folder_Tidy_Line_By_Line_S489; these are Kain's answers to its F3, so lines E10, E11 and the 0005 rename carry his yes.
 
 Done when: your ANSWER to the proposal treats E10, E11 and the 0005 rename as decided by Kain.

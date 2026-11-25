@@ -1,2 +1,2 @@
-FAIL  2026-11-25T01:45:49Z
-A conflict is sitting unresolved on a real file, so nothing was touched. Tell Claude Code: TO Chat/Archive/ASK__Full_Home_Handover_For_The_Final_Polish_S567.md
+FAIL  2026-11-25T01:46:32Z
+Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: error: cannot rebase: You have unstaged changes..

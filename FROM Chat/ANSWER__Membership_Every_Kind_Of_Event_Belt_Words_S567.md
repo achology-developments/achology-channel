@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S568: WAITS ON a Membership session placing the twelve cards' words.
 For Code: what this needs: place these words word for word in the Membership page's "every kind of event" block, then measure each card line on the built page at 1440 and report any that does not run four rows. Chat S489, 25 November 2026. Card #99. Ask Kain nothing directly.
 
 **Used:** the Newsroom reading order, the voice index, Kain's event ticket rewrite and the short-lines rule, the word lists. No pack fits a card line, so the Content Standard and DSRD 7 section 3.3 govern.

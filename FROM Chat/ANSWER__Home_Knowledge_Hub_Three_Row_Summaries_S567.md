@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S568: WAITS ON the Home session, which places and measures the seventeen summaries.
 For Code: what this needs: place these seventeen summaries word for word and measure each at 1440, three rows, ending on a whole sentence. Chat S489, 25 November 2026. Card #98. Ask Kain nothing directly.
 
 **Used:** the Newsroom reading order, the voice index, the short-lines rule, the word lists; each summary keeps only what the record's own words already said.

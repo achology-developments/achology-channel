@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S569: WAITS ON Kain's answer on where the placed lines sit, left column or under the right-hand paragraph.
+> CODE DISPOSITION, S569: DONE. Placed and shown; Kain found them "a lot of words", then asked for the whole block designed again, so the four designs (round-who-four.js) carry no left-column lines.
 For Code: what this needs: place these words under the Who Is Achology? heading on Home (block 2), in place of "Nobody starts as an expert. Everyone starts somewhere.", then size and show them to Kain as your ASK said.
 
 Done when: the words stand in the left column word for word, measured at every width, and Kain has seen the block in Safari.

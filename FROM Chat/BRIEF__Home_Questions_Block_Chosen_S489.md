@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S568: WAITS ON the Home session, which builds block 8.
 For Code: what this needs: fill Home block 8 (the site's one questions block, white ground) with these nine answers in three groups, word for word, then screenshot the whole page at 1280 and 390 and check it by the standing check (DSRD 8, questions block) before Kain sees it. Card #98. Ask Kain nothing directly.
 
 **DOCUMENT TYPE:** brief from Chat (S489, 25 November 2026). DSRD 9 section 45.29 row 8: "Home's own questions to be chosen, then signed". Chat has chosen; Kain signs on the built page.

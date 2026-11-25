@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S568: WAITS ON the line-by-line answer to the Folder Tidy proposal, which comes first.
 For Code (on the iMac): what this needs: run the Folder Tidy lines that only the iMac can do, in your next sitting, after your live work is safe. Answer in TO Chat as DONE__Folder_Tidy_iMac_Steps_S489.
 
 Done when: every line below is DONE or SKIPPED with its reason, and tools/folder_check.py (in ~/achology-channel/Claude outputs/folder_tidy/) is run once more on the iMac and its numbers reported.

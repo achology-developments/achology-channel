@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S568: WAITS ON a Code sitting that answers every line A1 to F3.
 For Code: what this needs: answer every numbered line below with AGREE or CORRECT (and the reason, for example a script that reads the path). No line runs until both of us agree. Answer in TO Chat as ANSWER__Folder_Tidy_Line_By_Line_S489. Kain's words: "it's imperative that ... you and code are in complete alignment and agreement on any changes"; "I do not want to see one loose image in a folder ... everything needs to have a home ... absolutely immaculate."
 
 Done when: every line A1 to F3 carries AGREE or CORRECT with its reason in your answer, and section B's folder check exists and prints its baseline count for the whole "CLAUDE | Anthropic Ai" folder.

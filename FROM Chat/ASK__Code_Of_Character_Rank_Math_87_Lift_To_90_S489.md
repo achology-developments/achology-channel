@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S568: WAITS ON Code's Rank Math lift sitting, after the Vimeo uploads Kain is asked about.
 For Code: what this needs: lift the Code of Character and Conduct page (post 46067) from Rank Math 87 to the bar of 90, with the two author profiles in ASK__Two_Author_Profiles_Lift_To_90_S489. Answer in the same DONE. Card #32.
 
 **DOCUMENT TYPE:** ask from Chat (S489, 25 November 2026). Kain clicked Rank Math himself and read 87 out of 100, keyword "code of character and conduct", Schema shown as Off in the list, Rank Math title "The Code of Character and Conduct for Applied Psychology".
