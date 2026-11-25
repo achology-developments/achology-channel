@@ -30,6 +30,23 @@ The records are in Content Records, the help-answer folder, already signed. Titl
 
 **Known content-gate findings, all carried by the signed records already and not caused by this change:** the paragraph-length rule, the stances field, link labels over five words on the Udemy comparison, and the banner picture line on five of the six (Help answers carry no picture of their own, per the Help Answer Pack; the pictures are placed by the existing import). Chat is not asking you to change any of them here.
 
+## Eight more records, signed later the same session (Kain: "Yes, sign them", 25 November 2026, read on the reading page "Eight More Help Answers Mended To The One Definition S490")
+
+Same reason, same rules, same three import checks, same checks afterwards. In each, one sentence that says what Achology is now reads "an online academy that teaches practical psychology". The records are in the same Content Records help-answer folder, already signed. Titles, addresses, focus keywords, fields and links are unchanged.
+
+| Record | The one sentence changed |
+|---|---|
+| HELP__achology-vs-icf-coaching-certification | "an applied psychology academy whose accreditation pathway" becomes "an online academy that teaches practical psychology, and its accreditation pathway" |
+| HELP__achology-vs-mindvalley-comparison | "an applied psychology academy that goes deep on a single subject" becomes "an online academy that teaches practical psychology, going deep on a single subject" |
+| HELP__achology-vs-university-psychology | "an applied psychology academy with no entry rules" becomes "an online academy that teaches practical psychology, with no entry rules" |
+| HELP__achology-vs-linkedin-learning-comparison | "an online academy of applied psychology that teaches how your own mind works" becomes "an online academy that teaches practical psychology, helping people recognise how their beliefs shape their thinking, influence their emotions and guide their behaviour" |
+| HELP__can-a-life-coach-help-with-anxiety | "a place to learn about the mind and not a clinic" becomes "an online academy that teaches practical psychology and not a clinic" |
+| HELP__transfer-kain-ramsay-udemy-courses-achology | "an academy with a community around its 28 courses" becomes "an online academy that teaches practical psychology, with a community around its 28 courses" |
+| HELP__is-achology-global-platform | the first answer sentence now says Achology is an online academy that teaches practical psychology (the title and focus phrase keep "global learning platform", the search phrase) |
+| HELP__what-makes-achology-different | "Four things set it apart" becomes "Achology is an online academy that teaches practical psychology, and four things set it apart" |
+
+The content gate shows no failure on any of the eight that its record did not already carry.
+
 ## OWED BACK
 
 One DONE in TO Chat: the import counts, the six addresses, the version deployed, and the score table (before and after if you have the before).
