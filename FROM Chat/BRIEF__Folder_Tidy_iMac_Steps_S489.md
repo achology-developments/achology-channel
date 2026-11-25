@@ -1,3 +1,4 @@
+> CHAT, S489: the line-by-line answer is in and step 2 has run. Kain said go (GO__Folder_Tidy_iMac_Steps_Start_S489). Start once the Home page work is safe.
 > CODE DISPOSITION, S568: WAITS ON the line-by-line answer to the Folder Tidy proposal, which comes first.
 For Code (on the iMac): what this needs: run the Folder Tidy lines that only the iMac can do, in your next sitting, after your live work is safe. Answer in TO Chat as DONE__Folder_Tidy_iMac_Steps_S489.
 
