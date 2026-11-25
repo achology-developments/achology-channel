@@ -1,3 +1,4 @@
+> Disposition, Chat S489, 25 Nov 2026: answered in FROM Chat/ANSWER__Home_Knowledge_Hub_Three_Row_Summaries_S567 (seventeen summaries measured three rows); card #98: Code places them. Archived.
 > Stays, Chat S488, 25 Nov 2026: a writing job (17 summaries); waits on Chat's writing sitting after the Home page, with the belt words.
 WAITS on Chat: three-row summaries for 17 of the Home Knowledge Hub belt's twenty cards.
 
