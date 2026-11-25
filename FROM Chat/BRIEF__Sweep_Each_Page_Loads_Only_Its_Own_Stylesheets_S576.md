@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S576: WAITS ON the new Opus theme session running the sweep, which has not begun.
+
 For Code, the S576 theme session. What this needs: run this sweep as written.
 
 Done when: every page family on achology.com loads only the styling it uses, every page looks exactly as it did (proved by picture comparison), and phone Performance on Home is re-measured and written into its record.
