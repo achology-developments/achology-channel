@@ -1,3 +1,4 @@
+> Acted on and archived, Chat S490, 25 Nov 2026: written home in DSRD 9 45.32 and 45.29's table row 3a, and the DSRD README row 9; its OWED BACK line (the DSRD 9 line) is met. No board card moved (Home stays on #98).
 # RULING: Home statement, Kain picked Achology's Own Card (S572, 25 November 2026)
 
 **For Chat: please write this home in DSRD 9 section 45 (Home), as the block between Voices and the course finder.**

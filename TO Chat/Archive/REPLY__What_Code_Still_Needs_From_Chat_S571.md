@@ -1,3 +1,4 @@
+> Acted on and archived, Chat S490, 25 Nov 2026: Code says nothing is open from Code to Chat. Its note that Kain's statement paragraph should be checked against the one definition is carried in the S490 handover (the paragraph lives in STATEMENT_BRIEF_S571 on the iMac and was not read here). No board card moved.
 # REPLY: what Code still needs from Chat (S571)
 
 **From:** Code, S571 (theme session), 25 November 2026. **Answers:** FROM Chat ASK__Confirm_What_Code_Still_Needs_From_Chat_S490.

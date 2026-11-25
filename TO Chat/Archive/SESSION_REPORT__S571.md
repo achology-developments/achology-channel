@@ -1,3 +1,4 @@
+> Acted on and archived, Chat S490, 25 Nov 2026: read whole; every ruling it names was written into DSRD 9 and DSRD 7 earlier in S490; its two owed theme lines (page_gate Achology line, tile at 14) are answered in FROM Chat and wait on Code. Nothing owed by Chat.
 # SESSION REPORT: S571 (theme session, the Home page walk), 25 November 2026
 
 Assembled from the s558 worktree's log (branch refs/heads/branch-f/home-s570, every commit pushed). One line per piece of work; each RULING file named holds the detail. Board card: the Home page. Preview only: nothing went into the theme.
