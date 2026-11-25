@@ -29,6 +29,30 @@ def rel(p):
     return None
 
 
+# Step 2 ran on the iMac Pro from about 01:15 UTC on 25 November 2026. Anything on the iMac changed
+# after this was worked on since, so it is never moved: it is reported for a person to read.
+CUTOFF = 1795568400  # 2026-11-25 01:00:00 UTC
+
+
+def guarded(p):
+    """Return a KEEP reason if p is a git checkout or holds anything changed after the cutoff."""
+    if os.path.isdir(p):
+        for base, dirs, files in os.walk(p):
+            if ".git" in dirs or ".git" in files:
+                return "KEEP-git-checkout"
+            for n in files:
+                try:
+                    if os.lstat(os.path.join(base, n)).st_mtime > CUTOFF:
+                        return "KEEP-changed-since"
+                except OSError:
+                    pass
+        return None
+    try:
+        return "KEEP-changed-since" if os.lstat(p).st_mtime > CUTOFF else None
+    except OSError:
+        return None
+
+
 def main():
     with gzip.open(os.path.join(HERE, "imac_pro_tree.txt.gz"), "rt") as f:
         tree = set(line.rstrip("\n") for line in f)
@@ -64,6 +88,10 @@ def main():
             continue
         if not gone_on_pro(src):
             note("KEEP-present-on-pro", src)
+            continue
+        guard = guarded(s)
+        if guard:
+            note(guard, src)
             continue
         if op in ("MOVE", "RENAME") and dst is not None:
             d = os.path.join(ROOT, dst)
