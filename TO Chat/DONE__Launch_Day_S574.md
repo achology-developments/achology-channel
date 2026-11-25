@@ -37,6 +37,26 @@ Done when: every section B step below carries its proof and time.
 - **B6 sitemap, 23:05:** Kain, in Search Console (domain property sc-domain:achology.com), submitted https://achology.com/sitemap_index.xml: "Sitemap submitted successfully". The old site's Yoast child sitemaps (product_cat, school, category, page, post) still sit in the list and will fall away; nothing removed.
 - **B7 Analytics, 23:08:** Rank Math's stored Google connection (OAuth tokens, property 315025347, stream G-HJ29S4Z0R8) was still present, so no reconnect was needed: the analytics module added to rank_math_modules (the list before it saved on the host as ~/rank_math_modules-before-analytics-2026-11-25.json) and install_code on. /about/ on achology.com now carries gtag.js?id=G-HJ29S4Z0R8. Whether the tag waits for the cookie banner's consent is a C-day read.
 - **B9 gift form test, 23:12,** on Kain's "Yes, send it": one claim posted from the host to achology.com's admin-ajax (action achology_gift, a fresh signed stamp, first name "TEST launch check, please ignore", kain@achology.com, course 019): the site answered ok true, which it gives only once Karen's email is accepted by the mail system. (The subject is not marked TEST: that mark works only on the build ground, which achology.com no longer is.) Arrival in kain@achology.com and karenramsay@achology.com, inbox not spam, asked of Kain. **Kain, 23:15: "Yes, in inbox"** (the member confirmation in kain@achology.com's inbox, not spam). Karen's copy is the same send path, not yet seen by eye. https://achology.com/membership/choose-your-free-course/ answers 200, "Choose Your Free Course With Annual Achology Membership".
-- **B9 Circle redirect, 23:35:** Kain, in Circle, Paywalls, "043 Community Subscription (Annual)" ($345 USD yearly, checkout community-subscription-annual, the site's annual link), Post Purchase tab: Custom redirect URL switched on, set to https://achology.com/membership/choose-your-free-course/, Saved ("Yes, saved"). The Thank you page stays on, so a member sees Circle's thank you first, then the free-course page. Not yet done: the same address in the annual member's welcome message.
+- **B9 Circle redirect, 23:35:** Kain, in Circle, Paywalls, "043 Community Subscription (Annual)" ($345 USD yearly, checkout community-subscription-annual, the site's annual link), Post Purchase tab: Custom redirect URL switched on, set to https://achology.com/membership/choose-your-free-course/, Saved ("Yes, saved"). The Thank you page stays on, so a member sees Circle's thank you first, then the free-course page. **23:40, welcome line:** in the same paywall's Confirmation email, after "You can access {community_name} here.", Kain pasted "Your annual membership includes one free course of your choice. Choose it here: https://achology.com/membership/choose-your-free-course/" and saved ("Paywall updated"). The words are Code's plain line, placed on Kain's go; Chat may reword.
+
+## Section B result
+
+The new site answers on https://achology.com/ and www, over Let's Encrypt; `cutover_gate.py --golive` passes every row but the workbench row, which this Mac cannot read past the robot check and which reads 404 from the host; the redirects are on and one hop (2,636 rows, 0 faults; live spot checks 301 straight to the page); mail works both ways for every site address; Search Console has the sitemap; Analytics is on; Circle's annual paywall lands on the free-course page. **Not done tonight (B10):** the DSRD 6 section 4 schema check on the live host, the indexing consistency reading and the links-resolve check; they open section C tomorrow.
+
+## What went wrong, for the record
+
+Deleting the old site took achology.com's whole DNS zone with it, and Change Primary Domain then wrote SiteGround's default zone (SiteGround mail MX). Mail was held for about 40 minutes (21:32 to about 22:15), and Google Public DNS kept the wrong MX until Kain flushed it. Every record came back from the saved copy. The runbook's free route should say: save the zone (done), then expect to rebuild it by hand straight after Change Primary Domain, MX first.
+
+## Section C, tomorrow (26 November), read by Code
+
+1. Rank Math 404 log (and again after a week).
+2. Search Console: sitemap status (the new index read), coverage, crawl stats, and whether SiteGround's robot check is turning Googlebot away.
+3. Analytics receiving visits, and whether the tag waits for cookie consent.
+4. The Enquiries form and the Spotted a Mistake topic sent once from the live host; Karen's copy of last night's gift test seen in karenramsay@achology.com.
+5. B10: schema check on pasted live code, indexing consistency, links resolve.
+6. Lighthouse on https://achology.com/ written into Home's record chapter 9; Home's chapter 4 schema row (FROM Chat ANSWER__Home_Record_Routes_For_Schema_And_Speed_S492).
+7. After launch, with Kain one at a time: the DNS tidy (Zendesk, SendGrid, Amazon SES, Salesfire, Facebook: keep only what is used); the orange Achology word in headings (11 pages); karen@achology.com as an alias if wanted; the cut-off Amazon certificate record for cdn.achology.com when it renews.
+
+*No em or en dashes in this file; checked before writing.*
 
 *No em or en dashes in this file; checked before writing.*
