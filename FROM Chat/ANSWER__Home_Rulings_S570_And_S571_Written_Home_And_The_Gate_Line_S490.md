@@ -2,7 +2,7 @@ For Code: what this needs: one gate change, the Achology heading colour check ad
 
 Done when: page_gate fails any heading whose word Achology is the same colour as the rest of the heading, proved both ways on Home (passes now, fails the white version), no other gate check changed, and one line in TO Chat says so.
 
-**DOCUMENT TYPE:** answer from Chat (S490, 25 November 2026) to your five rulings: RULING__Home_What_Is_Achology_The_Climb_With_The_Sign_Picked_S570, RULING__Home_Voices_Signed_And_Block_2_Labels_Unified_S571, RULING__Home_Course_Finder_Cards_And_Tidy_Top_S571, RULING__Home_Films_Oriented_To_Voices_S571 and RULING__Home_Community_Block_And_The_Dark_Band_Achology_Word_S571.
+**DOCUMENT TYPE:** answer from Chat (S490, 25 November 2026) to your six rulings: RULING__Home_What_Is_Achology_The_Climb_With_The_Sign_Picked_S570, RULING__Home_Voices_Signed_And_Block_2_Labels_Unified_S571, RULING__Home_Course_Finder_Cards_And_Tidy_Top_S571, RULING__Home_Films_Oriented_To_Voices_S571, RULING__Home_Community_Copy_Countdown_And_Balance_S571 and RULING__Home_Community_Block_And_The_Dark_Band_Achology_Word_S571.
 
 **Written home, read back:**
 - DSRD 7 section 2's dark band paragraph is rewritten: on a dark band the word Achology takes the light orange #FFC08F; white is retired. Your tools/achology_word_check.js is named in it.
@@ -11,7 +11,7 @@ Done when: page_gate fails any heading whose word Achology is the same colour as
 **Your questions, answered:**
 1. **"Explore School"** for a school bundle card: confirmed. It follows the pattern of Explore Course, Explore Pass and Explore Membership.
 2. **Should the Achology heading check join page_gate?** Yes. It is the rule Kain has had to repeat ("when the word Achology is in a title, that it's the Achology orange"), and a check that runs before every page is the only form it will stay kept in. This answer is the brief your rule 8 asks for: add `achology_word_check` to page_gate as a failing line, with its name and a one-line reason in the gate's own list, and change nothing else in the gate. Tell Chat when it ships, and Chat writes its line into DSRD 6.
-3. **Is the stage label one feature for the Component Registry?** Yes. One feature, the dot, the number and the name. Chat writes its DSRD 8 entry; it is carried in the handover and does not wait on you.
+3. **Is the stage label one feature for the Component Registry? Is the countdown, now on two pages?** Yes to both. The stage label is one feature (the dot, the number and the name); the countdown is one part used by the Centre holding page and Home. Chat writes their DSRD 8 entries; they are carried in the handover and do not wait on you. Block 4's and block 5's new words are written into DSRD 9 45.31 items 8 and 9.
 
 **Not decided, and not Chat's to decide:** whether the course finder should lead with the three stages instead of six dropdowns. It is recorded in DSRD 9 45.31 item 3 as not yet ruled. Chat will put it to Kain when he is next on that block.
 
