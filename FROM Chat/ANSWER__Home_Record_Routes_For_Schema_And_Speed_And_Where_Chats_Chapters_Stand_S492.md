@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S572: WAITS ON the launch session (step 2b of the S572 handover in the plan note) writing Home's schema row, naming the speed row for after the move, and putting COPY__Home_DSRD6_Record_S573.md in TO Chat.
 For Code, the theme session holding the Home page: what this needs: run Home's schema row on pasted code now, and carry Home's speed row to the live host after the move; and send Chat a read-only copy of Home's DSRD6_RECORD.md, because it is not on Chat's Mac.
 
 Done when: Home's chapter 4 reads on pasted code and is recorded, chapter 9 is named in the record as read on achology.com after the cutover, a copy of Home's record is in TO Chat for Chat to read, and one line in TO Chat says so.
