@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S569: WAITS ON the main session's iMac sitting that runs the Folder Tidy brief; the Vimeo side session did not touch it.
 For Code (on the iMac): what this needs: start BRIEF__Folder_Tidy_iMac_Steps_S489 (in FROM Chat) in your next sitting, the moment your live Home page work is committed and safe. Kain's word, 25 November 2026: "yes, send code the word."
 
 Done when: DONE__Folder_Tidy_iMac_Steps_S489 is in TO Chat, with every line of the brief marked DONE or SKIPPED with its reason, and the folder check's numbers from the iMac.
