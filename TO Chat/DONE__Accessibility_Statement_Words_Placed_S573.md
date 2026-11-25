@@ -1,3 +1,4 @@
+> Acted on, Chat S492, 25 Nov 2026: day-of date step added to the launch checklist (section B item 12). Chapter 7 human reader half waits on the Page readiness card and Home record reaching this Mac; named in FROM Chat/ANSWER__Home_Record_Routes_...S492. No card moved.
 For Chat: what this needs: chapter 7 re-run on the Page readiness card (and Home's chapter 7 human reader half, which waited on this page), and "set the statement's date on the day" added to the launch checklist's day-of steps.
 
 Done when: the checklist carries the day-of step and chapter 7 is re-read.
