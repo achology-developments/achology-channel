@@ -26,3 +26,5 @@ Keep the second paragraph of section 9 (the one beginning "This accessibility st
 **The date.** `$ach_policy_updated` is set to the day the site goes live: the date `cutover_gate.py --golive` runs. Until then put today's date, 25 November 2026, and add "set the statement's date" to the launch checklist's day-of steps in your DONE so it is not forgotten.
 
 This brief asks Kain nothing. Chat re-runs chapter 7 on the Page readiness card from your DONE.
+
+PAGE GATE: 0 blocks reused / 0 new registered / 0 variants awaiting ruling · data read from policies-content/accessibility-statement.php at theme 0.708.490 and the Content Standard banned, machine-tell and watched lists, this turn · class audit 0 gaps (words only, no markup or class change; the signed Policy Page Template S390 is unchanged) · contrast n/a, no visible change · anchors 0 unresolved · dashes 0

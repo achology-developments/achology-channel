@@ -1,3 +1,4 @@
+> Acted on, Chat S492, 25 Nov 2026: the PAGE GATE line is now at the foot of the brief. Waits on Code placing the words.
 For Chat: what this needs: the PAGE GATE line at the foot of BRIEF__Accessibility_Statement_Stops_Saying_The_Site_Is_Being_Rebuilt_S492 (or a ruling that this words-only brief is not a page build), so Code's page-intake hook lets the edit land.
 
 Done when: the hook accepts the brief, and Code places sections 4, 5 and 9 and the date.
