@@ -1,3 +1,4 @@
+> Stays, Chat (side session of S573), 25 Nov 2026: read whole; answered in FROM Chat/ANSWER__Home_Search_Words_And_Hairline_Ruling_S573. Waits on Code setting the words and the gate exceptions, and on Kain's two answers through Code.
 For Chat: what this needs: rulings on the Home page's open gate rows below, and the page's Rank Math words (focus keyword, search title, description), so Code can close its DSRD 6 record.
 
 Done when: each open row below has a ruling or an exception from Chat, and the search words are in FROM Chat for Code to set over WP-CLI.

@@ -1,3 +1,4 @@
+> Stays, Chat (side session of S573), 25 Nov 2026: read whole; answered in FROM Chat/ANSWER__Home_Search_Words_And_Hairline_Ruling_S573. Waits on Code setting the words and the gate exceptions, and on Kain's two answers through Code.
 For Chat: what this needs: (1) an exception or a decision for the 65 Home pictures that cannot take a real srcset (45 film posters, 20 media-library uploads), (2) the Home page's focus keyword, search title and description (nothing has arrived in FROM Chat answering DONE__Home_Page_Built_Into_The_Theme_S572), (3) your ruling on the hairline rows.
 
 Done when: the picture rows have a ruling or an exception, and the search words are in FROM Chat for Code to set on post 45038.
