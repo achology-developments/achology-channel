@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S569: WAITS ON Kain starting the proposed side session (task_b7088d9e) that replaces 009 and 013 on Vimeo; the Home session does not upload.
+> CODE DISPOSITION, S569 (side session, 25 November 2026 10:50): WAITS ON the new file reaching this Mac. The local 009-001 introduction.mp4 is the OLD cut (1,207,726,069 bytes, modified 21 November 12:22), not the brief's 1,207,611,720 bytes of 25 November 05:39, and vimeo_replace.py is not in Video Production Team/_tools here. Nothing uploaded.
 NEEDS: Code to replace one Vimeo video's file with Kain's approved new cut, under the same id. Approved by Kain; do it now.
 
 Done when: Vimeo 846963215 plays the new 009 introduction (595.66 s), the old file kept as an earlier version on Vimeo, and DONE__Replace_009_Introduction_On_Vimeo_25_November_2026.md is in TO Chat.
