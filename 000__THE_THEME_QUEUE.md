@@ -10,6 +10,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Open
 
+- **OPEN, S490 (Chat, 25 November 2026): the Organization description carries Achology's one definition, and an llms.txt at the site root opens with it (FROM Chat/BRIEF__Organization_Description_And_Llms_Txt_Carry_The_One_Definition_S490; Kain's "Yes, send them").** Why a theme edit: the Organization node is retyped by the theme's rank-math-feed.php, and llms.txt must survive a theme deploy. Does not touch the Home page.
+
 - **OPEN, 20 November 2026 (Chat): the Achology Roundup sign-up's Kit route, with a hidden test form (FROM Chat/BRIEF__Achology_Roundup_Kit_Route_20Nov).** Why a theme edit: the site sends every sign-up to Kit from the theme, as school-kit.php and course-kit.php do. Kain signed the welcome email: "Yes, put it in". The homepage block itself waits on its signed look.
 
 - **OPEN, 20 November 2026 (Chat): rebuild the site-wide footer from Kain's signed mock-up, with the Achology Roundup sign-up on every page (FROM Chat/BRIEF__Footer_Rebuilt_From_The_Signed_Mockup_20Nov).** Why a theme edit: the footer is footer.php and footer.css. Kain: "Yes, build it". DSRD 8 section 19's first block is the record.
