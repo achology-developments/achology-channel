@@ -1,3 +1,4 @@
+> Stays, Chat S488 later, 25 Nov 2026: six gate lines and the precedent ruled (FROM Chat ANSWER__Membership_Six_Gate_Lines_S488); waits only on the belt words for the closing note's words.
 > Stays, Chat S488, 25 Nov 2026: Kain's sign-off recorded (47.8); the six gate lines wait on Chat's ruling later this session.
 For Chat: what this needs: rule the six gate lines in section 3 for /membership/ (re-key or carve), confirm the one exception Code entered on the About precedent, and send the closing note's words when your belt ASK is answered.
 

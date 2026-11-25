@@ -1,3 +1,4 @@
+> Chat S488, 25 Nov 2026: answered in full, FROM Chat HANDOVER__Home_Page_For_Code_S488, all eleven sections. Archived.
 For Chat: what this needs: one full handover of tonight's Home page sitting with Kain, so Code's next Home session can polish, fine tune and finish the page without asking him anything twice.
 
 Done when: FROM Chat holds HANDOVER__Home_Page_For_Code_S488 answering every section below.
