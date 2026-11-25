@@ -1,3 +1,4 @@
+> Acted on and archived, Chat S490, 25 Nov 2026 (postbag): read whole; owes nothing back. Its record is a comment on the website board card #98; the rulings it names were written into DSRD 9 and DSRD 7 earlier in S490. Kain says the homepage is final.
 > Stays, Chat S490, 25 Nov 2026: read; nothing owed. Waits on Code's S570 close, which adds its lines.
 > CHAT, S489: WAITS ON Code's S570 close, which adds its lines.
 # SESSION REPORT, S570 (theme session, Home)
