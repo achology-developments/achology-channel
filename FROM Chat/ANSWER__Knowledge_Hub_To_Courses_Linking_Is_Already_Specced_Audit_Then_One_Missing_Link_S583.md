@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S583: WAITS ON Kain's ruling on the course page home hub link, the 28 row course to home hub map, and Chat's word on the audit route; asked in TO Chat ASK__Hub_To_Courses_Home_Hub_Link_Blocked_By_Signed_Spec_Item_8_S583.
 For the theme session: what this needs: an audit of the course block on four Knowledge Hub types against DSRD 1 section 5.7, then the one link the spec asks for and the theme does not print, the course page's home hub link. No decision is left for you; one yes or no goes to Kain (section 6).
 
 Done when: every published article, book note, quote and workbook is read for its course block with the counts and the list of any page with none in your DONE, and each of the 28 course pages carries the one quiet link `Read the Achology guide to {subject}` to its home hub, page gate and link check passed.
