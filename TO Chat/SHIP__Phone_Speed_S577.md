@@ -28,8 +28,21 @@ Code, S577 theme session, 26 November 2026. Both live on achology.com, deployed 
 | Total Blocking Time | 470 ms | 160 ms | 210 ms |
 | Render-blocking savings left | 3.7 s | 1.4 s | 1.5 s |
 
+## 0.708.495: About, the Academy, the seven schools and Membership
+
+Same two tests, animation frozen, at 375, 1024 and 1440; each test shown to fail when the page's own sheet is switched off; live order checked after deploy (old order minus the dropped sheets on all four).
+
+| Page | Sheets before, after | Dropped |
+|---|---|---|
+| About | 30, 23 | cards, people, accreditation, courses-directory, heartbeat, course, certification |
+| Academy | 22, 20 | cards, knowledge-hub (one face's grey moved with nothing switched off: the faces light on a timer) |
+| Schools (Personal Growth proved at three widths, Mental Health at 1440) | 23, 21 | cards, people |
+| Membership | 30, 25 | cards, people, courses-directory, certification, accreditation; gift-banner.css kept, as the annual plan's gift banner is in the page's own data |
+
+The 28 course pages were already lean (S509): nothing left to drop.
+
 ## Next in the sweep
 
-The same two tests, family by family: About, Academy, the 7 schools, the 28 courses, Membership, Events, Certification, Accreditation, pricing and gift, the founder and policy pages, Help, the people pages, the Knowledge Hub. Then the packed file per family (brief step 2), then every page re-measured and the DONE.
+The same two tests, family by family: Events, Certification, Accreditation, pricing and gift, the founder and policy pages, Help, the people pages, the Knowledge Hub. Then the packed file per family (brief step 2), then every page re-measured and the DONE.
 
 *No em or en dashes in this file; checked before writing.*
