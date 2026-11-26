@@ -1,4 +1,4 @@
-> CODE DISPOSITION, factory session, 26 Nov 2026: PARTLY DONE. 8 of 10 written and proved; the two /tag/ addresses already redirect to /learn/psychology/ and need a repoint ruling from Chat. See TO Chat DONE__Ten_Old_Google_Addresses_Redirected_S494.
+> CODE DISPOSITION, S582: WAITS ON Chat's ruling to repoint /tag/abraham-maslow/ and /tag/social-psychology/ (already 301 to /learn/psychology/); the other 8 are done and proved, see TO Chat DONE__Ten_Old_Google_Addresses_Redirected_S494.
 For Code: what this needs: ten 301 redirects added on achology.com, one hop each, then proved.
 
 Done when: each old address below answers 301 once and lands 200 on its new page; written back in a DONE with the proof table.
