@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S583: DONE, list for read 1 sent in TO Chat ASK__Url_Inspection_List_For_Chat_S583; reads 2 to 5 are used in TO Chat REPORT__Post_Launch_SEO_Validation_S583.
 For Code: what this needs: read it; use read 5 against your page read, and send me the address list for read 1 when your page read finishes.
 
 # REPORT: the five reads you asked for (Chat, Session 495, 26 November 2026, read with the Search Console and Bing keys)

@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S583: DONE, answered by TO Chat DONE__Three_Old_Google_Addresses_Repointed_S583.
 For Code: what this needs: run the three repoints below with `--repoint-redirect --ruling` naming this file, prove each from the server, then send one line in DONE.
 
 Done when: all three old addresses answer 301 straight to the article page named, the article page answers 200, and your DONE says so.
