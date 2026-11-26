@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S578: WAITS ON a Code session that is not bound to the phone speed task (the S578 theme session was; it touches no theme file for this and has not started it).
+> CODE DISPOSITION, S577: DONE. 32 redirects written and proved one hop on achology.com, 32 rows in Redirect_Master (TO Chat DONE__32_Old_Addresses_Need_Redirects_S493).
 
 For Code, whichever session is free first. What this needs: 32 new 301 redirects on achology.com, the same way the Redirect Master rows were written, about fifteen minutes, no theme file.
 
