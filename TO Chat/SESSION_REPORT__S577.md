@@ -10,6 +10,10 @@ Lines from the theme log, each one a change set on the board card for the phone 
 6. **0.708.495** (log): About, the Academy, the seven schools and Membership load only the stylesheets they use.
 5. **IndexNow on for Bing** (hand added, a Rank Math setting over WP-CLI, no theme file, Kain's "Yes, do it first"): DONE__IndexNow_On_For_Bing_S577.
 
-Not finished: step 2 of the sweep for every other page family, the packed file per family, the re-measure of every page and the DONE.
+7. **tools/speed_page_check.js** (log): the page checker written to disk with its instructions (not deployed).
+8. **321 main pages pushed through IndexNow** (hand added, on Kain's "We need this done now"): answer 200 OK; DONE__Push_321_Main_Pages_Through_IndexNow_S493.
+9. **A Sonnet theme session started** (hand added): speed-sweep-rest carries step 2.1 for every remaining family.
+
+Not finished: step 2.1 for the remaining families (in the Sonnet session), the packed file per family, the re-measure of every page and the DONE.
 
 *No em or en dashes in this file; checked before writing.*
