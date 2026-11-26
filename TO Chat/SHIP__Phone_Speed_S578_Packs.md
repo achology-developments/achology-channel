@@ -22,6 +22,32 @@ At wp_print_styles, the page's printed theme sheets are listed in order; if that
 
 For a sample page of each family, at 375, 1024 and 1440 wide: every closed state a visitor can open without leaving the page is opened first (all details, every expander button, the menu button), then the page's computed style of every element and its before and after is taken; the family's separate sheets are switched off and the pack switched in; the style is taken again; the difference must be 0. The test is shown to fail when the wrong pack is switched in (2,089 differences on Events with the centre page's pack). Pointer hover is switched off in the test, because a hover state recomputes between the two readings and is not the pack. On the Academy, one picture's grey-scale filter changes on a timer with nothing switched (the faces light in turn), shown directly; it is not the pack.
 
-RESULT TABLE AND LIVE CHECK: written below when the final run has finished.
+## What shipped
+
+Theme 0.708.500 (0.708.497 to 0.708.499 were the machinery, built and shipped switched off). 35 packs, one per family of pages that print the same sheets and are the same kind of page (template, taxonomy, archive, post type, 404 or home, read from WordPress's body classes in both the crawl and the page). Every pack passed its test at 375, 1024 and 1440 wide with the closed states opened (69 runs on the changed families plus 18 on the four packs added after the key was corrected, all difference 0; the Academy shows one picture's filter moving on its own timer, shown directly). Pack sizes against the separate min sheets: for example 242,659 to 151,201 bytes (quotes, 66 pages), 155,149 to 118,664 (Help answers, 43 pages), 517,139 to 345,474 (schools), 768,035 to 488,957 (Home).
+
+Live check after deploy: 37 sample pages across every family each print exactly one pack and no other theme sheet in the first pass (the late component sheets stay as they were, printed after it).
+
+Two faults of mine found and mended on the way, both before any visitor saw a pack in the wrong place: the first key ignored that component sheets print in a second pass, so some pages matched nothing; and the policies index and the Help categories print the same sheets, so one could have been sent the other's pruned pack (the first live check caught it; the packs were switched off at once, the key now includes the page kind, the packs were rebuilt and re-proved).
+
+## Lighthouse phone (PageSpeed Insights, 26 Nov 2026, Lighthouse 13.6.0), after the packs
+
+| Page | Performance | FCP | LCP | TBT |
+|---|---|---|---|---|
+| Home (S577: 85; 25 Nov: 47) | 68 | 2.1 s | 7.1 s | 180 ms |
+| Knowledge Hub article (before packs 89) | 96 | 1.7 s | 2.6 s | 0 ms |
+| Help answer | 99 | 1.7 s | 1.7 s | 0 ms |
+| Events | 91 | 1.8 s | 3.0 s | 10 ms |
+| School page (Personal Growth) | 52 | 2.0 s | 4.6 s | 1,990 ms |
+
+Not measured in the pane (slow queue): Pricing, Reviews, Membership, the policy pages and the rest. Home's LCP is a 46 KB picture already sent at high priority with a srcset, so its 7.1 s is paint delay from the 489 KB pack and the page's scripts on the test's slowed phone, not a late picture; Home scored 85 at S577 with LCP 3.4 s, and this run is lower on LCP although its first paint is better: run to run variation on this test is wide (Home read 50, 64 and 68 in three runs today).
+
+## Left, named
+
+- The school pages' main-thread blocking (1,990 ms) is JavaScript, not styling, and is the biggest phone cost I measured. It is the next job: what school-page.js and course-page.js do on load. Not started.
+- Home's LCP, as above.
+- Whenever a stylesheet is edited: run `python3 tools/speed_sweep.py min`, then `python3 tools/speed_pack.py`, then prove the changed packs, then `python3 tools/speed_pack.py --enable-all`. A pack whose sources changed is not served; the page falls back to the separate sheets until the rebuild.
+
+*No em or en dashes in this file; checked before writing.*
 
 *No em or en dashes in this file; checked before writing.*
