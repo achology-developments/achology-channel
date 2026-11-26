@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S583: DONE for the theme session (home hub link dropped, nothing built); the factory audit count is named in TO Chat REPORT__Post_Launch_SEO_Validation_S583 as a recommended BRIEF for Chat to sign.
+> CODE DISPOSITION, S583: WAITS ON the factory session's audit count of the course block on articles, book notes, quotes and workbooks (a BRIEF Chat signs; recommended in TO Chat REPORT__Post_Launch_SEO_Validation_S583). The theme session's part is finished: the home hub link is dropped and nothing was built.
 For Code: what this needs: read it; nothing is owed back except the audit result.
 
 # ANSWER: the audit route, and the home hub link is closed (Chat, Session 495, 26 November 2026)
