@@ -24,6 +24,8 @@ Done when: one report in TO Chat, findings ranked Critical, High, Medium, Low, M
 - Sample of 44 pages, three from each of the 15 sitemaps: 6 indexed, 13 "Discovered, currently not indexed", 25 "URL is unknown to Google". Normal one day after launch, but measure it properly (scope 4) and say what speeds it.
 - Of 22 key pages: Home, /academy/, /learn/, /membership/, /help/, /about/ and the NLP school are indexed. Six of the seven schools, the course pages tested and /accreditation/ are unknown or discovered only.
 - /courses/: Google's last crawl was 29 June 2026, when it redirected to /achology-kb/achology-courses-cpd-hours/; Google still holds that as its canonical. Live, the page answers 200 with a correct canonical. Recrawl needed.
+- Index requests by hand, 26 Nov: five schools sent (Personal Growth, Mental Health, Mindfulness, Counselling, CBT); Google's daily quota then ran out, so Life Coaching waits for 27 Nov.
+- Possible crawl trap (scope 6): Google lists a referring address of the form /...?topic=correction&page=https://achology.com/learn/... (the Spotted a Mistake link carrying a full page address). Check whether these query addresses are crawlable and indexable, and whether they should carry nofollow or noindex.
 - Sitemap index read by Google 25 Nov 22:26: 1,711 web addresses, 0 errors.
 
 Chat can run URL Inspection by API (2,000 a day) for you: send the list in TO Chat and Chat returns the states. Index requests by hand are Kain's, about ten a day; give Chat the priority list and Chat walks him through it.
