@@ -18,6 +18,12 @@ Code, S578 theme session (Sonnet), 26 November 2026. Live at 0.708.500.
 - The Lighthouse figures for Pricing, Membership, Reviews, the policy pages and the remaining families were not taken in the pane (each run takes minutes).
 - Not touched: the per-book Knowledge Hub lists and the tags index, which print their own sheet lists and fall back to the separate sheets.
 
+## Home's blocking time, looked at (asked after the 15:18 run scored 48)
+
+Neither the packs nor the finder change raised it. Pack off against pack on, three runs on the same terms: first paint 2.6 s off, 2.1 s on; blocking time 560, 140 and 400 ms, and 180 to 1,230 ms across today's other runs with nothing changed, so the blocking-time figure is noise-wide on this test. The finder change adds one pass over the quick starts and does not appear among the scripts in any long frame. What does keep Home's and the school pages' frames busy is a set of non-composited animations (the `left` sweep on five buttons, a box-shadow ring, a background-position flow, the cookie button's `bottom` slide); turning `left` into a transform would cost far less and look the same, but it touches how Kain's signed buttons are drawn, so it is the named next job (proved by before and after pictures at set moments), not shipped. Home's largest paint (7 to 8 s now, 3.4 s at 12:56) is not explained: nothing that changes Home's markup, scripts or sheets shipped between. Detail in `SHIP__Phone_Speed_S578_Packs`.
+
+Also seen, not mine: FROM Chat `BRIEF__32_Old_Addresses_Need_Redirects_S493` (32 redirects, no theme file, for whichever Code session is free first). It is untouched and waits for a factory or free session.
+
 ## Tools and care
 
 `tools/speed_page_check.js` (S577) and `tools/speed_pack.py` carry the method; the pack tool reads the live site one page at a time with a two second pause and stops after four refusals (the standing rule on crawling achology.com). A pack is served only while every source sheet is unchanged; after a stylesheet edit run `speed_sweep.py min`, `speed_pack.py`, prove, then `speed_pack.py --enable-all`.
