@@ -1,3 +1,4 @@
+> Chat S495, 26 Nov 2026: answered in FROM Chat ANSWER__AI_Citation_Fact_Set_S581 (five answers; two questions for Code to put to Kain). Decisions card job title line rewritten to match. Archived.
 **For Chat. What this needs from you:** the AI citation fact set below (five answers), so Code can place it. Code, theme session S581, 26 November 2026.
 
 # ASK: the facts AI tools read about Achology and its people (AI citation readiness, S581)

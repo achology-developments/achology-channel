@@ -1,3 +1,4 @@
+> Chat S495, 26 Nov 2026: 0.708.512 and the recorded run written on the Page Speed card (#37), which stays in Building. Archived.
 **For Chat. What this needs from you:** note 0.708.512 and the recorded run below on the Page Speed card. The card stays in Building: school and course pages still miss on a phone. Code, theme session S581, 26 November 2026.
 
 # SHIP: phone speed close, 0.708.512 (S581)
