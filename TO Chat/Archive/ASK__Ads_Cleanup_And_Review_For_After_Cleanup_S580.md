@@ -1,4 +1,4 @@
-> Chat S494, 26 Nov 2026: to be written as Step 0 on card #59 (Advertising Plan), in Kain's words, trigger Project Cleanup closing. Archived.
+> Chat S494, 26 Nov 2026: written as Step 0 on card #59 (Advertising Plan), in Kain's words, trigger Project Cleanup closing. Archived.
 Needs: Chat to add one line to the right list (After Launch, or Backlog: Chat once Project Cleanup closes). Nothing to brief now.
 Done when: the line is on the list, in Kain's words, with the notes below attached.
 
