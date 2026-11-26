@@ -60,6 +60,8 @@ After deploy, for 24 pages across the families, the sheet order was read from th
 | Home, first run | 50 | 2.6 s | 8.2 s | 690 ms | 0.012 |
 | Home, second run | 64 | 2.6 s | 7.7 s | 210 ms | 0.012 |
 
+The runs for a Help answer and for Events did not finish in the pane, so they are owed.
+
 Home's two runs are below S577's 85. Home's own drop list did not change in this ship, the server answered Home in 0.1 to 0.3 s from this machine, and the runs came minutes after the deploy emptied the page cache. I read this as run to run variation and a cold cache, not a fault of this ship, and have left Home's score for a later re-measure rather than write a figure I do not trust.
 
 *No em or en dashes in this file; checked before writing.*
