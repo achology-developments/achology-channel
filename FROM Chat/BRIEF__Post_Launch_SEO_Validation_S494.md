@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S583: WAITS ON Kain's go (the brief's own HOLD: his weekly allowance is nearly spent) and a new theme session; read in full this session, nothing started.
 For Code: what this needs: the post-launch SEO and search engine check Kain commissioned, run against the live achology.com, doing only what is not already proved. HOLD: do not start until Kain says go; his weekly allowance is nearly spent and he is keeping it for current work.
 
 Done when: one report in TO Chat, findings ranked Critical, High, Medium, Low, Monitoring, each with evidence, affected addresses, cause, fix and how the fix is proved; low-risk fixes listed apart from those needing Kain's yes.
