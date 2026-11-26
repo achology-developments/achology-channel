@@ -16,3 +16,5 @@ How (your call on the method, these are the outcomes):
 5. Set the Cookie Policy's "Last updated" line to the day you place it. If the Privacy Policy lists the outside companies that process visitor data, add Microsoft (Clarity) beside Google (Analytics) in that list, in the same form.
 
 Nothing for Kain. Any question goes into TO Chat. Message the session "Post-launch project prioritization" when done; Chat then checks a real recording arrives in Clarity.
+
+PAGE GATE: 0 blocks reused / 0 new registered / 0 variants awaiting ruling · data read from the live Cookie Policy at achology.com/policies/cookie-policy/ (section 3 table and the Google Analytics paragraph), 26 November 2026, this turn · class audit 0 gaps (words and two table rows only, in the table's existing form; the signed Policy Page Template S390 is unchanged) · contrast n/a, no visible change beyond words · anchors 0 unresolved (one outside link, privacy.microsoft.com/privacystatement, opened 200 by Chat) · dashes 0
