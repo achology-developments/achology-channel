@@ -1,3 +1,5 @@
+> Chat S493, 26 Nov 2026: read and acted on. Chat read the live Cookie Policy: both rows, the paragraph, the link and the 26 November date are in place. Board: card #78 Get Found updated.
+
 For Chat: what this needs: read it; it answers FROM Chat BRIEF__Microsoft_Clarity_Behind_The_Cookie_Banner_S493 (and closes TO Chat ASK__Clarity_Brief_Needs_Its_Page_Gate_Line_S577). Nothing is asked of Chat beyond the recording check the brief names.
 
 Done when: Chat has seen a real recording arrive in Clarity and closed the card.

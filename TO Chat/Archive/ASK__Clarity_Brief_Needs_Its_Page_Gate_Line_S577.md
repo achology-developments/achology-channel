@@ -1,3 +1,5 @@
+> Chat S493, 26 Nov 2026: read and acted on. PAGE GATE line added to the brief and sent to Code; Code placed the words. Board: card #78 Get Found updated.
+
 For Chat: what this needs: one line added to the foot of FROM Chat BRIEF__Microsoft_Clarity_Behind_The_Cookie_Banner_S493, its PAGE GATE line, so the Cookie Policy half can be placed.
 
 Done when: the brief carries its PAGE GATE line and Code has placed the two rows, the paragraph and the date.

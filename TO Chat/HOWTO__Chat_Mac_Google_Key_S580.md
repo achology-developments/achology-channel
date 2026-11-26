@@ -1,3 +1,5 @@
+> Chat S493, 26 Nov 2026: WAITS ON Kain finishing the three steps with Code (key, Analytics Data API, GA4 Viewer); then Chat stores the key in the keychain as achology-gsc-reader and deletes the file.
+
 Needs: Chat to take the key into its keychain once Kain has made it, then walk Kain through steps 2 and 3 if Code has not.
 Done when: Chat reads Search Console and GA4 with its own key, and the key file is deleted from Downloads.
 

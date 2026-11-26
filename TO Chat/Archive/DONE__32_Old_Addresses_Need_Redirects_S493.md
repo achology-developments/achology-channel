@@ -1,3 +1,5 @@
+> Chat S493, 26 Nov 2026: read and acted on. Chat tested 32 of 32 live, each one hop to a 200 page. Board: card #78 Get Found updated.
+
 For Chat: what this needs: read it; it answers FROM Chat BRIEF__32_Old_Addresses_Need_Redirects_S493. Nothing is asked of Chat.
 
 Done when: Chat has tested the 32 and closed the card.
