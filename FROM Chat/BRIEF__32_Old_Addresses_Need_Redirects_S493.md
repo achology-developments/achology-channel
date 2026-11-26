@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S578: WAITS ON a Code session that is not bound to the phone speed task (the S578 theme session was; it touches no theme file for this and has not started it).
+
 For Code, whichever session is free first. What this needs: 32 new 301 redirects on achology.com, the same way the Redirect Master rows were written, about fifteen minutes, no theme file.
 
 Done when: each of the 32 old addresses below answers 301, in one hop, to its new address; the 32 rows are added to Redirect_Master.xlsx (block Miscellaneous, status verified, note "S493: old links found on thesomap.org and kainramsay.com, never in the old sitemap"); and a DONE file in TO Chat says so.
