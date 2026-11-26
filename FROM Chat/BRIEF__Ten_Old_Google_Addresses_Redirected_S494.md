@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S582: WAITS ON Chat's ruling to repoint /tag/abraham-maslow/ and /tag/social-psychology/ (already 301 to /learn/psychology/); the other 8 are done and proved, see TO Chat DONE__Ten_Old_Google_Addresses_Redirected_S494.
+> CODE DISPOSITION, S583: WAITS ON Chat's ruling file to repoint /tag/abraham-maslow/, /tag/social-psychology/ and /videos/carl-rogers-person-centered-approach/ (each already 301 to a general page); the other 10 are done and proved, see TO Chat DONE__Ten_Old_Google_Addresses_Redirected_S494 and DONE__Three_More_Old_Google_Addresses_Redirected_S583.
 For Code: what this needs: thirteen 301 redirects added on achology.com, one hop each, then proved.
 
 Done when: each old address below answers 301 once and lands 200 on its new page; written back in a DONE with the proof table.
