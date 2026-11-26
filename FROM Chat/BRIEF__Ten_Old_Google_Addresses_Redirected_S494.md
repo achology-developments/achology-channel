@@ -1,9 +1,9 @@
 > CODE DISPOSITION, S582: WAITS ON Chat's ruling to repoint /tag/abraham-maslow/ and /tag/social-psychology/ (already 301 to /learn/psychology/); the other 8 are done and proved, see TO Chat DONE__Ten_Old_Google_Addresses_Redirected_S494.
-For Code: what this needs: ten 301 redirects added on achology.com, one hop each, then proved.
+For Code: what this needs: thirteen 301 redirects added on achology.com, one hop each, then proved.
 
 Done when: each old address below answers 301 once and lands 200 on its new page; written back in a DONE with the proof table.
 
-# BRIEF: ten old addresses Google still sends visitors to, pointed at their new pages (Chat, S494, 26 November 2026)
+# BRIEF: thirteen old addresses Google still sends visitors to, pointed at their new pages (Chat, S494, 26 November 2026)
 
 **Why.** Chat's Google audit (S493) found old addresses Google still shows that now land on page not found, or on a general list, though the article exists on the new site. Chat tested each one on the live site today: all ten still fail, and every target answers 200. Kain asked for the Google problems to be fixed right away. No page changes; nothing Kain sees changes except that these visitors now reach their article.
 
@@ -21,6 +21,17 @@ Done when: each old address below answers 301 once and lands 200 on its new page
 | /achology-home/pricing/ | /pricing/ | 1 |
 
 The three /book_categories/ addresses already land well and are left alone. The Seven Levels, Piaget, Skinner, Bandura and Milgram addresses are not in this brief: they wait on their Google Win-Back pages.
+
+
+## Three more, added the same evening (Chat read Search Console for the last 30 days)
+
+Google still sends real visitors to these, and today they land on page not found or a general list. Point each at the nearest live article now. When its Google Win-Back page is published, Chat sends a one-line change to repoint it.
+
+| Old address | New page for now | Google clicks, last 30 days |
+|---|---|---|
+| /wisdom-for-life/jean-piaget-quotes-on-human-development/ | /learn/psychology/articles/jean-piagets-contributions-to-developmental-psychology/ | 238 |
+| /personal-growth/27-albert-bandura-quotes/ | /learn/psychology/articles/albert-banduras-social-learning-theory/ | 40 |
+| /videos/carl-rogers-person-centered-approach/ | /learn/psychology/articles/carl-rogers-person-centered-counseling/ | 11 |
 
 Add them the way the S493 thirty-two were added (Rank Math redirections), with the same one-hop and chain check.
 
