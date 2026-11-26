@@ -1,6 +1,6 @@
 > CODE DISPOSITION, S583: WAITS ON Kain's go; this is the scope document the BRIEF__Post_Launch_SEO_Validation_S494 points at, read in part this session (first 60 lines), to be read whole by the session that runs it.
 
-# Achology — Comprehensive Post-Launch SEO and Search Engine Validation
+# Achology: Comprehensive Post-Launch SEO and Search Engine Validation
 
 Now that we have launched the new Achology website, I want you to undertake a comprehensive post-launch technical SEO, search engine indexing and website migration validation exercise.
 
