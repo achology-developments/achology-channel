@@ -48,6 +48,25 @@ Not measured in the pane (slow queue): Pricing, Reviews, Membership, the policy 
 - Home's LCP, as above.
 - Whenever a stylesheet is edited: run `python3 tools/speed_sweep.py min`, then `python3 tools/speed_pack.py`, then prove the changed packs, then `python3 tools/speed_pack.py --enable-all`. A pack whose sources changed is not served; the page falls back to the separate sheets until the rebuild.
 
+## Home's blocking time: is it the packs or the finder change? (asked by the main session; its 15:18 run: 48, TBT 1,230 ms)
+
+Same-conditions test on pagespeed.web.dev (phone), Home with its pack switched off by `?achology_nopack=1` against Home with it on, each with a fresh query string so neither comes from the page cache:
+
+| Run | Performance | FCP | LCP | TBT |
+|---|---|---|---|---|
+| pack off, 1 | 54 | 2.6 s | 7.9 s | 560 ms |
+| pack off, 2 | 66 | 2.6 s | 7.6 s | 140 ms |
+| pack on, 1 | 61 | 2.1 s | 7.3 s | 400 ms |
+| pack on, earlier runs today (cached page) | 68, 64, 50, and the main session's 48 | 2.1 to 2.6 s | 7.1 to 8.2 s | 180 to 1,230 ms |
+
+Read: the pack brings first paint forward by about half a second (2.6 to 2.1 s) and does not raise blocking time; blocking time on the same page ranges from 140 to 1,230 ms with nothing changed between runs, so one run proves nothing in either direction; the largest paint reads 7 to 8 s whether the pack is on or off.
+
+The finder change (commit c196878f): the added work on load is one pass over the quick-start buttons (a few JSON parses and one attribute each) and one input check. Measured in the browser with the long-animation-frame record, on Home and on a school page, the only script work listed in any frame is buttons.js (13 to 33 ms, from a timer); home-finder.js does not appear. It is not the cause.
+
+What the record does show, and what I believe holds the phone score down on Home and the school pages: the frames are kept busy by non-composited animations (Lighthouse counts 48): `bf-sweep` animating `left` on five buttons (buttons.css), `sps-go-ring` animating box-shadow, `ft-soon-flow` animating background position, the cookie button's `mc_slideOut` animating `bottom`. These cost layout or paint on every frame and grow with a slower phone. Turning `left` into a transform would look the same and cost far less, but it changes how a moving thing is drawn on Kain's signed buttons, so I did not ship it unproved; it is the named next job, to be proved with before and after pictures of the animation at set moments.
+
+Not found: why Home's largest paint read 3.4 s at 12:56 (0.708.494) and reads 7 to 8 s now. Nothing that changes Home's markup, scripts or sheets shipped between those two except the finder script and the packs, and the picture itself is 46 KB with high priority. I am treating the earlier reading as the lucky end of a wide range until a run shows otherwise.
+
 *No em or en dashes in this file; checked before writing.*
 
 *No em or en dashes in this file; checked before writing.*
