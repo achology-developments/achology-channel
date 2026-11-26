@@ -11,14 +11,14 @@ Every fact below is read from a record named beside it. Nothing is guessed. Wher
 **What the records say.** Two of Kain's own rulings disagree, and the later one is the role line.
 
 - S146 sitting: his biography words, "Kain is Achology's Chief Technical Officer and leads a mentorship group for its members." (people-setup.php, `bio`.)
-- S361: Kain reworded his role line to "Curriculum and Technology Officer at Achology" (Session 361 Handover; DSRD 6 section 1 records it). That is what `role`, `line` and `jobTitle` carry now.
+- S361, 15 September 2026: Kain reworded his role line to "Curriculum and Technology Officer at Achology" (Session 361 Handover; DSRD 6 section 1 records it). That is what `role`, `line` and `jobTitle` carry now.
 - The Decisions for Kain card has carried the question since before 22 November, unanswered.
 
 **Chat's recommendation: the biography follows the role line,** because S361 is his later word, and it is the title he chose with no short form in it. The Decisions card said the opposite; Chat has rewritten that line to match this answer.
 
 **The question for Code to put to Kain, whole:**
 
-> Your profile shows two job titles. Your role line says Curriculum and Technology Officer, which you chose in October. Your biography still says Chief Technical Officer. Shall the biography say Curriculum and Technology Officer too? Yes or no.
+> Your profile shows two job titles. Your role line says Curriculum and Technology Officer, which you chose on 15 September. Your biography still says Chief Technical Officer. Shall the biography say Curriculum and Technology Officer too? Yes or no.
 
 - **On yes:** the bio's first sentence becomes, word for word: "Kain is Achology's Curriculum and Technology Officer and leads a mentorship group for its members." Nothing else in the bio changes. `jobTitle` stays as it is.
 - **On no:** the role becomes "Chief Technical Officer at Achology", the line becomes "Kain is Achology's Chief Technical Officer, and the instructor behind much of its teaching.", and `jobTitle` follows. DSRD 6 section 1's S361 note is then Chat's to update.
