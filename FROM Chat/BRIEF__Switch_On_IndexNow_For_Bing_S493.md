@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S577: WAITS ON Kain's yes in the S577 sitting to do it before the next page of the speed sweep.
 For Code, whichever session is free first. What this needs: one small switch on achology.com, about ten minutes, no theme file.
 
 Done when: IndexNow is on for achology.com, its key file answers 200 on the live domain, and one test submission is accepted.
