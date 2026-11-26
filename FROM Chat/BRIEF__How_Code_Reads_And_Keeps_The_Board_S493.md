@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S577: WAITS ON Kain's yes to download gh onto this Mac and his one-time sign-in code; the rules are saved in Code's memory (github-board-rules).
+> CODE DISPOSITION, S577: DONE. gh 2.106 at ~/bin/gh, signed in as kain-ramsay (project, read:org, repo, gist), board read; rules in Code memory github-board-rules; #37 moved to Building with only what is left.
 For Code, every session. What this needs: set up GitHub board access on Code's Mac once, then keep the board by the rules below.
 
 Done when: Code's Mac reads the board with `gh project item-list 1 --owner achology-developments`, and every Code close moves its own cards by these rules.
