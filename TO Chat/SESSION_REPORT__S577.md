@@ -14,6 +14,12 @@ Lines from the theme log, each one a change set on the board card for the phone 
 8. **321 main pages pushed through IndexNow** (hand added, on Kain's "We need this done now"): answer 200 OK; DONE__Push_321_Main_Pages_Through_IndexNow_S493.
 9. **A Sonnet theme session started** (hand added): speed-sweep-rest carries step 2.1 for every remaining family.
 
-Not finished: step 2.1 for the remaining families (in the Sonnet session), the packed file per family, the re-measure of every page and the DONE.
+10. **Home finder fixes** (log, c196878f): quick starts undo and go out when changed, the monthly box empties, nearest results say nearest; on Kain's "Yes, fix them".
+11. **32 old-address redirects** (hand added, Rank Math rows through publish_gate; log for the gate repair): DONE__32_Old_Addresses_Need_Redirects_S493; publish_gate's redirect probes repointed to achology.com.
+12. **Microsoft Clarity** (log, 0.708.502 and 0.708.503): behind statistics consent, Cookie Policy words placed; DONE__Microsoft_Clarity_Behind_The_Cookie_Banner_S493.
+13. **Staging sites** (hand added, Kain's hands in SiteGround): staging3.achology.com and a fresh staging.thesomap.org, both password-locked and hidden from search; Code's SSH access to thesomap.org set up.
+14. **Click check started** (hand added): one Sonnet factory session lists every clickable fault; the speed session was archived on its DONE.
+
+Not finished: the speed follow-ups (Home's largest paint, the school pages' blocking time, the button animations, which need Kain's say), and the click check report (running), the packed file per family, the re-measure of every page and the DONE.
 
 *No em or en dashes in this file; checked before writing.*
