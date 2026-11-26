@@ -1,27 +1,27 @@
-For Chat: what this needs: read it; it closes the part of FROM Chat BRIEF__Sweep_Each_Page_Loads_Only_Its_Own_Stylesheets_S576 that S578 was given (section 2, step 1: each page family loads only the stylesheets it uses). Nothing is asked of Chat, except the one thing named under "Left".
+For Chat: what this needs: read it; it closes FROM Chat BRIEF__Sweep_Each_Page_Loads_Only_Its_Own_Stylesheets_S576 (section 2 steps 1, 2 and 3). Nothing is asked of Chat.
 
-Done when: Chat has moved the card for step 1 and noted what is left.
+Done when: Chat has moved the sweep's card and noted the one job left.
 
-# DONE: step 2.1 of the phone speed sweep, every page family
+# DONE: the phone speed sweep, every family
 
-Code, S578 theme session (Sonnet), 26 November 2026. Shipped at 0.708.496; the full list, what each family drops and how it was proved is in `SHIP__Phone_Speed_S578`. S577's `SHIP__Phone_Speed_S577` holds Home, About, the Academy, the schools and Membership.
+Code, S578 theme session (Sonnet), 26 November 2026. Live at 0.708.500.
 
-## Every family in the brief
+## What is done
 
-Shipped with its drop list proved: Home, About, Academy, the 7 schools, Membership (S577); Events, Certification, Accreditation, the courses directory, Pricing, the gift page, the centre page, What Achology Believes, the four founder pages, the policy pages and the policies index, Reviews, Testimonials, Enquiries, Our People, the author profiles, Help (landing, categories, answers), the Knowledge Hub (front, subjects, Articles lists, tag pages, articles, book notes, quotes, workbooks) and the 404 page (S578).
-
-Recorded as having nothing to drop: the Access All Areas Pass page, and the 28 course pages (already lean, S509).
+- Step 1, each page family loads only the stylesheets it uses: every family shipped with its drop list proved (Home, About, the Academy, the schools, Membership at S577; every other family at S578). See `SHIP__Phone_Speed_S577` and `SHIP__Phone_Speed_S578`. The Access All Areas Pass page and the 28 course pages had nothing more to drop.
+- Steps 2 and 3, one packed stylesheet per family with a written keep-list for click states: 35 packs, made by `tools/speed_pack.py` from the theme's own min copies, each proved at 375, 1024 and 1440 wide with the closed states opened first, then switched on. See `SHIP__Phone_Speed_S578_Packs`.
+- Re-measure on pagespeed.web.dev (phone): Home 68 (was 47 on 25 November, 85 at S577), a Knowledge Hub article 96 (was 89), a Help answer 99, Events 91, a school page 52. Figures and the pages not measured are in the packs SHIP.
 
 ## Left
 
-- Step 2.2, one packed file per family, is not part of this session. It is as the brief states it.
-- Lighthouse after the sweep: one Knowledge Hub article 89 (FCP 2.0 s, LCP 3.2 s, TBT 0). Home measured 50 and 64 in two runs minutes after the deploy emptied the cache, against S577's 85; its drop list did not change in this ship, so I read it as a cold cache and run to run variation and did not trust it. The Help answer and Events runs did not finish in the pane. **Owed, for whoever measures next: Home, Events and a Help answer, re-run on a warm cache.**
-- Pages checked by class rather than one by one, named in the SHIP.
+- One job, not a stylesheet one: the school pages block the main thread for about 2 seconds on a phone (Total Blocking Time 1,990 ms), which holds that page at 52. It is JavaScript work on load (school-page.js, course-page.js). Home's paint (LCP 7.1 s in this run) wants a look too. Neither is started.
+- The Lighthouse figures for Pricing, Membership, Reviews, the policy pages and the remaining families were not taken in the pane (each run takes minutes).
+- Not touched: the per-book Knowledge Hub lists and the tags index, which print their own sheet lists and fall back to the separate sheets.
 
-## Not touched
+## Tools and care
 
-The per-book Knowledge Hub lists and the tags index (not proved), and everything the brief's section 2 steps 2 and 3 name.
+`tools/speed_page_check.js` (S577) and `tools/speed_pack.py` carry the method; the pack tool reads the live site one page at a time with a two second pause and stops after four refusals (the standing rule on crawling achology.com). A pack is served only while every source sheet is unchanged; after a stylesheet edit run `speed_sweep.py min`, `speed_pack.py`, prove, then `speed_pack.py --enable-all`.
 
-OWED BACK: the Lighthouse re-measure above, in a later session; nothing else.
+OWED BACK: nothing to Chat.
 
 *No em or en dashes in this file; checked before writing.*
