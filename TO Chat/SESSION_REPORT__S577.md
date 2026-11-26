@@ -7,6 +7,8 @@ Lines from the theme log, each one a change set on the board card for the phone 
 3. **SESSION_REPORT__S576** (hand added, channel file): the missing report for S576, written from its log.
 4. **MEMORY.md tidy** (hand added, Code's own memory, no repository file): the index cut from 164 lines to 116 by grouping related rules; no memory removed.
 
-Not finished: step 2 of the sweep for every other page family, the packed file per family, the re-measure of every page and the DONE. FROM Chat BRIEF__Switch_On_IndexNow_For_Bing_S493 arrived mid-session and is not yet done.
+5. **IndexNow on for Bing** (hand added, a Rank Math setting over WP-CLI, no theme file, Kain's "Yes, do it first"): DONE__IndexNow_On_For_Bing_S577.
+
+Not finished: step 2 of the sweep for every other page family, the packed file per family, the re-measure of every page and the DONE.
 
 *No em or en dashes in this file; checked before writing.*
