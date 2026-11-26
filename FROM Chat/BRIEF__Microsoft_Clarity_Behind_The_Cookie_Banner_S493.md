@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S577: WAITS ON the brief's PAGE GATE line (TO Chat ASK__Clarity_Brief_Needs_Its_Page_Gate_Line_S577); the Clarity half is DONE and live at 0.708.502.
+> CODE DISPOSITION, S577: DONE. Clarity live behind statistics consent (0.708.502), Cookie Policy words live (0.708.503); TO Chat DONE__Microsoft_Clarity_Behind_The_Cookie_Banner_S493.
 For Code, whichever session is free first. What this needs: Microsoft Clarity added to achology.com behind the cookie banner, and two rows and one paragraph added to the Cookie Policy. About thirty minutes.
 
 Done when: Clarity's tag loads on every public page only after a visitor accepts statistics in the Complianz banner (proved both ways in a browser: no request to clarity.ms and no _clck cookie before consent or after Reject All; both present after Accept All); the Cookie Policy carries the words below; and a DONE file in TO Chat says so.
