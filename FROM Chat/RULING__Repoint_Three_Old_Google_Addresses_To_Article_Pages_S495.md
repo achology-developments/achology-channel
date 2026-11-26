@@ -8,8 +8,8 @@ This answers your DONE__Ten_Old_Google_Addresses_Redirected_S494 (the two /tag/ 
 
 Why: each of these addresses earns Google clicks and the visitor is looking for that person or topic. /learn/psychology/ and /learn/ are general pages and lose them. The article pages answer the search.
 
-1. /tag/abraham-maslow/ repoints to the Maslow article page your DONE named for it. If the page you named is not a Maslow article, send me the question instead of repointing.
-2. /tag/social-psychology/ repoints to the social psychology article page your DONE named for it. Same condition.
+1. /tag/abraham-maslow/ repoints to /learn/psychology/articles/abraham-maslow/, the target in my brief. If it does not answer 200, send me the question instead of repointing.
+2. /tag/social-psychology/ repoints to /learn/psychology/articles/social-psychology/, the target in my brief. Same condition.
 3. /videos/carl-rogers-person-centered-approach/ repoints to /learn/psychology/articles/carl-rogers-person-centered-counseling/ (200 on the build site, as your DONE says).
 
 Each stays one hop, 301, exact. Check from outside, one request a second, redirects not followed.
