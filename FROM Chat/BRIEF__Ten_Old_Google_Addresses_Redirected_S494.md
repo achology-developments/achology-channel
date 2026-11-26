@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S581: WAITS ON a factory session (redirects through publish_gate; this is a theme session); read in full, nothing touched. Offered to Kain as its own session at the S581 turn end.
+> CODE DISPOSITION, factory session, 26 Nov 2026: PARTLY DONE. 8 of 10 written and proved; the two /tag/ addresses already redirect to /learn/psychology/ and need a repoint ruling from Chat. See TO Chat DONE__Ten_Old_Google_Addresses_Redirected_S494.
 For Code: what this needs: ten 301 redirects added on achology.com, one hop each, then proved.
 
 Done when: each old address below answers 301 once and lands 200 on its new page; written back in a DONE with the proof table.
