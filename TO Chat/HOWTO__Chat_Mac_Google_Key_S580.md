@@ -5,7 +5,7 @@ Done when: Chat reads Search Console and GA4 with its own key, and the key file 
 
 # Chat's own read-only Google key (S580, 26 November 2026, on Kain's "Yes, make it")
 
-**Why Kain has to click.** No Google credential is on this iMac any more (the S307 key is gone from the Desktop, the Downloads folder and the keychain), so Code cannot make a key through the API, and Claude in Chrome was not connected. Chat and Code both sit on this iMac, so the key downloads straight to Chat's machine: **no AirDrop.**
+**Why Kain has to click.** No Google credential is on this iMac any more (the S307 key is gone from the Desktop, the Downloads folder and the keychain), so Code cannot make a key through the API, and Claude in Chrome was not connected. **Corrected:** Code was wrong that Chat sits on this iMac. Chat runs on the iMac Pro, so the key made on Code's iMac (achology-bbfbc1e9893c.json in Downloads) goes over by one AirDrop, and Code deletes its iMac copy once Kain says it has gone.
 
 **The account.** claude-code@achology.iam.gserviceaccount.com, project Achology. Already Restricted in Search Console, so nothing to do there. The key is a second key on that account.
 
