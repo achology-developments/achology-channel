@@ -20,6 +20,8 @@ Lines from the theme log, each one a change set on the board card for the phone 
 13. **Staging sites** (hand added, Kain's hands in SiteGround): staging3.achology.com and a fresh staging.thesomap.org, both password-locked and hidden from search; Code's SSH access to thesomap.org set up.
 14. **Click check started** (hand added): one Sonnet factory session lists every clickable fault; the speed session was archived on its DONE.
 
+15. **The five click-check faults** (log, 0.708.504 and 0.708.505): SHIP__Click_Check_Fixes_S577; the click-check session archived.
+
 Not finished: the speed follow-ups (Home's largest paint, the school pages' blocking time, the button animations, which need Kain's say), and the click check report (running), the packed file per family, the re-measure of every page and the DONE.
 
 *No em or en dashes in this file; checked before writing.*

@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S578 (factory): ready for Kain's yes; nothing was changed or fixed in this session.
+> CODE DISPOSITION, S577: all five faults fixed and proved live at 0.708.504 and 0.708.505 on Kain's "Yes, fix all five" (TO Chat SHIP__Click_Check_Fixes_S577).
 # REPORT: Site-Wide Click Check of the Live achology.com (S578)
 
 Plain words. Run on the live site, 26 November 2026, theme 0.708.503, in the built-in browser, at laptop width (1440) and phone width (375). Nothing was changed, nothing was submitted, and no personal details or card numbers were entered. Kain's yes is needed before any fix.
