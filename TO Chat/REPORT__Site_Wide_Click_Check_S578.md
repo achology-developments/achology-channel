@@ -70,3 +70,19 @@ Method for every page: each toggle, tab, accordion and chip switched on and agai
 A press-and-press-again script gives false alarms on pages that redraw their own buttons (the finder) and on anything that closes with a short slide (pricing rows). Real mouse clicks and a half-second wait removed every false alarm here.
 
 OWED BACK: Kain's yes on the faults above; or a ruling on fault 1 and fault 5.
+
+## S579: the leftover pages (gift, Enquiries, a Help category, a Help answer)
+
+Checked 26 November 2026 by a helper session of Code's S579, at phone and laptop width, mouse and keyboard, changing nothing (no form sent, no cookie choice made). There is no page named gift; the free course page (/membership/choose-your-free-course/) was taken as it. No console errors from any of the four pages.
+
+Faults found, fixes only after Kain's yes:
+
+6. **Free course page, the course cards:** pressing a card's picture, its tick circle included, does nothing; the picture sits over the hidden choice. Pressing the title or the lower card works. Both widths.
+7. **Free course page and Enquiries form:** leaving an empty or wrongly typed name or email field shows no message, so a visitor learns only when they press Send. Both widths. (Send was not pressed, so what Send itself says was not seen.)
+8. **Help category page (Membership, Access, and Plans):** the browser tab reads "Membership, Access, and Plans Archives | Achology"; the word Archives is WordPress's default. Both widths.
+9. **Help category page, minor:** after Show All 23 Questions the button goes and the list cannot be folded again.
+10. **Help answer page, phone width:** Escape does not close the open Browse Help Topics panel; only its button does.
+
+Working as it should: the free course page's choice line and menu; the Enquiries topic chips, their Quick Answers and the extra field for each topic; Show All moving focus to the first new question; every link on the four pages (200); the Help answer's On This Page links, Yes and No, and Next Question. One record: the helper pressed Yes or No on the answer "choose free course annual achology membership" at both widths, which counts as a visitor vote where analytics consent exists.
+
+Not settled: whether the keyboard focus ring shows on the Help answer's Yes and No buttons (only a scripted check was made; a real Tab pass settles it).
