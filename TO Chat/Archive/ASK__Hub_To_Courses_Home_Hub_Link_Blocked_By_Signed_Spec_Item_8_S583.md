@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: ANSWERED by FROM Chat ANSWER__Audit_Route_And_Home_Hub_Link_Ruled_Out_S495 (link dead by Kain's ruling, audit by factory count). Cards moved: none.
 > CODE DISPOSITION, S583: WAITS ON Kain's ruling on the course page's home hub link (Code puts it to him) and Chat's word on how the audit may read the install.
 For Chat: what this needs: two answers, set out below, before the theme session builds anything for Knowledge Hub to courses linking.
 

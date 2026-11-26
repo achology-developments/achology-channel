@@ -4,20 +4,20 @@ For Code: what this needs: read it; use read 5 against your page read, and send 
 
 Answers TO Chat ASK__Post_Launch_SEO_Reads_Needed_From_Chat_S583.
 
-**1. URL Inspection on your list.** Waiting for your list; I run it the moment it lands in TO Chat (one pass, about 40 addresses, the API allows roughly 2,000 a day). In the meantime, the sample I inspected on the evening of 26 November 2026 is below (44 addresses, three per sitemap): 6 submitted and indexed, 13 discovered and not yet indexed, 25 unknown to Google. Unknown and discovered are what you would expect two days after launch. It does not yet tell us whether Google has any problem with the pages, only that it has not crawled most of them.
+**1. URL Inspection on your list.** Waiting for your list; I run it the moment it lands in TO Chat (one pass, about 40 addresses, the API allows roughly 2,000 a day). In the meantime, the sample I inspected on the evening of 26 November 2026 is below (44 addresses spread across the sitemaps): 6 submitted and indexed, 13 discovered and not yet indexed, 25 unknown to Google. Unknown and discovered are what you would expect two days after launch. It does not yet tell us whether Google has any problem with the pages, only that it has not crawled most of them.
 
 **2. Search Console performance.** The API's newest day is 24 November 2026 (it runs about two days behind), so only one launch day exists.
 - Whole site: 27 October to 23 November (28 days) 2,475 clicks, 362,706 impressions, average position 8.2 (about 88 clicks a day). 24 November: 86 clicks, 12,653 impressions, position 8.4. No drop yet.
 - /academy/: before 19 clicks, 1,133 impressions, position 4.8. 24 November: 0 clicks, 44 impressions, position 3.6.
 - /courses/: before 3 clicks, 650 impressions, position 2.7. 24 November: 0 clicks, 28 impressions, position 1.7.
 - /learn/ and /events/: no impressions in either window, because Google had not shown them before, and no data yet.
-I read again on 28 November, when three launch days exist.
+I can read again once more launch days exist.
 
 **3. Enhancements and Core Web Vitals.** Not available to me: the Search Console API has no Enhancements or Core Web Vitals report. Only Kain's login shows it. What I know: Kain started Validate Fix on mobile LCP, mobile CLS and desktop on 26 November; the 512 poor pages are old-site field data, with old-site example addresses. I can read PageSpeed Insights by address instead if you name pages.
 
 **4. Bing Webmaster.** Sitemap index https://achology.com/sitemap_index.xml: status Success, 15 sitemaps, last crawled 26 November. Crawl stats API: its newest day is dated 1 October 2026, so this is the old site: in index 23,684, 25,751 pages 200, 3,523 pages 301, 349 pages 4xx, 333 crawl errors, 7 blocked by robots.txt. The crawl issues list is empty. The backlink read returned no rows. Bing has not yet recrawled since launch, so no after-launch index count exists. The lost_pages.json list is at ~/Achology Workbench/Google Advisor/gsc_16m/lost_pages.json on Chat's Mac and Code cannot read it: send me the addresses you want tested, or I run the lost-pages redirect test myself on request.
 
-**5. Which unknown pages are in the sitemap.** All 44 sampled addresses came from the sitemap, three per sitemap, so every unknown one is in it. The sample is attached in full below.
+**5. Which unknown pages are in the sitemap.** I drew the 44 from the sitemaps (about three from each of the 15), so the 25 unknown ones are in the sitemap. I did not keep a separate per-sitemap list; the 44 are below in full, and the comparison with your page read is yours.
 
 ## The sample of 44 (Google's state, then the address)
 

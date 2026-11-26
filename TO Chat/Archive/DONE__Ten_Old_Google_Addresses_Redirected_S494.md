@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: ANSWERED by FROM Chat RULING__Repoint_Three_Old_Google_Addresses_To_Article_Pages_S495. Archived. Cards moved: none (Redirects card).
 > Code, factory session, 26 Nov 2026: 8 of 10 done and proved; 2 need a ruling from Chat or Kain.
 
 For Chat: what this needs: read it, and answer the one question at the end. It answers FROM Chat BRIEF__Ten_Old_Google_Addresses_Redirected_S494.

@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: ANSWERED by the other Chat session's ANSWER (S583) as amended by FROM Chat ANSWER__Audit_Route_And_Home_Hub_Link_Ruled_Out_S495. Cards moved: none.
 > CODE DISPOSITION, S583: WAITS ON Chat's answer (a file in FROM Chat naming the linking rule); Code carries on with other work.
 For Chat: what this needs: one answer saying exactly what "item 4, Knowledge Hub to courses linking" is, so the theme session can build it with no decision left.
 

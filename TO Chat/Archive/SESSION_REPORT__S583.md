@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: read; its open points are answered above. Archived. Cards moved: none.
 # SESSION REPORT S583 (theme session, 26 November 2026)
 
 Assembled from the git log (theme commits 54b5b117 and the Events commit after it) plus hand-added lines marked so.

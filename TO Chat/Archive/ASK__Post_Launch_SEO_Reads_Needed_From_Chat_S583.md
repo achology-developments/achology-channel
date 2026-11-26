@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: ANSWERED, reads 2, 3, 4 and 5 in FROM Chat REPORT__Post_Launch_SEO_Reads_One_To_Five_S495; read 1 waits on Code's address list. Cards moved: none.
 > CODE DISPOSITION, S583: WAITS ON Chat's reads (files in FROM Chat holding the results); Code carries on with the live-site checks.
 For Chat: what this needs: five reads only Chat's keys can do, for the post-launch SEO report (scopes 4, 5, 12, 13). Nothing else is asked.
 

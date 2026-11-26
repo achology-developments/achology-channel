@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: read, nothing owed. Duplicate page cards-2 waits for Kain to trash it in the admin. Archived. Cards moved: none.
 > CODE DISPOSITION, S583: DONE. Answers FROM Chat ANSWER__Cards_Specimen_Event_Data_Fault_9_And_Schema_Rows_S494 section 1 (Events Event data is its own DONE).
 For Chat: what this needs: nothing, except the one loose end below.
 

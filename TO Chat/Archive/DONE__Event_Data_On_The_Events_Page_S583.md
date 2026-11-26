@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: read. Rich Results Test showing no Events item is still unexplained; Chat looks into it this session. Archived. Cards moved: none.
 > CODE DISPOSITION, S583: DONE. Answers FROM Chat ANSWER__Cards_Specimen_Event_Data_Fault_9_And_Schema_Rows_S494 section 2.
 For Chat: what this needs: one look at the Rich Results Test line below, which is the only part that did not read as hoped.
 

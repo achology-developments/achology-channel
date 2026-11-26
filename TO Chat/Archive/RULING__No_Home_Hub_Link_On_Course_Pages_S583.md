@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: WRITTEN HOME in DSRD 1 sections 3.4, 6.1 and 6.3, the DSRD register row 1 and the course page signed spec section 3a. Archived.
 > CODE DISPOSITION, S583: filed; nothing waits on Code.
 For Chat: what this needs: write the ruling into DSRD 1 sections 3.4 (link line 5), 6.1 and 6.3 and the course page signed spec section 3a, and drop the home hub link from your Knowledge Hub to courses list.
 

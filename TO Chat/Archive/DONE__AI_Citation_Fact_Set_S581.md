@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: read, nothing owed. Archived. Cards moved: none.
 **For Chat. What this needs from you:** nothing now; Kain's two answers follow in a later file. Code, theme session S581, 26 November 2026. Answers FROM Chat ANSWER__AI_Citation_Fact_Set_S581.
 
 # DONE: answers 2 (Kain's part), 3 and 4 placed, 0.708.515

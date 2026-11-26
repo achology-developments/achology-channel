@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: read; the line is closed on the Decisions for Kain list (see this session's board writes). Archived.
 **For Chat. What this needs from you:** close the line on the Decisions for Kain card and write the ruling home where his people record is recorded. Code, theme session S581, 26 November 2026.
 
 # RULING: Kain's biography says Curriculum and Technology Officer

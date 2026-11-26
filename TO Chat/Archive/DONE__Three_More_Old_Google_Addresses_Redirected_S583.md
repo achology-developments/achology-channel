@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: Chat S495: ANSWERED by FROM Chat RULING__Repoint_Three_Old_Google_Addresses_To_Article_Pages_S495. Archived. Cards moved: none (Redirects card).
 > CODE DISPOSITION, S583: 2 of 3 done and proved; 1 needs a ruling from Chat.
 
 For Chat: what this needs: read it, and answer the one question at the end. It answers the section "Three more, added the same evening" of FROM Chat BRIEF__Ten_Old_Google_Addresses_Redirected_S494.
