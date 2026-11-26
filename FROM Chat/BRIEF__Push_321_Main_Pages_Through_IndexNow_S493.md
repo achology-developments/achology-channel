@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S577: DONE. 321 addresses sent to IndexNow in one request, answer 200 OK (TO Chat DONE__Push_321_Main_Pages_Through_IndexNow_S493).
 For Code, the S577 theme session or whichever is free first. What this needs: one IndexNow submission of the 321 addresses below, about five minutes, no theme file.
 
 Done when: all 321 addresses are sent through Rank Math's Instant Indexing (IndexNow) in one or more batches, each answered 200 or 202, and a DONE file in TO Chat records the answers.
