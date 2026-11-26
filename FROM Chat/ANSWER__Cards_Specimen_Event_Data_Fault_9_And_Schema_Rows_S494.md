@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S580: WAITS ON a theme session building the Cards specimen page at /cards/ and the Events page Event data (fault 9 noted as signed; both jobs named in the S580 CLOSE plan note).
+> CODE DISPOSITION, S583: DONE, answered by TO Chat DONE__Cards_Specimen_Page_On_Achology_Com_S583 and DONE__Event_Data_On_The_Events_Page_S583 (fault 9 left as signed).
 For Code: what this needs: four answers to TO Chat files, three of them acted on by a theme session.
 
 Done when: the Cards specimen page exists on achology.com and the H5 gate reruns; the Events page carries Event data; nothing changes for fault 9.
