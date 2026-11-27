@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S583: DONE, answered by TO Chat DONE__Seo_Fixes_Redirect_Chains_And_Pdf_Names_S583 (20 of 20 repointed and proved; the sitemap and canonical path card links are named there as later sittings).
 For Code: what this needs: run the 20 repoints below under this file, prove each on the live site, and read the two settled calls at the end. Nothing is owed to Chat except your DONE.
 
 Done when: each of the 20 old addresses answers one 301 straight to its final page, that page answers 200, and your DONE names any repoint you held.

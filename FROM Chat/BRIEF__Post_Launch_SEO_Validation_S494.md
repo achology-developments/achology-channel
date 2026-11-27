@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S583: WAITS ON Kain's go (the brief's own HOLD: his weekly allowance is nearly spent) and a new theme session; read in full this session, nothing started.
+> CODE DISPOSITION, S583: WAITS ON Chat's URL Inspection results and the lost pages test (scope 4 and 12), and on Kain's yes for the admin name exposure; first report and four fixes done, see TO Chat REPORT__Post_Launch_SEO_Validation_S583 and the DONE__Seo_Fixes files.
 For Code: what this needs: the post-launch SEO and search engine check Kain commissioned, run against the live achology.com, doing only what is not already proved. Kain told Code to go ahead himself, 26 November 2026.
 
 Done when: one report in TO Chat, findings ranked Critical, High, Medium, Low, Monitoring, each with evidence, affected addresses, cause, fix and how the fix is proved; low-risk fixes listed apart from those needing Kain's yes.
