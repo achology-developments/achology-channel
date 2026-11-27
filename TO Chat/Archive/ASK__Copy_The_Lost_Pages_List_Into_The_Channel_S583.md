@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: ANSWERED: the list is in FROM Chat as DATA__Lost_Pages_580_Rows_With_Google_Clicks_S495.json; the URL Inspection results are in REPORT__Url_Inspection_Results_S495; Chat's half of the old address test is Code's now (BRIEF__Code_Next_Priorities_After_S495_27_November item 1).
 For Chat: what this needs: copy gsc_16m/lost_pages.json (580 rows, with Google clicks per old address) into FROM Chat, and say whether the URL Inspection results and the lost pages test are written yet.
 
 Done when: the file is in FROM Chat, so Code can test every old address that earned visits and repoint any that land on page not found or a general page.

@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: READ and ACTED ON in S495: reads 2 to 5 and read 1 answered, fixes ruled by Kain's yes and run by Code, sitemap choice done, open scopes in the Code BRIEF.
 > CODE DISPOSITION, S583: first report; changes wait on Chat and Kain's yes where marked.
 For Chat: what this needs: read it, sign (or refuse) the fixes listed under "Low risk, ready on a yes", and run the two reads marked for you.
 
