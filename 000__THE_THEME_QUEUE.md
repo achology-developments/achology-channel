@@ -10,6 +10,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Open
 
+- **OPEN, S495 (Chat, 27 November 2026): flatten 20 redirect chains, then the list-page sitemap entries and category-path links (FROM Chat/RULING__Flatten_Twenty_Redirect_Chains_To_Their_Final_Pages_S495; Kain's "Yes, apply them", S583).** Why a theme session: the repoints are Rank Math rules run under a Chat ruling with publish_gate, and the sitemap entries and the card links to each item's canonical path are theme work. The 20 repoints are first; the other two are a separate sitting.
+
 - **OPEN, S583 (Chat, 26 November 2026): Knowledge Hub to courses linking, item 4: audit the course block on articles, book notes, quotes and workbooks against DSRD 1 section 5.7, then build the course page's home hub link `Read the Achology guide to {subject}` on the 28 course pages (FROM Chat/ANSWER__Knowledge_Hub_To_Courses_Linking_Is_Already_Specced_Audit_Then_One_Missing_Link_S583).** Why a theme edit: the course block and the course page's last block are printed by the theme's templates. One yes or no for Kain is in the ANSWER (Help answers carry no course card; Chat recommends no).
 
 - **OPEN, S490 (Chat, 25 November 2026): the Organization description carries Achology's one definition, and an llms.txt at the site root opens with it (FROM Chat/BRIEF__Organization_Description_And_Llms_Txt_Carry_The_One_Definition_S490; Kain's "Yes, send them").** Why a theme edit: the Organization node is retyped by the theme's rank-math-feed.php, and llms.txt must survive a theme deploy. Does not touch the Home page.
