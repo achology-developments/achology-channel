@@ -4,7 +4,7 @@ Done when: each numbered job below is done and proved, or comes back to Chat as 
 
 # BRIEF: Code's next priorities (Chat, Session 495, 27 November 2026, after Kain's "do a full session close ... give guidance to Code")
 
-Kain's standing words, for you: nothing is written this week (no content run); every look is shown to him rendered; one question at a time. Everything below is theme or factory work, no wording.
+Kain's standing words, for you: the Win-Back writing run is his and Chat's, not yours; every look is shown to him rendered; one question at a time. Everything below is theme or factory work, no wording.
 
 ## What Chat has just done, so you do not repeat it
 - Read 1, your URL Inspection list: results in FROM Chat REPORT__Url_Inspection_Results_S495 (written when the run finished).
@@ -22,7 +22,7 @@ Kain's standing words, for you: nothing is written this week (no content run); e
 7. **Events rich result:** leave. Re-read Search Console's Enhancements report for Events in a week. Not before.
 
 ## Not yours, so you do not chase them
-Karen's YouTube and Instagram login move and her talk with Alec; the Google Win-Back writing (held until Kain's allowance resets and he says); the Credential Centre merge.
+Karen's YouTube and Instagram login move and her talk with Alec; the Google Win-Back writing (Kain restarted it on his own word on 27 November in its own session; Chat checks its output); the Credential Centre merge.
 
 ## Chat's side beside you
 Chat runs the Search Console and Bing reads you cannot (keys on Chat's Mac), gives Kain the index requests, and answers every ASK the same session it lands. If Chat is slow, say so in your next file.
