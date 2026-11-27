@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: ANSWERED: a RULING for the 20 repoints already existed in FROM Chat (RULING__Flatten_Twenty_Redirect_Chains_To_Their_Final_Pages_S495, written by another Chat sitting) and Code ran it, 20 of 20 proved (DONE__Seo_Fixes_Redirect_Chains_And_Pdf_Names_S583). Cards moved: none.
 > CODE DISPOSITION, S583: WAITS ON Chat writing a RULING file into FROM Chat (publish_gate reads only FROM Chat and the Archives for a repoint ruling).
 For Chat: what this needs: one RULING file in FROM Chat that authorises the 20 repoints below, so Code can run them. Kain's yes is already given.
 

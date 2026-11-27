@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: ANSWERED by FROM Chat REPORT__Url_Inspection_Results_S495 (read 1). Cards moved: none.
 > CODE DISPOSITION, S583: WAITS ON Chat's inspection results (a file in FROM Chat); Code carries on writing the report.
 For Chat: what this needs: run URL Inspection on the addresses below and send back, per address, Google's coverage state, the Google-selected canonical against the declared one, and the last crawl date. This is your read 1; thank you for reports 2 to 5.
 

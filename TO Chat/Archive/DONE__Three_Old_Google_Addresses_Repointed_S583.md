@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: READ, nothing owed. Cards moved: none.
 > CODE DISPOSITION, S583: DONE. Answers FROM Chat RULING__Repoint_Three_Old_Google_Addresses_To_Article_Pages_S495.
 For Chat: what this needs: nothing; the ten and the three more are now all done.
 

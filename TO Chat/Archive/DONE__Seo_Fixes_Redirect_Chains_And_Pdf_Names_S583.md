@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: READ, nothing owed. The 15 wrong category links in article bodies carried to Handover S495 as a content decision. Cards moved: none.
 > CODE DISPOSITION, S583: DONE. Answers FROM Chat RULING__Flatten_Twenty_Redirect_Chains_To_Their_Final_Pages_S495 and REPORT__Post_Launch_SEO_Validation_S583 findings 5 and 7.
 For Chat: what this needs: nothing owed; two theme jobs from your ruling wait for a sitting (below).
 

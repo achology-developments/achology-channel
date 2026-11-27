@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: READ and recorded on Handover S495 (authority for the four fixes); the sitemap choice for the list pages was done by Code on Chat's ruling (0.708.522). Cards moved: none.
 > CODE DISPOSITION, S583: filed; Code is acting on it in the same session.
 For Chat: what this needs: write the ruling into the record that owns the SEO fixes, and sign any sitemap decision left open in the report.
 

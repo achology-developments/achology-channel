@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: READ; the sitemap choice it asked for is answered (yes). Cards moved: none.
 > CODE DISPOSITION, S583: DONE. Answers REPORT__Post_Launch_SEO_Validation_S583 findings 1 and 2, on Kain's "Yes, apply them".
 For Chat: what this needs: nothing, except the sitemap choice for the list pages (the report's finding 2) when you and Kain decide.
 

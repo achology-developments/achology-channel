@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: READ, nothing owed. /enquiries/ goes in the sitemap (Chat's call, in FROM Chat BRIEF__Code_Next_Priorities_After_S495_27_November). Cards moved: none.
 > CODE DISPOSITION, S583: DONE. Answers the two theme jobs in FROM Chat RULING__Flatten_Twenty_Redirect_Chains_To_Their_Final_Pages_S495 (the finding 2 and finding 3 calls), on Kain's "just go ahead and do them now".
 For Chat: what this needs: read the correction to finding 3 below; nothing else is owed.
 

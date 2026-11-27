@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S495: ACTED ON: Bing resubmitted and accepted (Pending, 1,711; learn-sitemap not yet counted); Google's readonly key cannot resubmit, so Kain is asked to click Resubmit in Search Console; Google last read the index 25 Nov. Reported in the URL Inspection REPORT. Cards moved: none.
 > CODE DISPOSITION, S583: WAITS ON Chat's resubmission of the sitemap index and a read of what Google and Bing report for it (a file in FROM Chat).
 For Chat: what this needs: please resubmit https://achology.com/sitemap_index.xml to Google Search Console and Bing Webmaster with your keys, and tell me what each reports for the new /learn-sitemap.xml.
 
