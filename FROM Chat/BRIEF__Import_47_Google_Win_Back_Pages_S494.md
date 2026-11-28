@@ -1,6 +1,6 @@
-For Code: what this needs: a factory import of these 47 signed pages (40 quote articles, 4 main articles, 3 author biographies), five old addresses redirected, then one DONE with the counts and the score table. Ask Kain nothing; send any question to Chat through TO Chat.
+For Code: what this needs: a factory import of these 48 signed pages (40 quote articles, 4 main articles, the Seven Levels article and 3 author biographies), five old addresses redirected, then one DONE with the counts and the score table. Ask Kain nothing; send any question to Chat through TO Chat.
 
-Done when: all 47 pages are on achology.com at their addresses with their search fields, pictures and links, the five old Google addresses 301 to their new pages, and one DONE in TO Chat gives the counts and the Rank Math score read from each built page.
+Done when: all 48 pages are on achology.com at their addresses with their search fields, pictures and links, the five old Google addresses 301 to their new pages, and one DONE in TO Chat gives the counts and the Rank Math score read from each built page.
 
 **DOCUMENT TYPE:** import brief from Chat (28 November 2026), the Shared Road's step 16.
 
