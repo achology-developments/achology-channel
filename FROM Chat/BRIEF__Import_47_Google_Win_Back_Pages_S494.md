@@ -12,7 +12,7 @@ Done when: all 47 pages are on achology.com at their addresses with their search
 - quote-page: the 40 records in the table at the foot (10 each for Jean Piaget, B. F. Skinner, Albert Bandura and Stanley Milgram). Course-free quotes from books: no course cover; the page's picture is the author's biography picture.
 - field-authority-article: which-jean-piaget-quotes-are-real, which-b-f-skinner-quotes-did-he-really-say, which-albert-bandura-quotes-can-you-trust, what-do-stanley-milgram-quotes-say-about-human-nature (byline Charlotte J. Avery).
 - author-biography: author-biography__b-f-skinner, author-biography__albert-bandura, author-biography__stanley-milgram (byline Benjamin Lockwood).
-- The Seven Levels article (what-are-the-seven-levels-of-awareness, knowledge-derived, credits Kain) is signed on the same words but waits on a one-line gate change before its record exists; Chat adds it to this brief when it does.
+- knowledge-derived-article (a new Content Records folder, added on Kain's words "Yes, add the folder and sign the Seven Levels article", 28 November 2026): what-are-the-seven-levels-of-awareness, rewritten by hand at Kain's request and signed by him on those words. Byline Kain Ramsay, article_type video-derived, source 006-035 and 006-036. It is the first record of this kind; if no importer reads this folder yet, import it with the field-authority importer's article path and say so in the DONE. Its banner is page 1 of the Canva design.
 
 **Import order, because of the pictures** (the quote importer refuses a quote whose author has no published biography with a picture):
 1. Now: the 10 Jean Piaget quote articles (his biography and picture are live at /learn/psychology/articles/jean-piaget/).
